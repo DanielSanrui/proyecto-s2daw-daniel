@@ -1,0 +1,47 @@
+[
+  {
+    "nombre": "Domingo de Ramos",
+    "descripcion": "Arranca la Semana Santa con una explosión de alegría y palmas; procesionan hermandades como La Borriquita y La Estrella, marcando un día muy esperado por los sevillanos.",
+    "imagen": "img/domingo-de-ramos.jpg"
+  },
+  {
+    "nombre": "Lunes Santo",
+    "descripcion": "Día de gran devoción con cofradías como San Gonzalo o Santa Genoveva; destaca el fervor del barrio de Triana y el carácter popular de muchas hermandades.",
+    "imagen": "img/lunes-santo.jpg"
+  },
+  {
+    "nombre": "Martes Santo",
+    "descripcion": "Se mezcla el recogimiento con la elegancia, con pasos emblemáticos como el Cristo de la Buena Muerte de Los Estudiantes y el misterio de San Benito.",
+    "imagen": "img/martes-santo.jpg"
+  },
+  {
+    "nombre": "Miércoles Santo",
+    "descripcion": "Cofradías como La Sed, La Lanzada o El Baratillo recorren la ciudad; destacan también el dramatismo de Las Siete Palabras y la elegancia de El Carmen Doloroso.",
+    "imagen": "img/miercoles-santo.jpg"
+  },
+  {
+    "nombre": "Jueves Santo",
+    "descripcion": "Jornada solemne con cofradías como El Valle o Pasión; cae la noche y Sevilla se transforma para recibir a La Madrugá, el corazón espiritual de la Semana.",
+    "imagen": "img/jueves-santo.jpg"
+  },
+  {
+    "nombre": "La Madrugá",
+    "descripcion": "Noche sagrada en Sevilla con las procesiones más emblemáticas como la Macarena, el Gran Poder y la Esperanza de Triana; miles de fieles llenan las calles hasta el amanecer.",
+    "imagen": "img/la-madruga.jpg"
+  },
+  {
+    "nombre": "Viernes Santo",
+    "descripcion": "Jornada de recogimiento y respeto tras La Madrugá. Cofradías como La Carretería, La Soledad de San Buenaventura o El Cachorro recorren las calles con un ritmo más contenido y reflexivo.",
+    "imagen": "img/viernes-santo.jpg"
+  },
+  {
+    "nombre": "Sábado Santo",
+    "descripcion": "Día breve pero solemne, con la hermandad del Santo Entierro, que realiza una procesión oficial y austera, y el carácter más reciente y joven de la hermandad del Sol.",
+    "imagen": "img/sabado-santo.jpg"
+  },
+  {
+    "nombre": "Domingo de Resurrección",
+    "descripcion": "Culmina la Semana Santa con la alegría del Cristo Resucitado, en una mañana festiva que simboliza la victoria de la vida sobre la muerte.",
+    "imagen": "img/domingo-resurreccion.jpg"
+  }
+]
