@@ -48,66 +48,71 @@ function Header() {
           </Link>
 
           {/* Dropdown Días */}
-          <div className="dropdown">
-            <span
-              className="text-white dropdown-toggle hover-underline"
-              role="button"
-              data-bs-toggle="dropdown"
-              aria-expanded="false"
-            >
-              Días
-            </span>
-            <ul
-              className="dropdown-menu text-start"
-              style={{ backgroundColor: "antiquewhite" }}
-            >
-              <li>
-                <Link className="dropdown-item" to="/dias/domingo-de-ramos">
-                  Domingo de Ramos
-                </Link>
-              </li>
-              <li>
-                <Link className="dropdown-item" to="/dias/lunes-santo">
-                  Lunes Santo
-                </Link>
-              </li>
-              <li>
-                <Link className="dropdown-item" to="/dias/martes-santo">
-                  Martes Santo
-                </Link>
-              </li>
-              <li>
-                <Link className="dropdown-item" to="/dias/miercoles-santo">
-                  Miércoles Santo
-                </Link>
-              </li>
-              <li>
-                <Link className="dropdown-item" to="/dias/jueves-santo">
-                  Jueves Santo
-                </Link>
-              </li>
-              <li>
-                <Link className="dropdown-item" to="/dias/la-madruga">
-                  La Madrugá
-                </Link>
-              </li>
-              <li>
-                <Link className="dropdown-item" to="/dias/viernes-santo">
-                  Viernes Santo
-                </Link>
-              </li>
-              <li>
-                <Link className="dropdown-item" to="/dias/sabado-santo">
-                  Sábado Santo
-                </Link>
-              </li>
-              <li>
-                <Link className="dropdown-item" to="/dias/domingo-resurreccion">
-                  Domingo de Resurrección
-                </Link>
-              </li>
-            </ul>
-          </div>
+          <Link to={"/dias"} className="text-white text-decoration-none">
+            <div className="dropdown">
+              <span
+                className="text-white dropdown-toggle hover-underline"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                Días
+              </span>
+              <ul
+                className="dropdown-menu text-start"
+                style={{ backgroundColor: "antiquewhite" }}
+              >
+                <li>
+                  <Link className="dropdown-item" to="/dias/domingo-de-ramos">
+                    Domingo de Ramos
+                  </Link>
+                </li>
+                <li>
+                  <Link className="dropdown-item" to="/dias/lunes-santo">
+                    Lunes Santo
+                  </Link>
+                </li>
+                <li>
+                  <Link className="dropdown-item" to="/dias/martes-santo">
+                    Martes Santo
+                  </Link>
+                </li>
+                <li>
+                  <Link className="dropdown-item" to="/dias/miercoles-santo">
+                    Miércoles Santo
+                  </Link>
+                </li>
+                <li>
+                  <Link className="dropdown-item" to="/dias/jueves-santo">
+                    Jueves Santo
+                  </Link>
+                </li>
+                <li>
+                  <Link className="dropdown-item" to="/dias/la-madruga">
+                    La Madrugá
+                  </Link>
+                </li>
+                <li>
+                  <Link className="dropdown-item" to="/dias/viernes-santo">
+                    Viernes Santo
+                  </Link>
+                </li>
+                <li>
+                  <Link className="dropdown-item" to="/dias/sabado-santo">
+                    Sábado Santo
+                  </Link>
+                </li>
+                <li>
+                  <Link
+                    className="dropdown-item"
+                    to="/dias/domingo-resurreccion"
+                  >
+                    Domingo de Resurrección
+                  </Link>
+                </li>
+              </ul>
+            </div>
+          </Link>
 
           <Link
             to="/multimedia"

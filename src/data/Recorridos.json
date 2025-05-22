@@ -1,5 +1,5 @@
 {
-      "La Borriquita": {
+    "La Borriquita": {
     "nombre": "borriquita",
     "recorrido": [
       { "cruzDeGuia": "Salida (14:30)", "paso": "" },
@@ -13,8 +13,7 @@
       { "cruzDeGuia": "Entrada (18:30)", "paso": "Chapineros" },
       { "cruzDeGuia": "", "paso": "Entrada (19:00)" }
     ]
-  }
-},
+  },
     "Jesús Despojado": {
     "nombre": "Jesús Despojado",	
     "recorrido": [
@@ -63,7 +62,6 @@
       { "cruzDeGuia": "", "palio": "Entrada (23:00)" }
     ]
   },
-  {
   "La Paz": {
     "nombre": "La Paz",
     "recorrido": [
@@ -87,9 +85,7 @@
       { "cruzDeGuia": "Brasil", "palio": "" },
       { "cruzDeGuia": "Entrada (1:00)", "palio": "" }
     ]
-  }
-},
-{
+  },
   "La Cena": {
     "nombre": "La Cena",
     "recorrido": [
@@ -135,9 +131,7 @@
       { "cruzDeGuia": "Muñoz de Navarrete", "palio": "" },
       { "cruzDeGuia": "Entrada (1:10)", "palio": "" }
     ]
-  }
-},
-{{
+  },
   "La Amargura": {
     "nombre": "La Amargura",
     "recorrido": [
@@ -188,10 +182,7 @@
       { "cruzDeGuia": "Entrada (1:10)", "palio": "" },
       { "cruzDeGuia": "", "palio": "Entrada (1:25)" }
     ]
-  }
-}
-},
-{
+  },
   "San Pablo": {
     "nombre": "San Pablo",
     "recorrido": [
@@ -270,9 +261,7 @@
       { "cruzDeGuia": "Entrada", "palio": "" },
       { "cruzDeGuia": "", "palio": "Entrada (2:10)" }
     ]
-  }
-},
-{
+  },
   "esperanza-de-triana": {
     "nombre": "Esperanza de Triana",
     "recorrido": [
@@ -298,5 +287,4 @@
       { "cruzDeGuia": "Entrada (10:00)", "palio": "Entrada (11:00)" }
     ]
   }
-
 }
