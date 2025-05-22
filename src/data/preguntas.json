@@ -1,0 +1,80 @@
+[
+  {
+    "pregunta": "¿Cuál es la primera hermandad que sacó una cruz de guía al inicio de su cortejo?",
+    "opciones": [
+      "La Mortaja",
+      "La Vera Cruz",
+      "El Silencio",
+      "La Carretería"
+    ],
+    "respuestaCorrecta": "La Carretería"
+  },
+  {
+    "pregunta": "¿Qué dos hermandades utilizan una túnica de ruan que no son de color negro?",
+    "opciones": [
+      "El Sol y el Cristo de la Corona",
+      "El sol y Pasión y Muerte",
+      "Amargura y el Cristo de la Corona",
+      "Pasión y Muerte y El Cristo de la Corona"
+    ],
+    "respuestaCorrecta": "El Sol y el Cristo de la Corona"
+  },
+  {
+    "pregunta": "¿Cuál es el único Pilatos de la Semana Santa sevillana que tiene barba?",
+    "opciones": [
+      "Hermandad de San Benito",
+      "Hermandad de la Esperanza Macarena",
+      "Hermandad de los dolores de Torreblanca",
+      "Hermandad de San Gonzalo"
+    ],
+    "respuestaCorrecta": "Hermandad de los dolores de Torreblanca"
+  },
+  {
+    "pregunta": "¿Cuál es el único Palio que en los candelabros se recoge la cera con un platillo de Cristal?",
+    "opciones": [
+      "María Santísima de la O",
+      "Nuestra Señora de las Lágrimas",
+      "María Santísima de la Soledad",
+      "Nuestra Señora de la Aurora"
+    ],
+    "respuestaCorrecta": "Nuestra Señora de las Lágrimas"
+  },
+  {
+    "pregunta": "¿En qué año fue la primera vez que la hermandad de las cigarreras realizó estación de Penitencia desde el barrio de Los Remedios?",
+    "opciones": ["1966", "1965", "No sale del Barrio de los Remedios", "1876"],
+    "respuestaCorrecta": "1966"
+  },
+  {
+    "pregunta": "¿Qué 4 Vírgenes han procesionado en el Vía Crucis del Consejo de Hermandades y Cofradías?",
+    "opciones": [
+      "Piedad del Baratillo, Soledad de San Lorenzo, Servitas y Mortaja",
+      "María Santísima de la O, Nuestra Señora de los Dolores y Misericordia, María Santísima de la Concepción, la salud San Gonzalo"
+    ],
+    "respuestaCorrecta": "Piedad del Baratillo, Soledad de San Lorenzo, Servitas y Mortaja"
+  },
+  {
+    "pregunta": "¿Qué animales aparecen en la corona de espinas de Nuestro Padre Jesús de la Humildad de la Hermandad del Cerro del Águila?",
+    "opciones": ["Perro y gato", "Serpiente y caracol"],
+    "respuestaCorrecta": "Serpiente y caracol"
+  },
+  {
+    "pregunta": "¿Qué hermandad estuvo durante 33 años consecutivos sin realizar estación de Penitencia por la suspensión de sus reglas?",
+    "opciones": ["La Paz", "San Benito", "San Esteban", "Jesús Despojado"],
+    "respuestaCorrecta": "Jesús Despojado"
+  },
+  {
+    "pregunta": "¿Qué cuadrilla de costaleros popularizó la expresión “Al cielo con ella”?",
+    "opciones": [
+      "La Macarena",
+      "La virgen de las Angustias de la Hermandad de los Gitanos",
+      "La Esperanza de Triana",
+      "La Virgen de la Salud (San Gonzalo)"
+    ],
+    "respuestaCorrecta": "La virgen de las Angustias de la Hermandad de los Gitanos"
+  },
+  {
+    "pregunta": "¿Cuál de estas hermandades realiza la estación de penitencia más larga de toda la semana con un recorrido superando las 13 horas de duración?",
+    "opciones": ["La Exaltación", "La Sed", "El Cerro del Águila", "La Macarena"],
+    "respuestaCorrecta": "El Cerro del Águila"
+  }
+]

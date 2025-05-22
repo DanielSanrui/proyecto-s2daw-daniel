@@ -122,7 +122,7 @@ function Header() {
             Mapa
           </Link>
           <Link
-            to="/quiz"
+            to="/juego"
             className="text-white text-decoration-none hover-underline"
           >
             Jugar
@@ -194,7 +194,7 @@ function Header() {
         <Link to="/mapa" className="d-block py-2 text-dark border-bottom">
           Mapa
         </Link>
-        <Link to="/quiz" className="d-block py-2 text-dark">
+        <Link to="/juego" className="d-block py-2 text-dark">
           Jugar
         </Link>
       </div>
