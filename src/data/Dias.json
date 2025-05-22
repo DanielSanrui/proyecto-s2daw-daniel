@@ -2,46 +2,46 @@
   {
     "nombre": "Domingo de Ramos",
     "descripcion": "Arranca la Semana Santa con una explosión de alegría y palmas; procesionan hermandades como La Borriquita y La Estrella, marcando un día muy esperado por los sevillanos.",
-    "imagen": "img/domingo-de-ramos.jpg"
+    "imagen": "https://sevilla.abc.es/pasionensevilla/wp-content/uploads/sites/2/eventos/2023/03/amor-burra-bandera.jpg"
   },
   {
     "nombre": "Lunes Santo",
     "descripcion": "Día de gran devoción con cofradías como San Gonzalo o Santa Genoveva; destaca el fervor del barrio de Triana y el carácter popular de muchas hermandades.",
-    "imagen": "img/lunes-santo.jpg"
+    "imagen": "https://files-101tv-londres.s3-accelerate.amazonaws.com/2022/11/Fhj6DrlX0AI3sTQ-1920x1253.jpg"
   },
   {
     "nombre": "Martes Santo",
     "descripcion": "Se mezcla el recogimiento con la elegancia, con pasos emblemáticos como el Cristo de la Buena Muerte de Los Estudiantes y el misterio de San Benito.",
-    "imagen": "img/martes-santo.jpg"
+    "imagen": "https://www.diariodesevilla.es/contenidos/programa-semana-santa-sevilla/img/img_ficha/san-benito.jpg"
   },
   {
     "nombre": "Miércoles Santo",
     "descripcion": "Cofradías como La Sed, La Lanzada o El Baratillo recorren la ciudad; destacan también el dramatismo de Las Siete Palabras y la elegancia de El Carmen Doloroso.",
-    "imagen": "img/miercoles-santo.jpg"
+    "imagen": "https://101tvsevilla.es/wp-content/uploads/2023/10/52110526836_be16626e5a_o-1-1920x1231.jpg"
   },
   {
     "nombre": "Jueves Santo",
     "descripcion": "Jornada solemne con cofradías como El Valle o Pasión; cae la noche y Sevilla se transforma para recibir a La Madrugá, el corazón espiritual de la Semana.",
-    "imagen": "img/jueves-santo.jpg"
+    "imagen": "https://www.hermandaddepasion.org/wp-content/uploads/2017/12/25488368_549574362066907_3223547178602661859_o.jpg"
   },
   {
     "nombre": "La Madrugá",
     "descripcion": "Noche sagrada en Sevilla con las procesiones más emblemáticas como la Macarena, el Gran Poder y la Esperanza de Triana; miles de fieles llenan las calles hasta el amanecer.",
-    "imagen": "img/la-madruga.jpg"
+    "imagen": "https://live.staticflickr.com/4173/33858384954_753d7b93c4_b.jpg"
   },
   {
     "nombre": "Viernes Santo",
     "descripcion": "Jornada de recogimiento y respeto tras La Madrugá. Cofradías como La Carretería, La Soledad de San Buenaventura o El Cachorro recorren las calles con un ritmo más contenido y reflexivo.",
-    "imagen": "img/viernes-santo.jpg"
+    "imagen": "https://www.gentedepaz.es/wp-content/uploads/2023/05/20230520_100719.jpg"
   },
   {
     "nombre": "Sábado Santo",
     "descripcion": "Día breve pero solemne, con la hermandad del Santo Entierro, que realiza una procesión oficial y austera, y el carácter más reciente y joven de la hermandad del Sol.",
-    "imagen": "img/sabado-santo.jpg"
+    "imagen": "https://d17umfmk0e27oh.cloudfront.net/articulos/articulos-1121598.jpg"
   },
   {
     "nombre": "Domingo de Resurrección",
     "descripcion": "Culmina la Semana Santa con la alegría del Cristo Resucitado, en una mañana festiva que simboliza la victoria de la vida sobre la muerte.",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMJ3Dof8h7vHIxQwlwKud9z4edLk9bPIx73TOO1-oGhGrmEH2yE0-ADIbNfmDh5ihik7ls_vPm5r0agJMYYfJqu5KNhjXN556nh1eusHEaCvQb_cKN_jjLbotjwKAKFpFtQttbhl2ELRtC/s1600/020_20.jpg"
+    "imagen": "https://www.sevillaactualidad.com/wp-content/uploads/2023/04/resucitado-13.jpg"
   }
 ]

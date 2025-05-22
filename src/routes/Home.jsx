@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "../index.css";
 import Contador from "../components/Contador";
+import FAQ from "../components/FAQ";
 export default function Home() {
   return (
     <div className="p-5">
@@ -18,6 +19,7 @@ export default function Home() {
         </p>
       </section>
       <Contador />
+      <FAQ />
     </div>
   );
 }
