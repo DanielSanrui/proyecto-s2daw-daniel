@@ -52,6 +52,11 @@ function Footer() {
                   Mapa
                 </a>
               </li>
+              <li>
+                <a href="/juego" className="text-white text-decoration-none">
+                  Jugar
+                </a>
+              </li>
             </ul>
           </div>
 

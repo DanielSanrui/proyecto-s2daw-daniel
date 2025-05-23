@@ -1,0 +1,38 @@
+{
+  "nombre": "Esperanza de Triana",
+  "sede": "Capilla de los Marineros",
+  "fundacion": 1418,
+  "nazarenos": 3200,
+  "hermanos": 14988,
+  "escudo": "img/escudos/esperanza-de-triana.png",
+  "imagenPrincipal": "img/hermandades/esperanza-de-triana.jpg",
+  "imagenes": [
+    {
+      "titulo": "Santísimo Cristo de las Tres Caídas",
+      "escultor": "Anónimo, siglo XVII",
+      "imagen": "img/titulares/cristo-tres-caidas.jpg"
+    },
+    {
+      "titulo": "Nuestra Señora de la Esperanza",
+      "escultor": "Juan de Astorga, 1816",
+      "imagen": "img/titulares/esperanza-de-triana.jpg"
+    }
+  ],
+  "descripcionCorta": "Una de las hermandades más populares de Sevilla, muy arraigada en el barrio de Triana.",
+  "descripcion": [
+    {
+      "titulo": "Orígenes",
+      "texto": [
+        "La Hermandad de la Esperanza de Triana tiene raíces documentadas desde el siglo XV.",
+        "Nace como una expresión de devoción marinera, muy ligada al barrio de Triana."
+      ]
+    },
+    {
+      "titulo": "Fusión con las Tres Caídas",
+      "texto": [
+        "En 1608 surge la hermandad de las Tres Caídas. En 1616 se fusiona con la de la Esperanza.",
+        "Esta unión dio origen a la hermandad tal como la conocemos hoy."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "fotos": [
+    {
+      "titulo": "Esperanza de Triana",
+      "imagen": "https://www.semana-santa.org/wp-content/uploads/2012/02/esperanzadetriana1.jpg",
+      "descripcion": "Paso de palio de la Esperanza de Triana durante la Madrugá sevillana."
+    },
+    {
+      "titulo": "Paso por calle estrecha",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2021/03/27/sevilla-semana-santa.jpeg",
+      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "Esperanza de Triana en Campana",
+      "url": "https://www.youtube.com/embed/tjA7EM1dGSM",
+      "descripcion": "Salida del paso de palio de la Esperanza de Triana en la calle Sierpes."
+    },
+    {
+      "titulo": "Macarena en la Madrugá",
+      "url": "https://www.youtube.com/embed/9vbtxsEsu8s",
+      "descripcion": "Imágenes de la Macarena durante la Madrugá, a su paso por la Catedral."
+    }
+  ],
+  "audios": [
+    {
+      "titulo": "Marcha: Amarguras",
+      "audio": "https://www.marchasprocesionales.com/mp3/amarguras.mp3",
+      "descripcion": "Una de las marchas más clásicas y emotivas de la Semana Santa."
+    },
+    {
+      "titulo": "Marcha: Esperanza de Triana Coronada",
+      "audio": "https://www.marchasprocesionales.com/mp3/esperanza_de_triana_coronada.mp3",
+      "descripcion": "Marcha triunfal dedicada a la Esperanza de Triana, interpretada por banda de música."
+    }
+  ]
+}

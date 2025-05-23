@@ -6,6 +6,7 @@ import NotFound from "./routes/NotFound";
 import Mapa from "./routes/Mapa";
 import Juego from "./routes/Juego";
 import Dias from "./routes/Dias";
+import Multimedia from "./routes/Multimedia";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Route path="/mapa" element={<Mapa />} />
           <Route path="/juego" element={<Juego />} />
           <Route path="/dias" element={<Dias />} />
+          <Route path="/multimedia" element={<Multimedia />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </main>
