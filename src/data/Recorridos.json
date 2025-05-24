@@ -43,248 +43,28 @@
     "recorrido": [
       { "cruzDeGuia": "Salida (13:00)", "palio": "" },
       { "cruzDeGuia": "Aniceto Saenz", "palio": "" },
-      { "cruzDeGuia": "Relator", "palio": "Salida(15:10)" },
-      { "cruzDeGuia": "Feria", "palio": "Zaragoza" },
-      { "cruzDeGuia": "Feria", "palio": "San Pablo" },
-      { "cruzDeGuia": "Europa (16:31)", "palio": "Velázquez" },
-      { "cruzDeGuia": "Trajano", "palio": "CAMPANA(17:00)" },
-      { "cruzDeGuia": "Pl. Duque", "palio": "PLAZA" },
-      { "cruzDeGuia": "CAMPANA (17:00)", "palio": "P. SAN MIGUEL" },
-      { "cruzDeGuia": "PLAZA (17:40)", "palio": "P. PALOS" },
-      { "cruzDeGuia": "Dos de Mayo", "palio": "Adolfo Rodríguez Jurado" },
-      { "cruzDeGuia": "Real de la Carretería", "palio": "Tomás de Ibarra" },
-      { "cruzDeGuia": "Gamazo", "palio": "Dos de Mayo" },
-      { "cruzDeGuia": "Zaragoza", "palio": "Real de la Carretería" },
-      { "cruzDeGuia": "Fray Bartolomé de las Casas", "palio": "Castelar" },
-      { "cruzDeGuia": "Entrada (21:20)", "palio": "Zaragoza" },
-      { "cruzDeGuia": "", "palio": "Ray Bartolomé de las Casas" },
-      { "cruzDeGuia": "", "palio": "Adolfo Cuellar-Molviedro" },
-      { "cruzDeGuia": "", "palio": "Entrada (23:00)" }
-    ]
-  },
-  "La Paz": {
-    "nombre": "La Paz",
-    "recorrido": [
-      { "cruzDeGuia": "Salida (13:00)", "palio": "" },
-      { "cruzDeGuia": "Glorieta Covadonga", "palio": "" },
-      { "cruzDeGuia": "Pl. España", "palio": "Brasil" },
-      { "cruzDeGuia": "Palos de la Frontera", "palio": "" },
-      { "cruzDeGuia": "Avda. Constitución", "palio": "Avda. Borbolla" },
-      { "cruzDeGuia": "Postigo del Aceite", "palio": "" },
-      { "cruzDeGuia": "Castelar", "palio": "Palos de la Frontera" },
-      { "cruzDeGuia": "Barcelona", "palio": "Avda. Constitución" },
-      { "cruzDeGuia": "Tetúan", "palio": "Postigo del Aceite" },
-      { "cruzDeGuia": "CAMPANA (17:45)", "palio": "" },
-      { "cruzDeGuia": "PLAZA (18:25)", "palio": "" },
-      { "cruzDeGuia": "P. SAN MIGUEL (18:51)", "palio": "" },
-      { "cruzDeGuia": "P. PALOS (19:15)", "palio": "" },
-      { "cruzDeGuia": "P. Contratación", "palio": "" },
-      { "cruzDeGuia": "Avda. Roma", "palio": "" },
-      { "cruzDeGuia": "Pl. España", "palio": "P. Contratación" },
-      { "cruzDeGuia": "Glorieta Covadonga", "palio": "Avda. Roma" },
-      { "cruzDeGuia": "Brasil", "palio": "" },
-      { "cruzDeGuia": "Entrada (1:00)", "palio": "" }
-    ]
-  },
-  "La Cena": {
-    "nombre": "La Cena",
-    "recorrido": [
-      { "cruzDeGuia": "Salida (16:15)", "palio": "" },
-      { "cruzDeGuia": "Capataz Manuel Santiago", "palio": "" },
-      { "cruzDeGuia": "Laraña", "palio": "Alhóndiga" },
-      { "cruzDeGuia": "Orfila", "palio": "Imagen" },
-      { "cruzDeGuia": "Jesús del Gran Poder", "palio": "Orfila" },
-      { "cruzDeGuia": "CAMPANA (18:26)", "palio": "" },
-      { "cruzDeGuia": "PLAZA (19:12)", "palio": "" },
-      { "cruzDeGuia": "P. SAN MIGUEL (20:28)", "palio": "" },
-      { "cruzDeGuia": "P. PALOS (20:47)", "palio": "" },
-      { "cruzDeGuia": "AVENIDA", "palio": "P. PALOS (20:47)" },
-      { "cruzDeGuia": "Franco", "palio": "" },
-      { "cruzDeGuia": "Alfalfa", "palio": "" },
-      { "cruzDeGuia": "Pl. Cristo de Burgos", "palio": "" },
-      { "cruzDeGuia": "Sales y Ferré", "palio": "" },
-      { "cruzDeGuia": "Doña María Coronel", "palio": "" },
-      { "cruzDeGuia": "Entrada (23:40)", "palio": "" }
-    ]
-  },
-
-  "San Roque": {
-    "nombre": "San Roque",
-    "recorrido": [
-      { "cruzDeGuia": "Salida (16:35)", "palio": "" },
-      { "cruzDeGuia": "Puñonrostro", "palio": "" },
-      { "cruzDeGuia": "Ponce de León", "palio": "" },
-      { "cruzDeGuia": "Imagen", "palio": "Puerta Osario" },
-      { "cruzDeGuia": "CAMPANA (19:27)", "palio": "" },
-      { "cruzDeGuia": "PLAZA (20:02)", "palio": "" },
-      { "cruzDeGuia": "P. SAN MIGUEL (20:26)", "palio": "" },
-      { "cruzDeGuia": "Sierpes", "palio": "" },
-      { "cruzDeGuia": "CAMPANA (20:59)", "palio": "" },
-      { "cruzDeGuia": "P. PALOS (21:22)", "palio": "" },
-      { "cruzDeGuia": "Argote de Molina", "palio": "" },
-      { "cruzDeGuia": "Placentines", "palio": "" },
-      { "cruzDeGuia": "Cuesta del Rosario", "palio": "" },
-      { "cruzDeGuia": "Pl. del Buen Suceso", "palio": "" },
-      { "cruzDeGuia": "Doña Berenguela", "palio": "" },
-      { "cruzDeGuia": "Pl. San Leandro", "palio": "" },
-      { "cruzDeGuia": "Imperial", "palio": "" },
-      { "cruzDeGuia": "Muñoz de Navarrete", "palio": "" },
-      { "cruzDeGuia": "Entrada (1:10)", "palio": "" }
-    ]
-  },
-  "La Amargura": {
-    "nombre": "La Amargura",
-    "recorrido": [
-      { "cruzDeGuia": "Salida (18:25)", "palio": "" },
-      { "cruzDeGuia": "Feria", "palio": "" },
-      { "cruzDeGuia": "Amor de Dios", "palio": "" },
-      { "cruzDeGuia": "CAMPANA (19:57)", "palio": "Conde de Torrejón" },
-      { "cruzDeGuia": "SIERPES", "palio": "Trajano" },
-      { "cruzDeGuia": "PLAZA (22:37)", "palio": "CAMPANA (20:37)" },
-      { "cruzDeGuia": "P. SAN MIGUEL (21:03)", "palio": "PLAZA (21:17)" },
-      { "cruzDeGuia": "P. PALOS (21:22)", "palio": "P. SAN MIGUEL (21:43)" },
-      { "cruzDeGuia": "Villegas", "palio": "PALOS (22:02)" },
-      { "cruzDeGuia": "Pl. Encarnación", "palio": "Francos" },
-      { "cruzDeGuia": "Convento Espíritu Santo", "palio": "Laraña" },
-      { "cruzDeGuia": "Entrada (1:00)", "palio": "Alcázares" }
-    ]
-  },
-
-  "La Estrella": {
-    "nombre": "La Estrella",
-    "recorrido": [
-      { "cruzDeGuia": "Salida (17:45)", "palio": "" },
-      { "cruzDeGuia": "Puente de Triana", "palio": "" },
-      { "cruzDeGuia": "Reyes Católicos", "palio": "" },
-      { "cruzDeGuia": "San Pablo", "palio": "San Jacinto" },
-      { "cruzDeGuia": "CAMPANA (20:37)", "palio": "" },
-      { "cruzDeGuia": "PLAZA (20:37)", "palio": "" },
-      { "cruzDeGuia": "P. SAN MIGUEL (21:41)", "palio": "" },
-      { "cruzDeGuia": "P. PALOS (22:02)", "palio": "" },
-      { "cruzDeGuia": "AVENIDA", "palio": "P. PALOS (22:02)" },
-      { "cruzDeGuia": "Otto Moeckel", "palio": "" },
-      { "cruzDeGuia": "Arfe", "palio": "" },
-      { "cruzDeGuia": "Pl. San Francisco", "palio": "P. SAN MIGUEL (23:13)" },
-      { "cruzDeGuia": "Entrada (1:05)", "palio": "" }
-    ]
-  },
-  "El Amor": {
-    "nombre": "El Amor",
-    "recorrido": [
-      { "cruzDeGuia": "Salida (20:50)", "palio": "" },
-      { "cruzDeGuia": "San Pablo", "palio": "Cuna" },
-      { "cruzDeGuia": "CAMPANA (21:47)", "palio": "CAMPANA (21:47)" },
-      { "cruzDeGuia": "PLAZA (22:27)", "palio": "" },
-      { "cruzDeGuia": "P. SAN MIGUEL (22:53)", "palio": "" },
-      { "cruzDeGuia": "P. PALOS (23:21)", "palio": "" },
-      { "cruzDeGuia": "Argote de Molina", "palio": "P. SAN MIGUEL (23:47)" },
-      { "cruzDeGuia": "Chapineros", "palio": "" },
-      { "cruzDeGuia": "Entrada (1:10)", "palio": "" },
-      { "cruzDeGuia": "", "palio": "Entrada (1:25)" }
-    ]
-  },
-  "San Pablo": {
-    "nombre": "San Pablo",
-    "recorrido": [
-      { "cruzDeGuia": "Salida", "palio": "" },
-      { "cruzDeGuia": "Doctor Laffón Soto", "palio": "" },
-      { "cruzDeGuia": "Avda. Soleá", "palio": "Salida (12:11)" },
-      { "cruzDeGuia": "Sinai", "palio": "Avda. Pedro Romero" },
-      { "cruzDeGuia": "Luis Montoto", "palio": "Sinai" },
-      { "cruzDeGuia": "San Esteban", "palio": "Luis Montoto" },
-      { "cruzDeGuia": "Jesús de las Tres Caídas", "palio": "Hermanad del Pulgar" },
-      { "cruzDeGuia": "Granada", "palio": "Jesús de las Tres Caídas" },
-      { "cruzDeGuia": "Tetúan", "palio": "Cuesta del Rosario" },
-      { "cruzDeGuia": "CAMPANA (16:25)", "palio": "Tetúan" },
-      { "cruzDeGuia": "PLAZA (17:05)", "palio": "CAMPANA (16:59)" },
-      { "cruzDeGuia": "P. SAN MIGUEL (17:31)", "palio": "PLAZA (17:39)" },
-      { "cruzDeGuia": "PALOS (17:50)", "palio": "P. SAN MIGUEL (18:24)" },
-      { "cruzDeGuia": "Pl. Jesús de la Pasión", "palio": "PALOS (18:24)" },
-      { "cruzDeGuia": "Pl. Encarnación", "palio": "Pl. Encarnación" },
-      { "cruzDeGuia": "Almirante Apodaca", "palio": "Odres" },
-      { "cruzDeGuia": "Joaquín Morales y Torres", "palio": "Francos" },
-      { "cruzDeGuia": "Urquiza", "palio": "Pl. Encarnación" },
-      { "cruzDeGuia": "Venecia", "palio": "Odres" },
-      { "cruzDeGuia": "Antonio Pino Rojas", "palio": "Francos" },
-      { "cruzDeGuia": "Samaniego", "palio": "Santiago" },
-      { "cruzDeGuia": "Avda. Kansas City", "palio": "Francisco Carrión Mejías" },
-      { "cruzDeGuia": "Avda. Pedro Romero", "palio": "Juan de Mesa" },
-      { "cruzDeGuia": "Virgen del Rosario", "palio": "Santiago" },
-      { "cruzDeGuia": "Entrada", "palio": "" },
-      { "cruzDeGuia": "", "palio": "Entrada (1:50)" }
-    ]
-  },
-
-  "La Redención": {
-    "nombre": "La Redención",
-    "recorrido": [
-      { "cruzDeGuia": "Salida (14:45)", "palio": "" },
-      { "cruzDeGuia": "Juan de Mesa", "palio": "" },
-      { "cruzDeGuia": "Pl. San Pedro", "palio": "" },
-      { "cruzDeGuia": "Orfila", "palio": "" },
-      { "cruzDeGuia": "Almirante Apodaca", "palio": "Imagen" },
-      { "cruzDeGuia": "CAMPANA (17:39)", "palio": "Gamazo" },
-      { "cruzDeGuia": "PLAZA (17:59)", "palio": "CAMPANA (17:46)" },
-      { "cruzDeGuia": "P. SAN MIGUEL (18:26)", "palio": "PLAZA (18:26)" },
-      { "cruzDeGuia": "P. PALOS (18:54)", "palio": "P. SAN MIGUEL (18:52)" },
-      { "cruzDeGuia": "Francos", "palio": "PALOS (19:11)" },
-      { "cruzDeGuia": "Pl. Salvador", "palio": "Alemanes" },
-      { "cruzDeGuia": "Sales y Ferré", "palio": "Pl. Triunfo" },
-      { "cruzDeGuia": "Alhóndiga", "palio": "San Gregorio" },
-      { "cruzDeGuia": "Valle", "palio": "Pl. del Triunfo" },
-      { "cruzDeGuia": "Francisco Carrión Mejías", "palio": "Orfila" },
-      { "cruzDeGuia": "Entrada", "palio": "Francisco Carrión Mejías" },
-      { "cruzDeGuia": "", "palio": "Juan de Mesa" }
-    ]
-  },
-
-  "Santa Genoveva": {
-    "nombre": "Santa Genoveva",
-    "recorrido": [
-      { "cruzDeGuia": "Salida (12:25)", "palio": "" },
-      { "cruzDeGuia": "Felipe II", "palio": "" },
-      { "cruzDeGuia": "Porvenir", "palio": "" },
-      { "cruzDeGuia": "Avda. Cardenal Bueno Monreal", "palio": "" },
-      { "cruzDeGuia": "Avda. Roma", "palio": "Salida (13:30)" },
-      { "cruzDeGuia": "Avda. Constitución", "palio": "Diego de la Barrera" },
-      { "cruzDeGuia": "Puerta del Arenal", "palio": "Rio de la Plata" },
-      { "cruzDeGuia": "Gamazo", "palio": "Avda. Isabel la Católica" },
-      { "cruzDeGuia": "CAMPANA (17:46)", "palio": "Avda. del Cid" },
-      { "cruzDeGuia": "PLAZA (18:15)", "palio": "CAMPANA (17:46)" },
-      { "cruzDeGuia": "P. SAN MIGUEL (18:47)", "palio": "PLAZA (19:00)" },
-      { "cruzDeGuia": "PALOS (19:20)", "palio": "P. SAN MIGUEL (19:34)" },
-      { "cruzDeGuia": "Alemanes", "palio": "PALOS (19:52)" },
-      { "cruzDeGuia": "Pl. Triunfo", "palio": "Pl. Triunfo" },
-      { "cruzDeGuia": "San Gregorio", "palio": "San Gregorio" },
-      { "cruzDeGuia": "Orfila", "palio": "Avda. del Cid" },
-      { "cruzDeGuia": "Arias Montano", "palio": "Avda. del Cid" },
-      { "cruzDeGuia": "Entrada", "palio": "" },
-      { "cruzDeGuia": "", "palio": "Entrada (2:10)" }
-    ]
-  },
-  "esperanza-de-triana": {
-    "nombre": "Esperanza de Triana",
-    "recorrido": [
-      { "cruzDeGuia": "Salida (1:35)", "palio": "" },
-      { "cruzDeGuia": "Pureza", "palio": "Salida" },
-      { "cruzDeGuia": "Puente de Triana", "palio": "Pureza" },
-      { "cruzDeGuia": "Reyes Católicos", "palio": "Pl. Altozano" },
-      { "cruzDeGuia": "Zaragoza", "palio": "Puente de Triana" },
-      { "cruzDeGuia": "Plaza Nueva", "palio": "Reyes Católicos" },
-      { "cruzDeGuia": "Tetuán", "palio": "Zaragoza" },
-      { "cruzDeGuia": "Campana (5:17)", "palio": "Plaza Nueva" },
-      { "cruzDeGuia": "Plaza (5:57)", "palio": "Tetuán" },
-      { "cruzDeGuia": "P. San Miguel (6:23)", "palio": "Campana (6:38)" }
-    ]
-  },
-  "macarena": {
-    "nombre": "Macarena",
-    "recorrido": [
-      { "cruzDeGuia": "Salida (00:00)", "palio": "Salida" },
-      { "cruzDeGuia": "San Luis", "palio": "Resolana" },
-      { "cruzDeGuia": "Alameda", "palio": "Trajano" },
-      { "cruzDeGuia": "Campana", "palio": "Duquesa" },
-      { "cruzDeGuia": "Entrada (10:00)", "palio": "Entrada (11:00)" }
+      { "cruzDeGuia": "Relator", "palio": "Salida(14:05)" },
+      { "cruzDeGuia": "Feria", "palio": "Puerta de Córdoba" },
+      { "cruzDeGuia": "Feria", "palio": "Aniceto Saenz" },
+      { "cruzDeGuia": "Europa", "palio": "Relator" },
+      { "cruzDeGuia": "Trajano", "palio": "Feria" },
+      { "cruzDeGuia": "Pl. Duque", "palio": "Correiduría" },
+      { "cruzDeGuia": "CAMPANA (17:00)", "palio": "Trajano" },
+      { "cruzDeGuia": "PLAZA (17:40)", "palio": "CAMPANA (17:45)" },
+      { "cruzDeGuia": "P. SAN MIGUEL(18:06)", "palio": "PLAZA (18:25)" },
+      { "cruzDeGuia": "P. PALOS (18:25)", "palio": "P. SAN MIGUEL(18:51)" },
+      { "cruzDeGuia": "Villegas", "palio": "P. PALOS(19:10)" },
+      { "cruzDeGuia": "Pl. Alfalfa", "palio": "Alemanes" },
+      { "cruzDeGuia": "Pl. Cristo de Burgos", "palio": "Francos" },
+      { "cruzDeGuia": "Doña María Coronel", "palio": "Jesús de las Tres Caídas" },
+      { "cruzDeGuia": "Bustos Tavera", "palio": "Pl Cristo de Burgos" },
+      { "cruzDeGuia": "Hiniesta", "palio": "Doña María Coronel" },
+      { "cruzDeGuia": "Hiniesta", "palio": "Bustos Tavera" }
+      { "cruzDeGuia": "Pl. Moravia", "palio": "San Marcos" }
+      { "cruzDeGuia": "Entrada (22:45)", "palio": "Hiniesta" }
+      { "cruzDeGuia": "", "palio": "Hiniesta" }
+      { "cruzDeGuia": "", "palio": "Pl. Moravia" }
+      { "cruzDeGuia": "", "palio": "Entrada (0:30)" }
     ]
   }
 }

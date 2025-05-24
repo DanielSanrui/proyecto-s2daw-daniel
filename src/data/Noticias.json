@@ -1,0 +1,27 @@
+[
+  {
+    "id": "macarena-ensayo",
+    "titulo": "La Macarena realiza su primer ensayo del año",
+    "fecha": "2025-05-22",
+    "imagen": "img/macarena-ensayo.jpg",
+    "descripcionCorta": "La Hermandad de la Macarena llevó a cabo su primer ensayo con gran emoción.",
+    "descripcionLarga": "En la tarde del 22 de mayo, la Hermandad de la Macarena realizó su primer ensayo de costaleros. El evento congregó a numerosos hermanos y devotos, que pudieron presenciar el impecable trabajo del equipo de capataces y costaleros. La cofradía destacó la importancia de este acto de preparación para la próxima Semana Santa, así como la devoción mostrada por los asistentes durante el recorrido del ensayo..."
+  },
+  {
+    "id": "esperanza-de-triana-festejo",
+    "titulo": "Esperanza de Triana celebra su festividad",
+    "fecha": "2025-05-20",
+    "imagen": "img/esperanza-triana.jpg",
+    "descripcionCorta": "Multitudinaria asistencia a los cultos en honor a la Esperanza de Triana.",
+    "descripcionLarga": "La Capilla de los Marineros se llenó de fieles para celebrar la festividad de la Esperanza de Triana. Tras la misa, se organizó una procesión claustral por las calles aledañas, en la que participaron numerosos fieles. La jornada estuvo marcada por el fervor, la música de la banda propia de la hermandad, y momentos de emoción entre los asistentes..."
+  },
+  {
+  "id": 1,
+  "titulo": "Cambio en el recorrido del Gran Poder",
+  "descripcionCorta": "La Hermandad del Gran Poder modifica su itinerario...",
+  "descripcionLarga": "La Hermandad del Gran Poder ha anunciado un cambio completo en su recorrido debido a obras en la calle San Vicente. El nuevo recorrido incluye paradas por San Lorenzo y vuelta por San Vicente.",
+  "fecha": "2025-05-22",
+  "imagen": "https://ejemplo.com/imagen.jpg"
+}
+]
+

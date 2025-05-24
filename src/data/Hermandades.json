@@ -1,4 +1,141 @@
 {
+  "nombre": "La Borriquita",
+  "sede": "Iglesia Colegial del Divino Salvador",
+  "fundacion": 1575,
+  "nazarenos": 800,
+  "hermanos": 5600,
+  "escudo": "img/escudos/esperanza-de-triana.png",
+  "imagenPrincipal": "img/hermandades/esperanza-de-triana.jpg",
+  "imagenes": [
+    {
+      "titulo": "Sagrada Entrada en Jerusalén ",
+      "escultor": "Anónimo, siglo XVI",
+      "imagen": "img/titulares/cristo-entrada.jpg"
+    }
+  ],
+  "descripcionCorta": "La Hermandad del Amor, fundada en el siglo XVI y fusionada en 1618 con la de la Sagrada Entrada, es una de las más históricas y solemnes de Sevilla. Inicia la Semana Santa con la Borriquita y emociona con el Cristo del Amor, obra cumbre de Juan de Mesa.",
+  "descripcion": [
+    {
+      "titulo": "Un origen cargado de caridad y redención",
+      "texto": [
+        "La Hermandad del Amor hunde sus raíces en el siglo XVI, con fines caritativos destinados a socorrer a los pobres encarcelados y asistirles espiritual y materialmente. Ya en 1569 es citada por el cronista Diego Ortiz de Zúñiga como una piadosa hermandad con intensa vida religiosa. Su primera sede fue la Iglesia de Santiago el Viejo, donde se le atribuye también el patronazgo de Santiago Apóstol.",
+        "La Hermandad de la Sagrada Entrada en Jerusalén, por su parte, fue fundada en el siglo XVI por el gremio de medidores de la Alhóndiga y residía en la Iglesia de los Terceros. Ambas cofradías hacían estación el mismo día, lo que dificultaba la participación de los religiosos, razón por la cual, en 1618, decidieron unirse en una sola corporación."
+      ]
+    },
+    {
+      "titulo": "La fusión y el impulso de Juan de Mesa",
+      "texto": [
+        "En el mismo año de la fusión, la nueva Hermandad encarga a Juan de Mesa las imágenes del Cristo del Amor y de Nuestra Señora del Socorro, recibidas en 1620. Estas tallas, de gran expresividad, pronto despertaron una intensa devoción en el barrio de Santa Catalina y en toda Sevilla.",
+        "Desde entonces, la cofradía pasó a ser conocida popularmente como la del Cristo del Amor, y se consolidó como una de las más queridas de la ciudad."
+      ]
+    },
+    {
+      "titulo": "Siglos XVII y XVIII: pruebas y gloria",
+      "texto": [
+        "En 1676 se aprueban nuevas reglas y se encarga un nuevo paso para el Cristo del Amor al escultor Francisco Antonio Ruiz Gijón, responsable también del célebre paso de la Carretería. Durante el siglo XVIII, la Hermandad vivió momentos de esplendor, alternados con crisis económicas y sociales. En 1789 se aprueban nuevas Reglas que incluyen la admisión de mujeres como hermanas y se establece la estación de penitencia el Domingo de Ramos."
+      ]
+    },
+    {
+      "titulo": "Siglo XIX: traslados y reorganización",
+      "texto": [
+        "En 1810, durante la ocupación napoleónica, se traslada a la parroquia de San Miguel. En 1820, el rey Fernando VII otorga a la corporación el título de Real, y en 1824, el Papa León XII le concede la dignidad de Archicofradía Pontificia, siendo la primera cofradía de penitencia sevillana con tal distinción.",
+        "La segunda mitad del siglo XIX estuvo marcada por la inestabilidad política y el cierre de templos, lo que obligó a la Hermandad a trasladarse en varias ocasiones. En 1870 se establece en la iglesia del Dulce Nombre de Jesús, propiedad de la camarera María Jesús del Amor Pérez de León, donde se mantendría durante décadas."
+      ]
+    },
+    {
+      "titulo": "Siglo XX: recuperación y esplendor",
+      "texto": [
+        "En 1899 se reorganiza formalmente la Hermandad, que no había realizado estación durante años. A lo largo del siglo XX, y especialmente en la segunda mitad, la cofradía recobra su fuerza. La Hermandad del Amor es reconocida hoy por su solemne y sobrecogedora salida del Cristo del Amor en la tarde del Domingo de Ramos, con la impresionante imagen de Juan de Mesa sobre su paso sobrio y majestuoso."
+      ]
+    },
+    {
+      "titulo": "La Borriquita: el inicio de la Semana Santa sevillana",
+      "texto": [
+        "En 1940, la Hermandad del Amor incorpora a su cortejo el paso de la Sagrada Entrada de Jesús en Jerusalén, conocida popularmente como La Borriquita. Esta procesión se convierte en uno de los momentos más esperados del Domingo de Ramos, especialmente para los niños, al representar el pasaje evangélico donde Jesús es aclamado por el pueblo.",
+        "La Borriquita marca tradicionalmente el comienzo de la Semana Santa sevillana y simboliza la alegría y la esperanza del pueblo cristiano, en contraste con el dramatismo de otras procesiones."
+      ]
+    },
+    {
+      "titulo": "Actualidad: fe, historia y compromiso social",
+      "texto": [
+        "En la actualidad, la Hermandad del Amor continúa siendo una de las más activas tanto en lo devocional como en lo social. Desarrolla una intensa labor asistencial y mantiene una agenda cultual rica y participativa. Su sede canónica es la Iglesia del Salvador, donde recibe a miles de fieles cada año.",
+        "La cofradía ha sabido conjugar tradición y modernidad, manteniéndose como referente del arte sacro, la espiritualidad y el compromiso cristiano en Sevilla."
+      ]
+    }
+  ]
+},
+{
+  "nombre": "El Amor",
+  "sede": "Iglesia Colegial del Divino Salvador",
+  "fundacion": 1569,
+  "nazarenos": 1800,
+  "hermanos": 5600,
+  "escudo": "img/escudos/esperanza-de-triana.png",
+  "imagenPrincipal": "img/hermandades/esperanza-de-triana.jpg",
+  "imagenes": [
+    {
+      "titulo": "Nuestro Padre Jesús del Amor",
+      "escultor": "Juan de Mesa, 1620",
+      "imagen": "img/titulares/cristo-entrada.jpg"
+    },
+    {
+      "titulo": "María Santísima del Socorro",
+      "escultor": "Anónimo, siglo XIX",
+      "imagen": "img/titulares/cristo-entrada.jpg"
+    }
+  ],
+  "descripcionCorta": "La Hermandad del Amor, fundada en el siglo XVI y fusionada en 1618 con la de la Sagrada Entrada, es una de las más históricas y solemnes de Sevilla. Inicia la Semana Santa con la Borriquita y emociona con el Cristo del Amor, obra cumbre de Juan de Mesa.",
+  "descripcion": [
+    {
+      "titulo": "Un origen cargado de caridad y redención",
+      "texto": [
+        "La Hermandad del Amor hunde sus raíces en el siglo XVI, con fines caritativos destinados a socorrer a los pobres encarcelados y asistirles espiritual y materialmente. Ya en 1569 es citada por el cronista Diego Ortiz de Zúñiga como una piadosa hermandad con intensa vida religiosa. Su primera sede fue la Iglesia de Santiago el Viejo, donde se le atribuye también el patronazgo de Santiago Apóstol.",
+        "La Hermandad de la Sagrada Entrada en Jerusalén, por su parte, fue fundada en el siglo XVI por el gremio de medidores de la Alhóndiga y residía en la Iglesia de los Terceros. Ambas cofradías hacían estación el mismo día, lo que dificultaba la participación de los religiosos, razón por la cual, en 1618, decidieron unirse en una sola corporación."
+      ]
+    },
+    {
+      "titulo": "La fusión y el impulso de Juan de Mesa",
+      "texto": [
+        "En el mismo año de la fusión, la nueva Hermandad encarga a Juan de Mesa las imágenes del Cristo del Amor y de Nuestra Señora del Socorro, recibidas en 1620. Estas tallas, de gran expresividad, pronto despertaron una intensa devoción en el barrio de Santa Catalina y en toda Sevilla.",
+        "Desde entonces, la cofradía pasó a ser conocida popularmente como la del Cristo del Amor, y se consolidó como una de las más queridas de la ciudad."
+      ]
+    },
+    {
+      "titulo": "Siglos XVII y XVIII: pruebas y gloria",
+      "texto": [
+        "En 1676 se aprueban nuevas reglas y se encarga un nuevo paso para el Cristo del Amor al escultor Francisco Antonio Ruiz Gijón, responsable también del célebre paso de la Carretería. Durante el siglo XVIII, la Hermandad vivió momentos de esplendor, alternados con crisis económicas y sociales. En 1789 se aprueban nuevas Reglas que incluyen la admisión de mujeres como hermanas y se establece la estación de penitencia el Domingo de Ramos."
+      ]
+    },
+    {
+      "titulo": "Siglo XIX: traslados y reorganización",
+      "texto": [
+        "En 1810, durante la ocupación napoleónica, se traslada a la parroquia de San Miguel. En 1820, el rey Fernando VII otorga a la corporación el título de Real, y en 1824, el Papa León XII le concede la dignidad de Archicofradía Pontificia, siendo la primera cofradía de penitencia sevillana con tal distinción.",
+        "La segunda mitad del siglo XIX estuvo marcada por la inestabilidad política y el cierre de templos, lo que obligó a la Hermandad a trasladarse en varias ocasiones. En 1870 se establece en la iglesia del Dulce Nombre de Jesús, propiedad de la camarera María Jesús del Amor Pérez de León, donde se mantendría durante décadas."
+      ]
+    },
+    {
+      "titulo": "Siglo XX: recuperación y esplendor",
+      "texto": [
+        "En 1899 se reorganiza formalmente la Hermandad, que no había realizado estación durante años. A lo largo del siglo XX, y especialmente en la segunda mitad, la cofradía recobra su fuerza. La Hermandad del Amor es reconocida hoy por su solemne y sobrecogedora salida del Cristo del Amor en la tarde del Domingo de Ramos, con la impresionante imagen de Juan de Mesa sobre su paso sobrio y majestuoso."
+      ]
+    },
+    {
+      "titulo": "La Borriquita: el inicio de la Semana Santa sevillana",
+      "texto": [
+        "En 1940, la Hermandad del Amor incorpora a su cortejo el paso de la Sagrada Entrada de Jesús en Jerusalén, conocida popularmente como La Borriquita. Esta procesión se convierte en uno de los momentos más esperados del Domingo de Ramos, especialmente para los niños, al representar el pasaje evangélico donde Jesús es aclamado por el pueblo.",
+        "La Borriquita marca tradicionalmente el comienzo de la Semana Santa sevillana y simboliza la alegría y la esperanza del pueblo cristiano, en contraste con el dramatismo de otras procesiones."
+      ]
+    },
+    {
+      "titulo": "Actualidad: fe, historia y compromiso social",
+      "texto": [
+        "En la actualidad, la Hermandad del Amor continúa siendo una de las más activas tanto en lo devocional como en lo social. Desarrolla una intensa labor asistencial y mantiene una agenda cultual rica y participativa. Su sede canónica es la Iglesia del Salvador, donde recibe a miles de fieles cada año.",
+        "La cofradía ha sabido conjugar tradición y modernidad, manteniéndose como referente del arte sacro, la espiritualidad y el compromiso cristiano en Sevilla."
+      ]
+    }
+  ]
+},
+{
   "nombre": "Esperanza de Triana",
   "sede": "Capilla de los Marineros",
   "fundacion": 1418,
@@ -36,3 +173,57 @@
     }
   ]
 }
+
+/*
+{
+  "nombre": "",
+  "sede": "",
+  "fundacion": ,
+  "nazarenos": ,
+  "hermanos": ,
+  "escudo": "",
+  "imagenPrincipal": "",
+  "imagenes": [
+    {
+      "titulo": "",
+      "escultor": "",
+      "imagen": ""
+    },
+    {
+      "titulo": "",
+      "escultor": "",
+      "imagen": ""
+    }
+  ],
+  "descripcionCorta": "",
+  "descripcion": [
+    {
+      "titulo": "",
+      "texto": [
+        "",
+        ""
+      ]
+    },
+    {
+      "titulo": "",
+      "texto": [
+        "",
+        ""
+      ]
+    },
+    {
+      "titulo": "",
+      "texto": [
+        ""
+      ]
+    },
+    {
+      "titulo": "",
+      "texto": [
+        "",
+        ""
+      ]
+    }
+  ]
+},
+*/

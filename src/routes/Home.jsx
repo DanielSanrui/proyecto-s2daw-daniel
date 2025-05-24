@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import "../index.css";
 import Contador from "../components/Contador";
 import FAQ from "../components/FAQ";
+import UltimasNoticias from "../components/UltimasNoticias";
 export default function Home() {
   return (
     <div className="p-5">
@@ -18,6 +19,7 @@ export default function Home() {
           un solo lugar, accesible desde tu móvil y adaptado a ti.
         </p>
       </section>
+      <UltimasNoticias />
       <Contador />
       <FAQ />
     </div>

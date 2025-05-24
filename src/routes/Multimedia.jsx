@@ -17,21 +17,24 @@ const Multimedia = () => {
       <div className="d-flex justify-content-center gap-3 mb-4 flex-wrap">
         <button
           onClick={() => setSeccion("fotos")}
-          className="btn btn-outline-dark"
+          className="btn"
+          style={{ backgroundColor: "#3c1a3d", color: "#fff" }}
         >
-          📸 Fotos
+          Fotos
         </button>
         <button
           onClick={() => setSeccion("videos")}
-          className="btn btn-outline-dark"
+          className="btn"
+          style={{ backgroundColor: "#3c1a3d", color: "#fff" }}
         >
-          🎞 Vídeos
+          Vídeos
         </button>
         <button
           onClick={() => setSeccion("audios")}
-          className="btn btn-outline-dark"
+          className="btn"
+          style={{ backgroundColor: "#3c1a3d", color: "#fff" }}
         >
-          🎺 Marchas
+          Marchas
         </button>
       </div>
 
