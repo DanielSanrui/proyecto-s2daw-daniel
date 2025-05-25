@@ -9,6 +9,7 @@ import Dias from "./routes/Dias";
 import Multimedia from "./routes/Multimedia";
 import Noticias from "./routes/Noticias";
 import Noticia from "./routes/Noticia";
+import Tiempo from "./routes/Tiempo";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
           <Route path="/multimedia" element={<Multimedia />} />
           <Route path="/noticias" element={<Noticias />} />
           <Route path="/noticias/:id" element={<Noticia />} />
+          <Route path="/tiempo" element={<Tiempo />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </main>

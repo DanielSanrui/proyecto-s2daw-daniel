@@ -132,6 +132,18 @@ function Header() {
           >
             Jugar
           </Link>
+          <Link
+            to="/noticias"
+            className="text-white text-decoration-none hover-underline"
+          >
+            Noticias
+          </Link>
+          <Link
+            to="/tiempo"
+            className="text-white text-decoration-none hover-underline"
+          >
+            Tiempo
+          </Link>
         </nav>
 
         {/* Botón hamburguesa móvil */}
@@ -201,6 +213,12 @@ function Header() {
         </Link>
         <Link to="/juego" className="d-block py-2 text-dark">
           Jugar
+        </Link>
+        <Link to="/noticias" className="d-block py-2 text-dark">
+          Noticias
+        </Link>
+        <Link to="/tiempo" className="d-block py-2 text-dark">
+          Tiempo
         </Link>
       </div>
     </header>

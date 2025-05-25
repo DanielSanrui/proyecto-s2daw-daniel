@@ -4,6 +4,7 @@ import "../index.css";
 import Contador from "../components/Contador";
 import FAQ from "../components/FAQ";
 import UltimasNoticias from "../components/UltimasNoticias";
+import CalendarioHome from "../components/CalendarioHome";
 export default function Home() {
   return (
     <div className="p-5">
@@ -20,6 +21,7 @@ export default function Home() {
         </p>
       </section>
       <UltimasNoticias />
+      <CalendarioHome />
       <Contador />
       <FAQ />
     </div>
