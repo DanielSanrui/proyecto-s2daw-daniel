@@ -2,12 +2,92 @@
   "fotos": [
     {
       "titulo": "Esperanza de Triana",
-      "imagen": "https://www.semana-santa.org/wp-content/uploads/2012/02/esperanzadetriana1.jpg",
+      "imagen": "../src/img/img1.jpg",
       "descripcion": "Paso de palio de la Esperanza de Triana durante la Madrugá sevillana."
     },
     {
       "titulo": "Paso por calle estrecha",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2021/03/27/sevilla-semana-santa.jpeg",
+      "imagen": "../src/img/img2.jpg",
+      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+    },
+    {
+      "titulo": "Paso por calle estrecha",
+      "imagen": "../src/img/img3.jpg",
+      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+    },
+    {
+      "titulo": "Paso por calle estrecha",
+      "imagen": "../src/img/img4.jpg",
+      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+    },
+    {
+      "titulo": "Paso por calle estrecha",
+      "imagen": "../src/img/img5.jpg",
+      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+    },
+    {
+      "titulo": "Paso por calle estrecha",
+      "imagen": "../src/img/img6.jpg",
+      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+    },
+    {
+      "titulo": "Paso por calle estrecha",
+      "imagen": "../src/img/img7.jpg",
+      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+    },
+    {
+      "titulo": "Paso por calle estrecha",
+      "imagen": "../src/img/img8.jpg",
+      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+    },
+    {
+      "titulo": "Paso por calle estrecha",
+      "imagen": "../src/img/img9.jpg",
+      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+    },
+    {
+      "titulo": "Paso por calle estrecha",
+      "imagen": "../src/img/img10.jpg",
+      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+    },
+    {
+      "titulo": "Paso por calle estrecha",
+      "imagen": "../src/img/img11.jpg",
+      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+    },
+    {
+      "titulo": "Paso por calle estrecha",
+      "imagen": "../src/img/img12.jpg",
+      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+    },
+    {
+      "titulo": "Paso por calle estrecha",
+      "imagen": "../src/img/img13.jpg",
+      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+    },
+    {
+      "titulo": "Paso por calle estrecha",
+      "imagen": "../src/img/img14.jpg",
+      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+    },
+    {
+      "titulo": "Paso por calle estrecha",
+      "imagen": "../src/img/img15.jpg",
+      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+    },
+    {
+      "titulo": "Paso por calle estrecha",
+      "imagen": "../src/img/img16.jpg",
+      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+    },
+    {
+      "titulo": "Paso por calle estrecha",
+      "imagen": "../src/img/img17.jpg",
+      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+    },
+    {
+      "titulo": "Paso por calle estrecha",
+      "imagen": "../src/img/img18.jpg",
       "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
     }
   ],

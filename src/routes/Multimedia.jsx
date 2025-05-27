@@ -48,7 +48,6 @@ const Multimedia = () => {
                   src={foto.imagen}
                   alt={foto.titulo}
                   className="card-img-top object-fit-cover"
-                  style={{ height: "250px" }}
                 />
                 <div className="card-body">
                   <h5 className="card-title">{foto.titulo}</h5>

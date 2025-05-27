@@ -1,4 +1,5 @@
 import { Routes, Route } from "react-router-dom";
+import { Link } from "react-router-dom";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Home from "./routes/Home";
@@ -10,6 +11,7 @@ import Multimedia from "./routes/Multimedia";
 import Noticias from "./routes/Noticias";
 import Noticia from "./routes/Noticia";
 import Tiempo from "./routes/Tiempo";
+import Hermandades from "./routes/Hermandades";
 
 function App() {
   return (
@@ -25,6 +27,7 @@ function App() {
           <Route path="/noticias" element={<Noticias />} />
           <Route path="/noticias/:id" element={<Noticia />} />
           <Route path="/tiempo" element={<Tiempo />} />
+          <Route path="/hermandades" element={<Hermandades />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </main>

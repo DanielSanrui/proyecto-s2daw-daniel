@@ -53,7 +53,6 @@ const Tiempo = () => {
     <div className="container py-5 text-[#3c1a3d]">
       <h1 className="text-center mb-4">El Tiempo en Sevilla</h1>
 
-      {/* Clima actual */}
       <div className="bg-white border shadow rounded p-4 text-center mb-5">
         <h2 className="h5 mb-3">Clima Actual</h2>
         {climaActual ? (
@@ -69,7 +68,6 @@ const Tiempo = () => {
         )}
       </div>
 
-      {/* Pronóstico semanal */}
       <h2 className="text-center mb-4">Pronóstico semanal</h2>
       <div className="table-responsive">
         <table className="table table-bordered text-center align-middle">

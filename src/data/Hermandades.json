@@ -1,11 +1,14 @@
-{
+[{
   "nombre": "La Borriquita",
   "sede": "Iglesia Colegial del Divino Salvador",
   "fundacion": 1575,
   "nazarenos": 800,
   "hermanos": 5600,
-  "escudo": "img/escudos/esperanza-de-triana.png",
+  "barrio": "centro",
+  "diaSalida": "Domingo de Ramos",
+  "escudo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Escudo_Hermandad_Amor.svg/800px-Escudo_Hermandad_Amor.svg.png",
   "imagenPrincipal": "img/hermandades/esperanza-de-triana.jpg",
+  "slug": "la-borriquita",
   "imagenes": [
     {
       "titulo": "Sagrada Entrada en Jerusalén ",
@@ -70,7 +73,10 @@
   "fundacion": 1569,
   "nazarenos": 1800,
   "hermanos": 5600,
-  "escudo": "img/escudos/esperanza-de-triana.png",
+  "barrio": "centro",
+  "diaSalida": "Domingo de Ramos",
+  "escudo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Escudo_Hermandad_Amor.svg/800px-Escudo_Hermandad_Amor.svg.png",
+  "slug": "el-amor",
   "imagenPrincipal": "img/hermandades/esperanza-de-triana.jpg",
   "imagenes": [
     {
@@ -141,89 +147,97 @@
   "fundacion": 1418,
   "nazarenos": 3200,
   "hermanos": 14988,
-  "escudo": "img/escudos/esperanza-de-triana.png",
-  "imagenPrincipal": "img/hermandades/esperanza-de-triana.jpg",
+  "barrio": "Triana",
+  "diaSalida": "La Madrugá",
+  "escudo": "https://esperanzadetriana.es/wp-content/uploads/2024/02/IMG-20240206-WA0089.jpg",
+  "slug": "esperanza-de-triana",
+  "imagenPrincipal": "https://pbs.twimg.com/media/FtqFTQSX0AA3Qu9?format=jpg&name=large",
   "imagenes": [
     {
       "titulo": "Santísimo Cristo de las Tres Caídas",
       "escultor": "Anónimo, siglo XVII",
-      "imagen": "img/titulares/cristo-tres-caidas.jpg"
+      "imagen": "https://cdn.santasemana.es/wp-content/uploads/2024/02/Paso-del-Cristo-de-las-Tres-Caidas-de-La-Esperanza-de-Triana.jpeg.webp"
     },
     {
       "titulo": "Nuestra Señora de la Esperanza",
       "escultor": "Juan de Astorga, 1816",
-      "imagen": "img/titulares/esperanza-de-triana.jpg"
+      "imagen": "https://www.semana-santa.org/wp-content/uploads/2012/02/esperanzadetriana1.jpg"
     }
   ],
-  "descripcionCorta": "Una de las hermandades más populares de Sevilla, muy arraigada en el barrio de Triana.",
+  "descripcionCorta": "La Hermandad de la Esperanza de Triana es una histórica cofradía sevillana fundada en el siglo XV en el barrio de Triana. Procesiona cada Madrugá del Viernes Santo con sus titulares, el Cristo de las Tres Caídas y la Virgen de la Esperanza. Destaca por su profundo arraigo popular, su estética trianera y su importante labor social y formativa.",
   "descripcion": [
     {
-      "titulo": "Orígenes",
+      "titulo": "Orígenes y Fundación (Siglo XV - XVI)",
       "texto": [
-        "La Hermandad de la Esperanza de Triana tiene raíces documentadas desde el siglo XV.",
-        "Nace como una expresión de devoción marinera, muy ligada al barrio de Triana."
+        "La Hermandad de la Esperanza de Triana es una de las corporaciones más antiguas de Sevilla, con raíces documentadas desde el siglo XV. Su origen se remonta a 1418, cuando se establece como hermandad de luz bajo la advocación de Nuestra Señora de la Esperanza en la parroquia de Santa Ana, vinculada al gremio de los ceramistas, actividad tradicional del barrio de Triana. A lo largo del siglo XVI, la hermandad fue consolidándose tanto en lo devocional como en lo institucional. En 1542 se fusionó con la cofradía de San Juan Evangelista, ligada al gremio de los pescadores, ampliando así su base social y espiritual."
       ]
     },
     {
-      "titulo": "Fusión con las Tres Caídas",
+      "titulo": "Primeros Testimonios y Consolidación (Finales del Siglo XVI)",
       "texto": [
-        "En 1608 surge la hermandad de las Tres Caídas. En 1616 se fusiona con la de la Esperanza.",
-        "Esta unión dio origen a la hermandad tal como la conocemos hoy."
+        "La existencia continuada de la hermandad se constata en fuentes como testamentos del siglo XVI, que ya la mencionan como entidad establecida con arraigo popular. En los últimos años del siglo XVI se produjeron otros hitos relevantes, como la participación en grandes eventos religiosos de la ciudad, entre ellos la procesión de traslado del cuerpo incorrupto de San Fernando en 1579. También destacan en esta etapa las gestiones para obtener bulas e indulgencias en Roma, lo que pone de relieve tanto su capacidad económica como su preocupación por el enriquecimiento espiritual."
+      ]
+    },
+    {
+      "titulo": "Fusión con la Hermandad de las Tres Caídas (Siglo XVII)",
+      "texto": [
+        "En 1608 surge una nueva hermandad, dedicada a las Tres Caídas de Cristo, con sede en el convento de las Monjas Mínimas. Ambas corporaciones fueron obligadas a fusionarse en 1616, estableciéndose juntas en el hospital del Espíritu Santo, sede que marcaría una etapa de gran prosperidad a lo largo del siglo XVII. Durante este tiempo, la hermandad experimenta un notable crecimiento y obtiene una nueva capilla con mejores condiciones."
+      ]
+    },
+    {
+      "titulo": "Traslados y Crisis (Siglo XVIII - XIX)",
+      "texto": [
+        "En 1736, tras varios litigios, la hermandad abandona el hospital y se traslada a la parroquia de Santa Ana. A raíz del terremoto de Lisboa en 1755, se ve forzada a abandonar su sede y emprende una prolongada búsqueda de templo, culminando en 1815 con la adquisición de una capilla en la calle Larga (actual calle Pureza). Las imágenes titulares recibieron culto en distintas ubicaciones provisionales."
+      ]
+    },
+    {
+      "titulo": "",
+      "texto": [
+        ""
+      ]
+    },
+    {
+      "titulo": "",
+      "texto": [
+        ""
+      ]
+    },
+    {
+      "titulo": "",
+      "texto": [
+        ""
+      ]
+    },
+    {
+      "titulo": "",
+      "texto": [
+        ""
+      ]
+    },
+    {
+      "titulo": "",
+      "texto": [
+        ""
+      ]
+    },
+    {
+      "titulo": "",
+      "texto": [
+        ""
+      ]
+    },
+    {
+      "titulo": "",
+      "texto": [
+        ""
+      ]
+    },
+    {
+      "titulo": "",
+      "texto": [
+        ""
       ]
     }
   ]
 }
-
-/*
-{
-  "nombre": "",
-  "sede": "",
-  "fundacion": ,
-  "nazarenos": ,
-  "hermanos": ,
-  "escudo": "",
-  "imagenPrincipal": "",
-  "imagenes": [
-    {
-      "titulo": "",
-      "escultor": "",
-      "imagen": ""
-    },
-    {
-      "titulo": "",
-      "escultor": "",
-      "imagen": ""
-    }
-  ],
-  "descripcionCorta": "",
-  "descripcion": [
-    {
-      "titulo": "",
-      "texto": [
-        "",
-        ""
-      ]
-    },
-    {
-      "titulo": "",
-      "texto": [
-        "",
-        ""
-      ]
-    },
-    {
-      "titulo": "",
-      "texto": [
-        ""
-      ]
-    },
-    {
-      "titulo": "",
-      "texto": [
-        "",
-        ""
-      ]
-    }
-  ]
-},
-*/
+]
