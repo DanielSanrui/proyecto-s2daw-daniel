@@ -14,9 +14,9 @@ const CardNoticia = ({ noticia }) => {
         <h5 className="card-title">{noticia.titulo}</h5>
         <p className="card-text">{noticia.descripcionCorta}</p>
         <Link
-          to={`/noticia/${noticia.id}`}
-          className="btn text-white"
-          style={{ backgroundColor: "#3c1a3d" }}
+          to={`/noticias/${noticia.id}`}
+          className="btn "
+          style={{ backgroundColor: "#3c1a3d", color: "white" }}
         >
           Leer más
         </Link>

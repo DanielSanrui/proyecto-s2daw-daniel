@@ -22,15 +22,12 @@ function Mapa() {
   useEffect(() => {
     const rad = (x) => (x * Math.PI) / 180;
     const distance = (p1, p2) => {
-      const R = 6371e3; // Earth radius in meters
+      const R = 6371e3;
       const dLat = rad(p2.lat - p1.lat);
       const dLng = rad(p2.lng - p1.lng);
       const a =
-        Math.sin(dLat / 2) * Math.sin(dLat / 2) +
-        Math.cos(rad(p1.lat)) *
-          Math.cos(rad(p2.lat)) *
-          Math.sin(dLng / 2) *
-          Math.sin(dLng / 2);
+        Math.sin(dLat / 2) ** 2 +
+        Math.cos(rad(p1.lat)) * Math.cos(rad(p2.lat)) * Math.sin(dLng / 2) ** 2;
       const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
       return R * c;
     };
@@ -42,11 +39,14 @@ function Mapa() {
   }, []);
 
   return (
-    <div className="max-w-6xl mx-auto p-4">
-      <h1 className="text-4xl font-bold text-center text-[#3c1a3d] mb-6">
+    <div className="container py-5">
+      <h1
+        className="text-center fw-bold display-5 mb-4"
+        style={{ color: "#3c1a3d" }}
+      >
         Mapa de Hermandades
       </h1>
-      <p className="text-center text-gray-700 mb-6">
+      <p className="text-center text-muted mb-4">
         Consulta los templos más importantes y descubre si estás cerca
       </p>
 
@@ -55,7 +55,6 @@ function Mapa() {
         libraries={["geometry"]}
       >
         <GoogleMap mapContainerStyle={containerStyle} center={center} zoom={14}>
-          {/* Marcadores */}
           {templos.map((templo, index) => (
             <Marker
               key={index}
@@ -64,51 +63,51 @@ function Mapa() {
               title={templo.nombre}
             />
           ))}
-
-          {/* Usuario simulado */}
           <Marker
             position={userPosition}
             icon="http://maps.google.com/mapfiles/ms/icons/blue-dot.png"
             title="Tu ubicación"
           />
-
-          {/* InfoWindow */}
           {selected && (
             <InfoWindow
               position={{ lat: selected.lat, lng: selected.lng }}
               onCloseClick={() => setSelected(null)}
             >
-              <div className="max-w-xs">
-                <h2 className="text-lg font-bold">{selected.nombre}</h2>
-                <p className="text-sm">{selected.descripcion}</p>
+              <div style={{ maxWidth: "200px" }}>
+                <h5 className="fw-bold mb-1">{selected.nombre}</h5>
+                <p className="small mb-0">{selected.descripcion}</p>
               </div>
             </InfoWindow>
           )}
         </GoogleMap>
       </LoadScript>
 
-      {/* Cards de templos cercanos */}
       {cercanos.length > 0 && (
-        <section className="mt-10">
-          <h2 className="text-xl font-bold mb-4 text-[#3c1a3d]">
-            Sitios cercanos:
-          </h2>
-          <div className="space-y-4">
+        <section className="mt-5">
+          <h2 className="h4 fw-bold text-dark mb-4">Sitios cercanos:</h2>
+          <div className="row g-4">
             {cercanos.map((t, i) => (
-              <div
-                key={i}
-                className="w-full bg-white rounded-xl shadow-md border border-gray-300 overflow-hidden flex flex-col md:flex-row hover:shadow-xl transition duration-300"
-              >
-                <img
-                  src={t.imagen}
-                  alt={t.nombre}
-                  className="w-full md:w-60 h-48 object-cover md:rounded-l-xl"
-                />
-                <div className="p-6">
-                  <h3 className="text-2xl font-bold text-[#3c1a3d] mb-2">
-                    {t.nombre}
-                  </h3>
-                  <p className="text-gray-700 text-base">{t.descripcion}</p>
+              <div className="col-12" key={i}>
+                <div className="card border shadow-sm h-100 flex-row">
+                  <img
+                    src={t.imagen}
+                    alt={t.nombre}
+                    className="img-fluid object-fit-cover"
+                    style={{
+                      width: "250px",
+                      height: "100%",
+                      objectFit: "cover",
+                    }}
+                  />
+                  <div className="card-body">
+                    <h5
+                      className="card-title y fw-bold"
+                      style={{ color: "#3c1a3d" }}
+                    >
+                      {t.nombre}
+                    </h5>
+                    <p className="card-text">{t.descripcion}</p>
+                  </div>
                 </div>
               </div>
             ))}

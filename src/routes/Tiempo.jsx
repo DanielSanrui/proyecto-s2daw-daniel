@@ -50,14 +50,18 @@ const Tiempo = () => {
   }, []);
 
   return (
-    <div className="container py-5 text-[#3c1a3d]">
-      <h1 className="text-center mb-4">El Tiempo en Sevilla</h1>
+    <div className="container py-5">
+      <h1 className="text-center mb-4 fw-bold" style={{ color: "#3c1a3d" }}>
+        El Tiempo en Sevilla
+      </h1>
 
       <div className="bg-white border shadow rounded p-4 text-center mb-5">
-        <h2 className="h5 mb-3">Clima Actual</h2>
+        <h2 className="h5 mb-3" style={{ color: "#3c1a3d" }}>
+          Clima Actual
+        </h2>
         {climaActual ? (
           <>
-            <p className="fs-4">
+            <p className="display-6">
               {weatherEmojis[climaActual.codigo] || "❓"}{" "}
               {climaActual.temperatura} ºC
             </p>
@@ -68,7 +72,9 @@ const Tiempo = () => {
         )}
       </div>
 
-      <h2 className="text-center mb-4">Pronóstico semanal</h2>
+      <h2 className="text-center mb-4 fw-bold" style={{ color: "#3c1a3d" }}>
+        Pronóstico semanal
+      </h2>
       <div className="table-responsive">
         <table className="table table-bordered text-center align-middle">
           <thead className="table-dark">

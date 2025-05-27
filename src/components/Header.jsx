@@ -20,7 +20,6 @@ function Header() {
       style={{ backgroundColor: "#3c1a3d", zIndex: 1050 }}
     >
       <div className="container-fluid d-flex justify-content-between align-items-center py-3 px-4">
-        {/* Logo + Título */}
         <div className="d-flex align-items-center gap-3">
           <Link to="/">
             <img
@@ -32,88 +31,88 @@ function Header() {
           <h1 className="text-white h4 m-0">Sevilla en Pasos</h1>
         </div>
 
-        {/* Menú Desktop */}
         <nav className="d-none d-md-flex gap-4">
-          <Link
-            to="/"
-            className="text-white text-decoration-none hover-underline"
-          >
-            Inicio
-          </Link>
           <Link
             to="/hermandades"
             className="text-white text-decoration-none hover-underline"
           >
             Hermandades
           </Link>
+          <div className="dropdown">
+            <Link
+              to="/dias"
+              className="text-white text-decoration-none hover-underline me-2"
+            >
+              Días
+            </Link>
 
-          {/* Dropdown Días */}
-          <Link to={"/dias"} className="text-white text-decoration-none">
-            <div className="dropdown">
-              <span
-                className="text-white dropdown-toggle hover-underline"
-                role="button"
-                data-bs-toggle="dropdown"
-                aria-expanded="false"
-              >
-                Días
-              </span>
-              <ul
-                className="dropdown-menu text-start"
-                style={{ backgroundColor: "antiquewhite" }}
-              >
-                <li>
-                  <Link className="dropdown-item" to="/dias/domingo-de-ramos">
-                    Domingo de Ramos
-                  </Link>
-                </li>
-                <li>
-                  <Link className="dropdown-item" to="/dias/lunes-santo">
-                    Lunes Santo
-                  </Link>
-                </li>
-                <li>
-                  <Link className="dropdown-item" to="/dias/martes-santo">
-                    Martes Santo
-                  </Link>
-                </li>
-                <li>
-                  <Link className="dropdown-item" to="/dias/miercoles-santo">
-                    Miércoles Santo
-                  </Link>
-                </li>
-                <li>
-                  <Link className="dropdown-item" to="/dias/jueves-santo">
-                    Jueves Santo
-                  </Link>
-                </li>
-                <li>
-                  <Link className="dropdown-item" to="/dias/la-madruga">
-                    La Madrugá
-                  </Link>
-                </li>
-                <li>
-                  <Link className="dropdown-item" to="/dias/viernes-santo">
-                    Viernes Santo
-                  </Link>
-                </li>
-                <li>
-                  <Link className="dropdown-item" to="/dias/sabado-santo">
-                    Sábado Santo
-                  </Link>
-                </li>
-                <li>
-                  <Link
-                    className="dropdown-item"
-                    to="/dias/domingo-resurreccion"
-                  >
-                    Domingo de Resurrección
-                  </Link>
-                </li>
-              </ul>
-            </div>
+            <span
+              className="text-white dropdown-toggle"
+              role="button"
+              id="dropdownDias"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+              style={{ cursor: "pointer" }}
+            ></span>
+
+            <ul
+              className="dropdown-menu text-start"
+              aria-labelledby="dropdownDias"
+              style={{ backgroundColor: "antiquewhite" }}
+            >
+              <li>
+                <Link className="dropdown-item" to="/dias/domingo-de-ramos">
+                  Domingo de Ramos
+                </Link>
+              </li>
+              <li>
+                <Link className="dropdown-item" to="/dias/lunes-santo">
+                  Lunes Santo
+                </Link>
+              </li>
+              <li>
+                <Link className="dropdown-item" to="/dias/martes-santo">
+                  Martes Santo
+                </Link>
+              </li>
+              <li>
+                <Link className="dropdown-item" to="/dias/miercoles-santo">
+                  Miércoles Santo
+                </Link>
+              </li>
+              <li>
+                <Link className="dropdown-item" to="/dias/jueves-santo">
+                  Jueves Santo
+                </Link>
+              </li>
+              <li>
+                <Link className="dropdown-item" to="/dias/madruga">
+                  La Madrugá
+                </Link>
+              </li>
+              <li>
+                <Link className="dropdown-item" to="/dias/viernes-santo">
+                  Viernes Santo
+                </Link>
+              </li>
+              <li>
+                <Link className="dropdown-item" to="/dias/sabado-santo">
+                  Sábado Santo
+                </Link>
+              </li>
+              <li>
+                <Link className="dropdown-item" to="/dias/domingo-resurreccion">
+                  Domingo de Resurrección
+                </Link>
+              </li>
+            </ul>
+          </div>
+          <Link
+            to="/noticias"
+            className="text-white text-decoration-none hover-underline"
+          >
+            Noticias
           </Link>
-
           <Link
             to="/multimedia"
             className="text-white text-decoration-none hover-underline"
@@ -126,23 +125,18 @@ function Header() {
           >
             Mapa
           </Link>
-          <Link
-            to="/juego"
-            className="text-white text-decoration-none hover-underline"
-          >
-            Jugar
-          </Link>
-          <Link
-            to="/noticias"
-            className="text-white text-decoration-none hover-underline"
-          >
-            Noticias
-          </Link>
+
           <Link
             to="/tiempo"
             className="text-white text-decoration-none hover-underline"
           >
             Tiempo
+          </Link>
+          <Link
+            to="/juego"
+            className="text-white text-decoration-none hover-underline"
+          >
+            Jugar
           </Link>
         </nav>
 

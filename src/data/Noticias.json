@@ -1,27 +1,56 @@
 [
   {
-    "id": "macarena-ensayo",
-    "titulo": "La Macarena realiza su primer ensayo del año",
-    "fecha": "2025-05-22",
-    "imagen": "img/macarena-ensayo.jpg",
-    "descripcionCorta": "La Hermandad de la Macarena llevó a cabo su primer ensayo con gran emoción.",
-    "descripcionLarga": "En la tarde del 22 de mayo, la Hermandad de la Macarena realizó su primer ensayo de costaleros. El evento congregó a numerosos hermanos y devotos, que pudieron presenciar el impecable trabajo del equipo de capataces y costaleros. La cofradía destacó la importancia de este acto de preparación para la próxima Semana Santa, así como la devoción mostrada por los asistentes durante el recorrido del ensayo..."
-  },
-  {
-    "id": "esperanza-de-triana-festejo",
-    "titulo": "Esperanza de Triana celebra su festividad",
-    "fecha": "2025-05-20",
-    "imagen": "img/esperanza-triana.jpg",
-    "descripcionCorta": "Multitudinaria asistencia a los cultos en honor a la Esperanza de Triana.",
-    "descripcionLarga": "La Capilla de los Marineros se llenó de fieles para celebrar la festividad de la Esperanza de Triana. Tras la misa, se organizó una procesión claustral por las calles aledañas, en la que participaron numerosos fieles. La jornada estuvo marcada por el fervor, la música de la banda propia de la hermandad, y momentos de emoción entre los asistentes..."
-  },
-  {
   "id": 1,
-  "titulo": "Cambio en el recorrido del Gran Poder",
-  "descripcionCorta": "La Hermandad del Gran Poder modifica su itinerario...",
-  "descripcionLarga": "La Hermandad del Gran Poder ha anunciado un cambio completo en su recorrido debido a obras en la calle San Vicente. El nuevo recorrido incluye paradas por San Lorenzo y vuelta por San Vicente.",
-  "fecha": "2025-05-22",
-  "imagen": "https://ejemplo.com/imagen.jpg"
+  "titulo": "El Cachorro emociona a Roma con una procesión para la historia",
+  "descripcionCorta": "La imponente presencia del Cristo de la Expiración junto al Coliseo romano deja una huella imborrable en la devoción universal. La lluvia sorprendió al cortejo en el Circo Máximo, precipitando su regreso.",
+  "descripcionLarga": [
+    "Roma vivió este fin de semana una jornada histórica que quedará grabada en la memoria colectiva de la cristiandad: el Santísimo Cristo de la Expiración, popularmente conocido como El Cachorro, procesionó por las calles de la capital italiana, dejando una estampa imborrable junto al Coliseo. El impacto de la imagen sevillana en pleno corazón de la Ciudad Eterna desbordó lo religioso para convertirse en un acontecimiento cultural sin precedentes.",
+    "Miles de fieles y curiosos abarrotaron el entorno del Foro Romano y del Circo Máximo para presenciar una procesión que, desde su inicio, fue concebida como un hito sin parangón. La impresionante talla de Francisco Antonio Ruiz Gijón, con su rostro agónico y sereno a un tiempo, cruzó las antiguas calzadas romanas envuelto en un silencio sobrecogedor, solo roto por los sones de la banda que acompañaba al paso.",
+    "Sin embargo, cuando la procesión alcanzaba uno de sus momentos más emotivos en el Circo Máximo, una tromba de agua obligó a acelerar el ritmo y emprender el regreso antes de lo previsto. A pesar de las inclemencias, la organización supo reaccionar con rapidez y eficacia, logrando que el Cristo retornara sin incidentes.",
+    "La imagen del Cachorro ante el Coliseo ha sido compartida en todo el mundo, simbolizando el encuentro entre dos monumentos eternos: uno de piedra y otro de fe. Roma se rindió ante Sevilla, y Sevilla, con su Cristo moribundo, escribió una nueva página de oro en la historia de la Semana Santa."
+], 
+  "fecha": "2025-05-19",
+  "imagen": "https://s2.abcstatics.com/abc/www/multimedia/sevilla/2025/05/17/procesion-cachorro-roma-raul(2)-RcVo1VzZ2ZwhwIAryPP2QuM-1200x840@diario_abc.jpg"
+  },
+  {
+  "id": 2,
+  "titulo": "La Amargura clausura su tricentenario en San Juan de la Palma con un fin de semana de cultos extraordinarios",
+  "descripcionCorta": "Vía Lucis al Convento de las Hermanas de la Cruz el viernes, solemne misa pontifical y procesión de regreso el sábado, y besamanos extraordinario el domingo.",
+  "descripcionLarga": [
+    "La Hermandad de la Amargura pondrá el broche de oro a los 300 años de presencia ininterrumpida de la Virgen en San Juan de la Palma durante el próximo fin de semana. El viernes 30 de mayo, la Dolorosa del Domingo de Ramos saldrá en Vía Lucis hacia el Convento de las Hermanas de la Cruz, con salida a las 19:15 horas tras la Eucaristía de las 18:30. La imagen pasará la noche en el convento para ser velada por la comunidad religiosa, dentro de los actos del 150.º aniversario de la fundación de la Compañía.",
+    "El trayecto del Vía Lucis incluye las calles Feria, Regina, Jerónimo Hernández, Plaza del Pozo Santo y Doña María Coronel, entre otras, concluyendo el rezo en la Parroquia de San Pedro antes de que la Virgen continúe hasta el convento por Santa Ángela de la Cruz. El cortejo estará encabezado por el Simpecado y la insignia de Santa Ángela, con acompañamiento musical de la Escolanía Salesiana María Auxiliadora; las ocho estaciones serán proclamadas por distintos grupos de hermanos.",
+    "En la madrugada del sábado 31 de mayo, la Virgen será trasladada a San Pedro a las 08:30 horas para la Solemne Misa Pontifical de acción de gracias que oficiará el arzobispo José Ángel Saiz Meneses a las 10:00 horas, coincidiendo con la festividad de la Visitación. Por la noche, la imagen —entronizada sin palio, evocando la estampa de 1946— regresará a San Juan de la Palma en procesión extraordinaria que partirá a las 21:00 horas por las calles de la feligresía, acompañada por la Sociedad Filarmónica Nuestra Señora del Carmen de Salteras.",
+    "Los actos concluirán el domingo 1 de junio con un besamanos extraordinario en San Juan de la Palma tras la misa de las 10:00 horas, prolongándose hasta las 14:00 y reanudándose de 17:30 a 21:00. La Eucaristía matinal será presidida por el párroco y director espiritual Antero Pascual y se retransmitirá en directo por Canal Sur Televisión, poniendo fin a las celebraciones del tricentenario."
+  ],
+  "fecha": "2025-05-26",
+  "imagen": "https://www.amargura.org/wp-content/uploads/2025/02/2003-scaled.jpg"
+  },
+  {
+  "id": 3,
+  "titulo": "Las Penas de San Vicente presenta el cartel conmemorativo de su 150º aniversario",
+  "descripcionCorta": "El Ayuntamiento de Sevilla acogió la puesta de largo del cartel del sesquicentenario de la hermandad, obra del artista antequerano Ángel Sarmiento.",
+  "descripcionLarga": [
+    "El Salón Colón del Ayuntamiento hispalense fue escenario, el viernes 23 de mayo, de la presentación oficial del cartel que anuncia los 150 años de la Hermandad de las Penas de San Vicente. El acto, conducido por el periodista Manu Lamprea, contó con las intervenciones del hermano mayor, Francisco Polo; el autor del cartel, Ángel Sarmiento; y el delegado de Fiestas Mayores, Manuel Alés, además de la presencia del presidente del Consejo de Cofradías y del delegado diocesano de Hermandades.",
+    "La pieza, de 95 × 53,5 cm y realizada en terracota y madera estucada, muestra sobre un intenso carmín el escudo corporativo alzado en clave monumental. Dos figuras clásicas flanquean el blasón, como si dialogaran con el espectador, mientras la inscripción “Las Penas” se integra en la base con un marcado carácter escultórico, evocando la cartelería popular de los años 20.",
+    "Fundada en 1875 en la parroquia de San Vicente Mártir, la hermandad hunde sus raíces en la devoción carmelita a Nuestro Padre Jesús de las Penas y a María Santísima de los Dolores, veneraciones que pasaron del antiguo Convento del Carmen a la feligresía laica de San Vicente durante la Restauración.",
+    "Para celebrar el sesquicentenario se ha programado un amplio calendario de cultos y actos entre el 15 de septiembre y el 29 de noviembre de 2025: función solemne y apertura de los fastos el 15 de septiembre; acto literario inaugural el 20 de septiembre; triduo eucarístico y Jubileo Circular del 24 al 26; rosario y traslados de la Virgen los días 18 y 19 de octubre; un mes de conferencias, exposiciones y experiencias inmersivas del 20 de octubre al 18 de noviembre; misa de réquiem el 3 de noviembre; traslados y triduo fundacional del 16 al 21; procesión triunfal el 22; y clausura con misa estacional y almuerzo de hermandad el 29 de noviembre."
+  ],
+  "fecha": "2025-05-23",
+  "imagen": "https://elegirhoy.com/uploads/fichas-eventos-imagenes/laspenasOF1.JPG"
+},
+{
+  "id": 4,
+  "titulo": "Presentadas las portadas del Corpus Christi 2025, inspiradas en Santiago y la Capilla de los Marineros",
+  "descripcionCorta": "Los pórticos que se alzarán en la Plaza de San Francisco recrearán la espadaña de la Iglesia de Santiago y la fachada de la Capilla de los Marineros, con guiños a la Redención y la Esperanza de Triana.",
+  "descripcionLarga": [
+    "El delegado de Fiestas Mayores, Manuel Alés, dio a conocer el lunes 26 de mayo, en la Sala Capitular Baja del Ayuntamiento, los diseños de las portadas del Corpus Christi 2025. Las dos estructuras, obra del delineante municipal José Manuel Peña Jiménez, se plantarán de nuevo en la Plaza de San Francisco y toman como modelo las puertas de la iglesia de Santiago el Mayor y la capilla de los Marineros.",
+    "La portada próxima a la Avenida de la Constitución homenajeará a la Hermandad de la Redención con motivo de la coronación canónica de la Virgen del Rocío (5 de julio). Preside la composición la espadaña de Santiago, adornada con motivos tomados de la nueva saya de la Dolorosa. La segunda portada, orientada hacia la calle Sierpes, se inspira en la fachada de la Esperanza de Triana, reproduce su pórtico y culmina con el cuerpo de campanas; incorpora ornamentos geométricos y el ancla de las maniguetas.",
+    "En cuanto a la paleta cromática, la primera combinará blanco y azul cobalto, mientras que la trianera lucirá blanco y amarillo albero. Ambas comparten el verde característico de ambas cofradías y el rojo propio de la festividad del Corpus. Como novedad, cada estructura alcanzará los 17 metros de altura, casi dos más que en ediciones anteriores, para realzar la perspectiva tanto exterior como interior.",
+    "Alés también anunció que el cartel del Corpus 2025 volverá a ser fotográfico: se utilizará una imagen de Serrano (1950) con los Seises delante de la Custodia de Arfe. Desde 2026 el Ayuntamiento convocará un concurso abierto a fotógrafos para elegir la instantánea anunciadora. Asimismo, se impulsará el engalanado de balcones, fachadas y altares, manteniendo la mención especial a la creatividad en las tres categorías tradicionales de altares, escaparates y balcones."
+  ],
+  "fecha": "2025-05-26",
+  "imagen": "https://cadenaser.com/resizer/v2/H4MHC6N4XJB2HCD6KMWNY5M6E4.jpg?auth=3d56f6e1228159ed99e30af16fbb300518817b003a9e459c5857ccb9d28bf842&quality=70&width=990&height=556&smart=true"
 }
+
 ]
 

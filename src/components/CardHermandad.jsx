@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 const CardHermandad = ({ hermandad }) => {
-  const { nombre, sede, barrio, escudo, descripcionCorta } = hermandad;
+  const { nombre, sede, barrio, escudo, descripcionCorta, slug } = hermandad;
   return (
     <div
       className="d-flex flex-column flex-md-row text-white shadow rounded border border-light overflow-hidden p-2"
@@ -29,9 +29,7 @@ const CardHermandad = ({ hermandad }) => {
         </div>
         <div className="mt-3">
           <Link
-            to={`/hermandades/${(nombre || "sin-nombre")
-              .toLowerCase()
-              .replace(/\s+/g, "-")}`}
+            to={`/hermandades/${slug}`}
             className="btn btn-light text-dark px-4 py-2 rounded shadow-sm"
           >
             Ver más

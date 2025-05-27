@@ -20,7 +20,6 @@ function Footer() {
             </p>
           </div>
 
-          {/* Enlaces */}
           <div className="col-md-3 mb-4">
             <h6 className="fw-bold">Navegación</h6>
             <ul className="list-unstyled small">
@@ -48,8 +47,21 @@ function Footer() {
                 </a>
               </li>
               <li>
+                <a
+                  href="/multimedia"
+                  className="text-white text-decoration-none"
+                >
+                  Multimedia
+                </a>
+              </li>
+              <li>
                 <a href="/mapa" className="text-white text-decoration-none">
                   Mapa
+                </a>
+              </li>
+              <li>
+                <a href="/tiempo" className="text-white text-decoration-none">
+                  Tiempo
                 </a>
               </li>
               <li>

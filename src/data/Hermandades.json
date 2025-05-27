@@ -4,16 +4,16 @@
   "fundacion": 1575,
   "nazarenos": 800,
   "hermanos": 5600,
-  "barrio": "centro",
+  "barrio": "Centro",
   "diaSalida": "Domingo de Ramos",
   "escudo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Escudo_Hermandad_Amor.svg/800px-Escudo_Hermandad_Amor.svg.png",
-  "imagenPrincipal": "img/hermandades/esperanza-de-triana.jpg",
+  "imagenPrincipal": "https://sevilla.abc.es/pasionensevilla/wp-content/uploads/sites/2/eventos/2023/03/amor-burra-bandera.jpg",
   "slug": "la-borriquita",
   "imagenes": [
     {
       "titulo": "Sagrada Entrada en Jerusalén ",
       "escultor": "Anónimo, siglo XVI",
-      "imagen": "img/titulares/cristo-entrada.jpg"
+      "imagen": "https://www.semana-santa.org/wp-content/uploads/2011/05/laborriquita-1.jpg"
     }
   ],
   "descripcionCorta": "La Hermandad del Amor, fundada en el siglo XVI y fusionada en 1618 con la de la Sagrada Entrada, es una de las más históricas y solemnes de Sevilla. Inicia la Semana Santa con la Borriquita y emociona con el Cristo del Amor, obra cumbre de Juan de Mesa.",
@@ -68,26 +68,90 @@
   ]
 },
 {
+  "nombre": "Hermandad de Jesús Despojado de sus Vestiduras",
+  "sede": "Capilla de la Plaza de Molviedro",
+  "fundacion": 1936,
+  "nazarenos": 1000,
+  "hermanos": 1675,
+  "escudo": "https://pbs.twimg.com/profile_images/1503863120829292546/77dSDCTD_400x400.jpg",
+  "barrio": "Centro",
+  "slug": "jesus-despojado",
+  "diaSalida": "Domingo de Ramos",
+  "imagenPrincipal": "https://elegirhoy.com/uploads/fichas-eventos-imagenes/JESUSDESPOJADODDR.jpg",
+  "imagenes": [
+    {
+      "titulo": "Nuestro Padre Jesús Despojado de sus Vestiduras",
+      "escultor": "Antonio Perea Sánchez (1939), modificado por Antonio Eslava (1979)",
+      "imagen": "https://www.semana-santa.org/wp-content/uploads/2017/02/nuestro-padre-jesus-despojado1.jpg"
+    },
+    {
+      "titulo": "María Santísima de los Dolores y Misericordia",
+      "escultor": "Antonio Eslava Rubio (1962)",
+      "imagen": "https://farm2.staticflickr.com/1707/25204756843_3bde044ecc_o.jpg"
+    }
+  ],
+  "descripcionCorta": "Hermandad humilde y profundamente espiritual, Jesús Despojado recorre cada Domingo de Ramos las calles de Sevilla como testimonio de fe y entrega, llevando el mensaje eterno del amor redentor de Cristo y el consuelo maternal de la Virgen de los Dolores y Misericordia.",
+  "descripcion": [
+    {
+      "titulo": "Capilla de la Plaza de Molviedro",
+      "texto": [
+        "En el corazón del Domingo de Ramos sevillano, cuando los primeros rayos de sol iluminan la piedra antigua de la ciudad, emerge desde la Capilla de la Plaza de Molviedro un suspiro de amor y entrega: la Hermandad de Jesús Despojado de sus Vestiduras inicia su caminar. Con humildad y recogimiento, esta corporación ha sabido ganarse un lugar profundo en el alma cofrade de Sevilla, ofreciendo cada año una catequesis viva de la Pasión, desde la perspectiva más humana del Hijo de Dios: su despojo, su humillación, su dignidad pisoteada por los hombres, y sin embargo, revestida de la misericordia divina."
+      ]
+    },
+    {
+      "titulo": "Una historia de perseverancia y fe",
+      "texto": [
+        "La Hermandad nace entre sombras, en tiempos convulsos, y es prueba del poder de la fe frente a la adversidad. Sus raíces se hunden en 1936, cuando la parroquia de San Marcos fue pasto de las llamas. Pero donde el fuego destruye, el Espíritu levanta. Un grupo de fieles encabezado por don José Laborde y el capellán Francisco Terrones decide, contra toda esperanza, levantar una nueva cofradía dedicada al momento más íntimamente desgarrador de la Pasión: cuando Jesús es despojado de sus vestiduras. Es en 1938 cuando sus Reglas son aprobadas, y ya en 1941 realiza su primera salida procesional.",
+        "Sin embargo, pronto vendría el silencio. Un episodio de incomprensión eclesial y desorden de algunos miembros causó la disolución de su Junta y su caída en la oscuridad. Las imágenes, despojadas incluso del culto, quedaron relegadas a un rincón olvidado. Pero como el mismo Cristo en el Calvario, la hermandad no quedó vencida. Gracias al empeño de devotos como Antonio Fernández Rodríguez, la Hermandad resucita en los años 60, encuentra refugio en San Julián y, más tarde, en San Bartolomé.",
+        "Es allí donde vive su renacer litúrgico y espiritual, siendo finalmente reconocida y autorizada a procesionar de nuevo, primero en Sábado Santo y desde 1978, con plena integración en el Domingo de Ramos. En 1982 se establece en su actual capilla de la Plaza de Molviedro, lugar que desde entonces ha sido testigo de lágrimas, esperanza, oración y promesas cumplidas."
+      ]
+    },
+    {
+      "titulo": "El Misterio del Amor que se entrega",
+      "texto": [
+        "El paso de misterio es una auténtica representación bíblica del momento en que Cristo, rodeado de soldados y sayones, es despojado de su túnica antes de la Crucifixión. La imagen del Señor, obra del insigne Antonio Perea Sánchez, posee una fuerza serena que conmueve al espectador. En su rostro se dibuja el dolor silencioso, pero también la aceptación sublime del sacrificio redentor. A su alrededor, un conjunto escultórico renovado por Ramos Corona en 1998 añade dinamismo y dramatismo a la escena.",
+        "Bajo el palio camina la Madre: María Santísima de los Dolores y Misericordia. Su mirada de pena infinita, tallada por Antonio Eslava Rubio en 1970, resume el amor silencioso de quien acepta el sufrimiento con dignidad y fe. El manto que la cubre, ricamente bordado por José Antonio Grande de León, es símbolo del consuelo que ofrece a quienes acuden a Ella con el alma rota.",
+        "En este cortejo, que se desgrana cada Domingo de Ramos por las calles sevillanas, se hace presente el mensaje eterno del Evangelio: que el amor, aunque sea herido, nunca se retira. Que la dignidad de Dios se manifiesta precisamente en su despojo, en su entrega total, en su “Sí” silencioso a la voluntad del Padre."
+      ]
+    },
+    {
+      "titulo": "Una hermandad viva, forjada en la sencillez",
+      "texto": [
+        "La Hermandad de Jesús Despojado no es una de grandes fastos ni de estridencias. Es una hermandad que ha sido construida con esfuerzo, con humildad, con las manos calladas de cientos de hermanos que han sabido mantener viva la llama cuando todo parecía apagarse. Desde su cuadrilla de hermanos costaleros —pionera en Sevilla—, hasta su compromiso con la formación, la caridad y la vida sacramental, todo en esta cofradía habla de verdad, de trabajo discreto, y de una fe profunda que no necesita apariencias para ser creída.",
+        "Su capilla, sencilla pero acogedora, alberga un columbario y acoge cada año veladas marianas, exaltaciones y cultos donde la devoción se entreteje con la vida cotidiana. Ha sufrido embargos, robos, cierre por ruinas, pero jamás ha dejado de avanzar. Sus pasos han sido guardados, restaurados y llevados con mimo y responsabilidad, sabiendo que en cada salida va algo más que una talla: va el corazón de todo un barrio, de toda una comunidad."
+      ]
+    },
+    {
+      "titulo": "El Domingo de Ramos: una cita con el cielo",
+      "texto": [
+        "Cuando se abren las puertas de Molviedro y el incienso comienza a trazar su nube de esperanza, Sevilla entera se detiene. La Cruz de Guía inicia su caminar entre aplausos contenidos y lágrimas silenciosas. Jesús Despojado de sus Vestiduras se alza entre los naranjos y los balcones floridos, recordando a todos que el amor verdadero no necesita túnicas ni coronas, porque se mide por su capacidad de entregarse hasta el final.",
+        "Y tras Él, la Virgen. Madre del Consuelo, Dolor y Misericordia, que extiende su manto sobre los que sufren, sobre los que han sido despojados por la vida y buscan refugio bajo su mirada.",
+        "Así es esta hermandad. Así se hace presente en la Semana Santa de Sevilla. No con estridencias, sino con una oración constante. No con grandezas, sino con verdad. Porque como su propio titular, esta cofradía ha sido despojada muchas veces… pero nunca ha dejado de amar."
+      ]
+    }
+  ]
+},
+{
   "nombre": "El Amor",
   "sede": "Iglesia Colegial del Divino Salvador",
   "fundacion": 1569,
   "nazarenos": 1800,
   "hermanos": 5600,
-  "barrio": "centro",
+  "barrio": "Centro",
   "diaSalida": "Domingo de Ramos",
   "escudo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Escudo_Hermandad_Amor.svg/800px-Escudo_Hermandad_Amor.svg.png",
   "slug": "el-amor",
-  "imagenPrincipal": "img/hermandades/esperanza-de-triana.jpg",
+  "imagenPrincipal": "https://www.hermandades-de-sevilla.org/semanasanta/dramos_el_amor2.JPG",
   "imagenes": [
     {
       "titulo": "Nuestro Padre Jesús del Amor",
       "escultor": "Juan de Mesa, 1620",
-      "imagen": "img/titulares/cristo-entrada.jpg"
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cristo_del_Amor%2C_de_Juan_de_Mesa.jpg/330px-Cristo_del_Amor%2C_de_Juan_de_Mesa.jpg"
     },
     {
       "titulo": "María Santísima del Socorro",
       "escultor": "Anónimo, siglo XIX",
-      "imagen": "img/titulares/cristo-entrada.jpg"
+      "imagen": "https://pbs.twimg.com/media/GRKEoaZXIAA4YMm.jpg"
     }
   ],
   "descripcionCorta": "La Hermandad del Amor, fundada en el siglo XVI y fusionada en 1618 con la de la Sagrada Entrada, es una de las más históricas y solemnes de Sevilla. Inicia la Semana Santa con la Borriquita y emociona con el Cristo del Amor, obra cumbre de Juan de Mesa.",
@@ -156,7 +220,7 @@
     {
       "titulo": "Santísimo Cristo de las Tres Caídas",
       "escultor": "Anónimo, siglo XVII",
-      "imagen": "https://cdn.santasemana.es/wp-content/uploads/2024/02/Paso-del-Cristo-de-las-Tres-Caidas-de-La-Esperanza-de-Triana.jpeg.webp"
+      "imagen": "https://i0.wp.com/trescaidasdetriana.es/wp-content/uploads/2021/07/historia5.jpg?w=1350&ssl=1"
     },
     {
       "titulo": "Nuestra Señora de la Esperanza",

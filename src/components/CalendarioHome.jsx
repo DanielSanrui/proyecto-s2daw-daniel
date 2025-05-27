@@ -83,7 +83,7 @@ const CalendarioHome = () => {
               onClick={() => navigate(`/dia/${dia.ruta}`)}
               style={{ cursor: "pointer" }}
             >
-              <div className="card h-100 shadow-sm border-0 text-center transition hover:scale-105">
+              <div className="card h-100 p-2 shadow-sm border-0 text-center transition hover:scale-105">
                 <img
                   src={dia.imagen}
                   alt={dia.nombre}

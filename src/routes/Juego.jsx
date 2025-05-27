@@ -15,7 +15,7 @@ function Juego() {
   }, []);
 
   const handleRespuesta = (opcion) => {
-    if (opcion === preguntasAleatorias[preguntaActual].correcta) {
+    if (opcion === preguntasAleatorias[preguntaActual].respuestaCorrecta) {
       setPuntuacion(puntuacion + 1);
     }
 
@@ -54,7 +54,7 @@ function Juego() {
 
   return (
     <div className="container py-5">
-      <h1 className="text-center text-primary mb-4">
+      <h1 className="text-center mb-4 fw-bold" style={{ color: "#3c1a3d" }}>
         ¿Cuánto sabes de la Semana Santa?
       </h1>
 

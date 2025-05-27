@@ -1,6 +1,5 @@
 {
-    "La Borriquita": {
-        "nombre": "borriquita",
+    "la-borriquita": {
         "recorrido": [
             {"cruzDeGuia": "Salida (14:30)","paso": ""},
             {"cruzDeGuia": "Javier Lasso de la Vega","paso": "Salida (15:00)"},
@@ -14,8 +13,7 @@
             {"cruzDeGuia": "","paso": "Entrada (19:00)"}
         ]
     },
-    "Jesús Despojado": {
-        "nombre": "Jesús Despojado",
+    "jesus-despojado": {
         "recorrido": [
             {"cruzDeGuia": "Salida (14:17)","palio": ""},
             {"cruzDeGuia": "Zaragoza","palio": ""},
@@ -38,8 +36,7 @@
             {"cruzDeGuia": "","palio": "Entrada (23:00)"}
         ]
     },
-    "La Hiniesta": {
-        "nombre": "la hiniesta",
+    "la-hiniesta": {
         "recorrido": [
             {"cruzDeGuia": "Salida (13:00)","palio": ""},
             {"cruzDeGuia": "Aniceto Saenz","palio": ""},
@@ -67,8 +64,7 @@
             {"cruzDeGuia": "","palio": "Entrada (0:30)"}
         ]
     },
-    "La Paz": {
-        "nombre": "La Paz",
+    "la-paz": {
         "recorrido": [
             {"cruzDeGuia": "Salida (13:00)","palio": ""},
             {"cruzDeGuia": "Glorieta Covadonga","palio": ""},
@@ -187,8 +183,7 @@
             {"cruzDeGuia": "","palio": "Entrada (3:30)"}
         ]
     },
-    "El Amor": {
-        "nombre": "El Amor",
+    "el-amor": {
         "recorrido": [
             {"cruzDeGuia": "Salida (20:50)","palio": ""},
             {"cruzDeGuia": "Cuna","palio": ""},
@@ -1021,8 +1016,7 @@
             {"cruzDeGuia": "","palio": "Entrada (8:00)"}
         ]
     },
-    "Esperanza de Triana": {
-        "nombre": "Esperanza de Triana",
+    "esperanza-de-triana": {
         "recorrido": [
             {"cruzDeGuia": "Salida (1:35)","palio": ""},
             {"cruzDeGuia": "Pl. Altozano","palio": ""},
