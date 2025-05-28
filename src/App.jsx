@@ -1,5 +1,4 @@
 import { Routes, Route } from "react-router-dom";
-import { Link } from "react-router-dom";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Home from "./routes/Home";
@@ -19,21 +18,26 @@ function App() {
   return (
     <>
       <Header />
-      <main className="min-h-screen bg-gray-100 text-[#3c1a3d]">
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/mapa" element={<Mapa />} />
-          <Route path="/juego" element={<Juego />} />
-          <Route path="/dias" element={<Dias />} />
-          <Route path="/dias/:nombreDia" element={<Dia />} />
-          <Route path="/multimedia" element={<Multimedia />} />
-          <Route path="/noticias" element={<Noticias />} />
-          <Route path="/noticias/:id" element={<Noticia />} />
-          <Route path="/tiempo" element={<Tiempo />} />
-          <Route path="/hermandades" element={<Hermandades />} />
-          <Route path="/hermandades/:slug" element={<Hermandad />} />
-          <Route path="*" element={<NotFound />} />
-        </Routes>
+      <main
+        className="bg-light py-4"
+        style={({ minHeight: "100vh" }, { color: "#3c1a3d" })}
+      >
+        <div className="container">
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/mapa" element={<Mapa />} />
+            <Route path="/juego" element={<Juego />} />
+            <Route path="/dias" element={<Dias />} />
+            <Route path="/dias/:nombreDia" element={<Dia />} />
+            <Route path="/multimedia" element={<Multimedia />} />
+            <Route path="/noticias" element={<Noticias />} />
+            <Route path="/noticias/:id" element={<Noticia />} />
+            <Route path="/tiempo" element={<Tiempo />} />
+            <Route path="/hermandades" element={<Hermandades />} />
+            <Route path="/hermandades/:slug" element={<Hermandad />} />
+            <Route path="*" element={<NotFound />} />
+          </Routes>
+        </div>
       </main>
       <Footer />
     </>
