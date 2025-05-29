@@ -397,7 +397,7 @@
             {"cruzDeGuia": "","palio": "Entrada (3:15)"}
         ]
     },
-    "el cerro": {
+    "el-cerro": {
         "recorrido": [
             {"cruzDeGuia": "Salida (11:40)","palio": ""},
             {"cruzDeGuia": "Afán de Ribera","palio": ""},
@@ -455,7 +455,7 @@
             {"cruzDeGuia": "","palio": "Entrada (0:15)"}
         ]
     },
-    "el-dulce-nombre": {
+    "dulce-nombre": {
         "recorrido": [
             {"cruzDeGuia": "Salida (17:15)","palio": ""},
             {"cruzDeGuia": "Cardenal Spínola","palio": ""},

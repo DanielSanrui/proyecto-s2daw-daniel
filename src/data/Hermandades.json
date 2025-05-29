@@ -141,17 +141,17 @@
   "barrio": "San Julián",
   "diaSalida": "Domingo de Ramos",
   "slug": "la-hiniesta",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://www.diariodesevilla.es/contenidos/programa-semana-santa-sevilla/img/img_ficha/la-hiniesta.jpg",
   "imagenes": [
     {
       "titulo": "Santísimo Cristo de la Buena Muerte",
       "escultor": "Antonio Castillo Lastrucci, 1938",
-      "imagen": ""
+      "imagen": "https://i.pinimg.com/736x/0a/4e/0a/0a4e0afabfd1eb97404d9a2ba96a0782.jpg"
     },
     {
       "titulo": "Nuestra Señora de la Hiniesta Dolorosa",
       "escultor": "Antonio Castillo Lastrucci, 1937",
-      "imagen": ""
+      "imagen": "https://i0.wp.com/www.hermandaddelahiniesta.es/wp-content/uploads/2023/03/IMG-20230321-WA0058.jpg?fit=768%2C1024&ssl=1"
     }
   ],
   "descripcionCorta": " La Hermandad de la Hiniesta, con sede en la parroquia de San Julián, es una histórica cofradía sevillana que rinde culto a la Virgen de la Hiniesta en sus advocaciones Gloriosa y Dolorosa. Desde 1565 realiza estación de penitencia en Semana Santa, destacando por su profundo vínculo con la ciudad de Sevilla.",
@@ -176,17 +176,17 @@
   "barrio": "El Porvenir",
   "diaSalida": "Domingo de Ramos",
   "slug": "la-paz",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://sevilla.abc.es/Media/201312/11/vigen-paz-sevilla--644x362.jpg",
   "imagenes": [
     {
       "titulo": "Nuestro Padre Jesús de la Victoria",
       "escultor": "Antonio Illanes, 1940",
-      "imagen": ""
+      "imagen": "https://s3.abcstatics.com/abc/www/multimedia/sevilla/2025/04/08/lapaz-kVVD-U70609022340niD-750x1600@diario_abc.jpg"
     },
     {
       "titulo": "María Santísima de la Paz",
       "escultor": "Antonio Illanes, 1939",
-      "imagen": ""
+      "imagen": "https://i.pinimg.com/736x/8d/d8/a2/8dd8a29f7f30a266a79b364606bf05a9.jpg"
     }
   ],
   "descripcionCorta": "La Hermandad de la Paz fue fundada en 1939 en el barrio del Porvenir como símbolo del anhelo de reconciliación tras la Guerra Civil. Desde entonces, ha crecido con fuerte arraigo vecinal, siendo referente de la Semana Santa sevillana cada Domingo de Ramos con sus titulares: Jesús de la Victoria y María Santísima de la Paz.",
@@ -216,22 +216,22 @@
   "barrio": "Santa Catalina",
   "diaSalida": "Domingo de Ramos",
   "slug": "la-cena",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://www.diariodesevilla.es/contenidos/programa-semana-santa-sevilla/img/img_ficha/la-cena.jpg",
   "imagenes": [
     {
       "titulo": "Señor de la Sagrada Cena",
       "escultor": "Sebastián Santos Rojas, 1955",
-      "imagen": ""
+      "imagen": "https://sevilla.abc.es/pasionensevilla/wp-content/uploads/sites/2/eventos/2024/02/cena-misterio-bandera.jpg"
     },
     {
       "titulo": "Santísimo Cristo de la Humildad y Paciencia",
       "escultor": "Anónimo, siglo XVI",
-      "imagen": ""
+      "imagen": "https://i.pinimg.com/736x/57/34/24/5734247378272762b6f887e27bc0ef76.jpg"
     },
     {
       "titulo": "Nuestra Señora del Subterráneo Reina de los Cielos y la Tierra",
       "escultor": "Juan de Astorga, 1829",
-      "imagen": ""
+      "imagen": "https://2img.net/h/fotos.subefotos.com/d7d0d8c605164c80fd4ba14865dcaa0co.jpg"
     }
   ],
   "descripcionCorta": "Hermandad sacramental con orígenes en el siglo XVI, que representa la Última Cena y el Cristo de la Humildad y Paciencia en el Domingo de Ramos sevillano. Reside en la iglesia de Los Terceros y es pionera en la proclamación de la Realeza de María.",
@@ -250,17 +250,17 @@
   "barrio": "San Roque",
   "diaSalida": "Domingo de Ramos",
   "slug": "san-roque",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2023/02/14/san-roque-domingo-ramos-semana-santa-virgen-misterio-U47030836724pzO-600x315@abc.jpg",
   "imagenes": [
     {
       "titulo": "Nuestro Padre Jesús de las Penas",
       "escultor": "Antonio Illanes, 1939",
-      "imagen": ""
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2023/02/14/san-roque-domingo-ramos-semana-santa-virgen-jesus-penas-R93vvvjDxQ0GCP9eYY6VuyH-750x1600@abc.jpg"
     },
     {
       "titulo": "Nuestra Señora de Gracia y Esperanza",
       "escultor": "José Manuel Rodríguez Fernández-Andes, 1938",
-      "imagen": ""
+      "imagen": "https://i0.wp.com/hermandadsanroque.com/wp-content/uploads/2022/01/image-33-11-e1662060802989.jpeg?fit=534%2C800&ssl=1"
     }
   ],
   "descripcionCorta": "La Hermandad de San Roque de Sevilla, fundada en el siglo XVI y reorganizada en 1901, realiza su estación de penitencia el Domingo de Ramos. Procesiona con las imágenes de Nuestro Padre Jesús de las Penas y María Santísima de Gracia y Esperanza desde su sede en la parroquia de San Roque.",
@@ -279,17 +279,17 @@
   "barrio": "Feria",
   "diaSalida": "Domingo de Ramos",
   "slug": "la-amargura",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://sevilla.abc.es/pasionensevilla/wp-content/uploads/sites/2/eventos/2023/12/amargura-cristo-bandera.jpg",
   "imagenes": [
     {
       "titulo": "Nuestro Padre Jesús del Silencio en el Desprecio de Herodes",
       "escultor": "Rostro: Pedro Roldán (1698), Manos: Sebastián Santos (1935), Cuerpo: Vasallo (1951)",
-      "imagen": ""
+      "imagen": "https://i.pinimg.com/736x/49/be/41/49be41df352e7422157fe942d15ae765.jpg"
     },
     {
       "titulo": "María Santísima de la Amargura",
-      "escultor": "Anónimo, ca. 1700",
-      "imagen": ""
+      "escultor": "Anónimo, 1700",
+      "imagen": "https://www.amargura.org/wp-content/uploads/2024/12/Amargura-19-scaled.jpg"
     }
   ],
   "descripcionCorta": "La Hermandad de la Amargura es una cofradía sevillana del Domingo de Ramos con sede en San Juan de la Palma. Se distingue por su carácter serio, su sobriedad clásica y su devoción mariana profundamente arraigada.",
@@ -308,17 +308,17 @@
   "barrio": "Triana",
   "diaSalida": "Domingo de Ramos",
   "slug": "la-estrella",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://s1.abcstatics.com/abc/sevilla/media/MM/2019/04/14/s/Estrella-domingo-Ramos%20(44)_xoptimizadax-kdLH--1350x900@abc.jpg",
   "imagenes": [
     {
       "titulo": "Nuestro Padre Jesús de las Penas",
       "escultor": "José de Arce, 1955",
-      "imagen": ""
+      "imagen": "https://www.sevillaactualidad.com/wp-content/uploads/2023/04/estrella-12-1200x675.jpg"
     },
     {
       "titulo": "María Santísima de la Estrella",
       "escultor": "Taller de Arcos-Roldán, siglo XVII",
-      "imagen": ""
+      "imagen": "https://www.diariodesevilla.es/contenidos/programa-semana-santa-sevilla/img/img_ficha/la-estrella.jpg"
     }
   ],
   "descripcionCorta": "La Hermandad de la Estrella, fundada en 1560 en Triana, es una de las cofradías más emblemáticas de Sevilla, destacando por la devoción a su Virgen coronada y al Cristo de las Penas. Cada Domingo de Ramos llena de emoción las calles sevillanas.",
@@ -489,21 +489,21 @@
   "fundacion": 1956,
   "nazarenos": 1800,
   "hermanos": 4500,
-  "escudo": "",
+  "escudo": "https://santagenoveva.com/wp-content/uploads/2021/04/logo-sin-optimizar.png",
   "barrio": "Tiro de Línea",
   "diaSalida": "Lunes Santo",
   "slug": "santa-genoveva",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3bcCvW6GbyFtkk0PB4KF5GDxv2KLuxfz0-wjWQzXS65lNxkDQJGkZwcce_-hhCkSubNnvgKJR1ttu-Ct3af4fNJwC4oFG-77GEvGTl4DNvelLGRffLPJSWH96m42WXCUi-CMn2BAYrHY/s1600/DSC_1466.jpg",
   "imagenes": [
     {
       "titulo": "Nuestro Padre Jesús Cautivo",
       "escultor": "José Paz Vélez, 1957",
-      "imagen": ""
+      "imagen": "https://s3.abcstatics.com/abc/www/multimedia/sevilla/2024/03/14/cristo-santa-genoveva-RFlAixtDcmpwFkUdSzgEoaN-562x1200@diario_abc.jpg"
     },
     {
       "titulo": "Nuestra Señora de las Mercedes",
       "escultor": "José Paz Vélez, 1956",
-      "imagen": ""
+      "imagen": "https://santagenoveva.com/wp-content/uploads/2021/09/Juan-Adrian-Calderon-_-Mercedes-Reina-_-mayo20-11.jpg"
     }
   ],
   "descripcionCorta": "La Hermandad de Santa Genoveva, fundada en 1956 en el barrio del Tiro de Línea, es una de las corporaciones más jóvenes de la Semana Santa de Sevilla. Destaca por su fuerte vinculación parroquial y su carácter popular y cercano.",
@@ -530,16 +530,16 @@
   "fundacion": 1949,
   "nazarenos": 900,
   "hermanos": 2400,
-  "escudo": "",
+  "escudo": "https://hermandaddesantamarta.org/wp-content/uploads/2021/08/Escudo-Santa-Marta-web.png",
   "barrio": "San Andrés",
   "diaSalida": "Lunes Santo",
   "slug": "santa-marta",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://upload.wikimedia.org/wikipedia/commons/d/de/El_Misterio_de_Santa_Marta_saliendo_de_la_Catedral.jpg",
   "imagenes": [
     {
       "titulo": "Misterio del Traslado al Sepulcro",
       "escultor": "Cristo: Luis Ortega Bru, 1953 / Nuestra Señora de las Penas: Sebastián Santos, 1958 / Santa Marta: Sebastián Santos, 1950",
-      "imagen": ""
+      "imagen": "https://www.sevillaactualidad.com/wp-content/uploads/2024/03/santa-marta-2-1200x900.jpg"
     }
   ],
   "descripcionCorta": "La Hermandad de Santa Marta de Sevilla es una cofradía del Lunes Santo que representa el Traslado al Sepulcro, destacando por su impresionante paso procesional y su origen en el gremio de hostelería, fusionada en 1982 con la histórica Hermandad Sacramental de San Andrés.",
@@ -566,21 +566,21 @@
   "fundacion": 1942,
   "nazarenos": 3600,
   "hermanos": 7700,
-  "escudo": "",
+  "escudo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcK3KNCCKu8m9lCiY5nd3SJmvVlHhmPjrsMA&s",
   "barrio": "Triana",
   "diaSalida": "Lunes Santo",
   "slug": "san-gonzalo",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://static.grupojoly.com/clip/a5f6df35-7051-49d4-8b05-c4ede842b571_source-aspect-ratio_1600w_0_x1083y911.jpg",
   "imagenes": [
     {
       "titulo": "Nuestro Padre Jesús del Soberano Poder ante Caifás",
       "escultor": "Luis Ortega Bru, 1975",
-      "imagen": ""
+      "imagen": "https://s3.abcstatics.com/abc/www/multimedia/sevilla/2025/04/08/1479220875(1)-kn0G-U70625775634bEH-750x1600@diario_abc.jpg"
     },
     {
       "titulo": "Nuestra Señora de la Salud",
       "escultor": "Luis Ortega Bru, 1977",
-      "imagen": ""
+      "imagen": "../src/img/la-salud.jpg"
     }
   ],
   "descripcionCorta": "La Hermandad de San Gonzalo, fundada en 1942 en el barrio de Triana, es una joven pero fervorosa cofradía que destaca por su fuerte arraigo popular, su gran labor caritativa y su vibrante devoción a Nuestro Padre Jesús en su Soberano Poder y a Nuestra Señora de la Salud Coronada.",
@@ -607,21 +607,21 @@
   "fundacion": 1448,
   "nazarenos": 800,
   "hermanos": 1600,
-  "escudo": "",
+  "escudo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRiifptUE8pNzlTTQwXjEaqhYTwpOuGY6eNw&s",
   "barrio": "Centro",
   "diaSalida": "Lunes Santo",
   "slug": "vera+cruz",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://veracruzsevilla.org/wp-content/uploads/2024/06/MNJ_4793-scaled.jpg",
   "imagenes": [
     {
       "titulo": "Santísimo Cristo de la Vera Cruz",
       "escultor": "Anónimo, siglo XV",
-      "imagen": ""
+      "imagen": "https://veracruzsevilla.org/wp-content/uploads/2024/06/MNJ_4816-scaled.jpg"
     },
     {
       "titulo": "María Santísima de las Tristezas",
       "escultor": "Antonio Illanes, 1942",
-      "imagen": ""
+      "imagen": "https://veracruzsevilla.org/wp-content/uploads/2024/06/principal2-scaled.jpg"
     }
   ],
   "descripcionCorta": "Fundada en 1448, la Hermandad de la Vera Cruz es una de las cofradías más antiguas y emblemáticas de Sevilla. Heredera del espíritu franciscano, destaca por su sobriedad, profunda espiritualidad y su importante labor caritativa.",
@@ -648,21 +648,21 @@
   "fundacion": 1875,
   "nazarenos": 900,
   "hermanos": 1960,
-  "escudo": "",
+  "escudo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTO_fI-NQLlWszvND8ylBBddDog2Nz9oWnIRrboJFPW9nka5mmzvWEMRJKshvAFe_fw94Njx6tHXNRq-qsyEW-Wz1KUAl2r78ggtko9XnnRt6-H3QVFtaUtmgCA6UdSYrLrn1-4iZ5Qian/s1600/02.gif",
   "barrio": "San Vicente",
   "diaSalida": "Lunes Santo",
   "slug": "las-penas",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://elegirhoy.com/uploads/fichas-eventos-imagenes/laspenasOF1.JPG",
   "imagenes": [
     {
       "titulo": "Nuestro Padre Jesús de las Penas",
       "escultor": "Pedro Roldán, siglo XVII",
-      "imagen": ""
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f4/SemanaSantaSevillaPenas2.jpg"
     },
     {
       "titulo": "María Santísima de los Dolores",
       "escultor": "Anónimo, siglo XVIII",
-      "imagen": ""
+      "imagen": "https://s1.abcstatics.com/abc/sevilla/media/pasionensevilla/2018/04/penas-palio-rechi-1.jpg"
     }
   ],
   "descripcionCorta": "La Hermandad de Las Penas de San Vicente es una cofradía sevillana fundada en 1875, que rinde culto a Jesús de las Penas y la Virgen de los Dolores. Conocida por su estilo sobrio y profundo, destaca por su compromiso con la caridad y su legado artístico, como la singular cruz de carey del Señor.",
@@ -689,21 +689,21 @@
   "fundacion": 1750,
   "nazarenos": 700,
   "hermanos": 2000,
-  "escudo": "",
+  "escudo": "https://lasaguas.es/wp-content/uploads/2022/11/Escudo-png-copia-270x300.png",
   "barrio": "Arenal",
   "diaSalida": "Lunes Santo",
   "slug": "las-aguas",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://static.grupojoly.com/clip/1d92711d-fbc0-43fd-8718-07845f441102_source-aspect-ratio_1600w_0_x1150y813.jpg",
   "imagenes": [
     {
       "titulo": "Santísimo Cristo de las Aguas",
       "escultor": "Antonio Illanes, 1942",
-      "imagen": ""
+      "imagen": "https://s2.abcstatics.com/abc/www/multimedia/sevilla/2025/04/08/1479223248(1)-k0v-U706408993360GG-750x1600@diario_abc.jpg"
     },
     {
       "titulo": "María Santísima de Guadalupe",
       "escultor": "Luis Álvarez Duarte, 1965",
-      "imagen": ""
+      "imagen": "https://lasaguas.es/wp-content/uploads/2023/07/IMG_0678-e1698187956802-716x1024.jpg"
     }
   ],
   "descripcionCorta": "La Hermandad de Las Aguas es una cofradía de penitencia del Lunes Santo sevillano, fruto de la fusión de varias hermandades históricas. Con sede en la Capilla del Rosario en el Arenal, destaca por su profundo legado devocional, su resiliencia histórica y su cuidada puesta en escena procesional.",
@@ -730,21 +730,21 @@
   "fundacion": 1575,
   "nazarenos": 1300,
   "hermanos": 3750,
-  "escudo": "",
+  "escudo": "https://www.hermandaddelmuseo.org/wp-content/uploads/2021/03/escudo-museo-293x300-1.png",
   "barrio": "Centro",
   "diaSalida": "Lunes Santo",
   "slug": "el-museo",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://www.diariodesevilla.es/contenidos/programa-semana-santa-sevilla/img/img_ficha/el-museo.jpg",
   "imagenes": [
     {
       "titulo": "Santísimo Cristo de la Expiración",
       "escultor": "Marcos Cabrera, 1575",
-      "imagen": ""
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/SemanaSantaSevillaMuseo2.jpg/1200px-SemanaSantaSevillaMuseo2.jpg"
     },
     {
       "titulo": "María Santísima de las Aguas",
       "escultor": "Cristóbal Ramos, 1772",
-      "imagen": ""
+      "imagen": "https://s3.abcstatics.com/abc/www/multimedia/sevilla/2025/04/14/virgen-aguas-1964-U81537535762mlU-760x800@diario_abc.jpg"
     }
   ],
   "descripcionCorta": "Fundada en 1575, la Hermandad del Museo es una de las más antiguas y veneradas de Sevilla. Procesiona cada Lunes Santo desde su histórica Capilla junto al Museo de Bellas Artes, ofreciendo una estación de penitencia marcada por la sobriedad, la belleza artística y una profunda espiritualidad centrada en el Cristo de la Expiración y la Virgen de las Aguas.",
@@ -771,26 +771,26 @@
   "fundacion": 1945,
   "nazarenos": 1400,
   "hermanos": 5000,
-  "escudo": "",
+  "escudo": "https://pbs.twimg.com/profile_images/525694467995885568/xn99CshN_400x400.jpeg",
   "barrio": "Cerro del Águila",
   "diaSalida": "Martes Santo",
   "slug": "el-cerro",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://esnsevilla.org/sites/default/files/inline-images/maxresdefault-2.jpg",
   "imagenes": [
     {
       "titulo": "Nuestro Padre Jesús de la Humildad",
       "escultor": "Juan Manuel Miñarro, 2004",
-      "imagen": ""
+      "imagen": "https://www.sevillaactualidad.com/wp-content/uploads/2019/04/Hermandad-del-Cerro-Nazareno-1.jpg"
     },
     {
       "titulo": "Santísimo Cristo del Desamparo y Abandono",
       "escultor": "Francisco de Ocampo, siglo XVII",
-      "imagen": ""
+      "imagen": "https://www.sevillaactualidad.com/wp-content/uploads/2024/03/cerro-del-aguila-1.jpg"
     },
     {
       "titulo": "Nuestra Señora de los Dolores",
       "escultor": "Sebastián Santos, 1955",
-      "imagen": ""
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2024/03/26/cerro-aguila-sevilla-2024-(7)_xoptimizadax.jpg"
     }
   ],
   "descripcionCorta": "Hermandad joven del barrio del Cerro del Águila, conocida por su profunda devoción, sobriedad y su creciente protagonismo en el Martes Santo sevillano.",
@@ -817,26 +817,26 @@
   "fundacion": 1554,
   "nazarenos": 1900,
   "hermanos": 5200,
-  "escudo": "",
+  "escudo": "https://hermandaddesanbenito.net/wp-content/uploads/2022/12/escudo-transparente-284x300.png",
   "barrio": "La Calzada",
   "diaSalida": "Martes Santo",
   "slug": "san-benito",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://www.diariodesevilla.es/contenidos/programa-semana-santa-sevilla/img/img_ficha/san-benito.jpg",
   "imagenes": [
     {
       "titulo": "Nuestro Padre Jesús en su Presentación al Pueblo",
       "escultor": "Antonio Castillo Lastrucci, 1928",
-      "imagen": ""
+      "imagen": "https://i.pinimg.com/564x/fa/59/f6/fa59f6811ff8e85ca315059b822b66d2.jpg"
     },
     {
       "titulo": "Santísimo Cristo de la Sangre",
       "escultor": "Francisco Buiza, 1966",
-      "imagen": ""
+      "imagen": "https://hermandaddesanbenito.net/wp-content/uploads/2023/03/2010-Sangre-03.jpg"
     },
     {
       "titulo": "Nuestra Señora de la Encarnación",
       "escultor": "Anónimo, siglo XVII",
-      "imagen": ""
+      "imagen": "https://s1.abcstatics.com/abc/sevilla/media/pasionensevilla/2014/08/sanbenito-palio-ja.jpg"
     }
   ],
   "descripcionCorta": "Hermandad de gran tradición en Sevilla, radicada en el barrio de la Calzada. Procesiona el Martes Santo con tres pasos que representan momentos clave de la Pasión: la Oración en el Huerto, el Cristo de la Sangre y la Virgen de la Encarnación. Destaca por su seriedad, orden y esplendor estético.",
@@ -863,21 +863,21 @@
   "fundacion": 1585,
   "nazarenos": 800,
   "hermanos": 2400,
-  "escudo": "",
+  "escudo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzoMQeh7A0UDVqU2_xrVC23jb1DvB3wtvX2w&s",
   "barrio": "San Lorenzo",
   "diaSalida": "Martes Santo",
   "slug": "dulce-nombre",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://semanasantaenespana.com/wp-content/uploads/2018/10/MG_5120.jpg",
   "imagenes": [
     {
       "titulo": "Nuestro Padre Jesús ante Anás",
       "escultor": "Antonio Castillo Lastrucci, 1922/23",
-      "imagen": ""
+      "imagen": "https://s2.abcstatics.com/abc/www/multimedia/sevilla/2024/03/14/dulce_nombre-RejhpIRzkQHEEHWNEDpQISK-562x1200@diario_abc.jpg"
     },
     {
       "titulo": "María Santísima del Dulce Nombre",
       "escultor": "Antonio Castillo Lastrucci, 1924",
-      "imagen": ""
+      "imagen": "https://hermandaddeldulcenombre.org/wp-content/uploads/2015/09/IMG-20211003-WA0058-683x1024.jpg"
     }
   ],
   "descripcionCorta": "Hermandad penitencial de gran arraigo en Sevilla, destaca por su devoción al Dulce Nombre de Jesús y su íntima conexión con el barrio de San Lorenzo.",
@@ -904,21 +904,21 @@
   "fundacion": 1921,
   "nazarenos": 1300,
   "hermanos": 3633,
-  "escudo": "",
+  "escudo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsp-jS9hRq_st5mZyviOuuUFVITU1-_YxxLA&s",
   "barrio": "Judería",
   "diaSalida": "Martes Santo",
   "slug": "la-candelaria",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://sevilla.abc.es/pasionensevilla/wp-content/uploads/sites/2/eventos/2023/03/candelaria-cristo-bandera.jpg",
   "imagenes": [
     {
       "titulo": "Nuestro Padre Jesús de la Salud",
       "escultor": "Francisco de Ocampo, siglo XVII",
-      "imagen": ""
+      "imagen": "https://thumbs.dreamstime.com/b/cristo-de-la-salud-hermandad-candelaria-semana-santa-en-sevilla-jes%C3%BAs-con-cruz-al-hombro-161160848.jpg"
     },
     {
       "titulo": "María Santísima de la Candelaria",
       "escultor": "Manuel Galiano, 1923",
-      "imagen": ""
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2024/03/14/candelaria-Rr3zEVDCVE2vpGt3OZYvFyI-562x1200@diario_abc.jpg"
     }
   ],
   "descripcionCorta": "La Hermandad de la Candelaria es una cofradía sevillana con profunda devoción mariana, conocida por su elegancia, recogimiento y marcado carácter familiar, procesionando cada Martes Santo desde la Parroquia de San Nicolás.",
@@ -945,21 +945,21 @@
   "fundacion": 1926,
   "nazarenos": 1000,
   "hermanos": 3020,
-  "escudo": "",
+  "escudo": "https://www.hermandadsanesteban.org/wp-content/uploads/2020/11/ESCUDO-3x3-1.png",
   "barrio": "Judería",
   "diaSalida": "Martes Santo",
   "slug": "san-esteban",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://s3.abcstatics.com/abc/sevilla/media/MM/2016/03/22/s/San-Esteban%20(6)_xoptimizadax--1472x900.jpg",
   "imagenes": [
     {
       "titulo": "Nuestro Padre Jesús de la Salud y Buen Viaje",
       "escultor": "Anónimo, siglo XVI",
-      "imagen": ""
+      "imagen": "https://www.rafaes.com/glorias-2008/RAFAES-412957917414988177757452680114.jpg"
     },
     {
       "titulo": "María Santísima Madre de los Desamparados",
       "escultor": "Manuel Galiano, 1923",
-      "imagen": ""
+      "imagen": "https://pbs.twimg.com/media/ECPVGetXsAEWZRv.jpg:large"
     }
   ],
   "descripcionCorta": "Hermandad fundada en 1926 con sede en la iglesia de San Esteban. Procesiona el Martes Santo con el Cristo de la Salud, una imagen del siglo XVI, y la Virgen de los Desamparados, destacando por su estilo neobarroco y su relevante papel en la historia reciente de la Semana Santa sevillana.",
@@ -986,21 +986,21 @@
   "fundacion": 1945,
   "nazarenos": 400,
   "hermanos": 1400,
-  "escudo": "",
+  "escudo": "https://javieres.com/wp-content/uploads/2021/10/cropped-cropped-NUEVO-ESCUDO-3.png",
   "barrio": "Feria",
   "diaSalida": "Martes Santo",
   "slug": "los-javieres",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://www.diariodesevilla.es/contenidos/programa-semana-santa-sevilla/img/img_ficha/los-javieres.jpg",
   "imagenes": [
     {
       "titulo": "Santísimo Cristo de las Almas",
       "escultor": "José Luis Pires Azcárraga, 1945",
-      "imagen": ""
+      "imagen": "https://javieres.com/wp-content/uploads/2021/10/JMS1125-scaled.jpeg"
     },
     {
       "titulo": "María Santísima de Gracia",
       "escultor": "Fernández Andes, 1945",
-      "imagen": ""
+      "imagen": "https://static.grupojoly.com/clip/379d552d-e91f-4f04-bfc7-8661528d0b86_source-aspect-ratio_1600w_0.jpg"
     }
   ],
   "descripcionCorta": "La Hermandad de Los Javieres, fundada en 1945 dentro del ámbito jesuita, es una corporación del Martes Santo sevillano que destaca por su juventud, su origen en la formación cristiana de trabajadores y su fuerte impronta espiritual y cofrade.",
@@ -1027,21 +1027,21 @@
   "fundacion": 1924,
   "nazarenos": 1900,
   "hermanos": 5320,
-  "escudo": "",
+  "escudo": "https://hermandaddelosestudiantes.es/wp-content/uploads/2016/01/Escudo-antifaz.jpg",
   "barrio": "Centro",
   "diaSalida": "Martes Santo",
   "slug": "los-estudiantes",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://static.grupojoly.com/clip/f4398b49-19e4-4613-b437-acf245dc6c64_source-aspect-ratio_1600w_0.jpg",
   "imagenes": [
     {
       "titulo": "Santísimo Cristo de la Buena Muerte",
       "escultor": "Juan de Mesa y Velasco, 1620",
-      "imagen": ""
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/SemanaSantaSevillaEstudiantes3.jpg/1200px-SemanaSantaSevillaEstudiantes3.jpg"
     },
     {
       "titulo": "María Santísima de las Angustias",
       "escultor": "Juan de Astorga, 1817",
-      "imagen": ""
+      "imagen": "https://pbs.twimg.com/media/B6GzJBRCMAAvnqK.jpg"
     }
   ],
   "descripcionCorta": "Hermandad universitaria fundada en 1924, conocida por su solemne estación de penitencia el Martes Santo con el imponente Cristo de la Buena Muerte de Juan de Mesa. Su sede está en la capilla de la Universidad de Sevilla.",
@@ -1068,21 +1068,21 @@
   "fundacion": 1904,
   "nazarenos": 730,
   "hermanos": 2200,
-  "escudo": "",
+  "escudo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Escudo_oficial_de_la_Hermandad_de_Santa_Cruz.png",
   "barrio": "Santa Cruz",
   "diaSalida": "Martes Santo",
   "slug": "santa-cruz",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://s3.abcstatics.com/abc/sevilla/media/pasionensevilla/2020/03/santa-cruz-martes-santo-semana-santa-sevilla-5.jpg",
   "imagenes": [
     {
       "titulo": "Santísimo Cristo de las Misericordias",
       "escultor": "Anónimo, siglo XVII",
-      "imagen": ""
+      "imagen": "https://previews.123rf.com/images/aciero/aciero1703/aciero170300136/74932179-hermandad-de-la-hermandad-de-santa-cruz-en-la-procesi%C3%B3n-de-semana-santa-en-sevilla.jpg"
     },
     {
       "titulo": "Nuestra Señora de los Dolores",
       "escultor": "Antonio Eslava, 1967",
-      "imagen": ""
+      "imagen": "https://pbs.twimg.com/media/Fr5E2g4WwAER364.jpg:large"
     }
   ],
   "descripcionCorta": "La Hermandad de Santa Cruz es una cofradía del Martes Santo sevillano, conocida por su sobriedad, recogimiento y fidelidad a la tradición, con sede en la Parroquia de Santa Cruz.",
@@ -1104,26 +1104,26 @@
   ]
 },
 {
-  "nombre": "Carmen",
+  "nombre": "El Carmen",
   "sede": "Iglesia de Omnium Sanctorum",
   "fundacion": 1982,
   "nazarenos": 865,
   "hermanos": 1700,
-  "escudo": "",
+  "escudo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Escudo_de_la_Hermandad_del_Carmen.png/1200px-Escudo_de_la_Hermandad_del_Carmen.png",
   "barrio": "Feria",
   "diaSalida": "Miércoles Santo",
-  "slug": "carmen",
-  "imagenPrincipal": "",
+  "slug": "el-carmen",
+  "imagenPrincipal": "https://www.hermandaddelcarmen.es/wp-content/uploads/2024/04/hermandaddelcarmen_slide_inicio.webp",
   "imagenes": [
     {
       "titulo": "Nuestro Padre Jesús de la Paz",
       "escultor": "Francisco Reyes Villadiego, 1990",
-      "imagen": ""
+      "imagen": "https://www.diariodesevilla.es/contenidos/programa-semana-santa-sevilla/img/img_ficha/el-carmen-doloroso.jpg"
     },
     {
       "titulo": "Nuestra Señora del Carmen en sus Misterios Dolorosos",
       "escultor": "Francisco Berlanga, 1984",
-      "imagen": ""
+      "imagen": "https://s1.abcstatics.com/abc/sevilla/media/pasionensevilla/2021/03/16/s/carmen-raul-doblado-k8BC--1248x698@abc.jpg"
     }
   ],
   "descripcionCorta": "Hermandad sevillana fundada en 1982 con una profunda vocación carmelita y solidaria, que desde 2007 forma parte de la Semana Santa de Sevilla, destacando por su devoción al Señor de la Paz y a Nuestra Señora del Carmen en sus Misterios Dolorosos.",
@@ -1139,26 +1139,26 @@
   ]
 },
 {
-  "nombre": "Sed",
+  "nombre": "La Sed",
   "sede": "Parroquia de la Concepción Inmaculada",
   "fundacion": 1969,
   "nazarenos": 1400,
   "hermanos": 4200,
-  "escudo": "",
+  "escudo": "https://hermandaddelased.org/wp-content/uploads/2024/11/Moises-Romero-Navarro-1024x1024.png",
   "barrio": "Nervión",
   "diaSalida": "Miércoles Santo",
-  "slug": "sed",
-  "imagenPrincipal": "",
+  "slug": "la-sed",
+  "imagenPrincipal": "https://www.gentedepaz.es/wp-content/uploads/2024/05/Sed.jpg",
   "imagenes": [
     {
       "titulo": "Santísimo Cristo de la Sed",
       "escultor": "Luis Álvarez Duarte, 1970",
-      "imagen": ""
+      "imagen": "https://hermandaddelased.org/wp-content/uploads/2025/02/129.jpg"
     },
     {
       "titulo": "Santa María de Consolación Madre de la Iglesia",
       "escultor": "Antonio Dubé de Luque, 1969",
-      "imagen": ""
+      "imagen": "https://hermandaddelased.org/wp-content/uploads/2025/02/paliodenoche.jpg"
     }
   ],
   "descripcionCorta": "La Hermandad de la Sed, fundada en 1968 en la Parroquia de la Concepción Inmaculada de Nervión, es fruto del espíritu renovador del Concilio Vaticano II y de una profunda devoción popular, tomando como titulares al Santísimo Cristo de la Sed y a Nuestra Señora de Consolación, Madre de la Iglesia.",
@@ -1179,21 +1179,21 @@
   "fundacion": 1560,
   "nazarenos": 750,
   "hermanos": 2150,
-  "escudo": "",
+  "escudo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpn_8QmI985uR0ra31GIag8d-Tk27nmiK2gg&s",
   "barrio": "San Lorenzo",
   "diaSalida": "Miércoles Santo",
   "slug": "buen-fin",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://static.grupojoly.com/clip/1d49debf-e903-4cf8-b2ee-77e9d70518b5_source-aspect-ratio_1600w_0.jpg",
   "imagenes": [
     {
       "titulo": "Santísimo Cristo del Buen Fin",
       "escultor": "Sebastián Rodríguez, 1645",
-      "imagen": ""
+      "imagen": "https://s3.abcstatics.com/abc/www/multimedia/sevilla/2025/04/08/1479296533(1)-kKxE-U70641525800N9F-750x1600@diario_abc.jpg"
     },
     {
       "titulo": "Nuestra Señora de la Palma",
       "escultor": "Anónimo, siglo XVII",
-      "imagen": ""
+      "imagen": "https://hermandadbuenfin.es//wp-content/uploads/2022/11/phoca_thumb_l_2.jpg"
     }
   ],
   "descripcionCorta": "La Hermandad del Buen Fin, de raíces franciscanas y sede en San Antonio de Padua, procesiona cada Miércoles Santo con el Cristo del Buen Fin y Nuestra Señora de la Palma, destacando por su sobriedad, elegancia clásica y su histórica vinculación militar.",
@@ -1214,21 +1214,21 @@
   "fundacion": 1764,
   "nazarenos": 2525,
   "hermanos": 5600,
-  "escudo": "",
+  "escudo": "https://www.hermandaddesanbernardo.com/wp-content/uploads/Escudo-de-San-Bernardo_1-236x300.png",
   "barrio": "San Bernardo",
   "diaSalida": "Miércoles Santo",
   "slug": "san-bernardo",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://www.sevillaactualidad.com/wp-content/uploads/2023/04/cristtto-sanbernardo-campana-1200x675.jpg",
   "imagenes": [
     {
       "titulo": "Santísimo Cristo de la Salud",
       "escultor": "Andrés Cansino, 1669",
-      "imagen": ""
+      "imagen": "https://www.hermandaddesanbernardo.com/wp-content/uploads/PASOCRISTO2.jpg"
     },
     {
       "titulo": "María Santísima del Refugio",
       "escultor": "Sebastián Santos, 1939",
-      "imagen": ""
+      "imagen": "https://www.hermandaddesanbernardo.com/wp-content/uploads/PASODEVIRGEN1.jpg"
     }
   ],
   "descripcionCorta": " Hermandad histórica del barrio de San Bernardo, surgida de la fusión de varias corporaciones sacramentales, gloriosas y penitenciales, destacando por su profunda devoción eucarística, su papel en la historia social de Sevilla y su reconocida vinculación con el mundo del toreo.",
@@ -1249,21 +1249,21 @@
   "fundacion": 1595,
   "nazarenos": 800,
   "hermanos": 1600,
-  "escudo": "",
+  "escudo": "https://pbs.twimg.com/profile_images/1346214896522948617/xExFvT4e_400x400.jpg",
   "barrio": "San Martín",
   "diaSalida": "Miércoles Santo",
   "slug": "la-lanzada",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://2img.net/h/fotos.subefotos.com/330ae4e49fb5e5434aafa97f5bc33948o.jpg",
   "imagenes": [
     {
       "titulo": "Santísimo Cristo de la Lanzada",
       "escultor": "Antonio Illanes, 1971",
-      "imagen": ""
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2025/04/08/1464040816(1)-kSdH-U70651660153PmE-750x1600@diario_abc.jpg"
     },
     {
       "titulo": "María Santísima del Buen Fin",
       "escultor": "Juan de Astorga, 1810",
-      "imagen": ""
+      "imagen": "https://as1.ftcdn.net/v2/jpg/01/36/99/36/1000_F_136993611_uSukyMuwVa6a2QA5DhIQ5r2WXymYrZEc.jpg"
     }
   ],
   "descripcionCorta": "La Hermandad de la Sagrada Lanzada, con más de cuatro siglos de historia, representa la fusión de profundas tradiciones penitenciales, sacramentales y de gloria en Sevilla. Su historia está marcada por una rica evolución devocional y artística, culminando en una destacada estación de penitencia cada Miércoles Santo.",
@@ -1279,31 +1279,26 @@
   ]
 },
 {
-  "nombre": "Baratillo",
+  "nombre": "El Baratillo",
   "sede": "Capilla de la Piedad del Baratillo",
   "fundacion": 1693,
   "nazarenos": 1950,
   "hermanos": 5000,
-  "escudo": "",
+  "escudo": "https://hermandadelbaratillo.es/wp-content/uploads/2016/09/escudo_oficial.jpg",
   "barrio": "Arenal",
   "diaSalida": "Miércoles Santo",
-  "slug": "baratillo",
-  "imagenPrincipal": "",
+  "slug": "el-baratillo",
+  "imagenPrincipal": "https://www.diariodesevilla.es/contenidos/programa-semana-santa-sevilla/img/img_ficha/el-baratillo.jpg",
   "imagenes": [
     {
-      "titulo": "Santísimo Cristo de la Misericordia",
-      "escultor": "Luis Ortega Bru, 1950",
-      "imagen": ""
-    },
-    {
-      "titulo": "Nuestra Señora de la Piedad",
-      "escultor": "Fernández Andes, 1945",
-      "imagen": ""
+      "titulo": "Santísimo Cristo de la Misericordia y Nuestra Señora de la Piedad",
+      "escultor": "Luis Ortega Bru, 1950 y Fernández Andes, 1945",
+      "imagen": "https://101tvsevilla.es/wp-content/uploads/2024/02/PIEDAD-DEL-BARATILLO-1920x1231.jpg"
     },
     {
       "titulo": "María Santísima de la Caridad en su Soledad",
       "escultor": "Fernández Andes, 1931",
-      "imagen": ""
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2024/09/06/caridad-manuel-gomez-RGgKc8Rw12NdpkMlJ0TgoaM-1200x840@diario_abc.jpg"
     }
   ],
   "descripcionCorta": "La Hermandad del Baratillo, fundada en 1693 en el barrio del Arenal, es una de las más antiguas y queridas de Sevilla. Con un fuerte carácter penitencial desde 1892, destaca por sus titulares: el Santísimo Cristo de la Misericordia, Nuestra Señora de la Piedad y María Santísima de la Caridad en su Soledad.",
@@ -1324,21 +1319,21 @@
   "fundacion": 1590,
   "nazarenos": 1100,
   "hermanos": 2500,
-  "escudo": "",
+  "escudo": "https://www.hdadpanaderos.es/wp-content/uploads/2021/03/escudo-512-e1713870830189.png",
   "barrio": "San Andrés",
   "diaSalida": "Miércoles Santo",
   "slug": "los-panaderos",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://www.sevillaactualidad.com/wp-content/uploads/2023/04/cristo-panaderos.jpg",
   "imagenes": [
     {
       "titulo": "Nuestro Padre Jesús del Soberano Poder en su Prendimiento",
       "escultor": "Antonio Castillo Lastrucci, 1945",
-      "imagen": ""
+      "imagen": "https://www.semana-santa.org/wp-content/uploads/2012/02/lospanaderos1.jpg"
     },
     {
       "titulo": "María Santísima de Regla",
       "escultor": "La Roldana, siglo XVII",
-      "imagen": ""
+      "imagen": "https://www.artesacro.org/imagenes/MRO_1291.JPG"
     }
   ],
   "descripcionCorta": "Hermandad del Prendimiento, popularmente conocida como Los Panaderos, es una histórica cofradía sevillana del Miércoles Santo fundada en torno a 1601, con sede en la iglesia de San Andrés y gran arraigo entre el gremio panadero. Destaca por su patrimonio artístico, su vinculación con María Santísima de Regla y su profunda devoción popular.",
@@ -1359,31 +1354,31 @@
   "fundacion": 1595,
   "nazarenos": 400,
   "hermanos": 1200,
-  "escudo": "",
+  "escudo": "https://siete-palabras.com/wp-content/uploads/2020/07/escudo.png",
   "barrio": "San Vicente",
   "diaSalida": "Miércoles Santo",
   "slug": "las-siete-palabras",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://pasionyesperanza.com/wp-content/uploads/2018/09/siete-palabras.jpg",
   "imagenes": [
     {
       "titulo": "Nuestro Padre Jesús de la Divina Misericordia",
       "escultor": "Felipe de Rivas, 1641",
-      "imagen": ""
+      "imagen": "https://s1.abcstatics.com/abc/sevilla/media/MM/2022/04/13/s/siete-palabras-rd(6)_xoptimizadax-U62476578027nBi-1248x698@abc.jpg"
     },
     {
       "titulo": "Santísimo Cristo de las Siete Palabras",
       "escultor": "Felipe Martínez, siglo XVII",
-      "imagen": ""
+      "imagen": "https://www.diariodesevilla.es/contenidos/programa-semana-santa-sevilla/img/img_ficha/las-siete-palabras-.jpg"
     },
     {
       "titulo": "María Santísima de los Remedios",
       "escultor": "Manuel Gutiérrez Reyes-Cano",
-      "imagen": ""
+      "imagen": "https://siete-palabras.com/wp-content/uploads/2021/02/IMG_9771-scaled.jpg"
     },
     {
       "titulo": "Nuestra Señora de la Cabeza",
       "escultor": "Manuel Escamilla, 1956",
-      "imagen": ""
+      "imagen": "https://siete-palabras.com/wp-content/uploads/2020/04/NtraSnraCabeza.jpg"
     }
   ],
   "descripcionCorta": "La Hermandad de las Siete Palabras es una histórica corporación de la Semana Santa de Sevilla con sede en San Vicente. De carácter sacramental, penitencial, glorioso y de ánimas, realiza estación de penitencia cada Miércoles Santo con un profundo mensaje devocional centrado en las últimas palabras de Cristo en la cruz.",
@@ -1404,21 +1399,21 @@
   "fundacion": 1888,
   "nazarenos": 475,
   "hermanos": 1450,
-  "escudo": "",
+  "escudo": "https://pbs.twimg.com/profile_images/797752434051448832/3DaEpoNP_400x400.jpg",
   "barrio": "Centro",
   "diaSalida": "Miércoles Santo",
   "slug": "el-cristo-de-burgos",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://s3.abcstatics.com/abc/sevilla/media/MM/2020/04/03/s/cristo-burgos-cofradia(15)_xoptimizadax-kpAG--1352x900@abc.jpg",
   "imagenes": [
     {
       "titulo": "Cristo de Burgos",
       "escultor": "Juan Bautista Vázquez, 1573",
-      "imagen": ""
+      "imagen": "https://lacamaradelarte.com/wp-content/uploads/2023/03/FQPtns9XIAUdsXr.jpg"
     },
     {
       "titulo": "Madre de Dios de la Palma",
       "escultor": "Manuel Gutiérrez Reyes-Cano, 1894",
-      "imagen": ""
+      "imagen": "https://www.cristodeburgos.es/wp-content/uploads/2022/03/IMG-20190416-WA0045.jpg"
     }
   ],
   "descripcionCorta": "Hermandad sobria y recogida del Miércoles Santo sevillano, cuya imagen titular, el Santísimo Cristo de Burgos, es una joya del manierismo sevillano del siglo XVI. Destaca por su espiritualidad, austeridad y profundo sentido litúrgico.",
@@ -1439,7 +1434,7 @@
   "fundacion": 1554,
   "nazarenos": 950,
   "hermanos": 2500,
-  "escudo": "",
+  "escudo": "https://www.hermandadlosnegritos.org/wp-content/uploads/2016/02/Escudo.jpg",
   "barrio": "San Roque",
   "diaSalida": "Jueves Santo",
   "slug": "los-negritos",
@@ -1474,7 +1469,7 @@
   "fundacion": 1579,
   "nazarenos": 700,
   "hermanos": 1850,
-  "escudo": "",
+  "escudo": "https://www.laexaltacion.org/wp-content/uploads/2021/02/ESCUDO.png",
   "barrio": "Santa Catalina",
   "diaSalida": "Jueves Santo",
   "slug": "la-exaltacion",
@@ -1509,7 +1504,7 @@
   "fundacion": 1563,
   "nazarenos": 520,
   "hermanos": 2400,
-  "escudo": "",
+  "escudo": "https://www.columnayazotes.es/images/stories/hermandad/escudo.png",
   "barrio": "Los Remedios",
   "diaSalida": "Jueves Santo",
   "slug": "las-cigarreras",
@@ -1544,7 +1539,7 @@
   "fundacion": 1560,
   "nazarenos": 1100,
   "hermanos": 2700,
-  "escudo": "",
+  "escudo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Escudo_de_la_Hermandad_de_Monte-Si%C3%B3n.svg",
   "barrio": "Feria",
   "diaSalida": "Jueves Santo",
   "slug": "monte-sion",
@@ -1579,7 +1574,7 @@
   "fundacion": 1500,
   "nazarenos": 800,
   "hermanos": 2500,
-  "escudo": "",
+  "escudo": "https://laquintaangustia.org/wp-content/uploads/escudoQuinta-39.jpg",
   "barrio": "Magdalena",
   "diaSalida": "Jueves Santo",
   "slug": "la-quinta-angustia",
@@ -1614,7 +1609,7 @@
   "fundacion": 1450,
   "nazarenos": 650,
   "hermanos": 2500,
-  "escudo": "",
+  "escudo": "https://i.pinimg.com/564x/06/19/94/061994741ebbb3145b903edf7afe84e2.jpg",
   "barrio": "Encarnación",
   "diaSalida": "Jueves Santo",
   "slug": "el-valle",
@@ -1654,7 +1649,7 @@
   "fundacion": 1535,
   "nazarenos": 1500,
   "hermanos": 4300,
-  "escudo": "",
+  "escudo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Escudo_Hermandad_Pasion_%28Sevilla%29.svg/1200px-Escudo_Hermandad_Pasion_%28Sevilla%29.svg.png",
   "barrio": "Centro",
   "diaSalida": "Jueves Santo",
   "slug": "pasion",
@@ -1689,21 +1684,21 @@
   "fundacion": 1340,
   "nazarenos": 1200,
   "hermanos": 4022,
-  "escudo": "",
+  "escudo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Escudo_silencio_trasp.PNG/330px-Escudo_silencio_trasp.PNG",
   "barrio": "Centro",
   "diaSalida": "La Madrugá",
   "slug": "el-silencio",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://estaticos-cdn.prensaiberica.es/clip/65be86e4-942f-4e58-b37b-e5993654c7e5_source-aspect-ratio_default_0.jpg",
   "imagenes": [
     {
       "titulo": "Nuestro Padre Jesús Nazareno",
       "escultor": "Francisco de Ocampo, 1609",
-      "imagen": ""
+      "imagen": "https://imagenes.eldebate.com/files/vertical_composte_image/uploads/2024/02/28/65df5043246a4.jpeg"
     },
     {
       "titulo": "María Santísima de la Concepción",
       "escultor": "Sebastián Santos, 1954",
-      "imagen": ""
+      "imagen": "https://www.hermandaddeelsilencio.org/wp-content/uploads/2023/08/3X7A7500-scaled.jpg"
     }
   ],
   "descripcionCorta": "La Primitiva Hermandad de los Nazarenos de Sevilla, conocida como El Silencio, es una de las cofradías más antiguas y veneradas de la ciudad. Fundada en 1340, destaca por su sobriedad, profundo recogimiento y su histórica Estación de Penitencia en la madrugada del Viernes Santo.",
@@ -1724,7 +1719,7 @@
   "fundacion": 1431,
   "nazarenos": 2400,
   "hermanos": 12000,
-  "escudo": "",
+  "escudo": "https://www.gran-poder.es/wp-content/uploads/2020/02/ESCUDO2011peque-1.jpg",
   "barrio": "San Lorenzo",
   "diaSalida": "La Madrugá",
   "slug": "gran-poder",
@@ -1759,7 +1754,7 @@
   "fundacion": 1595,
   "nazarenos": 4800,
   "hermanos": 17400,
-  "escudo": "",
+  "escudo": "https://www.hermandaddelamacarena.es/wp-content/uploads/2011/05/01-Escudo-color-890x1024.jpg",
   "barrio": "Macarena",
   "diaSalida": "La Madrugá",
   "slug": "macarena",
@@ -1794,7 +1789,7 @@
   "fundacion": 1886,
   "nazarenos": 900,
   "hermanos": 2300,
-  "escudo": "",
+  "escudo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYKugnzqeGAI-h0bXnEas3trEMaX4pPGsvA&s",
   "barrio": "Magdalena",
   "diaSalida": "La Madrugá",
   "slug": "calvario",
@@ -1831,7 +1826,7 @@
   "hermanos": 14988,
   "barrio": "Triana",
   "diaSalida": "La Madrugá",
-  "escudo": "https://esperanzadetriana.es/wp-content/uploads/2024/02/IMG-20240206-WA0089.jpg",
+  "escudo": "https://esperanzadetriana.es/wp-content/uploads/2022/09/114_heraldica-226x300.png",
   "slug": "esperanza-de-triana",
   "imagenPrincipal": "https://pbs.twimg.com/media/FtqFTQSX0AA3Qu9?format=jpg&name=large",
   "imagenes": [
@@ -1873,51 +1868,51 @@
       ]
     },
     {
-      "titulo": "",
+      "titulo": "Primera Estación de Penitencia y Decadencia (1845-1889)",
       "texto": [
-        ""
+        "En 1845 se produce la primera estación de penitencia de la hermandad a la Catedral de Sevilla. En las décadas siguientes, la hermandad sufre varios altibajos, destacando la incautación de la Capilla de los Marineros en 1868. Esta situación provoca una etapa de decadencia hasta su reorganización en 1888 y la reanudación de la salida procesional en 1889. Ese mismo año, la hermandad resuelve un conflicto con la del Cristo de la Expiración (el Cachorro) por la imagen de la Dolorosa."
       ]
     },
     {
-      "titulo": "",
+      "titulo": "Renovación Devocional y Estética (Finales del XIX - Primer Tercio del XX)",
       "texto": [
-        ""
+        "Un incendio en 1898 dañó la imagen de la Virgen, y su restauración aumentó el fervor popular. Coincide con la influencia de los Duques de Montpensier y artistas como las hermanas Antúnez en el auge del paso de palio. Bajo la dirección espiritual de José Sebastián y Bandarán, se instituyen tradiciones como el septenario y el besamanos. A nivel patrimonial, se define un estilo propio inspirado en la cerámica renacentista trianera."
       ]
     },
     {
-      "titulo": "",
+      "titulo": "Recuperación de la Capilla de los Marineros (1939-1962)",
       "texto": [
-        ""
+        "Gracias a Bandarán, la hermandad recupera en 1939 la Capilla de los Marineros, aunque no será hasta 1962 cuando se complete su restauración. Durante este tiempo, destacan la implicación de figuras como la Infanta Doña Luisa de Orleáns y la consolidación del estilo regionalista cofrade."
       ]
     },
     {
-      "titulo": "",
+      "titulo": "Acontecimientos Relevantes de la Segunda Mitad del Siglo XX",
       "texto": [
-        ""
+        "Entre los hitos destacan la procesión gloriosa de 1950 por el dogma de la Asunción, el nombramiento de la Infantería de Marina como hermana mayor honoraria y la “Operación Clavel” en 1961. En 1972 se fusiona con la Hermandad Sacramental de Santa Ana."
       ]
     },
     {
-      "titulo": "",
+      "titulo": "Coronación Canónica y Consolidación de Identidad (1984)",
       "texto": [
-        ""
+        "El acto más trascendente de la historia reciente fue la Coronación Canónica de la Virgen de la Esperanza en 1984, celebrada en la Catedral de Sevilla. El regreso triunfal a Triana ese 2 de junio congregó a multitudes y consolidó el lema “Triana con su Esperanza”."
       ]
     },
     {
-      "titulo": "",
+      "titulo": "Expansión y Compromiso Social en el Siglo XXI",
       "texto": [
-        ""
+        "La hermandad sigue creciendo con hechos como la incorporación de las mujeres nazarenas en 2003, la presidencia del Vía Crucis en 2006 y la conmemoración del IV centenario de la advocación en 2008. Se crean la Escuela de Teología y el Centro de Apoyo Infantil."
       ]
     },
     {
-      "titulo": "",
+      "titulo": "Patrimonio y Proyección Cultural Reciente (2010 - Actualidad)",
       "texto": [
-        ""
+        "La ampliación de la Capilla de los Marineros y la inauguración del museo Tesoro Devocional en 2010 permiten difundir su patrimonio. En 2015 se culmina la creación de un nuevo altar para el Cristo de las Tres Caídas, reafirmando su identidad marinera y trianera."
       ]
     },
     {
-      "titulo": "",
+      "titulo": "Conclusión: Una Hermandad Viva y Centenaria",
       "texto": [
-        ""
+        "Este recorrido histórico evidencia la capacidad de la Hermandad de la Esperanza de Triana para adaptarse y evolucionar a lo largo de los siglos, manteniendo su profundo arraigo popular, su identidad artística única y un papel relevante en la religiosidad y cultura sevillanas."
       ]
     }
   ]
@@ -1928,7 +1923,7 @@
   "fundacion": 1753,
   "nazarenos": 2000,
   "hermanos": 7900,
-  "escudo": "",
+  "escudo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV3g0zKBTLO0Tsq0fH2yVA9UCV-IuQQJfL8r3VRx-0QVU9D4b62PwT2lPc1Cgx_aYzGlA&usqp=CAU",
   "barrio": "San Román",
   "diaSalida": "La Madrugá",
   "slug": "los-gitanos",
@@ -1963,7 +1958,7 @@
   "fundacion": 1586,
   "nazarenos": 500,
   "hermanos": 2000,
-  "escudo": "",
+  "escudo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-CMHDhi1IZMC8zZfd6M8-AWHMr-mLA_jjw&s",
   "barrio": "Arenal",
   "diaSalida": "Viernes Santo",
   "slug": "la-carreteria",
@@ -1998,7 +1993,7 @@
   "fundacion": 1656,
   "nazarenos": 400,
   "hermanos": 1150,
-  "escudo": "",
+  "escudo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Escudo_Soledad_de_San_Buenaventura.jpg/960px-Escudo_Soledad_de_San_Buenaventura.jpg",
   "barrio": "Centro",
   "diaSalida": "Viernes Santo",
   "slug": "soledad-de-san-buenaventura",
@@ -2024,7 +2019,7 @@
   "fundacion": 1686,
   "nazarenos": 2060,
   "hermanos": 6000,
-  "escudo": "",
+  "escudo": "https://hermandaddelcachorro.org/wp-content/uploads/2023/03/ESCUDO.png",
   "barrio": "Triana",
   "diaSalida": "Viernes Santo",
   "slug": "el-cachorro",
@@ -2059,7 +2054,7 @@
   "fundacion": 1586,
   "nazarenos": 985,
   "hermanos": 2500,
-  "escudo": "",
+  "escudo": "https://pbs.twimg.com/profile_images/936710310311886848/8MrCssJM_400x400.jpg",
   "barrio": "Triana",
   "diaSalida": "Viernes Santo",
   "slug": "la-o",
@@ -2094,7 +2089,7 @@
   "fundacion": 1605,
   "nazarenos": 650,
   "hermanos": 1990,
-  "escudo": "",
+  "escudo": "https://trescaidas.org/wp-content/uploads/2021/11/cropped-4EDF5F07-B7A4-4DE1-A723-2DDA81E67604-300x300.png",
   "barrio": "Alfalfa",
   "diaSalida": "Viernes Santo",
   "slug": "san-isidoro",
@@ -2129,7 +2124,7 @@
   "fundacion": 1601,
   "nazarenos": 600,
   "hermanos": 1700,
-  "escudo": "",
+  "escudo": "https://www.montserratsevilla.com/wp-content/uploads/2023/08/escudo-hermandad-montserrat-600.png",
   "barrio": "Magdalena",
   "diaSalida": "Viernes Santo",
   "slug": "montserrat",
@@ -2164,7 +2159,7 @@
   "fundacion": 1592,
   "nazarenos": 400,
   "hermanos": 1250,
-  "escudo": "",
+  "escudo": "https://pbs.twimg.com/profile_images/570020134007513088/qc2MeeZ6_400x400.jpeg",
   "barrio": "Santa Catalina",
   "diaSalida": "Viernes Santo",
   "slug": "la-sagrada-mortaja",
@@ -2237,7 +2232,7 @@
   "fundacion": 1696,
   "nazarenos": 380,
   "hermanos": 1200,
-  "escudo": "",
+  "escudo": "https://i0.wp.com/realhermandadservita.com/wp-content/uploads/2018/01/cropped-IMG-20180108-WA0015.jpg?fit=512%2C512&ssl=1",
   "barrio": "San Marcos",
   "diaSalida": "Sábado Santo",
   "slug": "los-servitas",
@@ -2272,7 +2267,7 @@
   "fundacion": 1507,
   "nazarenos": 912,
   "hermanos": 2500,
-  "escudo": "",
+  "escudo": "https://hermandaddelatrinidad.es/wp-content/uploads/escudo-hermandad-317x350.png",
   "barrio": "Mª Auxiliadora",
   "diaSalida": "Sábado Santo",
   "slug": "la-trinidad",
@@ -2416,7 +2411,7 @@
   "fundacion": 1557,
   "nazarenos": 1100,
   "hermanos": 2750,
-  "escudo": "",
+  "escudo": "https://www.hermandaddelasoledad.org/wp-content/uploads/2024/08/escudo.png",
   "barrio": "San Lorenzo",
   "diaSalida": "Sábado Santo",
   "slug": "la-soledad-de-san-lorenzo",
@@ -2446,17 +2441,17 @@
   "barrio": "San Luis",
   "slug": "la-resurreccion",
   "diaSalida": "Domingo de Resurrección",
-  "imagenPrincipal": "",
+  "imagenPrincipal": "https://www.sevillaactualidad.com/wp-content/uploads/2023/04/resucitado-13.jpg",
   "imagenes": [
     {
       "titulo": "Sagrada Resurrección de Nuestro Señor Jesucristo",
       "escultor": "Francisco Buiza, 1973",
-      "imagen": ""
+      "imagen": "https://www.hermandaddelaresurreccion.com/wp-content/uploads/2023/12/414.jpg"
     },
     {
       "titulo": "Nuestra Señora de la Aurora",
       "escultor": "Antonio Dubé de Luque, 1978",
-      "imagen": ""
+      "imagen": "https://www.hermandaddelaresurreccion.com/wp-content/uploads/2019/08/Nuestra-Se%C3%B1ora-de-la-Aurora-9.jpg"
     }
   ],
   "descripcionCorta": "La Hermandad de la Sagrada Resurrección es una cofradía sevillana que realiza su estación de penitencia en la mañana del Domingo de Resurrección, cerrando oficialmente la Semana Santa de Sevilla. Fundada en 1972, destaca por su iconografía pascual, el carácter gozoso de su salida procesional y su sede en la iglesia de Santa Marina.",

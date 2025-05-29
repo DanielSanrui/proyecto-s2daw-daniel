@@ -80,7 +80,7 @@ const CalendarioHome = () => {
             <div
               key={index}
               className="col-12 col-sm-6 col-md-4 col-lg-3"
-              onClick={() => navigate(`/dia/${dia.ruta}`)}
+              onClick={() => navigate(`/dias/${dia.ruta}`)}
               style={{ cursor: "pointer" }}
             >
               <div className="card h-100 p-2 shadow-sm border-0 text-center transition hover:scale-105">
