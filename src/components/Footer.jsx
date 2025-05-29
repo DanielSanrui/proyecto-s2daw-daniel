@@ -95,9 +95,6 @@ function Footer() {
                 <i className="bi bi-instagram fs-5 " fill="white"></i>
               </a>
               <a href="#" className="text-white">
-                <i className="bi bi-twitter-x fs-5"></i>
-              </a>
-              <a href="#" className="text-white">
                 <i className="bi bi-facebook fs-5"></i>
               </a>
               <a href="#" className="text-white">
