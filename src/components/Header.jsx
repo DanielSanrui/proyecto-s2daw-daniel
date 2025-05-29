@@ -139,7 +139,6 @@ function Header() {
             Jugar
           </Link>
         </nav>
-        {/* Botón hamburguesa móvil */}
         <div className="d-md-none">
           <button
             className="btn btn-outline-light border-0"
@@ -155,7 +154,6 @@ function Header() {
         </div>
       </div>
 
-      {/* Menú móvil con Bootstrap collapse */}
       <div
         className="collapse d-md-none px-4 pb-3"
         id="mobileMenu"

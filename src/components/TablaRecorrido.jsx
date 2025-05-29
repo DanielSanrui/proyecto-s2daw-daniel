@@ -21,7 +21,6 @@ const TablaRecorrido = ({ slug }) => {
     (primerFila?.paso && "Paso") ||
     "Otro Paso";
 
-  // Palabras clave para resaltar fondo
   const palabrasClave = [
     "PLAZA",
     "CAMPANA",

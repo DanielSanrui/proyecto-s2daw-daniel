@@ -79,7 +79,6 @@ const Multimedia = () => {
         </div>
       )}
 
-      {/* AUDIOS */}
       {seccion === "audios" && (
         <div className="row g-4">
           {multimedia.audios.map((audio, index) => (

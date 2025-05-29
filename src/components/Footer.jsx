@@ -8,7 +8,6 @@ function Footer() {
     >
       <div className="container">
         <div className="row">
-          {/* Logo + Descripción */}
           <div className="col-md-3 mb-4">
             <div className="d-flex align-items-center mb-3">
               <img src={logo} alt="Logo" width="60" className="me-2" />
@@ -72,7 +71,6 @@ function Footer() {
             </ul>
           </div>
 
-          {/* Contacto */}
           <div className="col-md-3 mb-4">
             <h6 className="fw-bold">Contacto</h6>
             <p className="small mb-1">
@@ -87,7 +85,6 @@ function Footer() {
             </p>
           </div>
 
-          {/* Redes Sociales */}
           <div className="col-md-3 mb-4">
             <h6 className="fw-bold">Síguenos</h6>
             <div className="d-flex gap-3 mt-2">

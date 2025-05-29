@@ -4,7 +4,6 @@ import hermandades from "../data/Hermandades.json";
 import dias from "../data/Dias.json";
 import CardHermandad from "../components/CardHermandad";
 
-// Diccionario de slugs → nombre de día
 const diasMap = {
   "domingo-de-ramos": "Domingo de Ramos",
   "lunes-santo": "Lunes Santo",
