@@ -139,20 +139,28 @@ function Header() {
             Jugar
           </Link>
         </nav>
-
         {/* Botón hamburguesa móvil */}
         <div className="d-md-none">
-          <button id="menu-toggle" className="btn btn-outline-light border-0">
+          <button
+            className="btn btn-outline-light border-0"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#mobileMenu"
+            aria-controls="mobileMenu"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
             <i className="bi bi-list" style={{ fontSize: "1.5rem" }}></i>
           </button>
         </div>
       </div>
 
-      {/* Menú móvil */}
-      <div id="mobile-menu" className="d-none d-md-none bg-white px-4 pb-3">
-        <Link to="/" className="d-block py-2 text-dark border-bottom">
-          Inicio
-        </Link>
+      {/* Menú móvil con Bootstrap collapse */}
+      <div
+        className="collapse d-md-none px-4 pb-3"
+        id="mobileMenu"
+        style={{ backgroundColor: "#3c1a3d" }}
+      >
         <Link
           to="/hermandades"
           className="d-block py-2 text-dark border-bottom"
@@ -160,43 +168,43 @@ function Header() {
           Hermandades
         </Link>
 
-        <div className="py-2 border-bottom">
-          <strong>Días</strong>
-          <div className="ps-3">
-            <Link
-              to="/dias/domingo-de-ramos"
-              className="d-block py-1 text-dark"
-            >
-              Domingo de Ramos
-            </Link>
-            <Link to="/dias/lunes-santo" className="d-block py-1 text-dark">
-              Lunes Santo
-            </Link>
-            <Link to="/dias/martes-santo" className="d-block py-1 text-dark">
-              Martes Santo
-            </Link>
-            <Link to="/dias/miercoles-santo" className="d-block py-1 text-dark">
-              Miércoles Santo
-            </Link>
-            <Link to="/dias/jueves-santo" className="d-block py-1 text-dark">
-              Jueves Santo
-            </Link>
-            <Link to="/dias/la-madruga" className="d-block py-1 text-dark">
-              La Madrugá
-            </Link>
-            <Link to="/dias/viernes-santo" className="d-block py-1 text-dark">
-              Viernes Santo
-            </Link>
-            <Link to="/dias/sabado-santo" className="d-block py-1 text-dark">
-              Sábado Santo
-            </Link>
-            <Link
-              to="/dias/domingo-resurreccion"
-              className="d-block py-1 text-dark"
-            >
-              Domingo de Resurrección
-            </Link>
-          </div>
+        <Link
+          to="/dias"
+          className="d-block py-2 text-dark border-bottom fw-semibold"
+        >
+          Días
+        </Link>
+        <div className="ps-3">
+          <Link to="/dias/domingo-de-ramos" className="d-block py-1 text-dark">
+            Domingo de Ramos
+          </Link>
+          <Link to="/dias/lunes-santo" className="d-block py-1 text-dark">
+            Lunes Santo
+          </Link>
+          <Link to="/dias/martes-santo" className="d-block py-1 text-dark">
+            Martes Santo
+          </Link>
+          <Link to="/dias/miercoles-santo" className="d-block py-1 text-dark">
+            Miércoles Santo
+          </Link>
+          <Link to="/dias/jueves-santo" className="d-block py-1 text-dark">
+            Jueves Santo
+          </Link>
+          <Link to="/dias/madruga" className="d-block py-1 text-dark">
+            La Madrugá
+          </Link>
+          <Link to="/dias/viernes-santo" className="d-block py-1 text-dark">
+            Viernes Santo
+          </Link>
+          <Link to="/dias/sabado-santo" className="d-block py-1 text-dark">
+            Sábado Santo
+          </Link>
+          <Link
+            to="/dias/domingo-resurreccion"
+            className="d-block py-1 text-dark"
+          >
+            Domingo de Resurrección
+          </Link>
         </div>
 
         <Link to="/multimedia" className="d-block py-2 text-dark border-bottom">
@@ -205,14 +213,14 @@ function Header() {
         <Link to="/mapa" className="d-block py-2 text-dark border-bottom">
           Mapa
         </Link>
-        <Link to="/juego" className="d-block py-2 text-dark">
-          Jugar
+        <Link to="/tiempo" className="d-block py-2 text-dark border-bottom">
+          Tiempo
         </Link>
-        <Link to="/noticias" className="d-block py-2 text-dark">
+        <Link to="/noticias" className="d-block py-2 text-dark border-bottom">
           Noticias
         </Link>
-        <Link to="/tiempo" className="d-block py-2 text-dark">
-          Tiempo
+        <Link to="/juego" className="d-block py-2 text-dark">
+          Jugar
         </Link>
       </div>
     </header>

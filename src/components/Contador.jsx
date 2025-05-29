@@ -68,7 +68,7 @@ const Contador = () => {
     }, 1000);
 
     return () => clearInterval(intervalo);
-  }, []);
+  });
 
   return (
     <section

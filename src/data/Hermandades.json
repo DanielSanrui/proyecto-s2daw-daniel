@@ -132,6 +132,202 @@
   ]
 },
 {
+  "nombre": "La Hiniesta",
+  "sede": "Parroquia de San Julián",
+  "fundacion": 1565,
+  "nazarenos": 1665,
+  "hermanos": 4000,
+  "escudo": "https://i0.wp.com/www.hermandaddelahiniesta.es/wp-content/uploads/2022/11/cropped-20201216_22200211.jpg?fit=240%2C240&ssl=1",
+  "barrio": "San Julián",
+  "diaSalida": "Domingo de Ramos",
+  "slug": "la-hiniesta",
+  "imagenPrincipal": "",
+  "imagenes": [
+    {
+      "titulo": "Santísimo Cristo de la Buena Muerte",
+      "escultor": "Antonio Castillo Lastrucci, 1938",
+      "imagen": ""
+    },
+    {
+      "titulo": "Nuestra Señora de la Hiniesta Dolorosa",
+      "escultor": "Antonio Castillo Lastrucci, 1937",
+      "imagen": ""
+    }
+  ],
+  "descripcionCorta": " La Hermandad de la Hiniesta, con sede en la parroquia de San Julián, es una histórica cofradía sevillana que rinde culto a la Virgen de la Hiniesta en sus advocaciones Gloriosa y Dolorosa. Desde 1565 realiza estación de penitencia en Semana Santa, destacando por su profundo vínculo con la ciudad de Sevilla.",
+  "descripcion": [
+    {
+      "titulo": "",
+      "texto": [
+        "",
+        ""
+      ]
+    },
+    { "titulo": "", "texto": ["", ""] }
+  ]
+},
+{
+  "nombre": "La Paz",
+  "sede": "Parroquia de San Sebastián",
+  "fundacion": 1939,
+  "nazarenos": 2200,
+  "hermanos": 5600,
+  "escudo": "https://upload.wikimedia.org/wikipedia/commons/6/62/Hdadpaz.png",
+  "barrio": "El Porvenir",
+  "diaSalida": "Domingo de Ramos",
+  "slug": "la-paz",
+  "imagenPrincipal": "",
+  "imagenes": [
+    {
+      "titulo": "Nuestro Padre Jesús de la Victoria",
+      "escultor": "Antonio Illanes, 1940",
+      "imagen": ""
+    },
+    {
+      "titulo": "María Santísima de la Paz",
+      "escultor": "Antonio Illanes, 1939",
+      "imagen": ""
+    }
+  ],
+  "descripcionCorta": "La Hermandad de la Paz fue fundada en 1939 en el barrio del Porvenir como símbolo del anhelo de reconciliación tras la Guerra Civil. Desde entonces, ha crecido con fuerte arraigo vecinal, siendo referente de la Semana Santa sevillana cada Domingo de Ramos con sus titulares: Jesús de la Victoria y María Santísima de la Paz.",
+  "descripcion": [
+   {
+      "titulo": "Un Nacimiento en Tiempos de Esperanza",
+      "texto": [
+        "La Hermandad de la Paz surge en 1939, justo tras la Guerra Civil, en un ambiente de deseo colectivo por la reconciliación y la espiritualidad. En plena euforia por el fin del conflicto y con Sevilla en plena celebración del llamado 'Año de la Victoria', un grupo de jóvenes cofrades, muchos de ellos realizando el servicio militar en el Parque de María Luisa, sueña con crear una nueva cofradía que pase por ese entorno emblemático y que simbolice el anhelo de paz de todo un país."
+      ]
+    },
+    {
+      "titulo": "",
+      "texto": [
+        "",
+        ""
+      ]
+    }
+  ]
+},
+{
+  "nombre": "La Cena",
+  "sede": "Iglesia de Nuestra Señora de Consolación (Los Terceros)",
+  "fundacion": 1580,
+  "nazarenos": 600,
+  "hermanos": 2500,
+  "escudo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Hermandad_cena.png",
+  "barrio": "Santa Catalina",
+  "diaSalida": "Domingo de Ramos",
+  "slug": "la-cena",
+  "imagenPrincipal": "",
+  "imagenes": [
+    {
+      "titulo": "Señor de la Sagrada Cena",
+      "escultor": "Sebastián Santos Rojas, 1955",
+      "imagen": ""
+    },
+    {
+      "titulo": "Santísimo Cristo de la Humildad y Paciencia",
+      "escultor": "Anónimo, siglo XVI",
+      "imagen": ""
+    },
+    {
+      "titulo": "Nuestra Señora del Subterráneo Reina de los Cielos y la Tierra",
+      "escultor": "Juan de Astorga, 1829",
+      "imagen": ""
+    }
+  ],
+  "descripcionCorta": "Hermandad sacramental con orígenes en el siglo XVI, que representa la Última Cena y el Cristo de la Humildad y Paciencia en el Domingo de Ramos sevillano. Reside en la iglesia de Los Terceros y es pionera en la proclamación de la Realeza de María.",
+  "descripcion": [
+    { "titulo": "", "texto": ["", ""] },
+    { "titulo": "", "texto": ["", ""] }
+  ]
+},
+{
+  "nombre": "San Roque",
+  "sede": "Parroquia de San Roque",
+  "fundacion": 1901,
+  "nazarenos": 850,
+  "hermanos": 2300,
+  "escudo": "https://i0.wp.com/hermandadsanroque.com/wp-content/uploads/2021/11/ESCUDOcolor-pequeno.jpg?fit=1154%2C1093&ssl=1",
+  "barrio": "San Roque",
+  "diaSalida": "Domingo de Ramos",
+  "slug": "san-roque",
+  "imagenPrincipal": "",
+  "imagenes": [
+    {
+      "titulo": "Nuestro Padre Jesús de las Penas",
+      "escultor": "Antonio Illanes, 1939",
+      "imagen": ""
+    },
+    {
+      "titulo": "Nuestra Señora de Gracia y Esperanza",
+      "escultor": "José Manuel Rodríguez Fernández-Andes, 1938",
+      "imagen": ""
+    }
+  ],
+  "descripcionCorta": "La Hermandad de San Roque de Sevilla, fundada en el siglo XVI y reorganizada en 1901, realiza su estación de penitencia el Domingo de Ramos. Procesiona con las imágenes de Nuestro Padre Jesús de las Penas y María Santísima de Gracia y Esperanza desde su sede en la parroquia de San Roque.",
+  "descripcion": [
+    { "titulo": "", "texto": ["", ""] },
+    { "titulo": "", "texto": ["", ""] }
+  ]
+},
+{
+  "nombre": "La Amargura",
+  "sede": "Iglesia de San Juan de la Palma",
+  "fundacion": 1969,
+  "nazarenos": 1100,
+  "hermanos": 3926,
+  "escudo": "https://www.amargura.org/wp-content/uploads/2021/03/ESCUDO-COLOR-2021.png",
+  "barrio": "Feria",
+  "diaSalida": "Domingo de Ramos",
+  "slug": "la-amargura",
+  "imagenPrincipal": "",
+  "imagenes": [
+    {
+      "titulo": "Nuestro Padre Jesús del Silencio en el Desprecio de Herodes",
+      "escultor": "Rostro: Pedro Roldán (1698), Manos: Sebastián Santos (1935), Cuerpo: Vasallo (1951)",
+      "imagen": ""
+    },
+    {
+      "titulo": "María Santísima de la Amargura",
+      "escultor": "Anónimo, ca. 1700",
+      "imagen": ""
+    }
+  ],
+  "descripcionCorta": "La Hermandad de la Amargura es una cofradía sevillana del Domingo de Ramos con sede en San Juan de la Palma. Se distingue por su carácter serio, su sobriedad clásica y su devoción mariana profundamente arraigada.",
+  "descripcion": [
+    { "titulo": "", "texto": ["", ""] },
+    { "titulo": "", "texto": ["", ""] }
+  ]
+},
+{
+  "nombre": "La Estrella",
+  "sede": "Capilla de la Estrella",
+  "fundacion": 1560,
+  "nazarenos": 3300,
+  "hermanos": 6250,
+  "escudo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Escudo_Hermandad_Estrella.svg",
+  "barrio": "Triana",
+  "diaSalida": "Domingo de Ramos",
+  "slug": "la-estrella",
+  "imagenPrincipal": "",
+  "imagenes": [
+    {
+      "titulo": "Nuestro Padre Jesús de las Penas",
+      "escultor": "José de Arce, 1955",
+      "imagen": ""
+    },
+    {
+      "titulo": "María Santísima de la Estrella",
+      "escultor": "Taller de Arcos-Roldán, siglo XVII",
+      "imagen": ""
+    }
+  ],
+  "descripcionCorta": "La Hermandad de la Estrella, fundada en 1560 en Triana, es una de las cofradías más emblemáticas de Sevilla, destacando por la devoción a su Virgen coronada y al Cristo de las Penas. Cada Domingo de Ramos llena de emoción las calles sevillanas.",
+  "descripcion": [
+    { "titulo": "", "texto": ["", ""] },
+    { "titulo": "", "texto": ["", ""] }
+  ]
+},
+{
   "nombre": "El Amor",
   "sede": "Iglesia Colegial del Divino Salvador",
   "fundacion": 1569,
@@ -301,6 +497,520 @@
       "texto": [
         ""
       ]
+    }
+  ]
+},
+{
+  "nombre": "La Carretería",
+  "sede": "Capilla de la Carretería",
+  "fundacion": 1586,
+  "nazarenos": 500,
+  "hermanos": 2000,
+  "escudo": "",
+  "barrio": "Arenal",
+  "diaSalida": "Viernes Santo",
+  "slug": "la-carreteria",
+  "imagenPrincipal": "",
+  "imagenes": [
+    {
+      "titulo": "Santísimo Cristo de la Salud",
+      "escultor": "Francisco de Ocampo, siglo XVII",
+      "imagen": ""
+    },
+    {
+      "titulo": "Nuestra Señora del Mayor Dolor en su Soledad",
+      "escultor": "Alonso Álvarez de Albarrán, 1629",
+      "imagen": ""
+    }
+  ],
+  "descripcionCorta": "",
+  "descripcion": [
+    {
+      "titulo": "",
+      "texto": ["", ""]
+    },
+    {
+      "titulo": "",
+      "texto": ["", ""]
+    }
+  ]
+},
+{
+  "nombre": "Soledad de San Buenaventura",
+  "sede": "Iglesia Conventual de San Buenaventura",
+  "fundacion": 1656,
+  "nazarenos": 400,
+  "hermanos": 1150,
+  "escudo": "",
+  "barrio": "Centro",
+  "diaSalida": "Viernes Santo",
+  "slug": "soledad-de-san-buenaventura",
+  "imagenPrincipal": "",
+  "imagenes": [
+    {
+      "titulo": "Nuestra Señora de la Soledad",
+      "escultor": "Gabriel de Astorga, 1851",
+      "imagen": ""
+    }
+  ],
+  "descripcionCorta": "",
+  "descripcion": [
+    {
+      "titulo": "",
+      "texto": ["", ""]
+    }
+  ]
+},
+{
+  "nombre": "El Cachorro",
+  "sede": "Basílica del Santísimo Cristo de la Expiración",
+  "fundacion": 1686,
+  "nazarenos": 2060,
+  "hermanos": 6000,
+  "escudo": "",
+  "barrio": "Triana",
+  "diaSalida": "Viernes Santo",
+  "slug": "el-cachorro",
+  "imagenPrincipal": "",
+  "imagenes": [
+    {
+      "titulo": "Santísimo Cristo de la Expiración",
+      "escultor": "Francisco Antonio Ruiz Gijón, 1682",
+      "imagen": ""
+    },
+    {
+      "titulo": "Nuestra Madre y Señora del Patrocinio",
+      "escultor": "Luis Álvarez Duarte, 1973",
+      "imagen": ""
+    }
+  ],
+  "descripcionCorta": "",
+  "descripcion": [
+    {
+      "titulo": "",
+      "texto": ["", ""]
+    },
+    {
+      "titulo": "",
+      "texto": ["", ""]
+    }
+  ]
+},
+{
+  "nombre": "La O",
+  "sede": "Parroquia de Nuestra Señora de la O",
+  "fundacion": 1586,
+  "nazarenos": 985,
+  "hermanos": 2500,
+  "escudo": "",
+  "barrio": "Triana",
+  "diaSalida": "Viernes Santo",
+  "slug": "la-o",
+  "imagenPrincipal": "",
+  "imagenes": [
+    {
+      "titulo": "Nuestro Padre Jesús Nazareno",
+      "escultor": "Pedro Roldán, 1685",
+      "imagen": ""
+    },
+    {
+      "titulo": "María Santísima de la O",
+      "escultor": "Antonio Castillo Lastrucci",
+      "imagen": ""
+    }
+  ],
+  "descripcionCorta": "",
+  "descripcion": [
+    {
+      "titulo": "",
+      "texto": ["", ""]
+    },
+    {
+      "titulo": "",
+      "texto": ["", ""]
+    }
+  ]
+},
+{
+  "nombre": "San Isidoro",
+  "sede": "Parroquia de San Isidoro",
+  "fundacion": 1605,
+  "nazarenos": 650,
+  "hermanos": 1990,
+  "escudo": "",
+  "barrio": "Alfalfa",
+  "diaSalida": "Viernes Santo",
+  "slug": "san-isidoro",
+  "imagenPrincipal": "",
+  "imagenes": [
+    {
+      "titulo": "Nuestro Padre Jesús de las Tres Caídas",
+      "escultor": "Alonso Martínez, 1668",
+      "imagen": ""
+    },
+    {
+      "titulo": "María Santísima de Loreto",
+      "escultor": "Francisco Ruiz Rodríguez, 1930",
+      "imagen": ""
+    }
+  ],
+  "descripcionCorta": "",
+  "descripcion": [
+    {
+      "titulo": "",
+      "texto": ["", ""]
+    },
+    {
+      "titulo": "",
+      "texto": ["", ""]
+    }
+  ]
+},
+{
+  "nombre": "Montserrat",
+  "sede": "Capilla de Montserrat",
+  "fundacion": 1601,
+  "nazarenos": 600,
+  "hermanos": 1700,
+  "escudo": "",
+  "barrio": "Magdalena",
+  "diaSalida": "Viernes Santo",
+  "slug": "montserrat",
+  "imagenPrincipal": "",
+  "imagenes": [
+    {
+      "titulo": "Santísimo Cristo de la Conversión del Buen Ladrón",
+      "escultor": "Juan de Mesa, 1620",
+      "imagen": ""
+    },
+    {
+      "titulo": "Nuestra Señora de Montserrat",
+      "escultor": "Anónimo, siglo XVII",
+      "imagen": ""
+    }
+  ],
+  "descripcionCorta": "",
+  "descripcion": [
+    {
+      "titulo": "",
+      "texto": ["", ""]
+    },
+    {
+      "titulo": "",
+      "texto": ["", ""]
+    }
+  ]
+},
+{
+  "nombre": "La Sagrada Mortaja",
+  "sede": "Iglesia Santa María de la Paz",
+  "fundacion": 1592,
+  "nazarenos": 400,
+  "hermanos": 1250,
+  "escudo": "",
+  "barrio": "Santa Catalina",
+  "diaSalida": "Viernes Santo",
+  "slug": "la-sagrada-mortaja",
+  "imagenPrincipal": "",
+  "imagenes": [
+    {
+      "titulo": "Sagrado Descendimiento de Nuestro Señor Jesucristo",
+      "escultor": "Cristóbal Pérez, 1667",
+      "imagen": ""
+    },
+    {
+      "titulo": "María Santísima de la Piedad",
+      "escultor": "Pedro Roldán, siglo XVII",
+      "imagen": ""
+    }
+  ],
+  "descripcionCorta": "",
+  "descripcion": [
+    {
+      "titulo": "",
+      "texto": [
+        "", 
+        ""
+      ]
+    },
+    {
+      "titulo": "",
+      "texto": ["", ""]
+    }
+  ]
+},
+{
+  "nombre": "El Sol",
+  "sede": "Parroquia de San Diego de Alcalá",
+  "fundacion": 1932,
+  "nazarenos": 150,
+  "hermanos": 600,
+  "escudo": "https://pbs.twimg.com/profile_images/731847575628828674/5suTGyl4_400x400.jpg",
+  "diaSalida": "Sábado Santo",
+  "barrio": "Plantinar",
+  "slug": "el-sol",
+  "imagenPrincipal": "https://static-sevilla.abc.es/media/pasionensevilla/2020/03/sol-sabado-santo-semana-santa-sevilla-5.jpg",
+  "imagenes": [
+    {
+      "titulo": "Santo Cristo Varón de Dolores de la Divina Misericordia",
+      "escultor": "José Manuel Bonilla Cornejo, 2002",
+      "imagen": "https://www.artesacro.org/imagenes/DSCF3442__Copiar__2.JPG"
+    },
+    {
+      "titulo": "Nuestra Señora del Sol",
+      "escultor": "José Manuel Bonilla Cornejo, 1989",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2025/04/19/hermandad-sol-sabado-santo-sevilla(5)_xoptimizadax.jpg"
+    }
+  ],
+  "descripcionCorta": "",
+  "descripcion": [
+    {
+      "titulo": "",
+      "texto": ["", ""]
+    },
+    {
+      "titulo": "",
+      "texto": ["", ""]
+    }
+  ]
+},
+{
+  "nombre": "Los Servitas",
+  "sede": "Capilla de los Dolores",
+  "fundacion": 1696,
+  "nazarenos": 380,
+  "hermanos": 1200,
+  "escudo": "",
+  "barrio": "San Marcos",
+  "diaSalida": "Sábado Santo",
+  "slug": "los-servitas",
+  "imagenPrincipal": "",
+  "imagenes": [
+    {
+      "titulo": "Santísimo Cristo de la Providencia",
+      "escultor": "José Montes de Oca, siglo XVIII",
+      "imagen": ""
+    },
+    {
+      "titulo": "Nuestra Señora de los Dolores y María Santísima de la Soledad",
+      "escultor": "José Montes de Oca, siglo XVIII y Antonio Castillo Lastrucci, 1966",
+      "imagen": ""
+    }
+  ],
+  "descripcionCorta": "",
+  "descripcion": [
+    {
+      "titulo": "",
+      "texto": ["", ""]
+    },
+    {
+      "titulo": "",
+      "texto": ["", ""]
+    }
+  ]
+},
+{
+  "nombre": "La Trinidad",
+  "sede": "Basílica de María Auxiliadora",
+  "fundacion": 1507,
+  "nazarenos": 912,
+  "hermanos": 2500,
+  "escudo": "",
+  "barrio": "Mª Auxiliadora",
+  "diaSalida": "Sábado Santo",
+  "slug": "la-trinidad",
+  "imagenPrincipal": "",
+  "imagenes": [
+    {
+      "titulo": "Sagrado Decreto de la Santísima Trinidad",
+      "escultor": "Dios Padre: Juan de Mesa, Dios Hijo: Anónimo siglo XVIII, Dios Espíritu Santo: Juan Mayorga 1995",
+      "imagen": ""
+    },
+    {
+      "titulo": "Santísimo Cristo de las Cinco Llagas y Nuestra Señora de la Esperanza",
+      "escultor": "Luis Álvarez Duarte 2002 y Juan de Astorga 1820",
+      "imagen": ""
+    },
+   {
+      "titulo": "Nuestra Señora de la Esperanza",
+      "escultor": "Juan de Astorga 1820",
+      "imagen": ""
+    }
+  ],
+  "descripcionCorta": "",
+  "descripcion": [
+    {
+      "titulo": "",
+      "texto": ["", ""]
+    },
+    {
+      "titulo": "",
+      "texto": ["", ""]
+    }
+  ]
+},
+{
+  "nombre": "El Santo Entierro",
+  "sede": "Capilla del Santo Sepulcro y San Gregorio Magno",
+  "fundacion": 1573,
+  "nazarenos": 120,
+  "hermanos": 783,
+  "barrio": "Centro",
+  "diaSalida": "Sábado Santo",
+  "escudo": "https://scontent.fmad22-1.fna.fbcdn.net/v/t39.30808-6/479719482_620205110721194_7231784323305108946_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=LzolPgDzMs4Q7kNvwFRmURa&_nc_oc=AdnYZuW7phTBXRX56HptgIm08qqBkh90y0D8uq31h-olvTduALMitQgmp7wu8wZydIw&_nc_zt=23&_nc_ht=scontent.fmad22-1.fna&_nc_gid=wzC2JWVZHH3t1EkzOO3W-g&oh=00_AfKoRhVVmTX0pwconqbeLGdoRxxXVv8T6JgjNuDpfXa_VA&oe=683D4306",
+  "slug": "el-santo-entierro",
+  "imagenPrincipal": "https://www.lavozdelsur.es/uploads/s1/11/59/68/6/copia-de-diseno-sin-titulo-2.jpeg",
+  "imagenes": [
+    {
+      "titulo": "La canina ",
+      "escultor": "Antonio Cardoso de Quirós, 1693",
+      "imagen": "https://santapaula.es/wp-content/uploads/2022/04/Paso-de-la-Canina.-Francisco-Lui%CC%81s-Morillo-Bordallo-min.jpg"
+    },
+    {
+      "titulo": "Santo Entierro de Nuestro Señor Jesucristo ",
+      "escultor": "Juan de Mesa, 1619",
+      "imagen": "https://www.archisevilla.org/wp-content/uploads/2023/04/Yacente-ok.jpg"
+    },
+    {
+      "titulo": "Nuestra Señora de Villaviciosa",
+      "escultor": "Cardoso Quirós, 1691",
+      "imagen": "https://sevilla.abc.es/pasionensevilla/wp-content/uploads/sites/2/eventos/2024/01/santo-entierro-duelo.jpg"
+    }
+  ],
+  "descripcionCorta": "La Hermandad del Santo Entierro, con orígenes reales y sede en San Gregorio Magno, representa la culminación solemne de la Pasión de Cristo en la Semana Santa sevillana. Se distingue por su carácter oficial y profundo simbolismo.",
+  "descripcion": [
+    {
+      "titulo": "Orígenes y Fundación (Siglo XV - XVI)",
+      "texto": [
+        "La Hermandad de la Esperanza de Triana es una de las corporaciones más antiguas de Sevilla, con raíces documentadas desde el siglo XV. Su origen se remonta a 1418, cuando se establece como hermandad de luz bajo la advocación de Nuestra Señora de la Esperanza en la parroquia de Santa Ana, vinculada al gremio de los ceramistas, actividad tradicional del barrio de Triana. A lo largo del siglo XVI, la hermandad fue consolidándose tanto en lo devocional como en lo institucional. En 1542 se fusionó con la cofradía de San Juan Evangelista, ligada al gremio de los pescadores, ampliando así su base social y espiritual."
+      ]
+    },
+    {
+      "titulo": "Primeros Testimonios y Consolidación (Finales del Siglo XVI)",
+      "texto": [
+        "La existencia continuada de la hermandad se constata en fuentes como testamentos del siglo XVI, que ya la mencionan como entidad establecida con arraigo popular. En los últimos años del siglo XVI se produjeron otros hitos relevantes, como la participación en grandes eventos religiosos de la ciudad, entre ellos la procesión de traslado del cuerpo incorrupto de San Fernando en 1579. También destacan en esta etapa las gestiones para obtener bulas e indulgencias en Roma, lo que pone de relieve tanto su capacidad económica como su preocupación por el enriquecimiento espiritual."
+      ]
+    },
+    {
+      "titulo": "Fusión con la Hermandad de las Tres Caídas (Siglo XVII)",
+      "texto": [
+        "En 1608 surge una nueva hermandad, dedicada a las Tres Caídas de Cristo, con sede en el convento de las Monjas Mínimas. Ambas corporaciones fueron obligadas a fusionarse en 1616, estableciéndose juntas en el hospital del Espíritu Santo, sede que marcaría una etapa de gran prosperidad a lo largo del siglo XVII. Durante este tiempo, la hermandad experimenta un notable crecimiento y obtiene una nueva capilla con mejores condiciones."
+      ]
+    },
+    {
+      "titulo": "Traslados y Crisis (Siglo XVIII - XIX)",
+      "texto": [
+        "En 1736, tras varios litigios, la hermandad abandona el hospital y se traslada a la parroquia de Santa Ana. A raíz del terremoto de Lisboa en 1755, se ve forzada a abandonar su sede y emprende una prolongada búsqueda de templo, culminando en 1815 con la adquisición de una capilla en la calle Larga (actual calle Pureza). Las imágenes titulares recibieron culto en distintas ubicaciones provisionales."
+      ]
+    },
+    {
+      "titulo": "",
+      "texto": [
+        ""
+      ]
+    },
+    {
+      "titulo": "",
+      "texto": [
+        ""
+      ]
+    },
+    {
+      "titulo": "",
+      "texto": [
+        ""
+      ]
+    },
+    {
+      "titulo": "",
+      "texto": [
+        ""
+      ]
+    },
+    {
+      "titulo": "",
+      "texto": [
+        ""
+      ]
+    },
+    {
+      "titulo": "",
+      "texto": [
+        ""
+      ]
+    },
+    {
+      "titulo": "",
+      "texto": [
+        ""
+      ]
+    },
+    {
+      "titulo": "",
+      "texto": [
+        ""
+      ]
+    }
+  ]
+},
+{
+  "nombre": "La Soledad de San Lorenzo",
+  "sede": "Parroquia de San Lorenzo",
+  "fundacion": 1557,
+  "nazarenos": 1100,
+  "hermanos": 2750,
+  "escudo": "",
+  "barrio": "San Lorenzo",
+  "diaSalida": "Sábado Santo",
+  "slug": "la-soledad-de-san-lorenzo",
+  "imagenPrincipal": "",
+  "imagenes": [
+    {
+      "titulo": "Nuestra Señora de la Soledad",
+      "escultor": "Anónimo, siglo XVI",
+      "imagen": ""
+    }
+  ],
+  "descripcionCorta": "",
+  "descripcion": [
+    {
+      "titulo": "",
+      "texto": ["", ""]
+    }
+  ]
+},
+{
+  "nombre": "La Resurrección",
+  "sede": "Iglesia de Santa Marina y San Juan Bautista de la Salle",
+  "fundacion": 1972,
+  "nazarenos": 450,
+  "hermanos": 1300,
+  "escudo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ZuOf43Jzj7WhRLR1XY5ivxqE1_z6NeW9_A&s",
+  "barrio": "San Luis",
+  "slug": "la-resurreccion",
+  "diaSalida": "Domingo de Resurrección",
+  "imagenPrincipal": "",
+  "imagenes": [
+    {
+      "titulo": "Sagrada Resurrección de Nuestro Señor Jesucristo",
+      "escultor": "Francisco Buiza, 1973",
+      "imagen": ""
+    },
+    {
+      "titulo": "Nuestra Señora de la Aurora",
+      "escultor": "Antonio Dubé de Luque, 1978",
+      "imagen": ""
+    }
+  ],
+  "descripcionCorta": "La Hermandad de la Sagrada Resurrección es una cofradía sevillana que realiza su estación de penitencia en la mañana del Domingo de Resurrección, cerrando oficialmente la Semana Santa de Sevilla. Fundada en 1972, destaca por su iconografía pascual, el carácter gozoso de su salida procesional y su sede en la iglesia de Santa Marina.",
+  "descripcion": [
+    {
+      "titulo": "",
+      "texto": ["", ""]
+    },
+    {
+      "titulo": "",
+      "texto": ["", ""]
     }
   ]
 }

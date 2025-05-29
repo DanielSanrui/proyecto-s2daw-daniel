@@ -48,9 +48,9 @@
             {"cruzDeGuia": "Pl. Duque","palio": "Correduría"},
             {"cruzDeGuia": "CAMPANA (17:00)","palio": "Trajano"},
             {"cruzDeGuia": "PLAZA (17:40)","palio": "CAMPANA (17:45)"},
-            {"cruzDeGuia": "P. SAN MIGUEL(18:06)","palio": "PLAZA (18:25)"},
-            {"cruzDeGuia": "P. PALOS (18:25)","palio": "P. SAN MIGUEL(18:51)"},
-            {"cruzDeGuia": "Villegas","palio": "P. PALOS(19:10)"},
+            {"cruzDeGuia": "P. SAN MIGUEL (18:06)","palio": "PLAZA (18:25)"},
+            {"cruzDeGuia": "P. PALOS (18:25)","palio": "P. SAN MIGUEL (18:51)"},
+            {"cruzDeGuia": "Villegas","palio": "P. PALOS (19:10)"},
             {"cruzDeGuia": "Pl. Alfalfa","palio": "Alemanes"},
             {"cruzDeGuia": "Pl. Cristo de Burgos","palio": "Francos"},
             {"cruzDeGuia": "Doña María Coronel","palio": "Jesús de las Tres Caídas"},
@@ -93,8 +93,7 @@
             {"cruzDeGuia": "","palio": "Entrada (1:00)"}
         ]
     },
-    "La Cena": {
-        "nombre": "La Cena",
+    "la-cena": {
         "recorrido": [
             {"cruzDeGuia": "Salida (16:15)","palio": ""},
             {"cruzDeGuia": "Capataz Manuel Santiago","palio": "Salida (16:50)"},
@@ -114,8 +113,7 @@
             {"cruzDeGuia": "","palio": "Entrada (23:40)"}
         ]
     },
-    "San Roque": {
-        "nombre": "San Roque",
+    "san-roque": {
         "recorrido": [
             {"cruzDeGuia": "Salida (16:35)","palio": ""},
             {"cruzDeGuia": "Puñonrrostro","palio": ""},
@@ -137,8 +135,7 @@
             {"cruzDeGuia": "","palio": "Entrada (1:10)"}
         ]
     },
-    "La Amargura": {
-        "nombre": "La Amargura",
+    "la-amargura": {
         "recorrido": [
             {"cruzDeGuia": "Salida (18:25)","palio": ""},
             {"cruzDeGuia": "Feria","palio": ""},
@@ -157,8 +154,7 @@
             {"cruzDeGuia": "","palio": "Entrada (1:05)"}
         ]
     },
-    "La Estrella": {
-        "nombre": "La Estrella",
+    "la-estrella": {
         "recorrido": [
             {"cruzDeGuia": "Salida (17:45)","palio": ""},
             {"cruzDeGuia": "Puente de Triana","palio": ""},
@@ -198,8 +194,7 @@
             {"cruzDeGuia": "","palio": "Entrada (1:25)"}
         ]
     },
-    "San Pablo": {
-        "nombre": "San Pablo",
+    "san-pablo": {
         "recorrido": [
             {"cruzDeGuia": "Salida (11:30)","palio": ""},
             {"cruzDeGuia": "Doctor Laffón Soto","palio": "Salida (11:48)"},
@@ -233,8 +228,7 @@
             {"cruzDeGuia": "","palio": "Entrada (1:50)"}
         ]
     },
-    "La Redención": {
-        "nombre": "La Redención",
+    "la-redención": {
         "recorrido": [
             {"cruzDeGuia": "Salida (14:45)","palio": ""},
             {"cruzDeGuia": "Juan de Mesa","palio": ""},
@@ -258,8 +252,7 @@
             {"cruzDeGuia": "","palio": "Entrada (0:00)"}
         ]
     },
-    "Santa Genoveva": {
-        "nombre": "Santa Genoveva",
+    "santa-genoveva": {
         "recorrido": [
             {"cruzDeGuia": "Salida (12:25)","palio": ""},
             {"cruzDeGuia": "Felipe II","palio": ""},
@@ -291,8 +284,7 @@
             {"cruzDeGuia": "","palio": "Entrada (2:10)"}
         ]
     },
-    "Santa Marta": {
-        "nombre": "Santa Marta",
+    "santa-marta": {
         "recorrido": [
             {"cruzDeGuia": "Salida (18:10)","paso": ""},
             {"cruzDeGuia": "CAMPANA (18:47)","paso": "Salida (18:42)"},
@@ -306,8 +298,7 @@
             {"cruzDeGuia": "","paso": "Entrada (22:20)"}
         ]
     },
-    "San Gonzalo": {
-        "nombre": "San Gonzalo",
+    "san-gonzalo": {
         "recorrido": [
             {"cruzDeGuia": "Salida (15:00)","palio": ""},
             {"cruzDeGuia": "San Jacinto","palio": ""},
@@ -336,8 +327,7 @@
             {"cruzDeGuia": "","palio": "Entrada (3:00)"}
         ]
     },
-    "Vera Cruz": {
-        "nombre": "Vera Cruz",
+    "vera+cruz": {
         "recorrido": [
             {"cruzDeGuia": "Salida (19:35)","palio": ""},
             {"cruzDeGuia": "Teniente Borges","palio": "Salida (20:00)"},
@@ -353,8 +343,7 @@
             {"cruzDeGuia": "","palio": "Entrada(1:00)"}
         ]
     },
-    "Las Penas": {
-        "nombre": "La Penas",
+    "las-penas": {
         "recorrido": [
             {"cruzDeGuia": "Salida (20:00)","palio": ""},
             {"cruzDeGuia": "Alfonso XII","palio": "Salida (20:40"},
@@ -370,8 +359,7 @@
             {"cruzDeGuia": "Entrada (1:10)","palio": "Entrada (1:55)"}
         ]
     },
-    "Las Aguas": {
-        "nombre": "Las Aguas",
+    "las-aguas": {
         "recorrido": [
             {"cruzDeGuia": "Salida (18:15)","palio": ""},
             {"cruzDeGuia": "Arfe","palio": ""},
@@ -391,8 +379,7 @@
             {"cruzDeGuia": "","palio": "Entrada (1:20)"}
         ]
     },
-    "El Museo": {
-        "nombre": "El Museo",
+    "el-museo": {
         "recorrido": [
             {"cruzDeGuia": "Salida (20:40)","palio": ""},
             {"cruzDeGuia": "Pl. Museo","palio": "Salida (21:15)"},
@@ -410,8 +397,7 @@
             {"cruzDeGuia": "","palio": "Entrada (3:15)"}
         ]
     },
-    "El Cerro": {
-        "nombre": "El Cerro",
+    "el cerro": {
         "recorrido": [
             {"cruzDeGuia": "Salida (11:40)","palio": ""},
             {"cruzDeGuia": "Afán de Ribera","palio": ""},
@@ -445,8 +431,7 @@
             {"cruzDeGuia": "","palio": "Entrada (2:00)"}
         ]
     },
-    "San Benito": {
-        "nombre": "San Benito",
+    "san-benito": {
         "recorrido": [
             {"cruzDeGuia": "Salida (14:30)","palio": ""},
             {"cruzDeGuia": "Luis Montoto","palio": ""},
@@ -470,8 +455,7 @@
             {"cruzDeGuia": "","palio": "Entrada (0:15)"}
         ]
     },
-    "El Dulce Nombre": {
-        "nombre": "El Dulce Nombre",
+    "el-dulce-nombre": {
         "recorrido": [
             {"cruzDeGuia": "Salida (17:15)","palio": ""},
             {"cruzDeGuia": "Cardenal Spínola","palio": ""},
@@ -492,8 +476,7 @@
             {"cruzDeGuia": "","palio": "Entrada (1:15)"}
         ]
     },
-    "La Candelaria": {
-        "nombre": "La Candelaria",
+    "la-candelaria": {
         "recorrido": [
             {"cruzDeGuia": "Salida (17:04)","palio": ""},
             {"cruzDeGuia": "Alfalfa","palio": ""},
@@ -515,8 +498,7 @@
             {"cruzDeGuia": "","palio": "Entrada (1:56)"}
         ]
     },
-    "San Esteban": {
-        "nombre": "San Esteban",
+    "san-esteban": {
         "recorrido": [
             {"cruzDeGuia": "Salida","palio": ""},
             {"cruzDeGuia": "Pl. San Ildefonso","palio": "Salida"},
@@ -534,8 +516,7 @@
             {"cruzDeGuia": "Entrada (1:35)","palio": "Águilas"}
         ]
     },
-    "Los Javieres": {
-        "nombre": "Los Javieres",
+    "los-javieres": {
         "recorrido": [
             {"cruzDeGuia": "Salida (19:40)","palio": ""},
             {"cruzDeGuia": "Correduría","palio": "Salida (20:10)"},
@@ -555,8 +536,7 @@
             {"cruzDeGuia": "","palio": "Entrada (2:15)"}
         ]
     },
-    "Los Estudiantes": {
-        "nombre": "Los Estudiantes",
+    "los-estudiantes": {
         "recorrido": [
             {"cruzDeGuia": "Salida (18:50)","palio": ""},
             {"cruzDeGuia": "Pl. Contratación","palio": ""},
@@ -574,8 +554,7 @@
             {"cruzDeGuia": "","palio": "Entrada (1:45)"}
         ]
     },
-    "Santa Cruz": {
-        "nombre": "Santa Cruz",
+    "santa-cruz": {
         "recorrido": [
             {"cruzDeGuia": "Salida (19:50)","palio": ""},
             {"cruzDeGuia": "Mateos Gago","palio": "Salida (20:25)"},
@@ -591,8 +570,7 @@
             {"cruzDeGuia": "","palio": "Entrada (1:40)"}
         ]
     },
-    "El Carmen": {
-        "nombre": "El Carmen",
+    "el-carmen": {
         "recorrido": [
             {"cruzDeGuia": "Salida (15:00)","palio": ""},
             {"cruzDeGuia": "Alameda de Hércules","palio": "Salida (15:30)"},
@@ -615,8 +593,7 @@
             {"cruzDeGuia": "","palio": "Entrada (0:00)"}
         ]
     },
-    "La Sed": {
-        "nombre": "La Sed",
+    "la-sed": {
         "recorrido": [
             {"cruzDeGuia": "Salida (12:00)","palio": ""},
             {"cruzDeGuia": "Hospital San Juan de Dios","palio": "Salida (13:15)"},
@@ -648,8 +625,7 @@
             {"cruzDeGuia": "","palio": "Entrada (1:20)"}
         ]
     },
-    "El Buen Fin": {
-        "nombre": "El Buen Fin",
+    "buen-fin": {
         "recorrido": [
             {"cruzDeGuia": "Salida (15:50)","palio": ""},
             {"cruzDeGuia": "Alcoy","palio": "Salida (16:30)"},
@@ -671,8 +647,7 @@
             {"cruzDeGuia": "Entrada (1:00)","palio": "Entrada (1:00)"}
         ]
     },
-    "San Bernardo": {
-        "nombre": "San Bernardo",
+    "san-bernardo": {
         "recorrido": [
             {"cruzDeGuia": "Salida (14:15)","palio": ""},
             {"cruzDeGuia": "Puente de San Bernardo","palio": ""},
@@ -700,8 +675,7 @@
             {"cruzDeGuia": "","palio": "Entrada (1:30)"}
         ]
     },
-    "La Lanzada": {
-        "nombre": "La Lanzada",
+    "la-lanzada": {
         "recorrido": [
             {"cruzDeGuia": "Salida (17:10)","palio": ""},
             {"cruzDeGuia": "Marco Sancho","palio": "Salida (17:30)"},
@@ -722,8 +696,7 @@
             {"cruzDeGuia": "","palio": "Entrada (1:00)"}
         ]
     },
-    "El Baratillo": {
-        "nombre": "El Baratillo",
+    "el-baratillo": {
         "recorrido": [
             {"cruzDeGuia": "Salida (17:10)","palio": ""},
             {"cruzDeGuia": "Adriano","palio": ""},
@@ -745,8 +718,7 @@
             {"cruzDeGuia": "","palio": "Entrada (1:30)"}
         ]
     },
-    "Los Panaderos": {
-        "nombre": "Los Panaderos",
+    "los-panaderos": {
         "recorrido": [
             {"cruzDeGuia": "Salida (20:00)","palio": ""},
             {"cruzDeGuia": "Amor de Dios","palio": ""},
@@ -763,8 +735,7 @@
             {"cruzDeGuia": "","palio": "Entrada (2:10)"}
         ]
     },
-    "Las Siete Palabras": {
-        "nombre": "Las Siete Palabras",
+    "las-siete-palabras": {
         "recorrido": [
             {"cruzDeGuia": "Salida (20:30)","palio": ""},
             {"cruzDeGuia": "Baños","palio": "Salida (21:15)"},
@@ -781,8 +752,7 @@
             {"cruzDeGuia": "","palio": "Entrada (2:15)"}
         ]
     },
-    "El Cristo de Burgos": {
-        "nombre": "El Cristo de Burgos",
+    "el-cristo-de-burgos": {
         "recorrido": [
             {"cruzDeGuia": "Salida (21:00)","palio": ""},
             {"cruzDeGuia": "Laraña","palio": "Salida (21:40)"},
@@ -798,8 +768,7 @@
             {"cruzDeGuia": "","palio": "Entrada (2:45)"}
         ]
     },
-    "Los Negritos": {
-        "nombre": "Los Negritos",
+    "los-negritos": {
         "recorrido": [
             {"cruzDeGuia": "Salida (15:00)","palio": ""},
             {"cruzDeGuia": "San Esteban","palio": ""},
@@ -821,8 +790,7 @@
             {"cruzDeGuia": "","palio": "Entrada (23:20)"}
         ]
     },
-    "La Exaltación": {
-        "nombre": "La Exaltación",
+    "la-exaltación": {
         "recorrido": [
             {"cruzDeGuia": "Salida (15:55)","palio": ""},
             {"cruzDeGuia": "Santa Ángela de la Cruz","palio": "Salida (15:55)"},
@@ -842,8 +810,7 @@
             {"cruzDeGuia": "","palio": "Entrada (23:40)"}
         ]
     },
-    "Las Cigarreras": {
-        "nombre": "Las Cigarreras",
+    "las-cigarreras": {
         "recorrido": [
             {"cruzDeGuia": "Salida (17:00)","palio": ""},
             {"cruzDeGuia": "Pl. San Pedro","palio": "Salida (17:00)"},
@@ -863,8 +830,7 @@
             {"cruzDeGuia": "","palio": "Entrada (0:35)"}
         ]
     },
-    "Monte-Sión": {
-        "nombre": "Monte-Sión",
+    "monte-sión": {
         "recorrido": [
             {"cruzDeGuia": "Salida (17:30)","palio": ""},
             {"cruzDeGuia": "Correduría","palio": ""},
@@ -885,8 +851,7 @@
             {"cruzDeGuia": "","palio": "Entrada (1:30)"}
         ]
     },
-    "La Quinta Angustia": {
-        "nombre": "La Quinta Angustia",
+    "la-quinta-angustia": {
         "recorrido": [
             {"cruzDeGuia": "Salida (19:30)","palio": ""},
             {"cruzDeGuia": "CAMPANA (20:10)","palio": "Salida (20:05)"},
@@ -900,8 +865,7 @@
             {"cruzDeGuia": "","palio": "Entrada (0:00)"}
         ]
     },
-    "El Valle": {
-        "nombre": "El Valle",
+    "el-valle": {
         "recorrido": [
             {"cruzDeGuia": "Salida (19:25)","palio": ""},
             {"cruzDeGuia": "San Miguel","palio": "Salida (20:05)"},
@@ -917,8 +881,7 @@
             {"cruzDeGuia": "","palio": "Entrada (0:45)"}
         ]
     },
-    "Pasión": {
-        "nombre": "Pasión",
+    "pasión": {
         "recorrido": [
             {"cruzDeGuia": "Salida (20:15)","palio": ""},
             {"cruzDeGuia": "García Tassara","palio": ""},
@@ -934,8 +897,7 @@
             {"cruzDeGuia": "","palio": "Entrada (1:15)"}
         ]
     },
-    "El Silencio": {
-        "nombre": "El Silencio",
+    "el-silencio": {
         "recorrido": [
             {"cruzDeGuia": "Salida (1:00)","palio": ""},
             {"cruzDeGuia": "CAMPANA (1:15)","palio": "Salida (1:30)"},
@@ -950,8 +912,7 @@
             {"cruzDeGuia": "","palio": "Entrada (6:05)"}
         ]
     },
-    "Gran Poder": {
-        "nombre": "Gran Poder",
+    "gran-poder": {
         "recorrido": [
             {"cruzDeGuia": "Salida (1:00)","palio": ""},
             {"cruzDeGuia": "Jesús del Gran Poder","palio": ""},
@@ -970,8 +931,7 @@
             {"cruzDeGuia": "","palio": "Entrada (8:00)"}
         ]
     },
-    "Macarena": {
-        "nombre": "Macarena",
+    "macarena": {
         "recorrido": [
             {"cruzDeGuia": "Resolana","palio": ""},
             {"cruzDeGuia": "Feria","palio": ""},
@@ -1002,8 +962,7 @@
             {"cruzDeGuia": "","palio": "Entrada (13:30)"}
         ]
     },
-    "El Calvario": {
-        "nombre": "El Calvario",
+    "el-calvario": {
         "recorrido": [
             {"cruzDeGuia": "Salida (4:00)","palio": ""},
             {"cruzDeGuia": "CAMPANA (4:49)","palio": "Salida (4:30)"},
@@ -1046,8 +1005,7 @@
             {"cruzDeGuia": "","palio": "Entrada (14:00)"}
         ]
     },
-    "Los Gitanos": {
-        "nombre": "Los Gitanos",
+    "los-gitanos": {
         "recorrido": [
             {"cruzDeGuia": "Salida (2:30)","palio": ""},
             {"cruzDeGuia": "Pl. San Román","palio": ""},
@@ -1074,8 +1032,7 @@
             {"cruzDeGuia": "","palio": "Entrada (13:45)"}
         ]
     },
-    "La Carretería": {
-        "nombre": "La Carretería",
+    "la-carretería": {
         "recorrido": [
             {"cruzDeGuia": "Salida (16:25)","palio": ""},
             {"cruzDeGuia": "Gamazo","palio": "Salida (17:15)"},
@@ -1092,8 +1049,7 @@
             {"cruzDeGuia": "","palio": "Entrada (22:25)"}
         ]
     },
-    "Soledad de San Buenaventura": {
-        "nombre": "Soledad de San Buenaventura",
+    "soledad-de-san-buenaventura": {
         "recorrido": [
             {"cruzDeGuia": "Salida (17:50)","palio": ""},
             {"cruzDeGuia": "Zaragoza","palio": "Salida (18:10)"},
@@ -1109,8 +1065,7 @@
             {"cruzDeGuia": "","palio": "Entrada (22:45)"}
         ]
     },
-    "El Cachorro": {
-        "nombre": "El Cachorro",
+    "el-cachorro": {
         "recorrido": [
             {"cruzDeGuia": "Salida (15:45)","palio": ""},
             {"cruzDeGuia": "Castilla","palio": ""},
@@ -1137,8 +1092,7 @@
             {"cruzDeGuia": "","palio": "Entrada (2:35)"}
         ]
     },
-    "La O": {
-        "nombre": "La O",
+    "la-o": {
         "recorrido": [
             {"cruzDeGuia": "Salida (18:00)","palio": ""},
             {"cruzDeGuia": "San Jorge","palio": "Salida (18:30)"},
@@ -1161,8 +1115,7 @@
             {"cruzDeGuia": "","palio": "Entrada (3:00)"}
         ]
     },
-    "San Isidoro": {
-        "nombre": "San Isidoro",
+    "san-isidoro": {
         "recorrido": [
             {"cruzDeGuia": "Salida (19:40)","palio": ""},
             {"cruzDeGuia": "Villegas","palio": "Salida (20:15)"},
@@ -1176,8 +1129,7 @@
             {"cruzDeGuia": "","palio": "Entrada (0:15)"}
         ]
     },
-    "Montserrat": {
-        "nombre": "Montserrat",
+    "montserrat": {
         "recorrido": [
             {"cruzDeGuia": "Salida (20:30)","palio": ""},
             {"cruzDeGuia": "Rioja","palio": "Salida (21:03)"},
@@ -1194,8 +1146,7 @@
             {"cruzDeGuia": "","palio": "Entrada (2:30)"}
         ]
     },
-    "La Sagrada Mortaja": {
-        "nombre": "La Sagrada Mortaja",
+    "la-sagrada-mortaja": {
         "recorrido": [
             {"cruzDeGuia": "Salida (20:00)","palio": ""},
             {"cruzDeGuia": "San Juan de la Palma","palio": "Salida (20:30)"},
@@ -1212,8 +1163,7 @@
             {"cruzDeGuia": "","palio": "Entrada (2:00)"}
         ]
     },
-    "El Sol": {
-        "nombre": "El Sol",
+    "el-sol": {
         "recorrido": [
             {"cruzDeGuia": "Salida (12:45)","palio": ""},
             {"cruzDeGuia": "Virgen del Sol","palio": "Salida (13:15)"},
@@ -1238,8 +1188,7 @@
             {"cruzDeGuia": "","palio": "Entrada (22:45)"}
         ]
     },
-    "Los Servitas": {
-        "nombre": "Los Servitas",
+    "los-servitas": {
         "recorrido": [
             {"cruzDeGuia": "Salida (15:20)","palio": ""},
             {"cruzDeGuia": "Pl. San Marcos","palio": ""},
@@ -1259,8 +1208,7 @@
             {"cruzDeGuia": "","palio": "Entrada (22:40)"}
         ]
     },
-    "La Trinidad": {
-        "nombre": "La Trinidad",
+    "la-trinidad": {
         "recorrido": [
             {"cruzDeGuia": "Salida (15:30)","palio": ""},
             {"cruzDeGuia": "María Auxiliadora","palio": "Salida (16:20)"},
@@ -1285,8 +1233,7 @@
             {"cruzDeGuia": "","palio": "Entrada (1:30)"}
         ]
     },
-    "El Santo Entierro": {
-        "nombre": "El Santo Entierro",
+    "el-santo-entierro": {
         "recorrido": [
             {"cruzDeGuia": "Salida (18:45)","duelo": ""},
             {"cruzDeGuia": "CAMPANA (19:02)","duelo": "Salida (19:15)"},
@@ -1300,8 +1247,7 @@
             {"cruzDeGuia": "","duelo": "Entrada (23:00)"}
         ]
     },
-    "La Soledad de San Lorenzo": {
-        "nombre": "La Soledad de San Lorenzo",
+    "la-soledad-de-san-lorenzo": {
         "recorrido": [
             {"cruzDeGuia": "Salida (18:50)","paso": ""},
             {"cruzDeGuia": "Trajano","paso": ""},
@@ -1318,8 +1264,7 @@
             {"cruzDeGuia": "","paso": "Entrada (0:15)"}
         ]
     },
-    "La Resurrección": {
-        "nombre": "La Resurrección",
+    "la-resurreccion": {
         "recorrido": [
             {"cruzDeGuia": "Salida (8:30)","palio": ""},
             {"cruzDeGuia": "Pl. Cronista","palio": "Salida (9:05)"},

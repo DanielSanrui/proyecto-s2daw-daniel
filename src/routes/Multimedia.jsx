@@ -13,7 +13,6 @@ const Multimedia = () => {
         Galería Multimedia
       </h1>
 
-      {/* Botones de navegación */}
       <div className="d-flex justify-content-center gap-3 mb-4 flex-wrap">
         <button
           onClick={() => setSeccion("fotos")}
@@ -38,7 +37,6 @@ const Multimedia = () => {
         </button>
       </div>
 
-      {/* FOTOS */}
       {seccion === "fotos" && (
         <div className="row g-4">
           {multimedia.fotos.map((foto, index) => (
@@ -59,7 +57,6 @@ const Multimedia = () => {
         </div>
       )}
 
-      {/* VIDEOS */}
       {seccion === "videos" && (
         <div className="row g-4">
           {multimedia.videos.map((video, index) => (

@@ -26,11 +26,10 @@ const TablaRecorrido = ({ slug }) => {
     "PLAZA",
     "CAMPANA",
     "SIERPES",
+    "AVENIDA",
     "P. SAN MIGUEL",
     "P. PALOS",
   ];
-
-  // Ver si una celda debe tener fondo morado
   const esCeldaDestacada = (texto = "") => {
     const limpio = texto.trim().toUpperCase();
     return palabrasClave.some((clave) => {
@@ -39,7 +38,6 @@ const TablaRecorrido = ({ slug }) => {
     });
   };
 
-  // Ver si el texto contiene "Salida" o "Entrada"
   const esTextoEnNegrita = (texto = "") => {
     return /salida|entrada/i.test(texto);
   };
