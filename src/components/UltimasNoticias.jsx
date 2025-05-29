@@ -3,7 +3,6 @@ import noticias from "../data/Noticias.json";
 import CardNoticia from "./CardNoticia";
 
 const UltimasNoticias = () => {
-  // Ordenar noticias por fecha (y si coinciden, por orden natural)
   const noticiasOrdenadas = [...noticias].sort((a, b) => {
     const fechaA = new Date(a.fecha);
     const fechaB = new Date(b.fecha);

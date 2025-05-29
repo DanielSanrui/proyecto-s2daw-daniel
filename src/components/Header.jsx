@@ -163,63 +163,102 @@ function Header() {
       >
         <Link
           to="/hermandades"
-          className="d-block py-2 text-dark border-bottom"
+          className="d-block py-2 text-white text-decoration-none fw-semibold"
         >
           Hermandades
         </Link>
 
         <Link
           to="/dias"
-          className="d-block py-2 text-dark border-bottom fw-semibold"
+          className="d-block py-2 fw-semibold text-white text-decoration-none"
         >
           Días
         </Link>
         <div className="ps-3">
-          <Link to="/dias/domingo-de-ramos" className="d-block py-1 text-dark">
+          <Link
+            to="/dias/domingo-de-ramos"
+            className="d-block py-1 text-white text-decoration-none"
+          >
             Domingo de Ramos
           </Link>
-          <Link to="/dias/lunes-santo" className="d-block py-1 text-dark">
+          <Link
+            to="/dias/lunes-santo"
+            className="d-block py-1 text-white text-decoration-none"
+          >
             Lunes Santo
           </Link>
-          <Link to="/dias/martes-santo" className="d-block py-1 text-dark">
+          <Link
+            to="/dias/martes-santo"
+            className="d-block py-1 text-white text-decoration-none"
+          >
             Martes Santo
           </Link>
-          <Link to="/dias/miercoles-santo" className="d-block py-1 text-dark">
+          <Link
+            to="/dias/miercoles-santo"
+            className="d-block py-1 text-white text-decoration-none"
+          >
             Miércoles Santo
           </Link>
-          <Link to="/dias/jueves-santo" className="d-block py-1 text-dark">
+          <Link
+            to="/dias/jueves-santo"
+            className="d-block py-1 text-white text-decoration-none"
+          >
             Jueves Santo
           </Link>
-          <Link to="/dias/madruga" className="d-block py-1 text-dark">
+          <Link
+            to="/dias/madruga"
+            className="d-block py-1 text-white text-decoration-none"
+          >
             La Madrugá
           </Link>
-          <Link to="/dias/viernes-santo" className="d-block py-1 text-dark">
+          <Link
+            to="/dias/viernes-santo"
+            className="d-block py-1 text-white text-decoration-none"
+          >
             Viernes Santo
           </Link>
-          <Link to="/dias/sabado-santo" className="d-block py-1 text-dark">
+          <Link
+            to="/dias/sabado-santo"
+            className="d-block py-1 text-white text-decoration-none"
+          >
             Sábado Santo
           </Link>
           <Link
             to="/dias/domingo-resurreccion"
-            className="d-block py-1 text-dark"
+            className="d-block py-1 text-white text-decoration-none"
           >
             Domingo de Resurrección
           </Link>
         </div>
 
-        <Link to="/multimedia" className="d-block py-2 text-dark border-bottom">
+        <Link
+          to="/multimedia"
+          className="d-block py-2 fw-semibold text-white text-decoration-none"
+        >
           Multimedia
         </Link>
-        <Link to="/mapa" className="d-block py-2 text-dark border-bottom">
+        <Link
+          to="/mapa"
+          className="d-block py-2 fw-semibold text-white text-decoration-none"
+        >
           Mapa
         </Link>
-        <Link to="/tiempo" className="d-block py-2 text-dark border-bottom">
+        <Link
+          to="/tiempo"
+          className="d-block py-2 fw-semibold text-white text-decoration-none"
+        >
           Tiempo
         </Link>
-        <Link to="/noticias" className="d-block py-2 text-dark border-bottom">
+        <Link
+          to="/noticias"
+          className="d-block py-2 fw-semibold text-white text-decoration-none"
+        >
           Noticias
         </Link>
-        <Link to="/juego" className="d-block py-2 text-dark">
+        <Link
+          to="/juego"
+          className="d-block py-2 fw-semibold text-white text-decoration-none"
+        >
           Jugar
         </Link>
       </div>
