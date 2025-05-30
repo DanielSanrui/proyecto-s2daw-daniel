@@ -790,7 +790,7 @@
             {"cruzDeGuia": "","palio": "Entrada (23:20)"}
         ]
     },
-    "la-exaltación": {
+    "la-exaltacion": {
         "recorrido": [
             {"cruzDeGuia": "Salida (15:55)","palio": ""},
             {"cruzDeGuia": "Santa Ángela de la Cruz","palio": "Salida (15:55)"},
@@ -830,7 +830,7 @@
             {"cruzDeGuia": "","palio": "Entrada (0:35)"}
         ]
     },
-    "monte-sión": {
+    "monte-sion": {
         "recorrido": [
             {"cruzDeGuia": "Salida (17:30)","palio": ""},
             {"cruzDeGuia": "Correduría","palio": ""},
@@ -881,7 +881,7 @@
             {"cruzDeGuia": "","palio": "Entrada (0:45)"}
         ]
     },
-    "pasión": {
+    "pasion": {
         "recorrido": [
             {"cruzDeGuia": "Salida (20:15)","palio": ""},
             {"cruzDeGuia": "García Tassara","palio": ""},
@@ -962,7 +962,7 @@
             {"cruzDeGuia": "","palio": "Entrada (13:30)"}
         ]
     },
-    "el-calvario": {
+    "calvario": {
         "recorrido": [
             {"cruzDeGuia": "Salida (4:00)","palio": ""},
             {"cruzDeGuia": "CAMPANA (4:49)","palio": "Salida (4:30)"},
