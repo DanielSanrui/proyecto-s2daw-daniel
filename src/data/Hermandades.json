@@ -1462,17 +1462,49 @@
   "descripcionCorta": "Hermandad fundada en 1926 con sede en la iglesia de San Esteban. Procesiona el Martes Santo con el Cristo de la Salud, una imagen del siglo XVI, y la Virgen de los Desamparados, destacando por su estilo neobarroco y su relevante papel en la historia reciente de la Semana Santa sevillana.",
   "descripcion": [
     {
-      "titulo": "",
+      "titulo": "Origen y espiritualidad de la Hermandad",
       "texto": [
-        "",
-        ""
+        "La Hermandad de San Esteban nace en 1926 en el seno de la parroquia de San Bartolomé, impulsada por un profundo fervor hacia una antigua imagen de Cristo conocida popularmente como el Señor de la Ventana, una venerada talla de terracota de origen anónimo datada entre mediados del siglo XVI y comienzos del XVII. Desde sus orígenes, la corporación se distinguió por su intensa devoción cristífera, marcada por el recogimiento, la sobriedad y una profunda identificación con el misterio de la Pasión del Señor.",
+        "En sus primeros años, la Hermandad canaliza esa fe en torno al Cristo de la Salud, al que también se le reza bajo el título de Buen Viaje, ya que los viajeros que salían de Sevilla por la Puerta de Carmona lo invocaban para encomendarse a su protección. Esta advocación de Salud y Buen Viaje da nombre al actual titular, símbolo del consuelo espiritual para quienes se enfrentan a caminos inciertos."
       ]
     },
     {
-      "titulo": "",
+      "titulo": "Cristo de la Salud: el Dios burlado y humillado",
       "texto": [
-        "",
-        ""
+        "La imagen del Cristo de la Salud representa a Jesús en el momento en que, tras ser flagelado, es presentado al pueblo con una clámide púrpura y una caña a modo de cetro, en una escena profundamente conmovedora de burla y humillación. Su rostro, sereno pero doliente, con lágrimas de cristal —único caso en toda la Semana Santa sevillana— transmite al devoto el misterio de la entrega y la redención.",
+        "En 1940, el reconocido escultor sevillano Antonio Castillo Lastrucci completó el grupo escultórico que acompaña al Señor, recreando con maestría el pasaje evangélico del Ecce Homo. Sayones, un soldado romano y un hebreo completan la escena, uno de ellos arrodillado en gesto de adoración burlona. El paso, de estilo neobarroco, está ricamente dorado y rodeado de candelabros de guardabrisas, con ángeles ceriferarios tallados, conformando un conjunto que mezcla fuerza dramática y belleza sacra.",
+        "Este paso, restaurado en 1998, conmueve cada Martes Santo al avanzar lentamente entre incienso y saetas, mostrando al Cristo dolido, pero digno, sereno ante la humillación, ejemplo de amor que no responde con violencia, sino con misericordia."
+      ]
+    },
+    {
+      "titulo": "María Santísima de los Desamparados: consuelo en el dolor",
+      "texto": [
+        "Junto al Señor, camina su bendita Madre, María Santísima de los Desamparados, una Dolorosa de candelero realizada en madera de pino por Manuel Galiano Delgado en 1927. Su advocación, que nació tras el rechazo de la denominación inicial por parte del Arzobispado, refleja a la perfección el papel de la Virgen como amparo y refugio en los momentos de mayor desamparo humano y espiritual.",
+        "Su bendición tuvo lugar el 8 de mayo de 1927 en el Hospital Central de Sevilla, ya que la Iglesia de San Esteban se hallaba en obras. Desde entonces, la Virgen ha sido fuente de devoción silenciosa y profunda, acompañando al Cristo con maternal fortaleza en cada estación de penitencia.",
+        "Procesiona en un palio de terciopelo burdeos liso, con bordados en oro realizados entre 1989 y 1995. La orfebrería es plateada y luce una corona de plata dorada de 1993. En su rostro se refleja la ternura, la compasión y el sufrimiento compartido de una Madre que no abandona a su Hijo ni a sus hijos."
+      ]
+    },
+    {
+      "titulo": "Hitos en su historia reciente",
+      "texto": [
+        "La Hermandad de San Esteban ha vivido momentos decisivos que han forjado su carácter:",
+        "• En 1976 fue pionera al ser la primera hermandad en sacar ambos pasos portados exclusivamente por hermanos costaleros, contribuyendo al modelo actual de cuadrillas.",
+        "• En 1979 crea su propia banda de cornetas y tambores, que acompañó al misterio durante años.",
+        "• En 1982, durante un ensayo, un conductor ebrio colisionó con el paso del Señor, causando daños y dejando heridos. A pesar de ello, la Hermandad no faltó a su cita penitencial ese año, aunque sin la parte trasera del paso.",
+        "También fue una de las seleccionadas para participar en el Vía Crucis Magno de la Fe de Sevilla en 2013, aunque finalmente no pudo salir por la lluvia."
+      ]
+    },
+    {
+      "titulo": "Sede canónica: Iglesia de San Esteban",
+      "texto": [
+        "La Hermandad tiene su sede en la Iglesia de San Esteban, uno de los templos más antiguos y con más encanto de Sevilla, antigua mezquita reconvertida al culto cristiano. Su interior, austero pero lleno de historia, es lugar de oración constante y hogar espiritual de una hermandad que mantiene viva la llama del recogimiento y el compromiso evangélico. "
+      ]
+    },
+    {
+      "titulo": "Devoción y presencia en la Semana Santa",
+      "texto": [
+        "Cada Martes Santo, la Hermandad de San Esteban convierte las calles de Sevilla en un auténtico Vía Crucis viviente. Su paso por la Puerta de Carmona, desde donde antaño partían los viajeros, simboliza no solo un tránsito físico, sino el viaje espiritual que inicia todo cristiano al contemplar el misterio de la Pasión.",
+        "Con dos pasos de exquisita belleza, una cuadrilla de costaleros comprometidos y un cortejo sobrio, esta Hermandad encarna la Sevilla clásica y devota, aquella que vive con profundidad cada instante del caminar hacia el Calvario, donde el dolor se convierte en redención y la angustia en esperanza."
       ]
     }
   ]
@@ -1503,17 +1535,38 @@
   "descripcionCorta": "La Hermandad de Los Javieres, fundada en 1945 dentro del ámbito jesuita, es una corporación del Martes Santo sevillano que destaca por su juventud, su origen en la formación cristiana de trabajadores y su fuerte impronta espiritual y cofrade.",
   "descripcion": [
     {
-      "titulo": "",
+      "titulo": "Orígenes marcados por la fe ignaciana",
       "texto": [
-        "",
-        ""
+        "La Hermandad de Los Javieres surge como fruto de la profunda vida espiritual impulsada por la Compañía de Jesús en Sevilla durante los difíciles años de la posguerra. Fundada en 1945, esta cofradía nace del seno de la Congregación Mariana de “Los Javieres”, una agrupación de jóvenes trabajadores dirigida espiritualmente por los padres jesuitas en la Iglesia del Sagrado Corazón, ubicada en la calle Jesús del Gran Poder.",
+        "Formaba parte de un movimiento pastoral mayor que agrupaba tres ramas de congregaciones marianas: “Los Luises”, “Los Kostkas” y “Los Javieres”, todas bajo el amparo de la Inmaculada Concepción y con la guía de sus respectivos santos patronos. En este ambiente de formación cristiana, fervor mariano y compromiso apostólico, germinó la semilla que daría lugar a una nueva hermandad penitencial."
       ]
     },
     {
-      "titulo": "",
+      "titulo": "El nacimiento de una nueva hermandad",
       "texto": [
-        "",
-        ""
+        "Movidos por la devoción y el deseo de expresar públicamente su fe, los jóvenes de la congregación, animados por el padre José Luis Díez Gutiérrez-O’Neill, comenzaron en 1945 los preparativos para fundar una hermandad. Aquel mismo año se encargaron las primeras imágenes titulares, y en 1946 se formalizó el acuerdo de fundación, considerándose desde entonces un proyecto consolidado.",
+        "La hermandad fue erigida canónicamente años después, al aprobarse sus Reglas el 21 de junio de 1955 por el entonces arzobispo de Sevilla, Cardenal José María Bueno Monreal. Se fijó como día de salida el Martes Santo, coincidiendo con la fecha de nacimiento de su patrón, San Francisco Javier (7 de abril de 1506), que en aquel año coincidía litúrgicamente con dicho día."
+      ]
+    },
+    {
+      "titulo": "Primeros pasos en la Semana Santa de Sevilla",
+      "texto": [
+        "En 1956, la hermandad tenía prevista su primera presencia simbólica en la Semana Santa, acompañando a la Hermandad del Dulce Nombre, pero la lluvia impidió aquella participación. Sin embargo, la providencia les abrió otras puertas, y Los Javieres participaron ese año en la procesión del Sábado Santo con la Hermandad de la Soledad de San Lorenzo.",
+        "Finalmente, el 16 de abril de 1957, la Hermandad de Los Javieres realizó su primera estación de penitencia a la Santa Iglesia Catedral. En esa ocasión, sólo procesionó el paso del Señor, bajo el mando de los capataces Manuel y Eduardo Bejarano, figuras señeras de la Semana Santa sevillana. A partir de 1977, y como reflejo de la implicación creciente de los hermanos, se instauró la cuadrilla de hermanos costaleros."
+      ]
+    },
+    {
+      "titulo": "Una devoción que crece con los años",
+      "texto": [
+        "A lo largo de los años, la hermandad ha ido creciendo en espiritualidad, patrimonio y presencia dentro de la Semana Santa sevillana. Uno de los momentos más especiales se vivió en 1980, cuando se conmemoraron las bodas de plata tanto de la fundación como de la aprobación de las reglas. Con motivo de este aniversario, se organizaron diversos actos culturales y religiosos, destacando el ciclo “Martes Pasional de Sevilla”, con participación de destacados hermanos y conferenciantes cofrades.",
+        "Durante este año jubilar, se celebró también un Triduo Solemne en la Parroquia de Ómnium Sanctorum los días 19, 20 y 21 de noviembre. Como broche de oro, el 22 de noviembre, María Santísima de Gracia y Amparo fue trasladada bajo palio hasta la Catedral, donde presidió una solemne función en el trascoro. Para esta ocasión histórica, la Virgen lució un manto de terciopelo azul y respiraderos cedidos por la Hermandad de Pasión, en un gesto fraterno entre cofradías que revela la profunda comunión espiritual que une al pueblo cofrade sevillano."
+      ]
+    },
+    {
+      "titulo": "Presente y espiritualidad de Los Javieres",
+      "texto": [
+        "Hoy, la Hermandad de Los Javieres es una de las corporaciones más queridas del Martes Santo. Su carácter joven y su origen vinculado a la espiritualidad ignaciana siguen marcando su identidad. El recogimiento de su cortejo, la sobriedad en sus pasos, y la honda devoción que despiertan sus Sagrados Titulares —el Señor de las Almas y María Santísima de Gracia y Amparo— convierten su estación de penitencia en una manifestación de fe sincera y comprometida.",
+        "A lo largo de su corta pero intensa historia, Los Javieres han demostrado que la juventud, cuando se deja guiar por el Evangelio y el amor a Cristo, puede ser instrumento de renovación y esperanza dentro de la Iglesia y en el corazón de la Semana Santa de Sevilla."
       ]
     }
   ]
@@ -1544,17 +1597,63 @@
   "descripcionCorta": "Hermandad universitaria fundada en 1924, conocida por su solemne estación de penitencia el Martes Santo con el imponente Cristo de la Buena Muerte de Juan de Mesa. Su sede está en la capilla de la Universidad de Sevilla.",
   "descripcion": [
     {
-      "titulo": "",
+      "titulo": "Orígenes de una devoción universitaria",
       "texto": [
-        "",
-        ""
+        "La Hermandad de los Estudiantes nace del fervor cristiano de un grupo de miembros de la Universidad de Sevilla —estudiantes, profesores, catedráticos y personal universitario— que, a comienzos del siglo XX, se congregaban en torno al Santísimo Cristo de la Buena Muerte, majestuosa imagen tallada por Juan de Mesa en 1620. Esta devoción tomó cuerpo en la Iglesia de la Anunciación, antigua sede jesuita y posteriormente capilla universitaria.",
+        "En 1924, tras una década de gestación espiritual y académica, un grupo de universitarios dio forma definitiva a esta hermandad, redactando sus Reglas inspiradas en corporaciones clásicas como El Silencio y La Amargura. El 17 de noviembre de ese mismo año se celebra el Cabildo Fundacional, marcando el inicio de una historia de fe, superación y entrega."
       ]
     },
     {
-      "titulo": "",
+      "titulo": "Primeros pasos entre dificultades y esperanzas",
       "texto": [
-        "",
-        ""
+        "Desde sus comienzos, la Hermandad afrontó múltiples desafíos. Las tensiones internas sobre la forma de rendir culto, las dificultades económicas y los obstáculos externos no impidieron que, en 1926, la cofradía realizara su primera estación de penitencia con el Santísimo Cristo de la Buena Muerte. Años más tarde, en 1946, se incorporaría la imagen de María Santísima de la Angustia, completando así el cortejo que hoy recorre cada Martes Santo las calles de Sevilla."
+      ]
+    },
+    {
+      "titulo": "Persecución, resistencia y hermanamiento",
+      "texto": [
+        "Durante la Segunda República y la Guerra Civil, la Hermandad vivió sus momentos más oscuros. En 1932, el cierre de la Iglesia de la Universidad obligó a trasladar los cultos a la Parroquia del Salvador. Incluso se contempló la disolución, pero la devoción pudo más. En este periodo nació un vínculo eterno con la Hermandad de la Esperanza Macarena, que encontró refugio en la Iglesia de la Anunciación entre 1936 y 1942. Aquel tiempo de dolor compartido sembró una amistad que perdura hasta nuestros días."
+      ]
+    },
+    {
+      "titulo": "Crecimiento espiritual y artístico",
+      "texto": [
+        "La Hermandad experimentó un notable crecimiento desde los años 40. En 1942 se incorporó la actual imagen de María Santísima de la Angustia, obra de Juan de Astorga, y en 1946 se estrena su paso de palio. Este conjunto, de estilo neorrenacentista, es una joya del arte cofrade sevillano, repleto de iconografía mariana y universitaria, y concebido por Joaquín Castilla Romero, cuyo diseño original había sido descartado por la Hermandad de la Macarena.",
+        "Durante los años posteriores, se fueron sumando enseres y bordados, enriqueciendo un patrimonio artístico de gran valor, siempre en consonancia con el carácter sobrio y elegante de la corporación."
+      ]
+    },
+    {
+      "titulo": "El traslado a San Fernando: una nueva etapa",
+      "texto": [
+        "En 1966 se culminó el esperado traslado a la Capilla Universitaria de la antigua Fábrica de Tabacos, actual sede del Rectorado. Este acontecimiento marcó una nueva etapa en la vida de la Hermandad, profundamente enraizada ya en el alma de la Universidad. La nueva sede, aunque de reducidas dimensiones, se convirtió en el centro de la vida espiritual, cultural y devocional de la cofradía."
+      ]
+    },
+    {
+      "titulo": "Vínculo con el mundo académico",
+      "texto": [
+        "Desde entonces, la Hermandad ha mantenido una relación viva y fecunda con la Universidad de Sevilla. Actos como el Pregón Universitario, instituido en 1973, o los Ciclos “Cultura y Fe” han contribuido a mantener encendida la llama de la fe entre los universitarios. Asimismo, iniciativas como las campañas de donación de sangre o las becas para estudiantes sin recursos reafirman su compromiso social y formativo.",
+        "En 2009, este lazo fue solemnemente reconocido con la entrega de la Medalla de Oro de la Universidad de Sevilla, símbolo del profundo aprecio institucional hacia la Hermandad."
+      ]
+    },
+    {
+      "titulo": "Estación de penitencia: el Martes Santo de Sevilla",
+      "texto": [
+        "Cada Martes Santo, Sevilla contempla uno de los cortejos más sobrecogedores y espirituales de toda la Semana Santa. La imagen del Cristo de la Buena Muerte, en un paso austero y silencioso, impone respeto, reflexión y recogimiento. Le sigue el palio de la Virgen de la Angustia, radiante en su advocación y coronada por un paso que resume elegancia, clasicismo y devoción mariana.",
+        "El paso del Cristo es llevado por hermanos costaleros desde 1973, siendo la primera cofradía en introducir esta modalidad que después adoptarían muchas otras hermandades. Este gesto reforzó aún más el sentimiento de pertenencia y compromiso."
+      ]
+    },
+    {
+      "titulo": "Compromiso con la caridad y la nueva evangelización",
+      "texto": [
+        "A partir de los años 90 y ya en el nuevo milenio, la Hermandad ha potenciado su dimensión social y misionera. Ha promovido proyectos solidarios como la construcción del colegio “Señor de los Estudiantes” en Perú, y ha colaborado en obras de caridad en la India, Angola y en programas como la acogida de niños bielorrusos afectados por Chernóbil.",
+        "El carisma de la Hermandad se extiende también al mundo cultural, organizando exposiciones como “Sedes Sapientiae”, donde se mostró el patrimonio artístico de la corporación, destacando especialmente el palio completo de la Virgen, finalizado en 2012."
+      ]
+    },
+    {
+      "titulo": "Presente y futuro: luz en el corazón universitario",
+      "texto": [
+        "Hoy, la Hermandad de los Estudiantes representa una unión perfecta entre tradición y juventud, arte y espiritualidad, universidad y fe. Con su lema “Christus Lux Mea” (Cristo es mi luz) como guía, continúa evangelizando desde la sencillez y la belleza de sus cultos, desde la entrega silenciosa de sus hermanos, y desde el amor profundo a sus titulares.",
+        "La Hermandad es un faro de fe dentro del campus universitario y un ejemplo de cómo la religiosidad popular puede mantenerse viva, profunda y actual en el corazón de las nuevas generaciones."
       ]
     }
   ]
@@ -1585,17 +1684,56 @@
   "descripcionCorta": "La Hermandad de Santa Cruz es una cofradía del Martes Santo sevillano, conocida por su sobriedad, recogimiento y fidelidad a la tradición, con sede en la Parroquia de Santa Cruz.",
   "descripcion": [
     {
-      "titulo": "",
+      "titulo": "Orígenes de Fe y Tradición",
+      "texto": [
+        "La Hermandad de Santa Cruz hunde sus raíces en la rica tradición cofrade de la Parroquia de Santa Cruz, donde ya desde el siglo XVI existían hermandades como la del Santísimo Sacramento y Ánimas Benditas del Purgatorio. En 1904, un grupo de fieles, encabezado por el Marqués de Gandul, da vida a la actual Cofradía de Nazarenos bajo la advocación del Santísimo Cristo de las Misericordias y Nuestra Señora de los Dolores. Su primera estación de penitencia tuvo lugar en 1905 y, desde entonces, esta hermandad ha sido referente de austeridad, espiritualidad y elegancia en la Semana Santa de Sevilla."
+      ]
+    },
+    {
+      "titulo": "Un Camino de Unión y Devoción",
+      "texto": [
+        "A lo largo de su historia, la Hermandad ha vivido momentos de reorganización, como la fusión en 1969 con la Hermandad Sacramental de la parroquia y con la Hermandad de Nuestra Señora de la Paz. Esta unión no solo fortaleció su base devocional, sino que enriqueció el patrimonio artístico y espiritual de la cofradía, manteniéndose firme en su compromiso con la fe, la tradición y el culto al Santísimo Sacramento."
+      ]
+    },
+    {
+      "titulo": "Los Titulares: Rostros del Amor Redentor",
       "texto": [
         "",
         ""
       ]
     },
     {
-      "titulo": "",
+      "titulo": "Santísimo Cristo de las Misericordias",
       "texto": [
-        "",
-        ""
+        "Majestuosa talla anónima del siglo XVII, atribuida a Pedro Roldán o Francisco Ruiz Gijón, representa a Cristo en el instante sublime en que pronuncia su primera palabra en la Cruz: 'Padre, perdónalos porque no saben lo que hacen'. Es un Cristo que no muestra dolor rencoroso, sino misericordia infinita. Tallado en ciprés, con dientes de marfil y ojos de cristal, su presencia impone recogimiento, silencio y fe.",
+        "Su paso procesional, de estilo neogótico dorado, está ricamente decorado con escenas evangélicas que narran la Pasión y Resurrección del Señor. Sin corona de espinas ni potencias, Cristo se presenta con una sobriedad que estremece, acompañado desde 2004 por la imagen arrodillada de Santa María de la Antigua, en una bellísima composición de Stabat Mater."
+      ]
+    },
+    {
+      "titulo": "Santa María de la Antigua",
+      "texto": [
+        "Esta imagen, obra de Emilio Pizarro Cruz en 1905, es una dolorosa que durante años quedó relegada al olvido, hasta que fue devuelta al culto y restaurada por Fernando Fernández Goncer en 2001. Desde 2004, preside de nuevo el Misterio acompañando al Cristo de las Misericordias, con la advocación de 'la Antigua', encarnando la fidelidad silenciosa y el dolor contenido de María ante su Hijo crucificado. Su mirada baja y postura arrodillada convierten el paso en un altar en movimiento, un canto a la esperanza en medio del sufrimiento."
+      ]
+    },
+    {
+      "titulo": "Nuestra Señora de los Dolores",
+      "texto": [
+        "Bajo su palio neorrenacentista, bordado en terciopelo burdeos y oro, procesiona la actual titular mariana de la hermandad, obra de Antonio Eslava Rubio (1967). Es la Madre que sufre con su Hijo, con el corazón traspasado por la espada del dolor, como profetizará Simeón: 'Y a ti una espada te atravesará el alma'. Su rostro sereno pero desgarrado, su porte elegante y su recogimiento hacen de este paso una de las estampas más conmovedoras del Martes Santo.",
+        "Acompañada por la música de la Banda del Maestro Tejera, su caminar es oración, su palio es cielo bordado, y su presencia entre los fieles, consuelo para los que sufren."
+      ]
+    },
+    {
+      "titulo": "El Patrimonio de la Hermandad: Belleza al servicio de la Fe",
+      "texto": [
+        "La Hermandad de Santa Cruz ha sabido preservar y enriquecer su patrimonio con piezas que son verdaderas joyas de la Semana Santa. Desde el paso de Cristo con relieves de escenas bíblicas, hasta el palio de la Virgen con obras de orfebrería de Emilio García Armenta, todo en esta cofradía rezuma arte sacro al servicio del culto.",
+        "Sus insignias —como el estandarte granate bordado en oro, el simpecado, la cruz de guía inspirada en la de la Plaza de Santa Cruz o el libro de reglas ilustrado— reflejan el cuidado y el amor que los hermanos profesan a su hermandad. Todo está al servicio de una catequesis viva, donde cada detalle transmite la pasión, muerte y resurrección de Cristo."
+      ]
+    },
+    {
+      "titulo": "Identidad y Espíritu",
+      "texto": [
+        "El lema de la hermandad, 'Multae Misericordiae Ejus Sunt' ('Son muchas sus misericordias'), resume el corazón de su espiritualidad. Su escudo, su medalla y su compostura austera son testimonio de una fe que no busca estridencias sino profundidad. En sus nazarenos de túnica negra se refleja el alma penitente de Sevilla.",
+        "Cada Martes Santo, cuando el Cristo de las Misericordias cruza las calles del barrio, y la Virgen de los Dolores lo sigue bajo su palio, Santa Cruz vuelve a hablar al corazón de los fieles. Es una cofradía que no solo desfila: predica. No solo emociona: convierte."
       ]
     }
   ]

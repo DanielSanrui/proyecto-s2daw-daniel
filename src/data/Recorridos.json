@@ -557,17 +557,19 @@
     "santa-cruz": {
         "recorrido": [
             {"cruzDeGuia": "Salida (19:50)","palio": ""},
-            {"cruzDeGuia": "Mateos Gago","palio": "Salida (20:25)"},
-            {"cruzDeGuia": "Pl. Triunfo","palio": "Mateos Gago"},
-            {"cruzDeGuia": "Tomás de Ibarra","palio": "Pl. Triunfo"},
+            {"cruzDeGuia": "Mateos Gago","palio": ""},
+            {"cruzDeGuia": "Pl. Triunfo","palio": "Salida (20:25)"},
+            {"cruzDeGuia": "Tomás de Ibarra","palio": "Mateos Gago"},
             {"cruzDeGuia": "Castelar","palio": "Tomás de Ibarra"},
-            {"cruzDeGuia": "CAMPANA (22:51)","palio": "Mateos Gago"},
-            {"cruzDeGuia": "PLAZA (23:31)","palio": "Tomás de Ibarra"},
-            {"cruzDeGuia": "P. SAN MIGUEL (23:57)","palio": "CAMPANA (23:25)"},
-            {"cruzDeGuia": "P. PALOS (0:16)","palio": "PLAZA (0:05)"},
-            {"cruzDeGuia": "","palio": "P. SAN MIGUEL (0:31)"},
-            {"cruzDeGuia": "Entrada","palio": "P. PALOS (0:50)"},
-            {"cruzDeGuia": "","palio": "Entrada (1:40)"}
+            {"cruzDeGuia": "Barcelona","palio": "Postigo del Aceite"},
+            {"cruzDeGuia": "Velázquez","palio": "Barcelona"},
+            {"cruzDeGuia": "CAMPANA (22:51)","palio": "CAMPANA (23:25)"},
+            {"cruzDeGuia": "PLAZA (23:31)","palio": "SIERPES"},
+            {"cruzDeGuia": "P. SAN MIGUEL (23:57)","palio": "PLAZA (0:05)"},
+            {"cruzDeGuia": "P. PALOS (0:16)","palio": "P. SAN MIGUEL (0:31)"},
+            {"cruzDeGuia": "Entrada (1:00)","palio": "P. PALOS (0:50)"},
+            {"cruzDeGuia": "","palio": "Entrada (1:40)"},
+            {"cruzDeGuia": "","palio": ""}
         ]
     },
     "el-carmen": {
