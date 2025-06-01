@@ -157,13 +157,78 @@
   "descripcionCorta": " La Hermandad de la Hiniesta, con sede en la parroquia de San Julián, es una histórica cofradía sevillana que rinde culto a la Virgen de la Hiniesta en sus advocaciones Gloriosa y Dolorosa. Desde 1565 realiza estación de penitencia en Semana Santa, destacando por su profundo vínculo con la ciudad de Sevilla.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": [
-        "",
-        ""
-      ]
-    },
-    { "titulo": "", "texto": ["", ""] }
+    "titulo": "La Hiniesta: Luz de Sevilla, Madre del Pueblo",
+    "texto": [
+      "La Hermandad de la Hiniesta es mucho más que una cofradía: es el latido de un pueblo que desde hace más de seis siglos ha depositado en Ella su fe, sus súplicas y su esperanza.",
+      "Su historia nace entre la leyenda y la gracia, cuando se cuenta que el apóstol Santiago plantó la semilla de la fe cristiana en tierras hispalenses, y su discípulo San Pío colocó en la primitiva iglesia de Sevilla una imagen de la Virgen, segunda en el mundo tras la del Pilar, bajo la advocación de la Concepción.",
+      "Aquella imagen, protegida a lo largo de los siglos de guerras e invasiones, fue finalmente reencontrada en los montes de Cataluña, oculta entre retamas (hiniestas), donde el caballero mosén Per de Tous la halló por designio divino.",
+      "A los pies de la imagen, una inscripción clara y milagrosa: \"Soy de Sevilla, de una capilla junto a la puerta que encamina a Córdoba\"."
+    ]
+  },
+  {
+    "titulo": "Regreso a Sevilla y devoción creciente",
+    "texto": [
+      "Desde entonces, Sevilla ha vuelto sus ojos a Ella como Madre y Protectora.",
+      "El regreso de la Virgen a su ciudad fue recibido con el boato de reyes y prelados, pero también con el amor sencillo de su pueblo.",
+      "Entregada a la parroquia de San Julián, donde fue entronizada con solemnidad, Santa María de la Hiniesta comenzó a irradiar su luz sobre generaciones de sevillanos."
+    ]
+  },
+  {
+    "titulo": "Fundación y voto perpetuo",
+    "texto": [
+      "En 1380 se funda la Hermandad de Gloria en su honor, naciendo el primer vínculo formal de los fieles con su Virgen.",
+      "A lo largo del tiempo, las oraciones de los fieles, las súplicas del Ayuntamiento y las promesas hechas en nombre de toda Sevilla fueron tejiendo una devoción única.",
+      "En tiempos de peste, de sequías o de temblores, la ciudad se volvía hacia Ella, y Ella, gloriosa en su trono de luz, intercedía.",
+      "Así, en 1649, el Consistorio le hizo un voto perpetuo de gratitud que, cada año, se renueva solemnemente cada 8 de septiembre."
+    ]
+  },
+  {
+    "titulo": "Cofradía de penitencia y Semana Santa",
+    "texto": [
+      "El alma penitente de Sevilla encontró también refugio en Ella.",
+      "En 1565, en el espíritu de la Contrarreforma, la Hermandad se transformó en cofradía de penitencia, haciendo estación de penitencia en Semana Santa, con sus nazarenos recorriendo las calles con túnicas humildes y descalzos, acompañando a Cristo crucificado y a su Madre Dolorosa."
+    ]
+  },
+  {
+    "titulo": "Dolor y resurrección",
+    "texto": [
+      "A lo largo de los siglos, la Hermandad ha sufrido pérdidas irreparables y ha conocido el dolor y la resurrección.",
+      "El incendio de San Julián en 1932, y años después el de San Marcos, destruyeron las imágenes originales.",
+      "Pero, como tantas veces lo ha hecho Sevilla, la Hermandad se alzó de las cenizas con fe firme y corazón agradecido.",
+      "Antonio Castillo Lastrucci talló las actuales imágenes del Santísimo Cristo de la Buena Muerte y de María Santísima de la Hiniesta Dolorosa, cuya belleza y ternura conmueven cada Domingo de Ramos."
+    ]
+  },
+  {
+    "titulo": "Coronación y reconocimiento",
+    "texto": [
+      "En 1974, la Virgen de la Hiniesta Gloriosa fue coronada canónicamente, y Sevilla entera se postró ante Ella en un acto de consagración, donde el alcalde le ofreció el bastón de alcaldesa perpetua.",
+      "Desde entonces, preside cada año el altar del Ayuntamiento en la procesión del Corpus, como Reina de la ciudad, y como Señora que siempre escucha el latido de su gente."
+    ]
+  },
+  {
+    "titulo": "Presente de fe y obras",
+    "texto": [
+      "La Hermandad ha continuado creciendo en fe, caridad y presencia.",
+      "Ha construido una nueva casa hermandad, ha restaurado sus imágenes, y ha emprendido obras de caridad y formación cristiana.",
+      "En el siglo XXI, celebra aniversarios que no son solo efemérides históricas, sino testimonios vivos de una devoción que no envejece: el VI Centenario fundacional, el 450 aniversario de la primera regla como cofradía de penitencia, y las restauraciones de sus veneradas imágenes, devueltas al culto con renovado esplendor."
+    ]
+  },
+  {
+    "titulo": "Una devoción que no envejece",
+    "texto": [
+      "Hoy, la Hermandad de la Hiniesta sigue siendo refugio, faro y escuela de fe.",
+      "Cada Domingo de Ramos, María Santísima de la Hiniesta Dolorosa sale bajo palio azul y plata, con mirada serena, para encontrarse con un pueblo que la espera en silencio.",
+      "Y cada 8 de septiembre, la Hiniesta Gloriosa recibe la visita de Sevilla entera, que no olvida que Ella es su Patrona en el corazón, aunque el decreto nunca lo dijera."
+    ]
+  },
+  {
+    "titulo": "Conclusión",
+    "texto": [
+      "Porque la Hiniesta no es solo historia.",
+      "Es amor que perdura.",
+      "Es Sevilla hecha oración."
+    ]
+  }
   ]
 },
 {
@@ -272,8 +337,70 @@
   ],
   "descripcionCorta": "Hermandad sacramental con orígenes en el siglo XVI, que representa la Última Cena y el Cristo de la Humildad y Paciencia en el Domingo de Ramos sevillano. Reside en la iglesia de Los Terceros y es pionera en la proclamación de la Realeza de María.",
   "descripcion": [
-    { "titulo": "", "texto": ["", ""] },
-    { "titulo": "", "texto": ["", ""] }
+    {
+    "titulo": "Hermandad de la Sagrada Cena",
+    "texto": [
+      "La Hermandad de la Sagrada Cena es una de las más antiguas y emblemáticas de la Semana Santa sevillana.",
+      "Sus raíces se remontan al siglo XVI, con la aprobación de sus primeras Reglas el 14 de diciembre de 1580 en la Parroquia de Ómnium Sanctorum, aunque también se baraja su origen en San Nicolás de Bari, donde se veneraba a Nuestra Señora del Subterráneo."
+    ]
+  },
+  {
+    "titulo": "Unión y traslados históricos",
+    "texto": [
+      "En 1591, según documentos históricos, se produjo la unión de la Hermandad de la Sagrada Cena con la del Cristo Humillado, hecho que marca la configuración de la corporación tal y como la conocemos hoy.",
+      "Durante los siglos XVII y XVIII, la hermandad vivió múltiples traslados, desde San Basilio, San Gil y el Convento de Belén hasta San Vicente, lo que refleja las dificultades y adaptaciones a lo largo de su historia."
+    ]
+  },
+  {
+    "titulo": "Recuperación y desafíos del siglo XIX",
+    "texto": [
+      "A pesar de estos avatares, en 1830 la hermandad vuelve a procesionar tras más de seis décadas de inactividad.",
+      "Sin embargo, el siglo XIX trajo nuevos desafíos, como la Desamortización de Mendizábal en 1868, que provocó la pérdida de enseres.",
+      "Aun así, en 1876 se aprueban nuevas Reglas y se retoma el esplendor cofrade."
+    ]
+  },
+  {
+    "titulo": "Guerra Civil y sede definitiva",
+    "texto": [
+      "Durante la Segunda República y la Guerra Civil, la hermandad sufrió gravemente.",
+      "En 1936, la Parroquia de Ómnium Sanctorum fue incendiada, aunque gracias al esfuerzo de hermanos y feligreses se lograron salvar las imágenes titulares.",
+      "Tras ello, la Hermandad se trasladó a la Iglesia de Los Terceros, sede que ha marcado su etapa contemporánea desde 1973, salvo por un traslado temporal en 1988."
+    ]
+  },
+  {
+    "titulo": "Hitos del siglo XX",
+    "texto": [
+      "Entre los momentos más destacados del siglo XX está la concesión del título de Hermandad Sacramental en 1955 y la participación activa en la proclamación de la Realeza de María en 1948, evento pionero a nivel mundial en la Iglesia Católica, y cuyo símbolo fue la primera bandera bendecida por el Papa Pío XII."
+    ]
+  },
+  {
+    "titulo": "Crecimiento devocional y fusión",
+    "texto": [
+      "Desde entonces, la Hermandad ha crecido notablemente, tanto en devoción como en presencia pública.",
+      "En 1974 se reincorpora a la procesión del Domingo de Ramos el paso del Cristo de la Humildad y Paciencia, y en 1995 se integra la Hermandad de la Esclavitud de Nuestra Señora de la Encarnación, enriqueciendo el patrimonio devocional."
+    ]
+  },
+  {
+    "titulo": "Corpus Christi y altar eucarístico",
+    "texto": [
+      "La implicación de la Hermandad con el Corpus Christi también tiene tradición, desde su participación en 1860 y posteriormente en 1919, hasta la instalación de un altar eucarístico desde 1970, costumbre que se mantiene hasta hoy.",
+      "En años señalados como 1991, 2005 o 2013 ha presidido el altar el Misterio de la Sagrada Cena, dando lugar a imágenes inolvidables."
+    ]
+  },
+  {
+    "titulo": "Avances del siglo XXI",
+    "texto": [
+      "El siglo XXI ha sido testigo de nuevas conquistas: la incorporación de mujeres nazarenas en el año 2000, la salida de la Virgen del Subterráneo como Reina de los Cielos y la recuperación procesional de la Virgen de la Encarnación en 2006.",
+      "Otro momento inolvidable fue en 2015, cuando el Cristo de la Humildad y Paciencia presidió el Vía Crucis de las Hermandades en la Catedral de Sevilla."
+    ]
+  },
+  {
+    "titulo": "Vida interna y renovación",
+    "texto": [
+      "Además, la Hermandad ha mostrado un crecimiento sostenido en vida interna: la creación del Grupo Joven en 1976, el paso de costaleros profesionales a hermanos entre 1980 y 1983, la fundación de la Escuela de Saetas en 1991 y la participación en encuentros nacionales.",
+      "Todo ello refleja su vigor y renovación constante, manteniendo siempre el respeto por su rica historia."
+    ]
+  }
   ]
 },
 {
@@ -363,8 +490,69 @@
   ],
   "descripcionCorta": "La Hermandad de la Amargura es una cofradía sevillana del Domingo de Ramos con sede en San Juan de la Palma. Se distingue por su carácter serio, su sobriedad clásica y su devoción mariana profundamente arraigada.",
   "descripcion": [
-    { "titulo": "", "texto": ["", ""] },
-    { "titulo": "", "texto": ["", ""] }
+  {
+    "titulo": "Hermandad de la Amargura",
+    "texto": [
+      "La Hermandad de la Amargura, con sede canónica en la Iglesia de San Juan de la Palma, es una de las corporaciones más queridas, respetadas y profundamente espirituales de la Semana Santa de Sevilla.",
+      "Su estación de penitencia en la tarde-noche del Domingo de Ramos se convierte en un auténtico acto de fe, recogimiento y amor a Dios y a la Santísima Virgen, marcando uno de los momentos más intensos de la Semana Mayor."
+    ]
+  },
+  {
+    "titulo": "Raíces históricas y fusión",
+    "texto": [
+      "Esta hermandad tiene sus raíces en dos tradiciones históricas: la Hermandad Sacramental, nacida en el siglo XVI, y la Hermandad de Penitencia, fundada en el XVII tras la epidemia de peste de 1649, ambas unidas por el deseo de glorificar a Dios y consolar al prójimo.",
+      "La fusión definitiva de ambas se produjo en 1904, en un espíritu de renovación que aún hoy sigue vivo."
+    ]
+  },
+  {
+    "titulo": "Primer paso: Jesús del Silencio",
+    "texto": [
+      "La cofradía realiza estación de penitencia con dos pasos.",
+      "El primero, sobrio y sobrecogedor, representa a Nuestro Padre Jesús del Silencio en el Desprecio de Herodes.",
+      "La imagen, de serena mansedumbre, encarna al Cristo que calla ante la injusticia, el que no se defiende, el que carga con el sufrimiento del mundo sin una queja, ofreciendo en su silencio un mensaje de redención.",
+      "Es una figura que conmueve hasta lo más hondo del alma, invitando al espectador a detenerse, a mirar, y a reflexionar sobre el dolor silencioso de Dios."
+    ]
+  },
+  {
+    "titulo": "Segundo paso: Virgen de la Amargura Coronada",
+    "texto": [
+      "El segundo paso está presidido por María Santísima de la Amargura Coronada, acompañada por San Juan Evangelista.",
+      "Es una de las dolorosas más emblemáticas y veneradas de Sevilla, coronada canónicamente en 1954 en un acto histórico que reconoció su realeza y su inmenso arraigo popular.",
+      "Su rostro es reflejo de ternura infinita y dolor contenido, una madre rota por el sufrimiento, que sostiene la esperanza cuando todo parece perdido.",
+      "San Juan, fiel hasta el final, la acompaña en este caminar entre lágrimas.",
+      "El palio que cobija a la Virgen es una obra de arte en sí mismo: bordados exquisitos, armonía de colores, candelería encendida como faro de fe y consuelo."
+    ]
+  },
+  {
+    "titulo": "El Silencio Blanco",
+    "texto": [
+      "Uno de los signos más distintivos de la Amargura es el profundo silencio que reina en su cortejo, roto solo por el leve arrastre de los pasos o el estremecimiento de una saeta.",
+      "Por ello, es conocida popularmente como “El Silencio Blanco”, por el color inmaculado de las túnicas de sus nazarenos y por la forma tan recogida y solemne con la que realiza su estación.",
+      "No es un desfile, es una oración pública, una catequesis viviente, una llamada a la conversión."
+    ]
+  },
+  {
+    "titulo": "Tradición y renovación",
+    "texto": [
+      "La Hermandad ha sabido mantener durante siglos un perfecto equilibrio entre tradición y renovación.",
+      "Fue pionera en la incorporación plena de las hermanas en igualdad de condiciones, y en abrir sus puertas a jóvenes y costaleros hermanos, manteniendo siempre su esencia: el amor al Santísimo Sacramento, a Jesús del Silencio y a su Madre, la Virgen de la Amargura.",
+      "Su vida diaria se nutre de cultos solemnes, de formación cristiana, de acción caritativa y de una fraternidad ejemplar que traspasa los muros del templo."
+    ]
+  },
+  {
+    "titulo": "Experiencia del recorrido",
+    "texto": [
+      "Verla salir desde San Juan de la Palma, acompañarla en su caminar por la calle Feria, verla cruzar la plaza de San Francisco o regresar en la intimidad de la madrugada, es una experiencia que no se olvida.",
+      "No sólo por la belleza de sus imágenes o por la calidad artística de sus pasos, sino por la profundidad espiritual que emana de cada tramo de nazarenos, de cada silencio compartido, de cada lágrima en los ojos de los fieles que esperan su paso."
+    ]
+  },
+  {
+    "titulo": "Testimonio vivo de fe",
+    "texto": [
+      "La Hermandad de la Amargura no solo es una joya patrimonial y litúrgica de Sevilla.",
+      "Es, sobre todo, un testimonio vivo de fe, esperanza y caridad, un faro que sigue brillando con fuerza cada Domingo de Ramos, recordando que, aun en medio del dolor más profundo, siempre hay una Madre que nos acompaña y un Dios que nos redime en silencio."
+    ]
+  }
   ]
 },
 {
@@ -392,8 +580,57 @@
   ],
   "descripcionCorta": "La Hermandad de la Estrella, fundada en 1560 en Triana, es una de las cofradías más emblemáticas de Sevilla, destacando por la devoción a su Virgen coronada y al Cristo de las Penas. Cada Domingo de Ramos llena de emoción las calles sevillanas.",
   "descripcion": [
-    { "titulo": "", "texto": ["", ""] },
-    { "titulo": "", "texto": ["", ""] }
+  {
+    "titulo": "Historia y devoción desde Triana",
+    "texto": [
+      "La Hermandad de la Estrella, una de las más queridas y representativas de la Semana Santa de Sevilla, hunde sus raíces en el siglo XVI.",
+      "Fue fundada en 1560 por cargadores de barcos del barrio de Triana en el convento de la Victoria, bajo la advocación de Nuestra Señora de la Estrella.",
+      "Sus primeras reglas fueron aprobadas por el rey Felipe II en 1566."
+    ]
+  },
+  {
+    "titulo": "Fusión con la Hermandad de las Penas",
+    "texto": [
+      "En 1674 se produjo un hecho trascendental: la unión con la Hermandad de las Penas, fusionándose bajo un único título y conformando una de las cofradías con más personalidad de la ciudad.",
+      "Desde entonces, su devoción al Santísimo Cristo de las Penas, al Triunfo de la Santa Cruz y a María Santísima de la Estrella ha sido motor de fe para generaciones de sevillanos."
+    ]
+  },
+  {
+    "titulo": "Una hermandad unida a Triana",
+    "texto": [
+      "La hermandad siempre ha estado estrechamente vinculada al barrio de Triana y a sus gentes, en especial al gremio de los alfareros.",
+      "A pesar de guerras, incendios, exclaustraciones y persecuciones —como las sufridas durante la invasión francesa en 1809 o la difícil situación política de los años 30 del siglo XX—, la Estrella ha sabido resurgir y consolidarse como una institución viva y activa."
+    ]
+  },
+  {
+    "titulo": "Hitos recientes",
+    "texto": [
+      "Entre sus hitos recientes destacan la coronación canónica de la Virgen en 1999 por el cardenal Amigo Vallejo y la atribución de su talla a la escultora barroca Luisa Roldán, “La Roldana”, tras su restauración en 2010.",
+      "Ese mismo año, la hermandad celebró su 450 aniversario con una procesión extraordinaria que inundó las calles de Triana de fervor y emoción."
+    ]
+  },
+  {
+    "titulo": "Estación de penitencia",
+    "texto": [
+      "La Hermandad de la Estrella procesiona cada Domingo de Ramos con un cortejo que destaca por su brillantez, elegancia y el profundo sentimiento que transmite.",
+      "El paso del Cristo de las Penas, obra del escultor flamenco José de Arce, representa a Jesús en actitud orante antes de la crucifixión.",
+      "El paso de palio de la Estrella es uno de los más bellos y reconocidos de la Semana Santa sevillana.",
+      "Su inconfundible palio de malla, el rostro sereno de la Virgen y el acompañamiento musical lo convierten en uno de los momentos más esperados de toda la Semana Santa."
+    ]
+  },
+  {
+    "titulo": "Vida parroquial y compromiso social",
+    "texto": [
+      "Además de su faceta penitencial, la hermandad desarrolla una intensa vida parroquial y asistencial.",
+      "Desde la creación de su Bolsa de Caridad en 1963 hasta su participación en acciones pastorales de la Parroquia de San Jacinto, donde tiene sede canónica desde 1976, la Hermandad de la Estrella es un ejemplo de compromiso cristiano con el prójimo."
+    ]
+  },
+  {
+    "titulo": "Presente y legado",
+    "texto": [
+      "Hoy, tras más de 450 años de historia, la Estrella sigue iluminando Triana cada Domingo de Ramos y continúa siendo un referente de fe, tradición, arte y devoción mariana en la Semana Santa de Sevilla."
+    ]
+  }
   ]
 },
 {
@@ -495,20 +732,59 @@
   ],
   "descripcionCorta": "La Hermandad de San Pablo es el corazón devoto del Polígono San Pablo. Joven, trinitaria y profundamente arraigada en su barrio, cada Lunes Santo ofrece a Sevilla el rostro sereno de Cristo Cautivo y el consuelo de María del Rosario, caminando con fe firme hacia la Catedral.",
   "descripcion": [
-    {
-      "titulo": "",
-      "texto": [
-        "",
-        ""
-      ]
-    },
-    {
-      "titulo": "",
-      "texto": [
-        "",
-        ""
-      ]
-    }
+  {
+    "titulo": "Fe viva del Polígono que camina hacia la Catedral",
+    "texto": [
+      "En el corazón del barrio sevillano del Polígono San Pablo late con fuerza una joven Hermandad, nacida del fervor sencillo y valiente de sus vecinos.",
+      "La Hermandad de San Pablo, con una profunda raíz trinitaria y una devoción creciente, es hoy uno de los ejemplos más emocionantes de cómo la fe transforma una comunidad y la eleva hacia lo más alto del alma cofrade de Sevilla."
+    ]
+  },
+  {
+    "titulo": "Orígenes humildes y fundacionales",
+    "texto": [
+      "Su historia comienza en 1979, como una pequeña asociación de fieles que, sin imágenes, sin cortejos ni palios, ya celebraba cultos y sembraba Evangelio desde la Parroquia de San Ignacio de Loyola.",
+      "Su primer nombre: Fervorosa Asociación de Fieles de María Santísima del Rosario y San Ignacio de Loyola. Ya entonces, en la humildad de sus comienzos, se forjaban los pilares de una Hermandad marcada por la fe, la caridad y el servicio."
+    ]
+  },
+  {
+    "titulo": "El impulso trinitario y la llegada del Señor Cautivo",
+    "texto": [
+      "La llegada de la Orden Trinitaria en 1988 supuso una renovación espiritual decisiva. Bajo su carisma —la redención, la libertad, la entrega al prójimo— la hermandad encontró un cauce fuerte para su crecimiento.",
+      "En pocos años, lo que fue semilla se volvió árbol firme. En 1992 se bendice la imagen de Nuestro Padre Jesús Cautivo y Rescatado, esculpida por el afamado imaginero Luis Álvarez Duarte, hermano de la corporación y figura clave en su trayectoria artística y devocional.",
+      "La imagen, profundamente expresiva, muestra al Señor en el momento de ser llevado de Herodes a Pilato, una estampa de dignidad serena y sufrimiento redentor que conmueve a cuantos la contemplan."
+    ]
+  },
+  {
+    "titulo": "Erección canónica y proyecto del misterio",
+    "texto": [
+      "Desde entonces, la devoción creció sin cesar, hasta culminar el 5 de enero de 2005, cuando por decreto del Cardenal Amigo Vallejo, se erige canónicamente como Hermandad Sacramental y de Penitencia.",
+      "Una fecha inolvidable que selló años de entrega, oración y compromiso.",
+      "Un año más tarde, en el 2006, se presenta un proyecto artístico y espiritual que marcará el carácter del misterio: el Señor estará rodeado de figuras secundarias —Caifás, Herodes, soldados romanos y un sanedrita— completando así una escenografía que narra con fuerza el pasaje del Evangelio de San Lucas (Lc 23,6-10), donde Jesús es interrogado y silenciado con la majestad de quien ofrece su vida en silencio por la humanidad entera."
+    ]
+  },
+  {
+    "titulo": "La Virgen del Rosario y el gesto de fraternidad",
+    "texto": [
+      "La Virgen también tuvo su renacer. En 2007, la Hermandad acoge una nueva imagen de su Dolorosa, también obra de Álvarez Duarte: Nuestra Señora del Rosario, bendecida con toda solemnidad por el Cardenal en presencia de la ciudad cofrade.",
+      "Como signo de fraternidad, la Hermandad de la Macarena apadrina la bendición y regala a la Virgen la “Cruz de la Esperanza”, símbolo tangible de la hermandad entre corporaciones."
+    ]
+  },
+  {
+    "titulo": "Primera salida a la Catedral",
+    "texto": [
+      "La culminación de este camino llega en 2008, cuando la Hermandad de San Pablo realiza por primera vez su Estación de Penitencia a la Santa Iglesia Catedral de Sevilla, siendo la primera cofradía en abrir la jornada del Lunes Santo.",
+      "Más de 500 hermanos vistiendo la túnica de nazareno acompañaron a sus Sagrados Titulares, en un cortejo lleno de emoción, recogimiento y fervor popular.",
+      "La Virgen del Rosario, en un gesto de generosa devoción compartida, procesionó con el manto de coronación de la Esperanza Macarena y portó en su ajuar enseres cedidos por otras hermandades sevillanas, en un claro reflejo del respeto y cariño que la ciudad le profesa."
+    ]
+  },
+  {
+    "titulo": "Una Hermandad joven y madura",
+    "texto": [
+      "Desde entonces, cada Lunes Santo, el Polígono camina hacia la Catedral. Y Sevilla entera acoge a esta Hermandad joven pero madura en su entrega, que ha sabido unir el carisma trinitario con la fuerza de un barrio que encontró en su Cristo Cautivo y en su Virgen del Rosario un faro de esperanza.",
+      "Sus lazos con otras hermandades —como la del Sagrado Decreto de la Trinidad o la del Cristo de la Sed— refuerzan su espíritu fraterno y misionero.",
+      "Visitas, cultos compartidos, préstamos de enseres, gestos de amor cristiano entre corporaciones… todo ello hace de San Pablo no solo una hermandad procesional, sino una verdadera comunidad de fe, una familia cofrade que evangeliza desde la calle y desde el altar"
+    ]
+  }
   ]
 },
 {
@@ -536,20 +812,66 @@
   ],
   "descripcionCorta": "La Hermandad de la Redención, fundada en 1955, representa en su paso de misterio la traición de Judas a Jesús. Procesiona cada Lunes Santo con una profunda devoción a Jesús de la Redención y María Santísima del Rocío.",
   "descripcion": [
-    {
-      "titulo": "",
-      "texto": [
-        "",
-        ""
-      ]
-    },
-    {
-      "titulo": "",
-      "texto": [
-        "",
-        ""
-      ]
-    }
+  {
+    "titulo": "Fe viva en la Madrugada del Lunes Santo",
+    "texto": [
+      "La Hermandad de la Redención, con sede en la sevillana Iglesia de Santiago el Mayor, es una de las corporaciones que, con mayor espiritualidad y fuerza simbólica, ha sabido conquistar el corazón de los fieles y de cuantos viven intensamente la Semana Santa de Sevilla.",
+      "Su historia es la de un grupo de hombres guiados por la fe, que soñaron con dar culto a un momento tan desgarrador como divinamente redentor: la traición de Judas a Jesús en el Huerto de los Olivos. Un instante lleno de dramatismo y amor entregado, que hasta entonces no había sido representado en nuestra Semana Mayor."
+    ]
+  },
+  {
+    "titulo": "Los comienzos y el impulso de la devoción",
+    "texto": [
+      "Desde su fundación en 1955, la Hermandad ha caminado entre dificultades, sueños y promesas.",
+      "Guiados por Eugenio Hernández Bastos, sacerdote y formador de jóvenes, los primeros cofrades quisieron ver representado en nuestras calles ese instante de dolor íntimo del Señor, cuando es entregado por uno de los suyos.",
+      "A su lado, quisieron honrar también a María, bajo una advocación que une pureza, ternura y consuelo: María Santísima del Rocío, la que es luz de Pentecostés, y símbolo de esperanza y gracia."
+    ]
+  },
+  {
+    "titulo": "Primeras imágenes y salida a la calle",
+    "texto": [
+      "La Hermandad nace de la oración y el compromiso de aquellos que, sin recursos pero con un inmenso amor, lograron encargar al maestro Antonio Castillo Lastrucci la talla de la Virgen del Rocío y más tarde, el conjunto del paso de misterio con el Señor de la Redención y Judas Iscariote.",
+      "Con gran esfuerzo y en medio de muchas dificultades económicas, se fueron forjando los enseres, túnicas y primeras salidas.",
+      "En 1959, el Lunes Santo, Sevilla contempló por primera vez al Señor de la Redención recorriendo sus calles."
+    ]
+  },
+  {
+    "titulo": "La fusión con la Hermandad Sacramental de Santiago",
+    "texto": [
+      "A lo largo de los años, la Hermandad ha sabido evolucionar sin perder su esencia, sumando historia y profundidad espiritual.",
+      "En 1983 se produce una fusión fundamental con la antiquísima Hermandad Sacramental de Santiago, cuyas raíces se remontan al siglo XVI.",
+      "Esta unión aportó un nuevo caudal de espiritualidad eucarística, enriqueciéndose así el alma de la corporación, que pasó a custodiar también el legado sacramental y mariano de siglos pasados."
+    ]
+  },
+  {
+    "titulo": "Compromiso espiritual y vida comunitaria",
+    "texto": [
+      "La Hermandad ha mantenido siempre un profundo compromiso con el culto, la caridad y la formación cristiana.",
+      "No solo ha cuidado con esmero su patrimonio artístico y litúrgico, sino que ha centrado sus esfuerzos en la vivencia comunitaria de la fe, con la organización de misas, triduos, vía crucis, y celebraciones tan entrañables como la Primera Comunión de sus hermanos más pequeños.",
+      "En este camino de fe compartida, se ha hermanado con corporaciones como San Roque y la Exaltación, y mantiene lazos fraternos con la Hermandad Matriz del Rocío de Almonte, siendo ambas reconocidas como Hermanas Honorarias mutuas."
+    ]
+  },
+  {
+    "titulo": "Presencia destacada y participación eclesial",
+    "texto": [
+      "Uno de los hitos más emotivos se vivió en 2015, cuando Su Majestad el Rey Felipe VI presenció el paso de la cofradía desde la Plaza de la Campana, en un gesto que llenó de orgullo y emoción a todos los hermanos y devotos.",
+      "También ha sabido responder a la llamada de la Iglesia en momentos significativos, como su participación en el Vía Crucis del Año de la Fe, llevando a Jesús de la Redención como signo de entrega y esperanza."
+    ]
+  },
+  {
+    "titulo": "La estación de penitencia",
+    "texto": [
+      "Cada Lunes Santo, con el caer de la tarde, la Hermandad parte desde la Iglesia de Santiago con sus dos pasos: el imponente misterio de Nuestro Padre Jesús de la Redención, rodeado por los Apóstoles y Judas en la escena de la traición, y el elegante palio de María Santísima del Rocío, que pasea su dulzura y consuelo por las calles de Sevilla.",
+      "Es un caminar de silencio, oración y redención. De promesa renovada. De amor que vence al pecado."
+    ]
+  },
+  {
+    "titulo": "Una Hermandad que transfigura el dolor en esperanza",
+    "texto": [
+      "La Hermandad de la Redención no es solo una cofradía: es una comunidad de fe viva, que a lo largo de más de medio siglo ha sido testigo de la acción del Espíritu Santo entre sus filas.",
+      "Es la Hermandad de la traición convertida en perdón, del dolor transfigurado en esperanza, de la penitencia como camino hacia la resurrección."
+    ]
+  }
   ]
 },
 {
