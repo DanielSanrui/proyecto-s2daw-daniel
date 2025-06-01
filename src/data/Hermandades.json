@@ -1764,13 +1764,66 @@
   "descripcionCorta": "Hermandad sevillana fundada en 1982 con una profunda vocación carmelita y solidaria, que desde 2007 forma parte de la Semana Santa de Sevilla, destacando por su devoción al Señor de la Paz y a Nuestra Señora del Carmen en sus Misterios Dolorosos.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Origen y Espíritu Fundacional",
+      "texto": [
+        "La Hermandad del Carmen en sus Misterios Dolorosos nace del fervor y el compromiso cristiano de un grupo de jóvenes sevillanos que, en 1982, durante su servicio militar en San Fernando (Cádiz), sintieron el impulso de formar un grupo de devotos en torno a la Santísima Virgen del Carmen. Su intención era clara: fomentar la devoción a la Madre de Dios, en su advocación dolorosa, y hacer de la caridad el pilar central de sus acciones.", 
+        "A su regreso a Sevilla, establecieron su sede en la Iglesia de la Misericordia, templo gestionado por la Orden Hospitalaria de San Juan de Dios. Allí, junto a las Religiosas Filipenses del Convento de Santa Isabel, comenzaron una intensa labor asistencial, testimonio de su vocación solidaria y evangélica."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "La Imagen de Nuestra Señora del Carmen",
+      "texto": [
+        "El 14 de julio de 1984 se bendice la imagen de Nuestra Señora del Carmen en sus Misterios Dolorosos, obra del imaginero Francisco Berlanga de Ávila, discípulo de Francisco Buiza. Esta imagen, de profunda belleza y serena expresión, se convierte en el corazón espiritual de la hermandad. Ese mismo año, también se recupera un lienzo de las Maravillas de María, símbolo de una devoción muy arraigada en el barrio de la Feria, casi olvidada desde los trágicos sucesos de 1936."
+      ]
+    },
+    {
+      "titulo": "Camino hacia Ómnium Sanctorum",
+      "texto": [
+        "En diciembre de 1987, el grupo de devotos encuentra nuevo hogar en la Real Parroquia de Ómnium Sanctorum, gracias al apoyo del entonces párroco Don Antonio Pérez Delgado. Desde ese templo, la Virgen del Carmen realiza su primera salida procesional el 17 de julio de 1988, marcando un nuevo hito en la consolidación del grupo como referencia devocional en Sevilla."
+      ]
+    },
+    {
+      "titulo": "El Señor de la Paz: Nuevo Titular y Signo de Esperanza",
+      "texto": [
+        "En 1990 se incorpora a la corporación la imagen del Señor de la Paz, realizada por Francisco José Reyes. Su bendición tiene lugar el 9 de junio de ese mismo año, con el respaldo de las Hermandades del Gran Poder de Camas y de la Resurrección de Sevilla. Con esta nueva advocación se completa el mensaje cristológico de la hermandad: una Virgen Dolorosa que acompaña el misterio redentor de su Hijo, Cristo de la Paz.", 
+        "Ese mismo año, la agrupación obtiene el reconocimiento como Agrupación Parroquial, primer paso hacia su institucionalización como Hermandad."
+      ]
+    },
+    {
+      "titulo": "Ereción Canónica y Primera Estación de Penitencia",
+      "texto": [
+        "En 1995, el Arzobispo de Sevilla, Fray Carlos Amigo Vallejo, aprueba las primeras reglas de la Hermandad como cofradía de nazarenos. Aunque en un principio sin derecho a realizar estación de penitencia a la Catedral, la hermandad se afianza espiritualmente y en 1996 realiza su primera salida como Hermandad de Penitencia hacia la Iglesia de la Misericordia.", 
+        "Ese mismo año, la Orden del Carmen le concede oficialmente la Carta de Hermandad Carmelita, estrechando los lazos espirituales con la familia carmelita, con quienes comparte cultos, espiritualidad y compromiso cristiano."
+      ]
+    },
+    {
+      "titulo": "El Misterio de las Negaciones de San Pedro",
+      "texto": [
+        "En 1997 se estrena el paso de misterio, que representa la escena evangélica de las Negaciones de San Pedro según San Juan. En este conjunto escultórico de intensa carga teológica y artística, Jesús maniatado dirige la mirada a Pedro en el momento de su triple negación. Le acompañan figuras como San Juan Evangelista, José de Arimatea, una criada, un judío, un sayón y soldados romanos. Este misterio pone de relieve la fragilidad humana, el perdón divino y la misericordia de Cristo."
+      ]
+    },
+    {
+      "titulo": "Años de Crecimiento y Nuevos Horizontes",
+      "texto": [
+        "La Hermandad del Carmen continúa creciendo en devoción y patrimonio. En 2006, la Virgen es coronada bajo palio de manera extraordinaria, y en 2007 recibe por fin el anhelado reconocimiento: es incorporada a la nómina oficial de la Semana Santa de Sevilla.", 
+        "El 4 de abril de 2007, Miércoles Santo, la Hermandad del Carmen realiza su primera estación de penitencia a la Santa Iglesia Catedral, abriendo la carrera oficial. Este momento marca el culmen de décadas de trabajo, fe y perseverancia.",
+        "En 2009, la Virgen del Carmen en sus Misterios Dolorosos se incorpora al cortejo bajo un paso de palio, con orfebrería proveniente de la Hermandad de los Dolores de Vélez-Málaga y bordados diseñados por Francisco Reyes."
+      ]
+    },
+    {
+      "titulo": "Las Maravillas de María",
+      "texto": [
+        "El 14 de septiembre de 2014 se bendice una nueva imagen mariana: Las Maravillas de María, obra también de Francisco J. Reyes Villadiego. Esta imagen complementa la devoción mariana de la hermandad y conecta con la historia espiritual del barrio. Ese mismo día procesiona por la feligresía, acompañada por la Hermana Mayor de la Reina de Todos los Santos como madrina."
+      ]
+    },
+    {
+      "titulo": "Presente y Esperanza: Un Camino que Continúa",
+      "texto": [
+        "En 2018 se aprueba el ambicioso proyecto de un nuevo palio para Nuestra Señora del Carmen, reflejo del continuo enriquecimiento estético y espiritual de la hermandad. En 2020, la cofradía celebra su XXV aniversario como Hermandad de Penitencia. Aunque la pandemia impide muchas de las celebraciones previstas, se vive con intensidad una solemne misa estacional presidida por el Cardenal Carlos Amigo Vallejo (q.e.p.d.), verdadero padre espiritual de la corporación.", 
+        "Hoy, la Hermandad del Carmen es un ejemplo vivo de fe activa, oración encarnada y compromiso eclesial. Su carisma carmelita, su amor por la Pasión de Cristo, y su ternura hacia la Virgen María en sus Dolores siguen iluminando cada Miércoles Santo en las calles de Sevilla."
+      ]
     }
+    
   ]
 },
 {
@@ -1800,11 +1853,52 @@
   "descripcion": [
     {
       "titulo": "",
-      "texto": ["", ""]
+      "texto": [
+        "En el corazón del barrio de Nervión, entre calles que fueron huerta y sueños de ciudad jardín, nació una de las devociones más hondas y sentidas de la Sevilla contemporánea: la Hermandad de la Sed. Su historia es un testimonio vivo de cómo la fe puede brotar de las cenizas, cómo una comunidad, unida por la esperanza, se alza ante las adversidades para caminar con Cristo y su Madre bajo el peso de la cruz."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Una tierra preparada: el nacimiento de Nervión y su templo",
+      "texto": [
+        "Nervión no fue siempre el barrio vibrante que conocemos hoy. A comienzos del siglo XX, era una vasta extensión de campos, huertos y solares, un lugar donde apenas comenzaban a levantarse los primeros edificios. Pero allí, donde sólo había silencio y promesas, el cardenal Ilundain soñó con construir una iglesia que fuese faro espiritual de un nuevo barrio. Así nació la majestuosa Parroquia de la Concepción Inmaculada, bendecida en 1929, como símbolo del alma mariana de Sevilla.",
+        "Y como toda iglesia viva necesita latir con el Cuerpo de Cristo, en su seno nació pronto la Hermandad Sacramental, centrada en la adoración eucarística y el culto a la Inmaculada. Aquellos primeros hombres, Caballeros de la Inmaculada, elevaron su compromiso con el Santísimo Sacramento a través de procesiones, cultos y vigilias, sembrando las primeras raíces de una espiritualidad intensa que marcaría al barrio para siempre."
+      ]
+    },
+    {
+      "titulo": "El dolor y la purificación: la Guerra Civil",
+      "texto": [
+        "Pero como el oro que pasa por el crisol, Nervión y su iglesia también vivieron el fuego del sufrimiento. En 1936, durante los trágicos días de la Guerra Civil, la parroquia fue saqueada e incendiada. Las llamas consumieron imágenes sagradas, bancos, ornamentos… y entre ellas, una talla de Cristo crucificado encargada por el cardenal Ilundain, que representaba la Quinta Palabra: “Tengo Sed”.",
+        "El párroco, Don Rafael Sánchez Molina, logró salvar el Sagrario, escondiéndose con el copón en medio del caos. Pero el alma del barrio quedó herida, marcada por una pérdida que no sólo fue material: se quemó también la memoria, los libros de actas, los símbolos de una naciente comunidad creyente. Sin embargo, como en el Gólgota, la cruz no fue el final, sino el comienzo."
+      ]
+    },
+    {
+      "titulo": "El renacer desde el Corazón",
+      "texto": [
+        "Tras la guerra, y en medio de la dureza de la posguerra, la parroquia se reconstruyó gracias al impulso de un nuevo pastor: Don Cristóbal Garrido Barrera. Este sacerdote, enérgico y compasivo, no sólo reconstruyó muros, sino almas. Su labor pastoral convirtió a la parroquia en un refugio de caridad y esperanza para los más humildes. En 1940 fundó la Cofradía del Sagrado Corazón de Jesús, que pronto se convirtió en emblema espiritual del barrio. Su imagen, obra de Antonio Illanes, salió en procesión por primera vez en 1944, llevando luz y consuelo a quienes todo lo habían perdido.",
+        "Bajo su amparo se organizaron procesiones llenas de niños, de familias sencillas, de hombres y mujeres que encontraban en el Corazón de Cristo un consuelo frente al hambre, la escasez y la soledad. La devoción crecía con cada paso, con cada novena, con cada altar efímero levantado en medio de una Sevilla que aún curaba sus heridas."
+      ]
+    },
+    {
+      "titulo": "Una puerta abierta: el Gran Poder llega a Nervión",
+      "texto": [
+        "El verdadero despertar cofrade de Nervión llegó en 1965, en plena efervescencia del Concilio Vaticano II. Durante la Santa Misión promovida por el cardenal Bueno Monreal, Sevilla entera fue evangelizada con la fuerza de sus imágenes más queridas. Y fue entonces cuando, por primera vez, el Señor del Gran Poder cruzó las vías del tren y entró en Nervión.",
+        "Aquella mañana de enero, la lluvia sorprendió la procesión, y las puertas de la Parroquia de la Concepción se abrieron de par en par para acoger, inesperadamente, al Señor de Sevilla. Como una Epifanía moderna, su entrada en el templo fue una sacudida de gracia. El corazón del barrio latía fuerte. Fue una visita providencial, y muchos sintieron que había llegado el momento: Nervión estaba preparado para tener su propia hermandad de penitencia."
+      ]
+    },
+    {
+      "titulo": "El brote nuevo: fundación de la Hermandad de la Sed",
+      "texto": [
+        "Poco después, en 1968, un grupo de jóvenes entusiastas y comprometidos, con espíritu renovador y hondura espiritual, fundaron la Hermandad de la Sed. Bajo la guía del párroco Don Manuel Calero y con el respaldo del cardenal Bueno Monreal, se sentaron las bases de esta nueva cofradía, llamada a expresar en el barrio el misterio de la redención a través del dolor y la esperanza.",
+        "El Cristo de la Sed, evocando la imagen perdida de Illanes, sería el titular de esta nueva corporación. A sus pies, Nuestra Señora de Consolación, Madre de la Iglesia —un título profundamente vinculado al Concilio Vaticano II—, se convertiría en la nueva Madre del barrio. Desde entonces, esta hermandad ha sido cauce de fe, comunidad y servicio, portadora de consuelo en tiempos difíciles y signo de una Iglesia viva y cercana."
+      ]
+    },
+    {
+      "titulo": "Una Hermandad con alma",
+      "texto": [
+        "La Hermandad de la Sed no es sólo una cofradía, sino una historia de redención. Nació del fuego, del hambre, de la carencia… pero también de la devoción, del amor por Cristo y María, y del deseo de un barrio por tener un rostro, un símbolo, una cruz que llevar y una Madre a la que rezar.",
+        "Hoy, cada Miércoles Santo, Nervión se transforma. Bajo el peso de la cruz, el Cristo de la Sed avanza por sus calles, pronunciando de nuevo su súplica: “Tengo Sed”. Y el barrio, que ya sabe lo que es tener sed de justicia, de fe, de consuelo, le responde con silencio, flores, y oración. La Virgen de Consolación lo sigue, como siempre, serena y maternal, acogiendo las penas de todos, repartiendo amor en cada mirada.",
+        "Así es La Sed. Así es su historia. Un legado que no sólo se lleva en los varales, sino en el corazón."
+      ]
     }
   ]
 },
@@ -1834,12 +1928,46 @@
   "descripcionCorta": "La Hermandad del Buen Fin, de raíces franciscanas y sede en San Antonio de Padua, procesiona cada Miércoles Santo con el Cristo del Buen Fin y Nuestra Señora de la Palma, destacando por su sobriedad, elegancia clásica y su histórica vinculación militar.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Orígenes Centenarios y Espíritu Franciscano",
+      "texto": [
+        "La Hermandad del Buen Fin hunde sus raíces en el siglo XVI, cuando en el año 1590, el gremio de curtidores fundó una cofradía en honor a la Madre de Dios de la Palma. Poco después, en 1605, se trasladó al convento franciscano de San Antonio de Padua, donde encontró el que sería su hogar espiritual para siempre.", 
+        "Desde sus inicios, esta Hermandad ha estado marcada por una profunda espiritualidad franciscana, impregnada de sencillez, humildad y recogimiento. Su nombre mismo —“Buen Fin”— alude al consuelo cristiano de una muerte en paz, serena, bajo la mirada de Cristo Redentor."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "El Santísimo Cristo del Buen Fin: Muerte Redentora",
+      "texto": [
+        "La talla del Santísimo Cristo del Buen Fin, atribuida al escultor Sebastián Rodríguez, representa a Cristo ya muerto en la cruz. Su rostro, lejos del dramatismo, refleja serenidad, entrega y redención. Es una imagen que conmueve al fiel, que inspira a la oración silenciosa, que consuela en la tribulación. Bajo su mirada reposan los anhelos de aquellos que buscan un “buen fin” para sus días, para sus penas, para su alma.", 
+        "Desde el año 1895, su paso ha escenificado momentos íntimos de la Pasión. En 1998, se decidió que procesionara solo en su paso, realzando aún más su presencia y su mensaje: el sacrificio redentor de Cristo en la cruz por amor a la humanidad."
+      ]
+    },
+    {
+      "titulo": "Nuestra Señora de la Palma: Madre del Consuelo",
+      "texto": [
+        "Nuestra Señora de la Palma, obra de Juan de Astorga, es una Dolorosa de belleza serena, mirada dulce y dolor contenido. Con manto bordado, palio elegante y rodeada de una luz que parece celestial, es la representación de la Virgen fiel y sufriente, firme al pie de la cruz.", 
+        "Su coronación canónica en 2005, celebrada con inmensa devoción, fue un reconocimiento a siglos de fe y amor de un pueblo que la venera como Madre, Refugio y Esperanza."
+      ]
+    },
+    {
+      "titulo": "Miércoles Santo: Procesión de Silencio y Devoción",
+      "texto": [
+        "Cada Miércoles Santo, el barrio de San Lorenzo se viste de recogimiento cuando los nazarenos del Buen Fin cruzan las puertas de San Antonio de Padua. La cofradía, de hábito morado con capa y antifaz negro, camina en recogida estación de penitencia hacia la Santa Iglesia Catedral.", 
+        "El silencio que acompaña al cortejo, roto solo por las oraciones y el canto suave de las cornetas, crea un ambiente único en la Semana Santa sevillana. La presencia del Ejército, fiel a su compromiso con la Hermandad, otorga un tono solemne y reverente a la procesión, reforzando su identidad como Hermandad castrense y franciscana."
+      ]
+    },
+    {
+      "titulo": "Un Camino de Fe a lo Largo de los Siglos",
+      "texto": [
+        "A lo largo de su historia, la Hermandad ha superado épocas de dificultad —disolución, exclaustración, pérdida de imágenes—, pero siempre ha resurgido gracias a la fe y entrega de sus hermanos. Su reorganización en 1882, el reconocimiento como Hermandad Sacramental en 1964, y la incorporación plena al espíritu franciscano con el título oficial de Hermandad Franciscana en 1977, son hitos de un caminar constante.", 
+        "La Hermandad ha sabido también dar frutos visibles de su fe con iniciativas como el Centro de Estimulación Precoz Cristo del Buen Fin, ejemplo de caridad cristiana y compromiso con los más vulnerables."
+      ]
+    },
+    {
+      "titulo": "El Buen Fin en el Corazón de Sevilla",
+      "texto": [
+        "El Buen Fin no es solo una cofradía. Es una escuela de oración, una comunidad viva que ama a Cristo Crucificado y a su Madre Dolorosa. Su procesión es un susurro de fe en medio del bullicio sevillano. Es un oasis de silencio y elegancia, donde cada cirio encendido es una súplica, cada golpe de llamador una ofrenda, cada mirada al Cristo una plegaria por ese “buen fin” que todos ansiamos.", 
+        "La Hermandad del Buen Fin es, en definitiva, uno de los pilares espirituales del Miércoles Santo sevillano. En su caminar se entrelazan siglos de historia, arte, fe, y un amor incondicional a Jesús muerto en la cruz y a María, su Madre, fuente de consuelo para los hijos de esta ciudad."
+      ]
     }
   ]
 },
@@ -1869,12 +1997,81 @@
   "descripcionCorta": " Hermandad histórica del barrio de San Bernardo, surgida de la fusión de varias corporaciones sacramentales, gloriosas y penitenciales, destacando por su profunda devoción eucarística, su papel en la historia social de Sevilla y su reconocida vinculación con el mundo del toreo.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Fe viva en el corazón de Sevilla",
+      "texto": [
+        "En el corazón del arrabal que lleva su nombre, la Hermandad de San Bernardo se alza como una joya espiritual de la Semana Santa sevillana. Su historia es la de una comunidad que, desde tiempos remotos, ha sabido entrelazar tradición, devoción y caridad, manteniendo viva la llama de la fe a lo largo de los siglos. El eco de sus tambores, el recogimiento de sus nazarenos, y la imagen imponente del Cristo de la Salud cruzando el puente de San Bernardo, constituyen uno de los momentos más esperados del Miércoles Santo en Sevilla."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Orígenes Sacramentales: luz de Eucaristía y Caridad",
+      "texto": [
+        "La hermandad tiene sus raíces en la Hermandad del Santísimo Sacramento y Ánimas Benditas del Purgatorio, fundada por los primeros cristianos del arrabal tras la reconquista de Sevilla por San Fernando. Agradecidos por la liberación, levantaron un pequeño templo y comenzaron a formar una comunidad eucarística que acompañaba con cirios al Santísimo cuando se llevaba a los enfermos. Aquella sencilla práctica se convirtió en una hermandad que veneró desde entonces la Sagrada Forma con profundo respeto, y cuidó de los fieles vivos y difuntos.", 
+        "En 1570 fueron aprobadas sus primeras reglas, y desde entonces han sido guardianes del Sacramento y defensores de la fe en la Inmaculada Concepción, a la que profesaron voto solemne desde 1617."
+      ]
+    },
+    {
+      "titulo": "Corporaciones de Gloria: la Santa Cruz y el Rosario",
+      "texto": [
+        "Durante los siglos XVII y XVIII florecieron otras devociones en el barrio, dando lugar a hermandades gloriosas. Una de ellas surgió en torno a una Santa Cruz venerada al principio de la calle Ancha, en cuya fiesta se celebraban cultos, rosarios y procesiones con gran participación popular. En 1732 quedó erigida como Hermandad de la Santa Cruz y María Santísima del Patrocinio.", 
+        "A su vez, el rezo del Rosario público, tan extendido en la Sevilla del Barroco, motivó el nacimiento de la Congregación del Rosario del Patrocinio, dedicada a fomentar este piadoso ejercicio en la feligresía.",
+        "Ambas hermandades gloriosas acabarían fusionándose, dando lugar a una corporación que, junto con la sacramental, iba tejiendo el alma espiritual del barrio."
+      ]
+    },
+    {
+      "titulo": "La Cofradía de Penitencia: Cristo de la Salud y Virgen del Refugio",
+      "texto": [
+        "En 1748, un grupo de jóvenes del arrabal fundó una humilde cofradía que, con el paso de los años, se transformaría en una de las más entrañables de Sevilla. Aquellos muchachos procesionaban una imagen de Cristo con la cruz a cuestas al que llamaron de las Tres Caídas. Con ilusión y esfuerzo, adquirieron nuevas imágenes, y poco a poco fueron estructurando una cofradía que en 1764 haría su primera estación de penitencia a la Santa Iglesia Catedral con el Santísimo Cristo de la Salud y una Virgen dolorosa.", 
+        "La imagen cristífera fue vinculada por tradición a un milagro del siglo XIV, cuando un joven tullido fue sanado al encomendarse a un Crucificado abandonado en una capilla de San Lázaro. La imagen pasó entonces a San Bernardo, siendo venerada desde entonces con el título de la Salud.",
+        "Una disputa en el siglo XVIII obligó a cambiar la advocación mariana de Patrocinio a Refugio, reflejando así la protección maternal que los vecinos siempre encontraron en Ella."
+      ]
+    },
+    {
+      "titulo": "La Hermandad de los Toreros",
+      "texto": [
+        "A partir del siglo XIX, la Hermandad recibió el sobrenombre popular de 'la de los toreros' debido a la implicación de grandes figuras del toreo en su reorganización tras una etapa de decadencia. Curro Cúchares, su hijo Currito, El Tato, Pepete, Antonio Ordóñez, Diego Puerta, o los hermanos Vázquez dieron nueva vida a la cofradía, aportando fervor, recursos y compromiso.", 
+        "Este vínculo histórico con el mundo de la tauromaquia se mantiene vivo, dando a la hermandad un carácter único en Sevilla."
+      ]
+    },
+    {
+      "titulo": "La prueba del fuego: 1936 y la fuerza de la fe",
+      "texto": [
+        "Durante los trágicos sucesos de julio de 1936, el templo fue asaltado, y las imágenes históricas destruidas por el fuego. El Cristo de la Salud, posiblemente de Pedro Roldán o Montes de Oca, y la Virgen del Refugio, desaparecieron para siempre. Pero no así la devoción.", 
+        "En 1939, la Hermandad volvió a la calle con una imagen cedida por la Escuela de Cristo. La Virgen regresó al barrio el 1 de enero de 1939 entre flores y vítores, como Madre que vuelve a su casa tras el destierro."
+      ]
+    },
+    {
+      "titulo": "La fusión definitiva: unidad de Gloria, Penitencia y Sacramento",
+      "texto": [
+        "En 1967 se consumó la fusión canónica de la Hermandad Sacramental con la de Penitencia y Gloria, constituyéndose una sola hermandad que hoy venera a sus Sagrados Titulares bajo una misma espiritualidad. A Santa Bárbara y San Bernardo se les reconoció oficialmente como Titulares una década después.", 
+        "Este espíritu de unidad ha dado fruto a una intensa vida cultual y caritativa."
+      ]
+    },
+    {
+      "titulo": "Casa de Hermandad y misión cofrade",
+      "texto": [
+        "A inicios del siglo XXI, la Hermandad construyó su nueva Casa de Hermandad, bendecida en 2010, no sólo como sede física sino como corazón espiritual del barrio. En 2006 se organizó una Misión Cofrade, donde el Cristo de la Salud y la Virgen del Refugio recorrieron las calles del barrio en actos de profunda oración y recogimiento."
+      ]
+    },
+    {
+      "titulo": "Caridad sin fronteras: la misión en Angola",
+      "texto": [
+        "Inspirada en su lema 'Donde hay caridad y amor, allí está Dios', la Hermandad impulsó una obra social en Angola: la Escuela de Cocina y Costura Cristo de la Salud, inaugurada en 2010. Este centro, gestionado por religiosas misioneras, acoge a jóvenes víctimas de la pobreza y la exclusión, ofreciendo formación, refugio y dignidad.", 
+        "Un acto de caridad transformadora, fruto del amor eucarístico que inspira a esta corporación."
+      ]
+    },
+    {
+      "titulo": "Devoción viva: procesiones, distinciones y vida cofrade",
+      "texto": [
+        "El Cristo de la Salud presidió el Vía Crucis de las Cofradías de Sevilla en 1989. En 2011, la Hermandad fue distinguida como Artillero de Honor por su vinculación histórica con el Regimiento de Artillería Antiaérea nº74, y en 2014 recibió su título de Hermano Honorario.", 
+        "También en 2014 se bendijo el columbario de la parroquia, donde descansan los restos de hermanos difuntos, recordando que la Hermandad acompaña a sus fieles hasta el final de sus días."
+      ]
+    },
+    {
+      "titulo": "Una Hermandad para Sevilla",
+      "texto": [
+        "La Hermandad de San Bernardo es devoción, historia y comunidad viva. Su estación de penitencia en la tarde del Miércoles Santo, marcada por el paso del Cristo de la Salud sobre el puente, bajo el cielo dorado de Sevilla, es una de las estampas más emocionantes de la Semana Santa.", 
+        "Pero más allá del esplendor exterior, esta Hermandad sigue siendo un foco de fe, servicio y amor cristiano, que acoge a todos en el Refugio maternal de María y en la Salud redentora del Señor Crucificado."
+      ]
     }
   ]
 },
@@ -1905,11 +2102,38 @@
   "descripcion": [
     {
       "titulo": "",
-      "texto": ["", ""]
+      "texto": [
+        "La Hermandad de la Sagrada Lanzada, oficialmente denominada Real, Antigua y Fervorosa Hermandad y Archicofradía de Nazarenos de la Sagrada Lanzada de Nuestro Señor Jesucristo, Nuestra Señora de Guía, San Juan Evangelista y María Santísima del Buen Fin, es una de las corporaciones más singulares de la Semana Santa de Sevilla por su compleja y rica historia, resultado de sucesivas fusiones que combinan lo penitencial, lo sacramental y lo glorioso."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Orígenes y evolución histórica",
+      "texto": [
+        "Los orígenes de la hermandad se remontan al siglo XVI, cuando en 1579 ya se documenta la existencia de una hermandad gremial de gloria bajo la advocación de Nuestra Señora de Guía. Integrada por marineros del río Guadalquivir, esta hermandad evolucionó hasta convertirse en una cofradía de penitencia bajo el título de Guía y Lanzada a finales del siglo XVI.", 
+        "En el siglo XVII, la corporación experimentó fusiones, traslados y una importante transformación al fusionarse en 1642 con una pujante hermandad mariana dedicada a Nuestra Señora del Buen Fin. Desde entonces, se consolidó como una hermandad de penitencia que realizaba estación cada Miércoles Santo, con túnicas negras de cola y un cortejo de gran impacto visual. En este mismo siglo fijó su sede en el Convento de San Basilio, en la calle Relator.",
+        "Durante el siglo XVIII, la hermandad vivió altibajos: encargó importantes imágenes para su paso de misterio, pero también sufrió una profunda crisis económica que afectó su salida procesional hasta 1754."
+      ]
+    },
+    {
+      "titulo": "Tiempos difíciles y recuperación",
+      "texto": [
+        "El siglo XIX estuvo marcado por grandes tragedias: la destrucción de pasos por epidemias y por la invasión francesa, durante la cual se perdió la imagen original de la Virgen del Buen Fin. El escultor Juan de Astorga fue el encargado de tallar las nuevas imágenes de la Virgen y las Marías, que aún hoy procesionan.", 
+        "El continuo cierre o exclaustración de conventos obligó a la hermandad a trasladarse repetidamente, acogida en templos como San Marcos, la Pasión o el Santo Ángel. Aun con estas dificultades, logró mantener su presencia procesional, destacando la cesión del Crucificado de Martínez Montañés en 1852 y el estreno de nuevos pasos y vestimentas.",
+        "A finales del siglo XIX, pese a nuevas crisis, se renovó artísticamente, suprimiendo el paso de palio en 1896 e incorporando un nuevo Longinos a caballo en 1897, obra del escultor Emilio Pizarro."
+      ]
+    },
+    {
+      "titulo": "Siglo XX: consolidación, arte e identidad",
+      "texto": [
+        "Durante el siglo XX, la Hermandad de la Lanzada introdujo cambios significativos en su recorrido y sede. En 1915 fijó temporalmente su residencia en San Román, estrenando los hábitos actuales de los nazarenos. En 1929, el escultor Antonio Illanes talló el nuevo Crucificado titular. Posteriormente, en 1931, realizó la imagen de la Virgen de Guía.", 
+        "A lo largo del siglo, se alternaron sedes hasta que, en 1967, la hermandad obtuvo la cesión de la Iglesia de San Martín, actual sede canónica. En 1973, se reincorporó el paso de palio para María Santísima del Buen Fin, marcando un hito en su iconografía procesional. En 1981 se produce una importante fusión con otras hermandades: la Hermandad Sacramental de San Martín (siglo XV) y la de la Esperanza Divina Enfermera, incorporando así tradiciones de culto sacramental y de gloria."
+      ]
+    },
+    {
+      "titulo": "Presente y devoción actual",
+      "texto": [
+        "En 1996, la hermandad celebró con esplendor su IV Centenario fundacional, y entre 2009 y 2010 se conmemoraron los 200 años de la imagen de la Virgen del Buen Fin con una salida extraordinaria. Hoy en día, la Hermandad de La Lanzada es una de las más queridas del Miércoles Santo sevillano, destacando por la belleza de su paso de misterio, su profunda simbología y su fidelidad a una historia tan rica como compleja."
+      ]
     }
   ]
 },
@@ -1939,12 +2163,70 @@
   "descripcionCorta": "La Hermandad del Baratillo, fundada en 1693 en el barrio del Arenal, es una de las más antiguas y queridas de Sevilla. Con un fuerte carácter penitencial desde 1892, destaca por sus titulares: el Santísimo Cristo de la Misericordia, Nuestra Señora de la Piedad y María Santísima de la Caridad en su Soledad.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Los humildes orígenes: una cruz y una promesa de fe",
+      "texto": [
+        "La Hermandad del Baratillo nace del corazón piadoso de un barrio. A finales del siglo XVII, en el sevillano Arenal, una humilde cruz de forja fue colocada sobre una peana de ladrillos como símbolo de oración por las víctimas de una terrible epidemia. Aquella cruz, hoy visible en lo alto del crucero, se convirtió en el epicentro de la devoción de los vecinos. Conmovidos por la obra de misericordia de rezar por los difuntos, decidieron constituirse en Hermandad de Gloria. Así, el 20 de mayo de 1693 nacía la Hermandad de la Santa Cruz del Baratillo, que pronto adoptaría como titular a La Piedad."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "La Capilla de la Piedad: el primer templo del consuelo",
+      "texto": [
+        "En 1696 se construyó la capilla de la Hermandad, bajo la dirección de Bernardo de Bustamante. El altar mayor se consagró a un conmovedor cuadro que representaba a Cristo muerto en brazos de la Virgen María, al pie de la cruz, rodeado de los Santos Varones y Mujeres. La escena, reflejo del dolor redentor y del amor maternal más profundo, quedó para siempre unida al alma de esta corporación, cuyo templo tomó el nombre de Capilla de la Piedad."
+      ]
+    },
+    {
+      "titulo": "El paso a Hermandad de Penitencia",
+      "texto": [
+        "Tras más de dos siglos de devoción, en 1892 la Hermandad dio un paso trascendental: asumir su carácter penitencial. Las nuevas reglas fueron aprobadas en 1893, y en 1905 realizó su primera estación de penitencia con el paso del 'Triunfo de la Santa Cruz', cedido por el Santo Entierro. La imagen titular del misterio fue obra de Emilio Pizarro de la Cruz: María sentada, con su Hijo muerto en brazos, y los Santos Varones a sus pies. Una escena de intensa expresividad y recogimiento."
+      ]
+    },
+    {
+      "titulo": "La Virgen bajo palio: Caridad en su Soledad",
+      "texto": [
+        "En 1926, la Virgen salió por primera vez bajo palio, con enseres prestados por otras hermandades sevillanas. Tres años después, recibió la advocación de María Santísima de la Caridad en su Soledad, cuya actual imagen fue bendecida en 1931. Esta dolorosa ha sido desde entonces consuelo y refugio de generaciones de sevillanos, que acuden a Ella con el corazón abierto, buscando amparo en su Caridad maternal."
+      ]
+    },
+    {
+      "titulo": "El perfil actual: esplendor artístico y espiritual",
+      "texto": [
+        "Entre 1940 y 1955, la Hermandad forja su perfil moderno. Se encargan nuevas imágenes: Nuestra Señora de la Piedad en 1945 y el Santísimo Cristo de la Misericordia en 1951, junto a los actuales pasos procesionales. Esta etapa es clave para consolidar la profunda identidad devocional y artística que la define hoy. En 1985, el misterio de La Piedad presidió el Vía-Crucis de la Cuaresma en la Catedral de Sevilla, reafirmando su papel espiritual en la ciudad."
+      ]
+    },
+    {
+      "titulo": "Momentos históricos y conmemoraciones",
+      "texto": [
+        "En 1992, la Hermandad del Baratillo participa en el Santo Entierro Magno, ocupando la XIV estación. Al año siguiente, celebra su III Centenario fundacional. En 2006 conmemora los 75 años de la bendición de la Virgen de la Caridad. En 2009, el Cardenal Amigo Vallejo firma el decreto que reconoce la Coronación Canónica de esta imagen, cuya primera imposición de corona tuvo lugar en 1960."
+      ]
+    },
+    {
+      "titulo": "Restauraciones: cuidado y amor por el patrimonio",
+      "texto": [
+        "Durante los años 2010 y 2011, se acometen importantes obras de restauración en la Capilla de la Piedad, incluyendo su cúpula, tambor y retablos. Las imágenes titulares han sido también objeto de restauración por el profesor Juan Manuel Miñarro, quien en 2012 y 2016 intervino en el Cristo de la Misericordia y en la Virgen de la Piedad, respectivamente, devolviéndoles su luz y dignidad con manos expertas y alma devota."
+      ]
+    },
+    {
+      "titulo": "Besamanos y cultos: encuentros con el alma",
+      "texto": [
+        "En 2015, se celebró el 75º aniversario del primer besamanos a María Santísima de la Caridad. La Virgen fue dispuesta de forma especial, vestida de blanco, recordando aquel primer encuentro íntimo con sus fieles. En 2020, se celebró el 75 aniversario de la bendición de Nuestra Señora de la Piedad, con actos piadosos y culturales que reunieron a toda la Hermandad en un abrazo de gratitud."
+      ]
+    },
+    {
+      "titulo": "Año de San José y vida espiritual",
+      "texto": [
+        "En el marco del “Año de San José” convocado por el Papa Francisco en 2020, la Hermandad honró a este bendito Patriarca, también titular de la corporación, con un Solemne Triduo y Función celebrada en el Altar del Jubileo de la Catedral. Una ocasión para reflexionar sobre la figura del custodio de la Sagrada Familia, ejemplo de fe silenciosa y obediente."
+      ]
+    },
+    {
+      "titulo": "Hacia una nueva coronación canónica",
+      "texto": [
+        "En 2023, en la Función Principal de Instituto celebrada en la Iglesia del Hospital de la Caridad, se anunció un hecho histórico: la Coronación Canónica de Nuestra Señora de la Piedad, prevista para el 14 de septiembre de 2024, festividad de la Exaltación de la Santa Cruz. Con ello, el Baratillo se convertirá en una Hermandad con dos dolorosas coronadas canónicamente, testimonio de la fuerza devocional que emana de sus titulares marianos."
+      ]
+    },
+    {
+      "titulo": "Hermandad y caridad: una misión compartida",
+      "texto": [
+        "La Hermandad del Baratillo mantiene Cartas de Hermandad con corporaciones como la Real Maestranza de Caballería, la Hermandad de la Esperanza de Triana, la de la Carretería y la de la Piedad de Salamanca. En 2019, organizó un festival taurino benéfico junto a la Esperanza de Triana en la Plaza de Toros de la Maestranza, destinando sus beneficios a la obra social. Este espíritu de fraternidad y compromiso caritativo refleja la esencia viva de la Hermandad: una devoción que se traduce en obras."
+      ]
     }
   ]
 },
@@ -1974,12 +2256,53 @@
   "descripcionCorta": "Hermandad del Prendimiento, popularmente conocida como Los Panaderos, es una histórica cofradía sevillana del Miércoles Santo fundada en torno a 1601, con sede en la iglesia de San Andrés y gran arraigo entre el gremio panadero. Destaca por su patrimonio artístico, su vinculación con María Santísima de Regla y su profunda devoción popular.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Raíces centenarias de una devoción sin fecha exacta",
+      "texto": [
+        "La Hermandad del Prendimiento de Nuestro Señor Jesucristo y María Santísima de Regla, conocida popularmente como la Hermandad de los Panaderos, es una de las joyas más antiguas, queridas y emblemáticas de la Semana Santa de Sevilla. Aunque la primera documentación oficial se remonta al 3 de febrero de 1601, cuando se aprobaron sus primeras reglas por el provisor Don Luciano de Negrón, todo apunta a que su fundación es anterior a esa fecha. En aquellos tiempos, muchas hermandades ya existían antes de su formal reconocimiento eclesiástico, nacidas del fervor espontáneo del pueblo sevillano."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "La devoción en busca de su templo",
+      "texto": [
+        "A lo largo de su historia, la Hermandad ha pasado por diversos templos. Se considera tradicionalmente que nació en la iglesia de Santa Lucía, aunque ya en 1586 existía una cofradía vinculada a la Virgen de Regla en Triana. Entre otros lugares, la hermandad residió en San Pedro, Los Terceros, San Marcos, San Román, Santa Marina, y desde 1896 se estableció en la capilla de San Andrés, lugar que hoy sigue siendo su casa espiritual.", 
+        "Estas mudanzas no frenaron el fervor de sus fieles. Al contrario, fortalecieron su espíritu y cimentaron una tradición que ha sobrevivido a inundaciones, confiscaciones y hasta la Revolución de 1868. La Hermandad ha resucitado una y otra vez con la fuerza del amor a Cristo Prendido y a su Madre de Regla."
+      ]
+    },
+    {
+      "titulo": "Un pueblo en torno al Señor y su Madre",
+      "texto": [
+        "Desde sus comienzos, los titulares de la Hermandad han sido Nuestro Padre Jesús del Soberano Poder en su Prendimiento y María Santísima de Regla, cuyo nombre y advocación están profundamente ligados a la Orden de San Agustín.", 
+        "En 1950, el gremio de los panaderos nombró a la Virgen como su patrona, motivo por el cual desde entonces Ella porta una espiga de plata sobredorada en su mano izquierda, símbolo del pan, del trabajo humilde y del alimento del alma.",
+        "El Señor del Prendimiento, representación sublime del momento en que Cristo es entregado, invita cada Miércoles Santo a contemplar el misterio de la traición y el amor que no se resiste a la cruz. Su mirada serena y su gesto contenido conmueven a miles de devotos que lo esperan cada año."
+      ]
+    },
+    {
+      "titulo": "Una Reina coronada por su pueblo",
+      "texto": [
+        "La devoción por María Santísima de Regla ha sido una constante. En el año 2001, la imagen recorrió las calles de Sevilla con motivo del IV centenario de la Hermandad, y el 26 de septiembre de 2010, fue coronada canónicamente en la Catedral, acto que supuso el reconocimiento público de su papel como Reina del Miércoles Santo y Madre de la Esperanza.", 
+        "En 2011, la Virgen llevó la luz de Sevilla hasta Madrid, participando en las Jornadas Mundiales de la Juventud, convirtiéndose en la única imagen sevillana en procesionar en este evento de fe internacional. Una gesta inolvidable."
+      ]
+    },
+    {
+      "titulo": "El caminar de los nazarenos: Miércoles Santo en alma y cuerpo",
+      "texto": [
+        "La primera salida en Miércoles Santo se produjo en 1895, y desde entonces, este día está marcado con fervor en el corazón de Sevilla. La Hermandad de los Panaderos realiza una estación de penitencia majestuosa, caracterizada por la solemnidad de sus nazarenos, el impresionante paso de misterio, y el palio de la Virgen de Regla, considerado uno de los mejor iluminados de toda la Semana Santa por su disposición de candelería en forma de aspa, evocando la cruz de San Andrés.", 
+        "Desde 1988, las hermanas pueden también realizar la estación de penitencia como nazarenas, haciendo realidad una antigua aspiración y testimonio del carácter inclusivo y devocional de esta corporación."
+      ]
+    },
+    {
+      "titulo": "Una historia escrita en oro y fe",
+      "texto": [
+        "Entre los episodios más singulares de su historia destacan la recuperación providencial del primer libro de reglas de 1601, encontrado por un hermano en el mercadillo madrileño de El Rastro, y la participación del prestigioso bordador Juan Manuel Rodríguez Ojeda como Hermano Mayor en 1901, autor de muchas de las piezas textiles más significativas de la hermandad.", 
+        "La Hermandad también fue innovadora: llegó a contratar una centuria romana en los años 40, aunque finalmente no se incorporó por lo pintoresco de sus atuendos. En 1992, su paso de misterio participó en la procesión Magna del Santo Entierro, acompañado por la Agrupación Musical Virgen de los Reyes, un momento de especial brillantez musical y estética."
+      ]
+    },
+    {
+      "titulo": "Imágenes para la memoria",
+      "texto": [
+        "La fotografía más antigua del paso de misterio data de 1895, cuando procesionaba desde Los Terceros. Se aprecian en ella andas neoclásicas que posiblemente pertenecieron a la Hermandad de Los Gitanos. Años después, se recuperarían los estilos barrocos que ahora dominan su iconografía.", 
+        "Uno de los momentos más recordados de la historia reciente tuvo lugar en 2018, cuando al inicio de la procesión, el olivo del paso de misterio se cayó, dejando a Nuestro Padre Jesús del Prendimiento sin ese símbolo tan característico. Aun así, la estación de penitencia se realizó con fe y emoción, quedando como testimonio del valor del espíritu por encima de la forma."
+      ]
     }
   ]
 },
@@ -2019,12 +2342,66 @@
   "descripcionCorta": "La Hermandad de las Siete Palabras es una histórica corporación de la Semana Santa de Sevilla con sede en San Vicente. De carácter sacramental, penitencial, glorioso y de ánimas, realiza estación de penitencia cada Miércoles Santo con un profundo mensaje devocional centrado en las últimas palabras de Cristo en la cruz.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Cinco Siglos de Fe en el Corazón de Sevilla",
+      "texto": [
+        "La Real e Ilustre Hermandad Sacramental de Nuestra Señora del Rosario, Ánimas Benditas del Purgatorio y Primitiva Archicofradía del Sagrado Corazón y Clavos de Jesús, Nuestro Padre Jesús de la Divina Misericordia, Santísimo Cristo de las Siete Palabras, María Santísima de los Remedios, Nuestra Señora de la Cabeza y San Juan Evangelista, conocida popularmente como Hermandad de las Siete Palabras, es una de las corporaciones más profundas en espiritualidad y tradición de la Semana Santa sevillana.", 
+        "Fundada sobre las raíces de varias hermandades centenarias, su historia es la de una unión espiritual y fraterna en torno a la Eucaristía, el sufrimiento redentor de Cristo y la esperanza en la gloria eterna."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Origen: Una Hermandad con Cuatro Corazones",
+      "texto": [
+        "La actual hermandad es el fruto de la fusión de cinco antiguas corporaciones, cada una con un carisma singular:", 
+        "• La Hermandad Sacramental de San Vicente (1511), fundada por Doña Teresa Enríquez, centrada en el amor y reverencia al Santísimo Sacramento.",
+        "• La Hermandad de Nuestra Señora de la Cabeza (1561), de gloria, nacida en el convento del Carmen y dedicada al fervor mariano.", 
+        "• La Hermandad de las Ánimas Benditas (1562), que ofrecía sufragios por las almas del purgatorio.",
+        "• La Cofradía de los Sagrados Clavos y Virgen de los Remedios (1595), una cofradía de penitencia que realizaba estación el Miércoles Santo.", 
+        "• La Hermandad del Rosario (1672), propagadora del rezo público del rosario.", 
+        "Estas ramas, profundamente enraizadas en el barrio de San Vicente, convergieron a lo largo de los siglos hasta constituir una sola hermandad con cuádruple carácter: sacramental, penitencial, glorioso y de ánimas."
+      ]
+    },
+    {
+      "titulo": "El Cristo de las Siete Palabras: Redención desde la Cruz",
+      "texto": [
+        "En el corazón devocional de la hermandad se encuentra la imagen del Santísimo Cristo de las Siete Palabras, un crucificado vivo, de labios entreabiertos, que invita a la contemplación de las últimas palabras de Jesús desde la cruz.", 
+        "Desde finales del siglo XVIII, la imagen comenzó a ser llamada así, probablemente por celebrarse en su presencia el ejercicio piadoso de “Las Siete Palabras”. Es un Cristo que habla al alma, consuela al abatido y recuerda la misericordia divina en el dolor más profundo.",
+        "Su advocación no es solo un título: es un mensaje, una meditación viva cada Miércoles Santo, cuando cruza las calles de Sevilla acompañado por el rezo y el silencio de los fieles."
+      ]
+    },
+    {
+      "titulo": "Historia de Lucha, Devoción y Renacimiento",
+      "texto": [
+        "Tras el esplendor inicial, la hermandad sufrió momentos difíciles, sobre todo a partir del siglo XVIII, con el hundimiento de su capilla en el convento del Carmen y la posterior exclaustración por las leyes desamortizadoras. La cofradía pasó por años de silencio, sin poder procesionar, pero nunca perdió su identidad ni su fe.", 
+        "Gracias a figuras comprometidas como José Bermejo y Carballo, en 1864, tras más de siglo y medio sin salir, la cofradía volvió a realizar estación de penitencia el Miércoles Santo, convirtiéndose en un símbolo de resurrección espiritual."
+      ]
+    },
+    {
+      "titulo": "El Miércoles Santo: Camino de Esperanza y Conversión",
+      "texto": [
+        "Desde entonces, salvo contadas ocasiones por lluvia o causas excepcionales, el Miércoles Santo es el día en que el barrio de San Vicente se hace templo abierto. Las tres imágenes que componen su cortejo –Nuestro Padre Jesús de la Divina Misericordia, el Santísimo Cristo de las Siete Palabras y María Santísima de los Remedios bajo palio– recorren Sevilla con sobriedad, elegancia y unción.", 
+        "Cada paso es una catequesis en movimiento. El crucificado no solo representa el sufrimiento, sino también el perdón y la palabra que salva. La Virgen de los Remedios acompaña el dolor con ternura, y Jesús Nazareno es reflejo de misericordia divina."
+      ]
+    },
+    {
+      "titulo": "Cultos Internos y Vida Espiritual",
+      "texto": [
+        "Además de la estación de penitencia, la hermandad celebra cultos a sus titulares con gran solemnidad: quinarios, triduos, funciones solemnes y rosarios. La procesión del Rosario, restaurada en 2003, ha vuelto a llenar de fervor las calles del barrio.", 
+        "El amor a la Eucaristía, herencia de su fundación sacramental, se manifiesta especialmente en las procesiones de impedidos y en la celebración de festividades litúrgicas con gran reverencia. La hermandad también recuerda con fidelidad a las almas del purgatorio, manteniendo la tradición de misas en sufragio por los hermanos difuntos."
+      ]
+    },
+    {
+      "titulo": "Hermandad Viva y Abierta",
+      "texto": [
+        "En los últimos años, la hermandad ha dado pasos significativos hacia la apertura y la inclusión. Desde 1991, las hermanas pueden salir como nazarenas y los costaleros son hermanos de pleno derecho. También ha modernizado sus instalaciones y reforzado la atención a los hermanos, fortaleciendo así su vocación de comunidad viva.", 
+        "En 2011 celebró con gran devoción el V centenario de la fundación de la Hermandad Sacramental, conmemoración que reafirmó sus raíces y proyectó su compromiso con el futuro."
+      ]
+    },
+    {
+      "titulo": "Una Hermandad con Pasado, Presente y Esperanza",
+      "texto": [
+        "La Hermandad de las Siete Palabras no es solo una procesión, ni una suma de imágenes, ni un conjunto de títulos. Es una historia viva de fe, de comunidad, de dolor y redención, que sigue iluminando a Sevilla cada Miércoles Santo y a lo largo del año con sus cultos y obras.", 
+        "Cada año, cuando el Cristo abre los labios en el centro de Sevilla, parece que vuelve a pronunciar esas palabras que cambiaron la historia del mundo: palabras de amor, de perdón y de esperanza."
+      ]
     }
   ]
 },
@@ -2054,12 +2431,61 @@
   "descripcionCorta": "Hermandad sobria y recogida del Miércoles Santo sevillano, cuya imagen titular, el Santísimo Cristo de Burgos, es una joya del manierismo sevillano del siglo XVI. Destaca por su espiritualidad, austeridad y profundo sentido litúrgico.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "“Silencio, recogimiento y fe profunda en el corazón de Sevilla”",
+      "texto": [
+        "", 
+        ""
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Orígenes históricos: una devoción con siglos de raíz",
+      "texto": [
+        "La devoción al Cristo de Burgos hunde sus raíces en los albores de la Cristiandad. Su origen se remonta a la veneración de una imagen milagrosa en el Convento de los Padres Agustinos de Burgos. Esta advocación, profundamente extendida por la Orden Agustiniana, encontró especial eco en Sevilla, donde el culto al Crucificado adquirió una dimensión popular a finales del siglo XIV con el llamado “Cristo de San Agustín”, considerado el germen de las primeras manifestaciones procesionales de la ciudad, como los antiguos Vía Crucis hacia la Cruz del Campo, antecedentes directos de la Semana Santa actual.", 
+        "La semilla sembrada por esta devoción fue floreciendo a lo largo de los siglos hasta cristalizar, en 1883, en la Hermandad tal y como hoy la conocemos, con sede en la Parroquia de San Pedro. La imagen titular, el Santísimo Cristo de Burgos, obra maestra de Juan Bautista Vázquez 'el Viejo', fue concebida a mediados del siglo XVI para presidir la capilla funeraria de Juan de Castañeda, vecino de esta misma collación. La talla, de proporciones solemnes y de gran fuerza expresiva, fue inspirada directamente en el modelo agustiniano, con una impronta que evoca dolor contenido y redención serena."
+      ]
+    },
+    {
+      "titulo": "Un Cristo para la oración, el silencio y el alma",
+      "texto": [
+        "Contemplar al Cristo de Burgos es adentrarse en el misterio de la Pasión desde la profundidad del recogimiento. Clavado en la cruz, con el rostro vencido y los ojos entrecerrados, su presencia impone respeto, invita al silencio y abre el alma al diálogo interior con Dios. No es un Cristo teatral ni desgarrado, sino uno que transmite un dolor aceptado, una entrega plena y un mensaje de esperanza desde la Cruz.", 
+        "Su devoción ha traspasado el tiempo, afianzándose generación tras generación entre los fieles sevillanos. Cada Miércoles Santo, cuando su paso se abre paso entre el incienso y la penumbra, las calles de Sevilla se tornan templo, y el pueblo responde con un sobrecogedor silencio ante su paso majestuoso."
+      ]
+    },
+    {
+      "titulo": "Madre de Dios de la Palma: la dulzura en la aflicción",
+      "texto": [
+        "Acompañando al Cristo procesiona Nuestra Madre de Dios de la Palma, imagen de dolor sereno y mirada perdida en la esperanza. Fue incorporada en el siglo XIX y, junto con las figuras de San Juan y María Magdalena, conformó durante muchos años un grupo escultórico al pie de la Cruz. La Virgen, vestida con sobriedad y elegancia, procesiona bajo un palio de líneas clásicas, acompañada por marchas fúnebres que subrayan el tono penitencial de la cofradía.", 
+        "La devoción a la Virgen ha crecido con los años, y en su honor se celebran cultos cargados de espiritualidad, destacando su triduo y la solemne función, así como su papel en la vida interna de la Hermandad como consuelo de los hermanos."
+      ]
+    },
+    {
+      "titulo": "La Hermandad hoy: fe, tradición y servicio",
+      "texto": [
+        "La Hermandad del Cristo de Burgos no se limita a la tarde del Miércoles Santo. A lo largo de todo el año mantiene una intensa vida religiosa y fraterna. Sus cultos cuaresmales —especialmente el solemne quinario y el Vía Crucis con la imagen titular por las calles de la feligresía— son momentos de oración compartida de profunda belleza y recogimiento. En los últimos años, además, se ha recuperado la función del besapiés del Cristo, que se celebra cada Domingo de Pasión.", 
+        "En 2004 se produjo un hito importante: la Hermandad aprobó, en Cabildo General, la igualdad de derechos y deberes para hermanos y hermanas, abriendo así un nuevo capítulo en su historia. Las reglas vigentes, revisadas en 2016, reflejan esta realidad renovada, así como su espíritu de fidelidad al Evangelio y al Magisterio de la Iglesia.",
+        "La Hermandad colabora estrechamente con la Parroquia de San Pedro, especialmente en catequesis y obras de caridad junto a Cáritas Parroquial. Además, mantiene una activa presencia en la vida eclesial de su templo, participando en cultos comunes con las otras hermandades de la parroquia, como la del Pilar y la Sacramental."
+      ]
+    },
+    {
+      "titulo": "Una Cofradía penitencial: sobriedad y elegancia en la calle",
+      "texto": [
+        "La cofradía del Cristo de Burgos se distingue por su austeridad litúrgica y elegancia procesional. Los nazarenos visten túnica y capa negras, con antifaz igualmente negro, y se mueven en completo orden y silencio. En los últimos años se ha trabajado especialmente en reforzar el espíritu penitencial: se ha regulado el acceso del público en la entrada, se mantiene el orden de los tramos y se ha depurado el repertorio musical, limitándolo a marchas fúnebres o silencio absoluto.", 
+        "El paso del Cristo, de estilo neobarroco, se presenta sin adornos superfluos, en una puesta en escena sobria donde todo gira en torno a la figura del Crucificado. En el paso de palio, las flores blancas y los tonos suaves realzan la belleza serena de la Virgen."
+      ]
+    },
+    {
+      "titulo": "Patrimonio y restauración: el arte al servicio de la fe",
+      "texto": [
+        "En las últimas décadas, la Hermandad ha desarrollado un destacado trabajo de conservación y restauración de su patrimonio artístico. Destacan la limpieza de la imagen del Cristo en 1997, la restauración de la Virgen en 2002 y la de María Magdalena en 2003. También se han rehabilitado los bordados del paso de palio, restaurado el canasto del paso del Señor y se ha incorporado un mecanismo para elevar la cruz.", 
+        "Asimismo, en la antigua iglesia de los Trinitarios Descalzos se ha levantado la nueva Casa de Hermandad y Capilla, gracias a una laboriosa rehabilitación en varias fases, que ha contado con apoyo institucional, incluyendo una puerta principal sufragada por el Ayuntamiento de Burgos, como símbolo de la hermandad entre ambas ciudades."
+      ]
+    },
+    {
+      "titulo": "Una Hermandad entre Sevilla y Burgos",
+      "texto": [
+        "La Hermandad del Cristo de Burgos mantiene vínculos espirituales muy estrechos con la ciudad de Burgos, donde participa en los cultos en honor al Cristo homónimo que se venera en su catedral. Cada mes de septiembre, un grupo de hermanos se traslada para representar a la cofradía, fortaleciendo así la conexión entre las dos devociones.", 
+        "Además, la vida de la Hermandad se extiende también al ámbito familiar y formativo. El Grupo Joven organiza actividades durante la Navidad, como la llegada de los Reyes Magos, y cada año se celebra una entrañable Exaltación de la Navidad, donde se reflexiona sobre el Misterio con espíritu cristiano y festivo."
+      ]
     }
   ]
 },
@@ -2089,12 +2515,51 @@
   "descripcionCorta": "La Hermandad de los Negritos, fundada en 1393 por el arzobispo Gonzalo de Mena, es una de las más antiguas de Sevilla y nació para acoger a personas negras, esclavizadas o libres, siendo un símbolo histórico de inclusión y espiritualidad en la Semana Santa sevillana.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Orígenes con alma africana: una hermandad de acogida y esperanza",
+      "texto": [
+        "La Hermandad de los Negritos, oficialmente conocida como la Hermandad de Nuestra Señora de los Ángeles, es una de las cofradías más antiguas de la ciudad de Sevilla. Su fundación se remonta al año 1393, cuando el entonces arzobispo Gonzalo de Mena y Roelas decidió crear una institución piadosa para ofrecer protección y amparo espiritual a los esclavos negros traídos del sur del Sáhara, así como a los manumisos —personas negras ya libres— que habitaban la ciudad.", 
+        "Desde sus comienzos, esta hermandad fue un refugio de fe, dignidad y fraternidad para aquellos marginados por la sociedad de su tiempo. En un contexto histórico marcado por la esclavitud, la Cofradía de los Negritos surgió como un símbolo de resistencia, espiritualidad y humanidad. Junto a otras cofradías similares en ciudades como Granada, Barcelona o Valencia, Los Negritos sirvieron para protegerse de las injusticias, brindar asistencia mutua y fortalecer la identidad cristiana de sus miembros."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "De capilla humilde a sede con historia",
+      "texto": [
+        "El crecimiento de la hermandad llevó a que en 1550 se adquirieran los terrenos donde actualmente se levanta su capilla, a través de una escritura firmada ante el escribano público Luis de Medina. La cofradía fue consolidando así su presencia en el corazón devocional de Sevilla. En 1604, la propiedad pasó a tributar anualmente a los Marqueses de Castellón, estableciendo una vinculación que se mantendría durante siglos.", 
+        "Hasta mediados del siglo XIX, la hermandad mantuvo su carácter exclusivo para personas de raza negra, una señal clara de su origen y razón de ser. Su historia está entretejida con la lucha por la dignidad, el reconocimiento y el sentido de pertenencia de aquellos que, desde la fe, buscaban su lugar en una sociedad muchas veces hostil. A día de hoy, su Hermano Mayor sigue siendo el Arzobispo de Sevilla, quien delega sus funciones en un Alcalde, como señal de su origen fundacional eclesiástico."
+      ]
+    },
+    {
+      "titulo": "Fe entre inundaciones, sacrificios y renovación",
+      "texto": [
+        "La Hermandad ha sido testigo de momentos de gran dificultad y también de profunda entrega. En 1941, como testimonio de humildad y devoción, todos los hermanos realizaron su estación de penitencia descalzos, una práctica que desde entonces se recomienda seguir salvo por motivos físicos. También sufrió dos graves inundaciones, en 1948 y 1961, que afectaron considerablemente su capilla y altares. Pero ni el agua ni las adversidades lograron apagar la llama de su fervor.", 
+        "Cada Semana Santa, al pasar por la Catedral de Sevilla, la cofradía rinde homenaje al sepulcro de su fundador, el Cardenal Mena, como gesto de gratitud y memoria viva de sus raíces."
+      ]
+    },
+    {
+      "titulo": "El Cristo de la Fundación: un símbolo de redención",
+      "texto": [
+        "La primera imagen titular de la Hermandad es el Cristo de la Fundación, una majestuosa talla de Cristo crucificado realizada por Andrés de Ocampo en 1622. Este paso procesiona sobre un conjunto de estilo neorrenacentista, tallado en caoba y decorado con cuatro sobrios faroles. La obra, encargada a Salvador Domínguez Gordillo en 1922, fue restaurada en 1996 para recuperar su esplendor original.", 
+        "El Cristo representa el misterio de la redención, y su mirada serena entre la pasión y el sacrificio se ha convertido en uno de los momentos más sobrecogedores del Jueves Santo sevillano. Su actual capataz es D. Antonio Hierro, quien con esmero y reverencia dirige este paso cargado de simbolismo."
+      ]
+    },
+    {
+      "titulo": "Virgen de los Ángeles: luz celeste entre oros y devoción",
+      "texto": [
+        "La segunda titular es la bellísima Virgen de los Ángeles, imagen de autor anónimo que representa a María con una dulzura y serenidad que envuelven el alma. Procesiona bajo un paso de palio de clara inspiración oriental, con orfebrería de plata y oro, acompañado por un manto y palio de tisú celeste ricamente bordados por las religiosas Trinitarias entre 1961 y 1964. La saya también fue realizada por estas manos devotas.", 
+        "La Virgen porta una corona de plata dorada desde 1970, símbolo de su realeza espiritual. Todo el diseño fue concebido por el pintor Juan Miguel Sánchez, quien supo conjugar lo artístico con lo místico. Su coronación pontificia, celebrada el 18 de mayo de 2019 por Monseñor Juan José Asenjo, fue un reconocimiento a siglos de devoción mariana. Los Hermanos Gallego son los actuales capataces de su paso, guiando con cariño a la Madre de los Ángeles por las calles de Sevilla."
+      ]
+    },
+    {
+      "titulo": "Indumentaria: pureza, tradición y cielo",
+      "texto": [
+        "Los nazarenos de esta Hermandad visten con túnicas blancas de cola, antifaz también blanco y escapularios y cíngulos en color celeste. La sobriedad del blanco se une con el simbolismo del cielo para representar la pureza, la esperanza y la redención. Esta estampa elegante y serena se ha convertido en una de las imágenes más distintivas de la Semana Santa sevillana."
+      ]
+    },
+    {
+      "titulo": "Una Hermandad con alma, historia y futuro",
+      "texto": [
+        "La Hermandad de los Negritos no solo es una joya de la religiosidad popular sevillana, sino también un testimonio vivo de inclusión, fe y resiliencia. Nacida como refugio de los oprimidos, ha sabido conservar su esencia sin renunciar al crecimiento espiritual y artístico. Hoy, sus pasos son venerados, su historia es celebrada y su futuro sigue siendo una promesa luminosa de amor cristiano."
+      ]
     }
   ]
 },
@@ -2124,12 +2589,53 @@
   "descripcionCorta": "La Hermandad de la Exaltación es una cofradía sevillana con sede en la iglesia de Santa Catalina, conocida por su imponente paso de misterio y su Dolorosa, María Santísima de las Lágrimas. Procesiona el Jueves Santo y representa uno de los momentos más impactantes de la Semana Santa de Sevilla.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Origen y Raíces Centenarias",
+      "texto": [
+        "La Hermandad Sacramental de la Exaltación tiene sus raíces en la Sevilla del siglo XVI, en una época de profundo fervor religioso y crecimiento del movimiento cofrade. Se origina como dos corporaciones distintas: la Hermandad Penitencial de la Exaltación de Nuestro Señor Jesucristo y Lágrimas de Nuestra Señora, y la Hermandad Sacramental de Santa Catalina. Ambas se fusionaron en 1964, consolidando una vida de fe común que había germinado durante siglos en el templo de Santa Catalina, sede emblemática de la cofradía.", 
+        "Esta unión no fue sólo administrativa, sino profundamente simbólica: representa la exaltación de Cristo crucificado como culmen del sacrificio redentor, y las lágrimas de la Virgen como expresión de amor y dolor universal. Santa Catalina no es solo un templo, es el corazón espiritual de la hermandad, donde se ha forjado una identidad íntimamente vinculada al barrio, a la ciudad y al alma cofrade sevillana."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "El Misterio de la Cruz: Un Paso de Fe y Gloria",
+      "texto": [
+        "El paso de misterio del Santísimo Cristo de la Exaltación es una catequesis visual de la Pasión. Representa el momento en el que Jesús es alzado en la cruz, rodeado por sayones, soldados romanos y figuras llenas de dinamismo barroco. La imagen del Señor, atribuida a Pedro Roldán, es una de las más impactantes de la Semana Santa: su expresión serena y a la vez dolorida invita a la meditación sobre el sacrificio del Redentor.", 
+        "El paso, tallado con maestría y dorado con elegancia, es una auténtica joya del patrimonio cofrade sevillano. Cuando el sol de la tarde de Jueves Santo acaricia la madera dorada del misterio, se convierte en un altar en movimiento, que predica en silencio la redención de Cristo a todo el pueblo."
+      ]
+    },
+    {
+      "titulo": "Lágrimas de Amor: La Devoción a la Santísima Virgen",
+      "texto": [
+        "María Santísima de las Lágrimas, Dolorosa venerada por generaciones de sevillanos, encarna en su rostro la dulzura del dolor y la esperanza en medio del sufrimiento. Su nombre no es casual: cada lágrima de su rostro recoge el lamento silencioso de una madre ante el tormento de su Hijo.", 
+        "Bajo su palio bordado en oro, que se desliza con elegancia por las calles de Sevilla, la Virgen camina entre los fieles cada Jueves Santo. Acompañada por la luz tenue de los cirios y por los rezos susurrados entre la multitud, su paso es uno de los momentos más sobrecogedores de la jornada. La Virgen de las Lágrimas no solo es una imagen: es consuelo, refugio y corazón de una Hermandad profundamente mariana."
+      ]
+    },
+    {
+      "titulo": "Una Historia Tejida en Fe",
+      "texto": [
+        "A lo largo de sus más de 450 años de historia, la Hermandad ha atravesado periodos de esplendor, dificultades, exilios, reformas y restauraciones. Desde su temprana aparición en documentos del siglo XVI, pasando por su participación en procesiones históricas y pleitos por defender su identidad, hasta las etapas de reorganización en el siglo XX, la Exaltación ha sabido mantener firme su espíritu.", 
+        "Fue una de las primeras en declarar su devoción a la Inmaculada Concepción, instituyendo juramento obligatorio en sus reglas desde 1613. También vivió momentos de conflicto y firmeza, como el célebre pleito con el Arzobispo por el recorrido procesional de 1751, donde la Hermandad defendió su dignidad incluso frente a penas de excomunión."
+      ]
+    },
+    {
+      "titulo": "Santa Catalina: Templo de la Esperanza",
+      "texto": [
+        "La iglesia de Santa Catalina, declarada Monumento Nacional, ha sido el refugio espiritual de esta Hermandad durante siglos. Aunque la cofradía se vio forzada a abandonar el templo en varias ocasiones —como durante la revolución de 1868 o las restauraciones del siglo XX—, siempre regresó con más fuerza, como un hijo que vuelve al hogar.", 
+        "El templo acoge las imágenes titulares, la vida diaria de hermandad y los cultos que marcan el ritmo del año litúrgico: los septenarios, los quinarios, los viacrucis y las funciones solemnes que elevan a Dios el amor de sus hijos."
+      ]
+    },
+    {
+      "titulo": "El Jueves Santo: Encuentro con Sevilla",
+      "texto": [
+        "Cada Jueves Santo, la Hermandad de la Exaltación realiza su Estación de Penitencia a la Santa Iglesia Catedral, en un recorrido que es esperado con especial fervor por los sevillanos. Su paso por calles como la Plaza del Salvador o su entrada en la Carrera Oficial es uno de los momentos culminantes de la Semana Santa. Más de 1.500 nazarenos, portando el hábito blanco con antifaz morado, acompañan con recogimiento y solemnidad los dos pasos que encarnan la esencia misma del Evangelio.", 
+        "La música que acompaña a la cofradía, el olor a incienso, el sonido de las bambalinas, y el paso firme de los costaleros convierten esta procesión en una manifestación viva de fe, arte y tradición."
+      ]
+    },
+    {
+      "titulo": "Mucho Más que una Cofradía",
+      "texto": [
+        "La Hermandad de la Exaltación no es sólo una cofradía penitencial. Es también una Hermandad Sacramental comprometida con el culto al Santísimo, una institución mariana que rinde culto constante a la Madre de Dios, y una comunidad que ejerce una profunda labor de caridad, formación y vida fraterna entre sus hermanos.", 
+        "Durante siglos, ha cultivado una espiritualidad firme y activa, adaptándose a los nuevos tiempos sin perder su esencia. Es heredera de un legado que ha sido transmitido con amor generación tras generación, y que hoy sigue vivo en cada golpe de llamador, en cada lágrima devota, en cada oración silenciosa que acompaña el paso del Cristo alzado en la cruz."
+      ]
     }
   ]
 },
@@ -2159,12 +2665,55 @@
   "descripcionCorta": "La Hermandad de Las Cigarreras, fundada en el siglo XVI, es una de las corporaciones penitenciales más emblemáticas de la Semana Santa sevillana, destacando por la belleza de sus imágenes, su rica historia y su estrecha vinculación con la Fábrica de Tabacos.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Orígenes de una devoción centenaria",
+      "texto": [
+        "La Hermandad de Las Cigarreras fue fundada en el año 1563 en la Iglesia de San Benito de Calatrava por un grupo de fieles reunidos en torno a la imagen de Cristo atado a la Columna. Desde sus inicios, su espiritualidad se centró en contemplar los azotes de Nuestro Señor Jesucristo, una escena de profundo dolor que, sin embargo, inspiraba fortaleza, redención y esperanza.", 
+        "Durante sus primeros siglos de historia, la hermandad vivió numerosos traslados de sede hasta asentarse en 1674 en la iglesia conventual de Nuestra Señora de Consolación, conocida como “Los Terceros”. A partir de entonces, comenzó una etapa de esplendor y afianzamiento devocional."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "La incorporación de la Virgen de la Victoria",
+      "texto": [
+        "No fue hasta bien entrado el siglo XVII cuando la Hermandad adoptó la advocación mariana que hoy la distingue: Nuestra Señora de la Victoria. Esta imagen de ternura y dolor se convirtió en el segundo gran pilar devocional de la cofradía. Su iconografía y su palio lleno de elegancia barroca acompañan al Señor en la tarde del Jueves Santo, conformando una de las estampas más sublimes de la Semana Santa hispalense.", 
+        "La imagen actual de la Virgen, datada entre 1611 y 1628, fue sometida a estudios científicos y restauraciones recientes que confirman su valor histórico-artístico. Representa a la Virgen Dolorosa con una serenidad sobrecogedora, una mirada que consuela en el sufrimiento y guía a los fieles en su caminar de fe."
+      ]
+    },
+    {
+      "titulo": "Las cigarreras: mujeres de fe y símbolo de un pueblo",
+      "texto": [
+        "El renacer de la Hermandad en el siglo XIX tuvo como protagonistas a las trabajadoras de la Real Fábrica de Tabacos, conocidas popularmente como 'las cigarreras'. Más de 5.500 de ellas ingresaron como hermanas a finales del siglo XIX, dando nombre popular y carácter propio a la corporación. Su devoción sencilla, obrera y sincera, marcó profundamente el devenir de la Hermandad y la convirtió en símbolo del pueblo llano sevillano.", 
+        "Su presencia masiva y entrega espiritual dotaron a la cofradía de una fuerza renovadora que aún hoy resuena en la identidad de esta Hermandad, recordando que el amor a Cristo y a María no entiende de clases ni condiciones, sino de corazón."
+      ]
+    },
+    {
+      "titulo": "El esplendor del Jueves Santo",
+      "texto": [
+        "La estación de penitencia de Las Cigarreras es uno de los momentos más esperados de la Semana Santa sevillana. Cada Jueves Santo, la cofradía recorre las calles de la ciudad con dos pasos de enorme valor artístico y devocional:", 
+        "• El paso de misterio, con Jesús atado a la columna, es una escena de recogimiento y dramatismo, que representa el momento del castigo previo a la Pasión. Obra de Antonio Illanes, la imagen transmite la dignidad de Cristo en el sufrimiento.",
+        "• El paso de palio de la Virgen de la Victoria se desplaza con elegancia bajo su manto bordado, exhalando aroma de fe y consuelo entre saetas y miradas emocionadas.",
+        "Ambos pasos son acompañados por el fervor del pueblo y el sonido solemne de la Banda de Cornetas y Tambores de la Hermandad, una de las más reconocidas de Sevilla."
+      ]
+    },
+    {
+      "titulo": "Vinculación con la realeza y compromiso con la ciudad",
+      "texto": [
+        "A lo largo del siglo XX, la Hermandad mantuvo una estrecha relación con la Casa Real Española. Alfonso XIII fue hermano mayor efectivo, y la reina Victoria Eugenia ostentó el título de Camarera Mayor y Perpetua de la Virgen. Esta vinculación dio un impulso institucional a la cofradía, al tiempo que fortalecía su proyección pública.", 
+        "No obstante, más allá de los honores y títulos, la Hermandad nunca ha olvidado su vocación de servicio, manteniendo una constante labor de caridad, formación y ayuda a los más necesitados, adaptándose a los tiempos sin renunciar a su esencia."
+      ]
+    },
+    {
+      "titulo": "Presente y futuro desde su actual capilla",
+      "texto": [
+        "Desde 1965, la Hermandad se encuentra establecida en su actual sede en la calle Juan Sebastián Elcano, donde ha florecido una nueva etapa de crecimiento y consolidación. A pesar de que la Fábrica de Tabacos cesó su actividad en 2008, el espíritu de las cigarreras sigue latiendo en cada rincón de la cofradía.", 
+        "Hoy, Las Cigarreras es una Hermandad viva, con una intensa vida sacramental y una vibrante participación en la vida eclesial de la ciudad. Su paso por la carrera oficial cada Semana Santa es un canto a la tradición, el arte y la fe, que embelesa a miles de sevillanos y visitantes"
+      ]
+    },
+    {
+      "titulo": "Una hermandad de Sevilla y para Sevilla",
+      "texto": [
+        "La Hermandad de Las Cigarreras no es sólo una institución histórica; es un ejemplo de cómo la fe puede atravesar siglos y generaciones. Su historia es la de Sevilla misma: llena de luces y sombras, de crisis y resurrecciones, de pueblo y realeza, de arte y de oración.", 
+        "El Jueves Santo, cuando las puertas de su capilla se abren y las primeras notas de la banda anuncian su salida, Sevilla se detiene, porque sabe que no sólo caminan los pasos de una cofradía, sino el alma de una ciudad entera que reza, llora y espera junto a Jesús atado a la columna y su Madre, la Virgen de la Victoria."
+      ]
     }
   ]
 },
@@ -2194,12 +2743,58 @@
   "descripcionCorta": "La Hermandad de Montesión, fundada en el siglo XVI, es una cofradía sevillana con una profunda tradición dominica que destaca por su fervor, historia y riqueza patrimonial.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Raíces de una Devoción Mariana y Penitencial",
+      "texto": [
+        "La Hermandad de Montesión hunde sus raíces en la espiritualidad del siglo XVI, en un contexto de fervor dominico y creciente devoción al Santo Rosario. Fundada en 1560 por la fusión de una hermandad penitencial establecida en el Hospital de las Cinco Llagas y otra gloriosa dedicada al Rosario, su identidad se fue forjando bajo la mirada amorosa de la Virgen del Rosario y el recogimiento del Señor en el Huerto. Desde el principio, fue una hermandad que abrazó la penitencia, el culto y la oración, siguiendo las enseñanzas de Santo Domingo de Guzmán."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "La Casa de Dios en Monte-Sión",
+      "texto": [
+        "La sede canónica fue establecida en 1574 en el convento dominico de Monte-Sión, gracias a la donación de Doña Mencía Manuel de Guzmán. Allí se levantó una capilla propia donde la Hermandad comenzó una vida sacramental intensa y un culto fervoroso a sus titulares. El vínculo con la Orden de Predicadores fue esencial, y mediante una concordia firmada en 1577, se selló una relación espiritual que ha perdurado a lo largo de los siglos."
+      ]
+    },
+    {
+      "titulo": "El Rosario como Bandera Espiritual",
+      "texto": [
+        "Desde su fundación, la Hermandad hizo del Rosario su enseña y escudo espiritual. La Virgen del Rosario fue proclamada protectora por los antiguos oficiales de la Armada que pertenecían a la corporación, recordando su intercesión en la Batalla de Lepanto. La fiesta de Nuestra Señora del Rosario, celebrada en octubre con gran esplendor, es aún hoy uno de los momentos más significativos de la vida de hermandad."
+      ]
+    },
+    {
+      "titulo": "El Misterio de la Oración en el Huerto",
+      "texto": [
+        "El misterio central que la Hermandad representa en su estación de penitencia es el de Jesús en el Huerto de los Olivos, acompañado por un ángel consolador y tres apóstoles dormidos. La imagen del Señor, tallada con sublime expresión de serenidad y dolor, invita a contemplar el momento más íntimo y humano de Cristo antes de su Pasión. Esta escena se convierte cada Jueves Santo en una catequesis viva por las calles de Sevilla."
+      ]
+    },
+    {
+      "titulo": "Siglos de Historia, Luz entre las Tinieblas",
+      "texto": [
+        "A lo largo de los siglos, Montesión ha superado guerras, incendios, desamortizaciones, saqueos y adversidades. La invasión napoleónica y la Guerra Civil dejaron profundas heridas, incluyendo la pérdida de su patrimonio artístico. Pero siempre, con fe renovada y la ayuda de sus hermanos, la Hermandad ha sabido resurgir, como símbolo de la resiliencia cristiana y de la confianza en la Providencia divina."
+      ]
+    },
+    {
+      "titulo": "La Virgen del Rosario: Reina de la Esperanza",
+      "texto": [
+        "La imagen de Nuestra Señora del Rosario es el corazón devocional de la Hermandad. De rostro dulce y melancólico, su paso de palio es un canto de alabanza a la Virgen en su advocación dolorosa. La Hermandad fue pionera en estrenar en 1913 el primer palio de malla en Sevilla, anticipándose a su tiempo con una propuesta estética que combinaba la tradición con la innovación. Las marchas procesionales dedicadas a Ella han acompañado generaciones de sevillanos en su camino de fe."
+      ]
+    },
+    {
+      "titulo": "Un Pueblo que Camina Junto a Ella",
+      "texto": [
+        "La devoción popular ha sido la fuerza motora de Montesión. Hermanos de sangre y de corazón la han sostenido siglo tras siglo. Reyes, infantes, artistas, obreros, marineros, nobles y humildes han encontrado en sus titulares un refugio de consuelo. El Rosario de la Aurora, el Besamanos de octubre, la Estación de Penitencia del Jueves Santo, o los cultos cuaresmales son momentos de encuentro profundo con lo sagrado."
+      ]
+    },
+    {
+      "titulo": "Arte, Caridad y Juventud",
+      "texto": [
+        "Montesión no es solo historia, sino también presente y futuro. La Hermandad ha restaurado su patrimonio con mimo y ha fortalecido su acción caritativa con la creación de una bolsa de caridad activa desde 1960. El grupo joven, surgido en los años 70, es semillero de vocaciones cofrades y amor a la Hermandad. Artistas como Sorolla, Buiza, Ortega Brú o los talleres de Caro han dejado su huella en las obras que adornan los pasos y enseres de la cofradía."
+      ]
+    },
+    {
+      "titulo": "Monte-Sión Hoy: Fe Viva que Procesiona",
+      "texto": [
+        "Hoy, la Hermandad de Montesión es una referencia viva en la Semana Santa de Sevilla. Cada Jueves Santo, cuando las puertas de la calle Feria se abren, la ciudad se detiene ante el paso majestuoso del Señor en Getsemaní y el rostro sereno de la Virgen del Rosario. No es solo una procesión: es una oración colectiva, una promesa renovada y una manifestación de amor que cruza generaciones."
+      ]
     }
   ]
 },
@@ -2224,12 +2819,52 @@
   "descripcionCorta": "La Hermandad de la Quinta Angustia es una de las cofradías más clásicas y sobrias de la Semana Santa de Sevilla, destacando por su imponente paso del Descendimiento y su recogida estación de penitencia del Jueves Santo.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Orígenes de una Devoción Centenaria",
+      "texto": [
+        "En el alba del siglo XVI, cuando Sevilla brillaba como puerto y puente entre el Viejo y el Nuevo Mundo, nace en la collación de San Vicente una hermandad movida por la profunda devoción al misterio del Descendimiento de Cristo y a las Angustias de su Santísima Madre. Desde sus primeros pasos, esta corporación se forja en oración, contemplación y recogimiento. Así se gesta la que hoy conocemos como la Pontificia y Real Archicofradía del Santísimo Cristo del Descendimiento y Quinta Angustia de María Santísima.", 
+        "En 1541, bajo el amparo del arzobispo Fray García de Loaysa, se aprueban las primeras reglas, conservadas aún como joya documental en la hermandad. Desde entonces, su camino ha estado marcado por una fidelidad constante a la piedad, la sobriedad y el amor profundo a los Sagrados Misterios de la Pasión de Cristo."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Sedes y Cambios: Caminando con la Historia",
+      "texto": [
+        "A lo largo de los siglos, la hermandad ha tenido diversas sedes: desde su fundación en el Convento del Carmen, pasando por iglesias como San Vicente, San Pablo, San Buenaventura o la Magdalena. Cada traslado supuso una oportunidad para reafirmar su identidad y espiritualidad.", 
+        "La actual sede, la Iglesia Parroquial de la Magdalena, guarda entre sus muros el silencio y el fervor que caracteriza a esta cofradía. Allí se custodia el misterio sagrado del Descendimiento y se celebran los cultos con una solemnidad que sobrecoge."
+      ]
+    },
+    {
+      "titulo": "El Misterio del Descendimiento: Arte al Servicio de la Fe",
+      "texto": [
+        "El corazón visible de la hermandad late en su paso de misterio: el Descendimiento de Cristo, una escena de conmovedor realismo que representa el instante en que el cuerpo del Redentor es bajado de la cruz por José de Arimatea y Nicodemo, bajo la mirada desgarrada de la Virgen María, San Juan y las santas mujeres.", 
+        "La imagen del Cristo fue tallada por Pedro Roldán en el siglo XVII, con un dramatismo contenido y una serena belleza que invitan al recogimiento. La composición escultórica alcanza una intensidad espiritual pocas veces vista en la imaginería sacra, convirtiendo este paso en uno de los más admirados y respetados de toda la Semana Santa de Sevilla."
+      ]
+    },
+    {
+      "titulo": "El Jueves Santo: Silencio, Devoción y Majestad",
+      "texto": [
+        "La estación de penitencia de la Quinta Angustia se realiza cada Jueves Santo. Su discurrir es ejemplo de sobriedad, compostura y devoción. La cofradía avanza en silencio, sin música procesional, únicamente acompañada por el rezo y el rumor del incienso.", 
+        "Los nazarenos, ataviados con túnicas moradas y capas crema, forman un cortejo solemne que escolta el paso con recogimiento y reverencia. El respeto absoluto que envuelve a la cofradía convierte su paso por las calles en un auténtico acto de fe, testimonio silencioso del amor redentor de Cristo y del dolor de su Madre."
+      ]
+    },
+    {
+      "titulo": "Distinciones y Vínculos Reales",
+      "texto": [
+        "A lo largo de su historia, la hermandad ha contado con el favor de la realeza y ha sido distinguida con títulos honoríficos. Fue reconocida como Real al ser nombrado hermano mayor honorario el Rey Fernando VII en 1818, y como Pontificia por Bula Papal en 1857. Miembros de la Casa Real española, como el Conde de Barcelona o la Reina Isabel II, y personalidades como D. Juan de Borbón o la Reina Fabiola de Bélgica, han sido hermanos y protectores de esta corporación."
+      ]
+    },
+    {
+      "titulo": "Restauración y Conservación: Amor al Patrimonio Sagrado",
+      "texto": [
+        "La hermandad ha demostrado a lo largo del tiempo una profunda sensibilidad por la conservación de su patrimonio artístico y espiritual. Destacan restauraciones recientes como la del paso de misterio, las bóvedas mudéjares de la capilla, el templete del Dulce Nombre de Jesús o la imagen del Cristo Resucitado.", 
+        "Estas intervenciones, realizadas con el máximo cuidado y respeto, permiten que las futuras generaciones sigan contemplando el esplendor del arte sacro al servicio de la fe."
+      ]
+    },
+    {
+      "titulo": "Fe que Ilumina los Siglos",
+      "texto": [
+        "Cinco siglos después de su fundación, la Hermandad de la Quinta Angustia sigue siendo faro de espiritualidad y ejemplo de entrega a los misterios de la Pasión de Cristo. Su vida no se limita al Jueves Santo: durante todo el año celebra cultos, quinarios, funciones solemnes y mantiene una profunda vida comunitaria de fe y caridad.", 
+        "En cada acto, en cada rezo, en cada gesto de sus hermanos, late el mismo espíritu que la vio nacer: el de la Virgen al pie de la cruz, en su quinta angustia, sosteniendo el cuerpo y la esperanza del mundo."
+      ]
     }
   ]
 },
@@ -2264,12 +2899,60 @@
   "descripcionCorta": "La Hermandad del Valle, con origen en el siglo XV y sede en la Iglesia de la Anunciación, es una de las más antiguas y solemnes de Sevilla. Procesiona cada Jueves Santo con tres pasos, destacando por su riqueza patrimonial, su compromiso con la tradición y su profunda devoción a la Pasión de Cristo y a la Virgen del Valle.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Orígenes de Fe: La Raíz Medieval de una Devoción Eterna",
+      "texto": [
+        "La Hermandad del Valle hunde sus raíces en la espiritualidad ferviente de la Sevilla medieval, cuando la ciudad, recién reconquistada, vivía un renacer cristiano bajo el impulso del Rey San Fernando. De aquella Sevilla nacen dos hermandades que siglos después se fundirían en una sola alma: la Hermandad de la Santa Faz y Nuestra Señora de la Encarnación (1450), y la Hermandad de la Coronación de Cristo (1540). Ambas compartían una profunda veneración a los momentos más intensos del sufrimiento de Nuestro Señor Jesucristo y al rostro de Su Madre Dolorosa.", 
+        "La fusión se materializa en 1590, dando origen a la actual Archicofradía del Valle, cuya sede histórica se estableció en el desaparecido Convento del Valle. Desde entonces, la cofradía ha permanecido como una llama encendida de fe, penitencia y amor cristiano en el corazón de Sevilla."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "El Jueves Santo: Testimonio de Amor y Sacrificio",
+      "texto": [
+        "Cada Jueves Santo, Sevilla calla al paso del Valle. Tres escenas de la Pasión conmueven los corazones de los fieles: el Cristo de la Coronación de Espinas, sublime escultura de Agustín de Perea; el Señor con la Cruz al Hombro, acompañado por la Santa Mujer Verónica y las Santas Mujeres; y la Virgen del Valle, Reina del Dolor, con su mirada de ternura infinita.", 
+        "Estas imágenes no son sólo tallas; son presencia viva del Misterio Pascual que se hace calle y silencio. Los hermanos, revestidos de túnicas moradas, caminan descalzos en una procesión cargada de recogimiento, envuelta en incienso, saetas y la dulce melodía de la marcha “Virgen del Valle”, compuesta en 1897 por Vicente Gómez Zarzuela y que se ha convertido en oración musical de toda una ciudad."
+      ]
+    },
+    {
+      "titulo": "Honores del Cielo y de la Tierra",
+      "texto": [
+        "A lo largo de los siglos, la Hermandad ha recibido el respaldo de la Iglesia y la Corona. En 1808, el Rey Carlos IV le concede el título de Real, y en 1817 el Papa Pío VII la reconoce como Archicofradía, un honor que ninguna otra hermandad sevillana poseía entonces. Más tarde, en 1825, se le otorga el título de Pontificia, reafirmando su lugar privilegiado en el corazón de la Iglesia.", 
+        "Por sus pasos han pasado monarcas, arzobispos, papas, artistas, músicos y generaciones de sevillanos. Todos ellos han encontrado en la Hermandad del Valle un reflejo vivo de la Pasión y una escuela de fe."
+      ]
+    },
+    {
+      "titulo": "La Virgen del Valle: Madre Dolorosa y Reina Coronada",
+      "texto": [
+        "La imagen de Nuestra Señora del Valle, atribuida a Juan de Mesa, es uno de los más exquisitos exponentes de la escultura mariana sevillana. Su rostro, mezcla de dulzura y pena, ha inspirado oraciones, promesas y conversiones durante siglos. El 1 de noviembre de 2002 fue coronada canónicamente en la Santa Iglesia Catedral, en una ceremonia llena de emoción y solemnidad presidida por el Cardenal Carlos Amigo Vallejo, con el Rey Juan Carlos I como Presidente de Honor.", 
+        "Desde entonces, la devoción por la Virgen del Valle se ha multiplicado, y su paso de palio, en cada Jueves Santo, se convierte en un altar itinerante de gracia y consuelo para los corazones atribulados."
+      ]
+    },
+    {
+      "titulo": "Un Patrimonio de Fe y Belleza",
+      "texto": [
+        "La Hermandad del Valle ha sido cuidadosa guardiana de su rico patrimonio artístico y devocional. Desde los históricos bordados de Rodríguez Ojeda hasta los pasos barrocos y rococós de sus misterios, la cofradía ha mantenido viva la tradición sevillana con respeto y sensibilidad. En los últimos años, ha llevado a cabo importantes restauraciones de sus imágenes, pasos, enseres y obras textiles, muchas en colaboración con el Instituto Andaluz de Patrimonio Histórico (IAPH), garantizando la preservación de su legado para futuras generaciones.", 
+        "Asimismo, la Hermandad no ha dejado de crecer en compromiso cristiano, igualdad e integración. En 2006, se aprueba la participación de hermanas en la estación de penitencia, testimonio de un espíritu fraterno y renovador fiel al Evangelio."
+      ]
+    },
+    {
+      "titulo": "Tradición y Modernidad: Una Hermandad Viva",
+      "texto": [
+        "Adaptándose a los tiempos, la Hermandad del Valle ha sabido abrazar la tecnología sin perder su esencia. Cuenta con una página web viva y actualizada, ha retransmitido cultos en directo, como ocurrió en 2020 durante la pandemia, y sigue reforzando sus canales de comunicación para llegar a todos sus hermanos, estén donde estén.", 
+        "Durante la pandemia, la Hermandad vivió con recogimiento y dignidad aquellos duros momentos, celebrando cultos a puerta cerrada y acompañando espiritualmente a los fieles mediante oraciones y transmisiones digitales. Ejemplo de cómo la fe no se detiene, sino que se transforma."
+      ]
+    },
+    {
+      "titulo": "Presente y Futuro: Una Casa para Todos",
+      "texto": [
+        "En los últimos años, la Hermandad ha alcanzado un viejo anhelo: la construcción de su Casa de Hermandad, cuya primera piedra se colocó en julio de 2023. Será un lugar de encuentro, formación, caridad y fraternidad para todos los hermanos, y para todo aquel que se acerque buscando consuelo, silencio o esperanza.", 
+        "Además, su participación en eventos extraordinarios como el Santo Entierro Grande o exposiciones culturales muestra el compromiso de la Hermandad con la evangelización a través del arte y la belleza."
+      ]
+    },
+    {
+      "titulo": "La Hermandad del Valle en una mirada",
+      "texto": [
+        "La Hermandad del Valle no es solo historia, ni solo arte, ni siquiera sólo una de las procesiones más bellas del Jueves Santo. Es, ante todo, una comunidad viva de fe que camina, sufre y espera con Cristo y su Madre. Es una llamada al silencio, a la compasión y a la oración en medio del bullicio de la ciudad.", 
+        "Su estación de penitencia no es un desfile, sino un acto de amor redentor, una proclamación pública de que Cristo sufrió por nosotros y su Madre lo acompañó hasta el final. Y cada año, miles de sevillanos y visitantes se dejan tocar el alma por el paso sereno de su Cruz, su Corona de Espinas, y la dulzura inabarcable de la Virgen del Valle."
+      ]
     }
   ]
 },
@@ -2299,12 +2982,59 @@
   "descripcionCorta": "La Hermandad de Pasión, fundada en el siglo XVI y actualmente establecida en la Iglesia del Divino Salvador, es una de las corporaciones penitenciales más antiguas y veneradas de Sevilla. Destaca por su vinculación histórica con la Orden de la Merced y por custodiar la majestuosa imagen de Nuestro Padre Jesús de la Pasión, obra maestra de Juan Martínez Montañés.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Orígenes de una Hermandad Centenaria",
+      "texto": [
+        "La Hermandad de la Pasión, una de las más antiguas y veneradas de Sevilla, fue fundada en el segundo tercio del siglo XVI en el antiguo Convento de la Merced Calzada, hoy convertido en el Museo de Bellas Artes. Ya en 1549 se tiene constancia documental de su existencia bajo el título de los Martirios y Sangre de Nuestro Señor Jesucristo. En 1557, tomó su denominación actual: Sagrada Pasión de Nuestro Redentor Jesucristo, influenciada por la homónima cofradía de Valladolid.", 
+        "Desde sus comienzos, la Hermandad cultivó una profunda vida espiritual, impulsada por la caridad, el sacrificio y la penitencia. Su vinculación con la Orden Mercedaria marcó profundamente su identidad devocional."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Procesiones de Fe y Milagros",
+      "texto": [
+        "Ejemplo de su fervor fue la procesión de rogativas celebrada en 1570 para pedir la lluvia. Aquella manifestación pública de fe, con disciplina y lágrimas, fue seguida de un aguacero prodigioso. Este hecho fue interpretado por el pueblo como un signo tangible del favor divino ante la intercesión de Cristo y la Virgen.", 
+        "La Hermandad también mostró su vocación misionera y universal al permitir el ingreso de cofrades procedentes de flotas y provincias americanas, acercando la devoción al Señor de Pasión a los confines del imperio."
+      ]
+    },
+    {
+      "titulo": "Nuestro Padre Jesús de la Pasión: Montañés y la Imagen de la Entrega",
+      "texto": [
+        "En torno a 1610, la Hermandad encargó la realización de su Titular, Nuestro Padre Jesús de la Pasión, al insigne escultor Juan Martínez Montañés, maestro indiscutible del barroco sevillano. Su figura, majestuosa y serena, es considerada una de las más bellas imágenes procesionales de toda la Semana Santa. Montañés supo plasmar el dolor sin estridencias, el sacrificio sin dramatismo: un Cristo Nazareno que avanza en silencio, portando la cruz, como símbolo del amor más absoluto.", 
+        "La talla ha sido fuente inagotable de devoción y admiración durante siglos, atrayendo a fieles que encuentran en su mirada el consuelo, la fuerza y la paz."
+      ]
+    },
+    {
+      "titulo": "Decadencia, Pérdida y Esperanza",
+      "texto": [
+        "El siglo XIX trajo consigo tiempos difíciles. La epidemia de peste amarilla en 1800, la ocupación napoleónica y la exclaustración del Convento en 1840 sumieron a la Hermandad en una profunda decadencia. Se perdieron pasos, enseres, documentos… y hasta las imágenes fueron dispersadas. Parecía que todo estaba perdido.", 
+        "Pero la Divina Providencia obró por medio de algunos fieles devotos, entre ellos José Bermejo y Carballo, quienes en 1841 iniciaron el resurgir de Pasión. Con humildad y sacrificio, se reunieron nuevamente las imágenes, primero en San Vicente y luego en San Miguel. Pronto, la Hermandad volvió a procesionar y a conquistar el corazón de Sevilla."
+      ]
+    },
+    {
+      "titulo": "Una Dolorosa para la Merced",
+      "texto": [
+        "En 1842, los cofrades adquirieron una imagen de candelero anónima sevillana, originalmente Santa Rosa de Lima, que fue adaptada como Dolorosa bajo la advocación de Nuestra Señora de la Merced. Esta imagen fue titular durante más de un siglo, hasta la llegada en 1966 de la actual Dolorosa, tallada por Sebastián Santos Rojas, que destaca por su ternura y expresión contenida del sufrimiento.", 
+        "En 1844, la Reina Isabel II otorgó a la Hermandad el título de Real, autorizando el uso del color morado en las túnicas y permitiendo realizar la estación de penitencia el Viernes Santo, día que quedó grabado como el momento sagrado de la Hermandad."
+      ]
+    },
+    {
+      "titulo": "El Salvador: Un Nuevo Hogar",
+      "texto": [
+        "En 1868, tras la demolición de la parroquia de San Miguel, la Hermandad se trasladó a la Iglesia Colegial del Divino Salvador, donde permanece hasta hoy. La fusión con la Archicofradía Sacramental en 1918 fortaleció su carácter eucarístico y enriqueció su patrimonio artístico y espiritual. Allí celebran anualmente el Triduo al Santísimo Sacramento y la Inmaculada Virgen del Voto, culminando con la Función Principal de Instituto en Pentecostés, una cita esencial en su calendario de cultos."
+      ]
+    },
+    {
+      "titulo": "Tiempos Modernos: Fe, Arte y Renovación",
+      "texto": [
+        "Durante el siglo XX, la Hermandad ha continuado renovándose sin perder su esencia. En 1943, tras un incendio que destruyó el paso del Señor, se estrenó un nuevo canasto tallado por Cayetano González, símbolo de la firme voluntad de continuar.", 
+        "A lo largo de las décadas, ha incorporado nuevas figuras como el Cirineo (atribución parcial a Juan de Mesa y ejecución final de Ortega Bru) y ha reformado su cortejo. En 1981, Nuestro Padre Jesús de la Pasión presidió el Vía Crucis cuaresmal, siendo reconocido como uno de los referentes espirituales de Sevilla. Las Reglas actuales fueron aprobadas en 2010, consolidando la identidad devocional y litúrgica de la corporación."
+      ]
+    },
+    {
+      "titulo": "Una Hermandad que Camina con Sevilla",
+      "texto": [
+        "Hoy, la Hermandad de Pasión es uno de los pilares de la Semana Santa sevillana. Cada Jueves Santo su cortejo austero y recogido, envuelto en el morado del silencio, recorre las calles del centro histórico con la mirada de Cristo clavada en el corazón de los fieles. No hay música ni estruendo, solo el eco de las oraciones y el sonido de los pies que acompañan al Nazareno.", 
+        "Pasión representa la Sevilla íntima y espiritual, la que cree en la redención, en el dolor hecho arte, en el amor que se entrega sin condición. Es la hermandad del silencio, de la compostura y de la belleza contenida. En cada estación de penitencia, en cada vela encendida, late la memoria de una fe que ha sobrevivido a siglos de historia."
+      ]
     }
   ]
 },
@@ -2334,12 +3064,69 @@
   "descripcionCorta": "La Primitiva Hermandad de los Nazarenos de Sevilla, conocida como El Silencio, es una de las cofradías más antiguas y veneradas de la ciudad. Fundada en 1340, destaca por su sobriedad, profundo recogimiento y su histórica Estación de Penitencia en la madrugada del Viernes Santo.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Origen de Fe y Contrición (1340)",
+      "texto": [
+        "En el corazón del barrio sevillano de La Feria, allá por el año 1340, un grupo de hombres piadosos, humildes y profundamente cristianos, movidos por el dolor de sus pecados y la devoción al Redentor, fundaron una hermandad con el único fin de glorificar a Jesucristo en el trance supremo de abrazar la Santa Cruz. Así nació la Hermandad del Dulcísimo Nazareno y de la Virgen Santa María con San Juan, que pronto sería conocida por todos como El Silencio, por el recogimiento y respeto con el que, desde sus inicios, ha vivido y transmitido el Misterio de la Pasión.", 
+        "Desde sus primeras Reglas, aprobadas en 1356 por el Arzobispo de Sevilla, esta Hermandad ha sido espejo de penitencia, silencio interior y fidelidad evangélica. Con el paso del tiempo, se asentó en su sede actual, la Real Iglesia de San Antonio Abad, donada por el rey Carlos IV, un templo donde se respira oración y tradición centenaria."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Una Archicofradía con Gracia Pontificia",
+      "texto": [
+        "El Silencio no es sólo una de las hermandades más antiguas de Sevilla; es también una Archicofradía distinguida por la Santa Sede. En 1824, el Papa León XIII le concedió el título de Archicofradía, otorgándole el derecho de incorporar otras hermandades que compartieran su espíritu y devoción. Hoy, más de noventa hermandades de dentro y fuera de España están unidas a El Silencio, formando una gran familia nazarena con el común amor a Nuestro Padre Jesús Nazareno.", 
+        "Asimismo, está incorporada a grandes Órdenes y Congregaciones religiosas —como los Capuchinos, Cartujos, Jesuitas, Franciscanos y Hospitalarios de San Juan de Dios— y agregada espiritualmente a basílicas de Roma y Tierra Santa, lo que subraya su profunda conexión con la Iglesia Universal."
+      ]
+    },
+    {
+      "titulo": "Fines Espirituales: Culto, Caridad y Conversión",
+      "texto": [
+        "La Hermandad del Silencio no es sólo procesión. En sus Reglas, actualizadas tras el Concilio Vaticano II, se recogen con claridad sus cinco pilares fundamentales:", 
+        "1. Rendir culto asiduo a Dios y a la Virgen María, especialmente en los Misterios de la Pasión, Muerte y Resurrección de Cristo.",
+        "2. Formar cristianamente a sus miembros, despertando conciencias y sembrando la verdad del Evangelio.", 
+        "3. Ejercer la caridad, con obras asistenciales que alcancen a los hermanos más necesitados y a cualquier prójimo que lo requiera.",
+        "4. Fomentar la vida sacramental y la oración, preparando con devoción la Estación de Penitencia.", 
+        "5. Cultivar la fraternidad cristiana, mediante la ayuda mutua, la unidad y la misericordia entre hermanos."
+      ]
+    },
+    {
+      "titulo": "La Madrugá del Silencio: Estación de Penitencia",
+      "texto": [
+        "Cada año, en la madrugada sagrada del Viernes Santo, El Silencio realiza su Estación de Penitencia a la Santa Iglesia Catedral. Es un acto de adoración al Santísimo Sacramento, pero también de testimonio ante el mundo. Los hermanos, cubiertos con sus antifaces y portando cirios, recorren las calles de Sevilla envueltos en un silencio sobrecogedor, en el que cada paso es una oración y cada respiración un acto de fe.", 
+        "En el cortejo destacan emblemas cargados de historia:",
+        "• La Santa Cruz con apliques de plata, símbolo del amor redentor.", 
+        "• La Bandera Blanca, con su cirio y espada, evocando el voto de sangre de 1615.",
+        "• El Guión Romano, regalo del Papa Pío IX como agradecimiento por la defensa del Dogma de la Inmaculada.", 
+        "• El Simpecado, joya bordada en oro dedicada a la Virgen Purísima.",
+        "• La Bandera Morada, que se remonta a 1490 y rememora seis siglos de historia.", 
+        "• La Bandera Pontificia, en recuerdo de la bula de León XII.", 
+        "• La Cruz Alzada, de plata neogótica, guía del caminar penitencial."
+      ]
+    },
+    {
+      "titulo": "La Virgen en su Trono de Plata: María Santísima de la Concepción",
+      "texto": [
+        "El paso de María Santísima de la Concepción, obra cumbre del orfebre Cayetano González, es una sinfonía de luz, metal y devoción. Su palio, completamente labrado en plata de ley y con pedrería incrustada, refleja el estilo latinobizantino, con toques románicos y escenas de la vida de la Virgen inspiradas en la Catedral de San Marcos de Venecia.", 
+        "La Virgen porta una corona sobredorada de estilo dieciochesco, firmada por Jesús Domínguez en 1955, y su candelería, compuesta por piezas únicas, fue realizada por Orfebrería Villarreal. En el paso se hallan relicarios con tesoros espirituales: un hilo del velo de la Santísima Virgen, reliquias de santos y una piedra de la gruta de Nazaret."
+      ]
+    },
+    {
+      "titulo": "El Archivo: Memoria Viva de la Hermandad",
+      "texto": [
+        "Conscientes de la importancia de la historia como espejo del alma, la Hermandad ha custodiado con celo su archivo documental. Desde el siglo XVIII, se han conservado actas, convocatorias, crónicas y biografías de hermanos ilustres. En el siglo XXI, gracias a convenios institucionales, se ha clasificado y digitalizado buena parte de este tesoro documental.", 
+        "Este archivo es hoy fuente de investigación para conocer la historia no solo de la Hermandad, sino también de la Semana Santa de Sevilla, pues guarda el alma de generaciones enteras de fieles que han caminado bajo el silencio sagrado del Nazareno."
+      ]
+    },
+    {
+      "titulo": "Sede Canónica: San Antonio Abad",
+      "texto": [
+        "La Hermandad del Silencio tiene su sede en la Real Iglesia de San Antonio Abad, templo que se levanta como un faro de espiritualidad en pleno corazón de Sevilla. Reconstruida entre 1724 y 1730, destaca por sus pinturas al temple y su atmósfera recogida. En ella reposan las devociones, la oración diaria, la vida fraterna y el culto incesante a sus Sagrados Titulares."
+      ]
+    },
+    {
+      "titulo": "El Silencio: Corazón de la Madrugá Sevillana",
+      "texto": [
+        "El Silencio es más que una Hermandad. Es un suspiro del alma de Sevilla. Es penitencia convertida en arte. Es oración que se eleva sin palabras. Cada año, cuando en la madrugada del Viernes Santo suena la campana de salida y se abre la puerta de San Antonio Abad, la ciudad entera se detiene. Porque pasa El Silencio. Y en ese instante, la fe se vuelve palpable, la historia se hace presente y el alma sevillana se arrodilla ante el Misterio."
+      ]
     }
   ]
 },
@@ -2369,12 +3156,67 @@
   "descripcionCorta": "La Hermandad de Nuestro Padre Jesús del Gran Poder y María Santísima del Mayor Dolor y Traspaso es una de las más emblemáticas de Sevilla, con más de cinco siglos de historia, devoción popular profunda y una fuerte presencia en la Madrugada del Viernes Santo. Es conocida como la del 'Señor de Sevilla', por la inmensa veneración que recibe su imagen titular.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Cinco siglos de fe viva",
+      "texto": [
+        "La Hermandad de Nuestro Padre Jesús del Gran Poder y María Santísima del Mayor Dolor y Traspaso representa uno de los corazones espirituales más profundos y palpitantes de la Semana Santa de Sevilla. Con una historia que se remonta al siglo XV, esta corporación no es sólo una institución religiosa, sino una manifestación viva de fe, de arraigo popular y de entrega silenciosa a Cristo Nazareno.", 
+        "Desde su fundación, en torno a 1431, como Cofradía del Traspaso en el convento de Santo Domingo de Silos, ha sabido mantener su esencia, evolucionando con Sevilla, pero sin perder su identidad profundamente penitencial. Cada paso que ha dado la Hermandad en su historia está marcado por el deseo de honrar y glorificar el misterio redentor de Cristo."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "La bendita Imagen del Gran Poder: Jesús camina con nosotros",
+      "texto": [
+        "En 1620, la historia de la Hermandad y de toda Sevilla se transforma para siempre con la creación de la imagen de Nuestro Padre Jesús del Gran Poder. El escultor Juan de Mesa, movido por la gracia, dio forma a una de las representaciones más sobrecogedoras del Nazareno: Jesús cargando con la cruz, con una mirada que atraviesa el alma y que consuela, juzga, acoge y redime.", 
+        "Desde su primera salida procesional en 1621, el Gran Poder ha caminado junto al pueblo de Sevilla, en las calles y en los corazones. Su paso, sobrio y majestuoso, se ha convertido en la estampa por excelencia del recogimiento y la profundidad de la Madrugada del Viernes Santo. Su sola presencia llena el silencio de sentido."
+      ]
+    },
+    {
+      "titulo": "María Santísima del Mayor Dolor y Traspaso: Madre del Consuelo",
+      "texto": [
+        "Acompañando al Señor, la Virgen del Mayor Dolor y Traspaso encarna el rostro doliente y sereno de la Madre, que acompaña en silencio y con fe la Pasión de su Hijo. Su imagen actual, encargada en 1798, y el esplendoroso palio bordado por Rodríguez Ojeda entre 1902 y 1904, muestran la fusión entre la devoción y el arte sevillano, entre la ternura y la fortaleza.", 
+        "Cada año, su caminar tras el Señor no es solo una procesión: es una escuela de amor y fidelidad. Bajo su manto se refugian tantas almas rotas, y con su mirada de dolor se consuelan generaciones de sevillanos que han aprendido a amar desde la cruz."
+      ]
+    },
+    {
+      "titulo": "De capilla en capilla hasta llegar a San Lorenzo",
+      "texto": [
+        "La Hermandad ha vivido numerosas sedes en su devenir histórico, desde el convento de Santiago de la Espada hasta el Convento del Valle. En 1703 se instala definitivamente en la Parroquia de San Lorenzo, donde encuentra su hogar definitivo, y donde más tarde, en 1965, se erige su actual templo: la Basílica de Jesús del Gran Poder, declarada Basílica Menor en 1992 por San Juan Pablo II.", 
+        "Este lugar sagrado se ha convertido en faro espiritual de la ciudad. Siempre abierta, la Basílica es templo de oración, de sacramento, de consuelo diario y de encuentro con Cristo. El Señor está siempre allí, acogiendo sin juicio y amando sin medida."
+      ]
+    },
+    {
+      "titulo": "La Madrugada del Gran Poder: encuentro con el misterio",
+      "texto": [
+        "Desde que en 1777 se incorporó a las cofradías de la Madrugada del Viernes Santo, la salida del Gran Poder es uno de los momentos más esperados y sobrecogedores de toda la Semana Santa de Sevilla. Las calles se transforman en un templo abierto al cielo, y el silencio se vuelve oración cuando aparece la silueta del Nazareno bajo la luz tenue de los faroles.", 
+        "No hay palabras suficientes para describir ese instante en que el Gran Poder cruza la ciudad. Es un momento eterno donde Sevilla reza sin hablar, donde cada paso del Señor es un acto de amor, y cada lágrima que se escapa entre los fieles es una súplica que asciende al cielo."
+      ]
+    },
+    {
+      "titulo": "Una Hermandad modelo: caridad, formación y fraternidad",
+      "texto": [
+        "El carisma de la Hermandad no se agota en sus cultos y procesiones. Desde su espíritu fundacional, ha trabajado por hacer del Evangelio vida concreta. En 1953 fundó la primera Bolsa de Caridad de Sevilla, ejemplo seguido hoy por muchas otras cofradías. La Hermandad del Gran Poder está siempre atenta a los más necesitados, ayudando con discreción y generosidad a quienes atraviesan dificultades materiales o espirituales.", 
+        "Además, fomenta la formación cristiana y penitencial de sus hermanos, preparando corazones para vivir con profundidad la fe, no sólo en la Semana Santa, sino en el día a día."
+      ]
+    },
+    {
+      "titulo": "Hermandades hermanas y vínculos sagrados",
+      "texto": [
+        "El Gran Poder no camina solo. Desde 1903 mantiene una histórica concordia con la Hermandad de la Macarena, unión fraterna que dignifica a ambas y que es símbolo de reconciliación en la Semana Santa sevillana. También mantiene lazos con la Hermandad de Santa Genoveva y con los Capuchinos, congregación a la que perteneció el Beato Diego José de Cádiz, gran predicador devoto del Señor.", 
+        "Su presencia se extiende más allá de Sevilla: en muchos rincones de España e Iberoamérica se levantan templos, capillas e imágenes que veneran la advocación de Nuestro Padre Jesús del Gran Poder, como reflejo del eco de esta devoción universal."
+      ]
+    },
+    {
+      "titulo": "Honor y Gloria: la devoción del pueblo y el reconocimiento de la Iglesia",
+      "texto": [
+        "Han orado ante el Gran Poder reyes, nobles y pontífices. La Hermandad ha recibido numerosos reconocimientos e indulgencias desde el siglo XVI, y la imagen del Señor fue honrada con la Medalla de la Ciudad en 1995. Pero por encima de títulos y honores humanos, el mayor galardón del Gran Poder es el amor fiel del pueblo, que lo ha coronado desde siempre como el Señor de Sevilla.", 
+        "Su rostro cansado pero sereno, su cuerpo inclinado por el peso de la cruz, y su mirada llena de poder y misericordia, hacen de Él un faro para los creyentes, un refugio para los afligidos y una escuela para los que quieren vivir la fe como entrega silenciosa."
+      ]
+    },
+    {
+      "titulo": "El mensaje eterno del Gran Poder",
+      "texto": [
+        "El mensaje del Gran Poder no cambia con los siglos: sigue siendo el mismo Cristo que camina entre su pueblo, abrazando el dolor humano para redimirlo. Su paso cada Madrugada es la expresión más elocuente de una ciudad que, entre incienso y silencio, proclama que la esperanza nace desde la cruz.", 
+        "En Sevilla, no se entiende la vida sin el Señor del Gran Poder. Y cada año, la Semana Santa se convierte en un nuevo capítulo de amor entre Él y su gente."
+      ]
     }
   ]
 },
@@ -2401,15 +3243,52 @@
       "imagen": "https://pbs.twimg.com/media/Goz1viDXIAANAcd.jpg:large"
     }
   ],
-  "descripcionCorta": "",
+  "descripcionCorta": "La Hermandad de la Macarena, fundada en el siglo XVI, ha evolucionado desde su labor asistencial en el Hospital de las Cinco Llagas hasta convertirse en una de las cofradías más emblemáticas de Sevilla, superando incendios, crisis y transformaciones estéticas y devocionales. Su sede actual es la Basílica de la Macarena, inaugurada en 1949.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Una devoción que trasciende el tiempo",
+      "texto": [
+        "La Hermandad de la Esperanza Macarena es uno de los pilares fundamentales de la Semana Santa sevillana. Su historia se remonta al siglo XVI, cuando el monje basilio Fray Hernando de la Cruz, impulsado por su vocación caritativa, fundó en 1595 una hermandad dedicada al cuidado de los enfermos del Hospital de las Cinco Llagas. Así nació la Cofradía de Nuestra Señora de la Esperanza y Hermandad de Penitencia, con Reglas inspiradas en la espiritualidad de la Orden de San Basilio: penitencia, oración y ayuda a los necesitados."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "De San Basilio a San Gil",
+      "texto": [
+        "En sus primeros años, la Hermandad solicitó procesionar el Viernes Santo, logrando el permiso en 1624. En 1653 se trasladó a la parroquia de San Gil Abad, donde permanecería durante más de tres siglos. Al año siguiente, se añadió la imagen de Nuestro Padre Jesús de la Sentencia como nuevo titular, consolidando el cortejo procesional que conocemos hoy. En 1691 se finalizó su capilla propia en San Gil y, poco después, recibió el privilegio del Jubileo de las Cuarenta Horas, otorgado por el Papa Inocencio XI."
+      ]
+    },
+    {
+      "titulo": "Crisis y Resurgimiento",
+      "texto": [
+        "Durante el siglo XVIII, la Hermandad dejó de procesionar temporalmente debido a las reformas que exigían autorización real para las cofradías. En el siglo XIX atravesó una fuerte crisis, llegando incluso a suspender sus cabildos. Sin embargo, en 1855 fue revitalizada gracias a la intervención de las autoridades civiles y eclesiásticas. En esta etapa destacó la figura de Juan Manuel Rodríguez Ojeda, quien, a partir de 1870, revolucionó la estética de la cofradía y de toda la Semana Santa con sus innovadores diseños."
+      ]
+    },
+    {
+      "titulo": "El respaldo de la monarquía",
+      "texto": [
+        "En 1892, la Reina Regente María Cristina de Habsburgo fue nombrada Hermana Mayor Perpetua, otorgando a la Hermandad el título de Real. Su hijo, el futuro Rey Alfonso XIII, también fue recibido como Hermano Mayor Honorario en 1904."
+      ]
+    },
+    {
+      "titulo": "Devoción creciente en el siglo XX",
+      "texto": [
+        "Durante la Guerra Civil Española, en 1936, la parroquia de San Gil fue incendiada, aunque las imágenes se salvaron gracias a la acción vecinal. En 1949, la Hermandad se trasladó a su nueva sede: la Basílica de Santa María de la Esperanza Macarena, actual centro devocional de miles de fieles.",
+        "En 1964, la Virgen de la Esperanza fue coronada canónicamente, y en 1971 se le concedió la Medalla de Oro de la Ciudad de Sevilla. Desde entonces, su popularidad no ha dejado de crecer, siendo referente espiritual para generaciones de sevillanos y devotos de todo el mundo."
+      ]
+    },
+    {
+      "titulo": "Hitos recientes",
+      "texto": [
+        "En el siglo XXI, la Hermandad ha celebrado eventos multitudinarios, como el Año Jubilar Macareno (2013-2014) con motivo del 50º aniversario de la Coronación Canónica, que culminó con una histórica procesión y misa en la Plaza de España, presidida por el Arzobispo de Sevilla.",
+        "Además, en 2015 la Basílica fue elegida como Templo Jubilar durante el Año de la Misericordia convocado por el Papa Francisco. En 2016 se celebraron varios aniversarios importantes: la colocación de la primera piedra del templo, su consagración y su declaración como Basílica Menor por el Papa Pablo VI en 1966"
+      ]
+    },
+    {
+      "titulo": "La Macarena en la Semana Santa",
+      "texto": [
+        "Cada Madrugá del Viernes Santo, la Esperanza Macarena cruza las calles de Sevilla acompañada por miles de personas. Su paso, su rostro sereno y la intensidad emocional que despierta entre los fieles convierten su procesión en uno de los momentos más esperados y emocionantes de la Semana Santa.",
+        "La Macarena no es solo una imagen. Es un símbolo de fe, esperanza y consuelo. Es la devoción de un barrio y el latido de toda una ciudad."
+      ]
     }
   ]
 },
@@ -2439,12 +3318,46 @@
   "descripcionCorta": "Hermandad penitencial de profunda sobriedad fundada en el siglo XVI por la comunidad mulata de Sevilla y reorganizada en 1886, hoy representa uno de los cortejos más solemnes de la Madrugá. Su Estación de Penitencia, marcada por el silencio y el recogimiento, es una de las más sobrecogedoras de la Semana Santa sevillana.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Orígenes de una Hermandad con Alma",
+      "texto": [
+        "Los orígenes de la Hermandad del Calvario se remontan a 1571, cuando un colectivo de mulatos —esclavos y libres— fundó la Hermandad de la Presentación de Nuestra Señora en el Hospital de Nuestra Señora de Belén. Este acto fue un grito de fe y de esperanza de una minoría socialmente marginada, que encontró en la vida cofrade una vía de integración y expresión espiritual. La hermandad se trasladó pronto a la Parroquia de San Ildefonso, donde se consolidó como una cofradía penitencial.", 
+        "A lo largo de los siglos XVI y XVII, vivió momentos de fervor, devoción y crecimiento, hasta que la decadencia económica de la ciudad, las epidemias y la reducción de la población mulata provocaron una lenta agonía. A pesar de la pérdida de su sede y bienes, quedaron intactas sus imágenes, su legado espiritual y el recuerdo de una devoción auténtica que resistía el paso del tiempo."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "El Cristo del Calvario: Un Icono de Fe Recuperado",
+      "texto": [
+        "Entre las imágenes que conformaron el alma de aquella hermandad original, destaca una figura imponente: el Cristo del Calvario, un Crucificado de profunda expresividad y belleza serena. Vendido en 1799 por no tener ubicación estable, fue finalmente recuperado en 1818 tras un largo pleito promovido por el párroco D. Matías Espinosa. La Imagen volvió a ocupar su altar, acompañada de la Virgen de la Presentación y San Juan, generando en torno a ellas una oleada de fervor popular.", 
+        "Este renacer de la devoción fue la semilla que, en 1886, germinó en la reorganización de la Hermandad del Calvario, ahora con nuevos hermanos procedentes de clases medias y con un nuevo modelo organizativo, pero con el mismo anhelo espiritual: honrar el misterio del Calvario de Cristo."
+      ]
+    },
+    {
+      "titulo": "La Madrugá: Nace una Tradición de Silencio y Recogimiento",
+      "texto": [
+        "Durante los primeros años tras su reorganización, la cofradía realizó su Estación de Penitencia en Miércoles Santo. Pero en 1899, tras resolver un pleito de precedencia con la Esperanza de Triana, el Calvario encontró su lugar definitivo en el corazón de la Madrugá. Desde entonces, la hermandad camina en la noche más sagrada de Sevilla, entre sombras y oraciones, con un estilo único: austero, sobrio y profundamente devocional.", 
+        "El Cristo del Calvario, tallado en caoba oscura sobre el imponente paso diseñado por Juan Farfán, avanza en silencio por las calles, abrazado al misterio de la redención. Tras Él, la Virgen de la Presentación, bajo un palio de cajón de una sobriedad majestuosa, diseñado por Juan Manuel Rodríguez Ojeda en 1916, acompaña el dolor de su Hijo con una belleza serena y contenida."
+      ]
+    },
+    {
+      "titulo": "Nueva Sede, Nuevo Impulso: La Parroquia de la Magdalena",
+      "texto": [
+        "En 1916, la Hermandad se traslada desde la Iglesia de San Gregorio hasta su sede actual en la Parroquia de la Magdalena, antiguo convento dominico de San Pablo. Este momento marca el inicio de una etapa de madurez, consolidación y enriquecimiento patrimonial. En esta nueva etapa, la hermandad fortalece su identidad y su estilo: recogimiento absoluto, sobriedad estética y devoción intensa.", 
+        "Durante el siglo XX, la hermandad se mantuvo firme incluso en tiempos difíciles, como los convulsos años 20 y 30. Tras la Guerra Civil, experimentó un crecimiento sostenido, no solo en número de hermanos, sino también en compromiso espiritual y en obras sociales."
+      ]
+    },
+    {
+      "titulo": "Vida Cofrade: Una Hermandad Abierta a la Fe y al Futuro",
+      "texto": [
+        "El Calvario es mucho más que una procesión en la Madrugá: es una comunidad viva y activa durante todo el año. A lo largo del siglo XX y en las primeras décadas del XXI, ha creado una estructura sólida y participativa, con hitos como la fundación de Escuelas gratuitas, la formación del Grupo Joven, la creación del Coro Virgen de la Presentación, la cuadrilla de hermanos costaleros y la inauguración de su Casa de Hermandad.", 
+        "La celebración del Centenario de su reorganización, en 1986, no solo fue un acto conmemorativo, sino una muestra del dinamismo de una hermandad que permanece fiel a sus raíces sin dejar de mirar al futuro. Hoy, la Hermandad del Calvario está formada por más de 2.000 hermanos, de los cuales más de 800 participan cada año en su Estación de Penitencia, en una procesión que representa el corazón mismo del espíritu cofrade sevillano."
+      ]
+    },
+    {
+      "titulo": "Una Devoción que Camina con Sevilla",
+      "texto": [
+        "El Cristo del Calvario, con su rostro sereno y resignado, y la Virgen de la Presentación, con su mirada contenida y maternal, no solo son imágenes titulares: son el alma viva de una hermandad que late en cada oración, en cada cirio encendido, en cada silencio compartido durante la Madrugá.", 
+        "La Hermandad del Calvario sigue siendo un faro de devoción en la Semana Santa de Sevilla, donde el recogimiento es oración, el silencio es fe y el paso lento de sus nazarenos es una catequesis viva sobre el misterio de la Redención."
+      ]
     }
   ]
 },
@@ -2453,7 +3366,7 @@
   "sede": "Capilla de los Marineros",
   "fundacion": 1418,
   "nazarenos": 3200,
-  "hermanos": 14988,
+  "hermanos": 15000,
   "barrio": "Triana",
   "diaSalida": "La Madrugá",
   "escudo": "https://esperanzadetriana.es/wp-content/uploads/2022/09/114_heraldica-226x300.png",
@@ -2500,7 +3413,7 @@
     {
       "titulo": "Primera Estación de Penitencia y Decadencia (1845-1889)",
       "texto": [
-        "En 1845 se produce la primera estación de penitencia de la hermandad a la Catedral de Sevilla. En las décadas siguientes, la hermandad sufre varios altibajos, destacando la incautación de la Capilla de los Marineros en 1868. Esta situación provoca una etapa de decadencia hasta su reorganización en 1888 y la reanudación de la salida procesional en 1889. Ese mismo año, la hermandad resuelve un conflicto con la del Cristo de la Expiración (el Cachorro) por la imagen de la Dolorosa."
+        "En 1845 se produce la primera estación de penitencia de la hermandad a la Catedral de Sevilla. En las décadas siguientes, la hermandad sufre varios altibajos, destacando la incautación de la Capilla de los Marineros en 1868 causado por las desamortizaciones de Mendizabal. Esta situación provoca una etapa de decadencia hasta su reorganización en 1888 y la reanudación de la salida procesional en 1889. Ese mismo año, la hermandad resuelve un conflicto con la del Cristo de la Expiración (el Cachorro) por la imagen de la Dolorosa."
       ]
     },
     {
@@ -2536,7 +3449,7 @@
     {
       "titulo": "Patrimonio y Proyección Cultural Reciente (2010 - Actualidad)",
       "texto": [
-        "La ampliación de la Capilla de los Marineros y la inauguración del museo Tesoro Devocional en 2010 permiten difundir su patrimonio. En 2015 se culmina la creación de un nuevo altar para el Cristo de las Tres Caídas, reafirmando su identidad marinera y trianera."
+        "La ampliación de la Capilla de los Marineros y la inauguración del museo Tesoro Devocional en 2010 permiten difundir su patrimonio. En 2015 se culmina la creación de un nuevo altar para el Cristo de las Tres Caídas, reafirmando su identidad marinera y trianera, este altar se completará con la creación de una nueva capilla que se estrenará este próximo mes de Octubre."
       ]
     },
     {
@@ -2573,12 +3486,52 @@
   "descripcionCorta": "La Hermandad de Los Gitanos, fundada en 1753 por miembros de la comunidad gitana de Triana, es una de las más populares de Sevilla. Con sede actual en su propio Santuario, realiza cada Madrugá una emotiva estación de penitencia con gran fervor y devoción popular.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Un camino de fe, lucha y esperanza desde el corazón del pueblo",
+      "texto": [
+        "", 
+        ""
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Una Hermandad nacida del alma de Triana",
+      "texto": [
+        "La Hermandad de Nuestro Padre Jesús de la Salud y María Santísima de las Angustias, conocida universalmente como Los Gitanos, nace en 1753 como fruto de la fe viva y perseverante de la comunidad gitana sevillana. En una época de marginación y persecución, un grupo de gitanos encabezados por Sebastián Miguel de Varas, guiados por una intensa devoción al Señor y a su Santísima Madre, fundan esta corporación en el Convento del Espíritu Santo de Triana. Desde sus inicios, la Hermandad fue un refugio espiritual, un espacio donde el pueblo gitano encontraba consuelo y dignidad ante las adversidades del mundo."
+      ]
+    },
+    {
+      "titulo": "Primeros pasos y primeros traslados",
+      "texto": [
+        "Tras su fundación, la Hermandad comienza un peregrinaje físico que refleja también un recorrido espiritual. En 1754 se traslada al Convento del Pópulo, en el Arenal, donde en 1759 realiza su primera estación de penitencia a la Santa Iglesia Catedral, proclamando desde entonces su vocación pública de fe.", 
+        "A lo largo del siglo XIX, la Hermandad se ve forzada a cambiar de sede varias veces, consecuencia de decisiones políticas como la desamortización de Mendizábal. En su itinerario se suceden las parroquias de San Esteban y San Nicolás, hasta llegar en 1880 a la Parroquia de San Román, donde arraiga profundamente."
+      ]
+    },
+    {
+      "titulo": "Fe inquebrantable ante la adversidad",
+      "texto": [
+        "La noche del 19 de julio de 1936, en plena Guerra Civil, la Iglesia de San Román es pasto de las llamas. La Hermandad pierde sus imágenes titulares y prácticamente todo su patrimonio. Sin embargo, este momento doloroso se convierte también en testimonio de la fuerza de su fe. En apenas un año, gracias al esfuerzo incansable de hermanos y devotos, la Hermandad resurge en la vecina Iglesia de Santa Catalina. Allí se bendicen las nuevas imágenes, obras del imaginero José Manuel Rodríguez Fernández-Andes, que desde entonces son el alma viva de la cofradía."
+      ]
+    },
+    {
+      "titulo": "Resurgir y gloria en San Román",
+      "texto": [
+        "En 1950, con San Román ya reconstruida, la Hermandad regresa a su antigua sede, donde florece con fuerza renovada. Se le reconoce su carácter sacramental, se erige una nueva capilla y se enriquecen sus pasos con obras de gran calidad artística. La Virgen de las Angustias recibe una corona de oro en 1972, preludio de su coronación canónica en la Catedral de Sevilla en 1988, un hito que marcó a toda la ciudad.", 
+        "En esta etapa se consolida también la espiritualidad y el compromiso de la Hermandad. La devoción popular crece sin cesar, y el Señor de la Salud y su Madre Angustiada se convierten en símbolos de redención y consuelo para muchas personas, especialmente entre quienes buscan alivio ante el sufrimiento y la enfermedad."
+      ]
+    },
+    {
+      "titulo": "Camino hacia un nuevo hogar: el Santuario",
+      "texto": [
+        "En 1999, la Hermandad culmina un sueño largamente anhelado: contar con su propio Santuario, un templo levantado sobre terrenos cedidos por el Ayuntamiento de Sevilla, gracias al apoyo generoso de la Duquesa de Alba. Esta nueva sede, bendecida por el Cardenal Amigo Vallejo, marca un antes y un después: por fin la Hermandad encuentra un hogar definitivo donde crecer, celebrar su fe y custodiar su legado.", 
+        "Desde este Santuario parte cada madrugada del Viernes Santo la estación de penitencia de Los Gitanos, una de las más esperadas, sentidas y emocionantes de toda la Semana Santa sevillana."
+      ]
+    },
+    {
+      "titulo": "La Madrugá de la devoción popular",
+      "texto": [
+        "En la Madrugá sevillana, cuando la ciudad calla y la fe habla en silencio y saetas, la Hermandad de Los Gitanos llena las calles con su mensaje de esperanza. El Señor de la Salud, con su mirada serena y compasiva, bendice al pueblo desde su paso, mientras María Santísima de las Angustias, Reina coronada del sufrimiento, derrama consuelo bajo su palio bordado.", 
+        "Es una procesión cargada de emoción y verdad, donde se mezcla el arte con la oración, el canto con el llanto, el incienso con la plegaria. Devotos de todas las edades y condiciones se agolpan para verlos pasar, para rezar, para cantarles, para pedir por los enfermos, por los que sufren, por los que esperan.",
+        "La presencia de esta Hermandad en la calle no es solo una tradición: es un testimonio de fe que traspasa generaciones, que une a gitanos y payos, a sevillanos y forasteros, en un mismo latido de amor a Cristo y a su Santísima Madre."
+      ]
     }
   ]
 },
@@ -2608,12 +3561,43 @@
   "descripcionCorta": "",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Historia y Origen",
+      "texto": [
+        "La Hermandad de la Carretería fue fundada en 1550, en el convento del Carmen, y desde sus inicios tuvo como objetivo principal rendir culto al misterio de la Pasión de Cristo, en particular a la Sagrada Expiración. Su traslado definitivo a la capilla de la calle Real de la Carretería se produjo en 1761, fecha en la que comenzó a configurarse tal como la conocemos hoy. El nombre de la Hermandad proviene precisamente de la calle en la que se asienta desde entonces, reflejando su profunda vinculación con el barrio del Arenal."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Iconografía y Titulares",
+      "texto": [
+        "La cofradía cuenta con tres imágenes titulares: el Santísimo Cristo de la Salud, la Virgen de la Luz y Nuestra Señora del Mayor Dolor en su Soledad. El Cristo de la Salud es una imagen atribuida a Francisco Antonio Gijón (siglo XVII), de gran fuerza expresiva, que representa a Cristo expirando en la cruz. La Virgen del Mayor Dolor, de autor anónimo, encarna una de las dolorosas más impactantes de la Semana Santa por su sobriedad, acompañada por San Juan Evangelista.", 
+        "La Virgen de la Luz, aunque menos conocida en la calle, tiene un papel importante en el culto interno de la hermandad."
+      ]
+    },
+    {
+      "titulo": "Estación de Penitencia",
+      "texto": [
+        "La estación de penitencia de la Hermandad de la Carretería tiene lugar cada Viernes Santo por la tarde. Destaca por su carácter recogido y austero, sin bandas en el paso de Cristo, creando una atmósfera de gran recogimiento. A lo largo del recorrido, el cortejo mantiene una compostura ejemplar, avanzando en silencio, salvo por los toques de tambor ronco que marcan el paso del crucificado.", 
+        "El paso de misterio representa la escena de la expiración de Cristo en el Calvario, acompañado por la Virgen, San Juan y María Magdalena, formando un conjunto de gran fuerza narrativa y artística. El paso de palio, con Nuestra Señora del Mayor Dolor, se caracteriza por su estilo clásico y una de las candelerías más bellas del Viernes Santo."
+      ]
+    },
+    {
+      "titulo": "Patrimonio Artístico",
+      "texto": [
+        "El patrimonio de la Hermandad es uno de los más destacados de Sevilla. El paso de misterio es una obra barroca tallada por Francisco Díaz y dorada por diversos artistas, con apliques en plata y una iconografía rica en detalles. El palio de la Virgen, con bordados en oro sobre terciopelo azul, es un referente de la estética decimonónica.", 
+        "La Hermandad cuida especialmente la conservación y restauración de su patrimonio, siendo ejemplo de equilibrio entre tradición y calidad artística."
+      ]
+    },
+    {
+      "titulo": "Vida Interna y Cultos",
+      "texto": [
+        "Más allá de la Semana Santa, la Hermandad celebra diversos cultos a lo largo del año, como quinarios, besamanos y rosarios. Tiene una vida interna muy activa, destacando su implicación en obras sociales y la formación religiosa de sus hermanos. La capilla de la Carretería es un lugar de recogimiento durante todo el año y mantiene un alto nivel de actividad devocional."
+      ]
+    },
+    {
+      "titulo": "Relación con Sevilla",
+      "texto": [
+        "La Hermandad de la Carretería es una de las más queridas del barrio del Arenal, con una identidad muy vinculada a esta zona tradicional de Sevilla. Su sobriedad, respeto por la liturgia y su defensa del estilo clásico la convierten en un referente para los amantes de la Semana Santa más tradicional."
+      ]
     }
   ]
 },
@@ -2635,11 +3619,47 @@
       "imagen": "https://www.diariodesevilla.es/contenidos/programa-semana-santa-sevilla/img/img_ficha/la-soledad-de-san-buenaventura.jpg"
     }
   ],
-  "descripcionCorta": "",
+  "descripcionCorta": "La Hermandad de la Soledad de San Buenaventura es una cofradía sevillana de profundo carácter franciscano, que realiza su estación de penitencia el Sábado Santo, ofreciendo una de las expresiones más sobrias y sobrecogedoras de la Semana Santa.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Historia y Origen",
+      "texto": [
+        "La Hermandad de la Soledad de San Buenaventura tiene sus raíces en el siglo XVII, en el contexto de la reforma franciscana. Se funda en 1674 por impulso de los frailes del convento de San Buenaventura y con el apoyo de la nobleza sevillana, entre los que destacan los marqueses de Ayamonte. Desde sus comienzos, la corporación se configuró como una cofradía profundamente ligada a la espiritualidad franciscana, con especial devoción a la Virgen en su advocación de Soledad.", 
+        "A lo largo de su historia, la Hermandad ha experimentado diversas etapas, desde su consolidación inicial hasta momentos de crisis, como la invasión napoleónica o los efectos de la desamortización, que obligaron a suprimir el convento. A pesar de las dificultades, logró mantenerse y recuperar su actividad procesional, siendo restaurada y reorganizada en diferentes momentos históricos del siglo XIX y XX."
+      ]
+    },
+    {
+      "titulo": "El Convento de San Buenaventura",
+      "texto": [
+        "El convento que acoge a la Hermandad fue fundado en 1600 y se convirtió en uno de los más destacados del ámbito franciscano en Sevilla. La iglesia conventual, de gran valor artístico y espiritual, fue el escenario original de la vida religiosa y cofrade de la corporación. Aunque sufrió el cierre en el siglo XIX por las leyes desamortizadoras, la comunidad franciscana volvió a ocuparlo parcialmente, y la Hermandad ha mantenido una intensa vinculación con este espacio."
+      ]
+    },
+    {
+      "titulo": "La Imagen de la Virgen de la Soledad",
+      "texto": [
+        "La titular mariana, la Virgen de la Soledad, es una de las más sobrecogedoras representaciones del dolor de María. La imagen fue atribuida tradicionalmente a Gabriel de Astorga, aunque recientes estudios apuntan a un origen anterior, posiblemente del círculo de Pedro Roldán. Su expresión de serena tristeza, su vestimenta austera y su acompañamiento iconográfico (cruz desnuda, escalera, corona de espinas) acentúan el dramatismo contenido propio de la estética barroca y de la sensibilidad franciscana.", 
+        "La imagen ha sido objeto de distintas restauraciones, destacando la intervención de Juan Miñarro en el año 2005, que respetó el carácter original de la escultura y confirmó su calidad artística."
+      ]
+    },
+    {
+      "titulo": "La Estación de Penitencia",
+      "texto": [
+        "La Hermandad realiza su estación de penitencia en la jornada del Sábado Santo. Este día se caracteriza por una atmósfera de recogimiento y sobriedad, en consonancia con el espíritu de la cofradía. El paso de la Virgen, de una sola imagen, avanza en silencio solemne por las calles de Sevilla, ofreciendo una de las estampas más sobrecogedoras de toda la Semana Santa.", 
+        "El paso se configura con un estilo clásico y sobrio, sin palio, y con detalles que remiten a los elementos de la pasión: clavos, corona de espinas, escalera, lanza, etc. La música, cuando la hay, suele ser muy contenida, e incluso en muchas ocasiones la cofradía opta por no llevar acompañamiento musical."
+      ]
+    },
+    {
+      "titulo": "El Carácter Franciscano",
+      "texto": [
+        "Uno de los rasgos distintivos de esta Hermandad es su marcado carácter franciscano. Esta espiritualidad se refleja tanto en sus cultos como en su estética, sus reglas y su manera de hacer estación de penitencia. La pobreza, la humildad y la sobriedad son valores esenciales que definen la identidad de la corporación. Asimismo, la devoción mariana está profundamente impregnada de la visión franciscana del dolor de la Virgen ante la pasión de Cristo."
+      ]
+    },
+    {
+      "titulo": "Patrimonio y Tradición",
+      "texto": [
+        "El ajuar de la Virgen y los enseres procesionales responden a una línea estética sencilla pero refinada, en consonancia con el espíritu de la Hermandad. A lo largo de los años, se han incorporado bordados y elementos litúrgicos de gran valor, pero siempre manteniendo la línea austera que caracteriza a esta cofradía.", 
+        "La Hermandad mantiene una intensa vida de hermandad durante todo el año, con cultos, formación y acción social. Es especialmente significativa la celebración del Triduo en honor a la Virgen y la función principal, que reúne a numerosos hermanos y fieles."
+      ]
     }
   ]
 },
@@ -2666,15 +3686,43 @@
       "imagen": "https://pbs.twimg.com/media/F_nVYwrWYAA9rzu?format=jpg&name=4096x4096"
     }
   ],
-  "descripcionCorta": "",
+  "descripcionCorta": "La Hermandad del Cristo de la Expiración, conocida popularmente como “El Cachorro”, es una de las cofradías más emblemáticas de la Semana Santa sevillana, destacada por su arraigo trianero, su impresionante iconografía y su solemnidad en la tarde del Viernes Santo.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Historia y Origen de la Hermandad",
+      "texto": [
+        "La Hermandad del Cachorro fue fundada en el año 1689 en el arrabal de Triana, una zona popular y profundamente religiosa de Sevilla. Surgió por la fusión de diversas hermandades previas, siendo la principal la de la Expiración, que tenía como propósito dar culto a un Crucificado. Su sede canónica es la Basílica del Santísimo Cristo de la Expiración, construida a mediados del siglo XX, aunque la imagen titular es anterior.", 
+        "El nombre popular de “El Cachorro” proviene de una leyenda que asocia la talla del Crucificado con un gitano apodado así, cuya expresión agónica habría inspirado al escultor Francisco Antonio Gijón en 1682. La imagen se considera una de las obras cumbre del barroco andaluz por su realismo y fuerza expresiva."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Iconografía e Imágenes Titulares",
+      "texto": [
+        "La Hermandad cuenta con dos imágenes titulares:", 
+        "• El Santísimo Cristo de la Expiración, una majestuosa talla de Cristo crucificado en el momento de expirar. La imagen es célebre por su expresividad, movimiento y detalle anatómico, considerados prodigiosos. Se atribuye a Francisco Antonio Gijón y está considerada una de las más impactantes del barroco sevillano.",
+        "• Nuestra Madre y Señora del Patrocinio, una imagen dolorosa de gran belleza y serenidad, que acompaña al Cristo en su paso de palio. La Virgen sufrió graves daños en un incendio en 1973, lo que obligó a su reconstrucción. La nueva imagen, obra de Luis Álvarez Duarte, mantiene el espíritu y devoción de la original."
+      ]
+    },
+    {
+      "titulo": "Estilo y Patrimonio",
+      "texto": [
+        "La Hermandad del Cachorro destaca por su rico patrimonio artístico y musical. El paso del Cristo es sobrio, de líneas clásicas, con potentes candelabros de guardabrisas. El paso de palio de la Virgen es uno de los más elegantes de la Semana Santa, con bordados finísimos y un exquisito juego de luces.", 
+        "Musicalmente, al Cristo lo acompaña habitualmente una banda de cornetas y tambores, mientras que el palio va con una banda de música clásica que interpreta marchas solemnes."
+      ]
+    },
+    {
+      "titulo": "Estación de Penitencia",
+      "texto": [
+        "La cofradía realiza su estación de penitencia a la Catedral de Sevilla en la tarde del Viernes Santo. Su recorrido atraviesa el corazón de Triana, cruzando el Puente de Isabel II (el puente de Triana), en uno de los momentos más icónicos de toda la Semana Santa.", 
+        "El cortejo es uno de los más solemnes, con un silencio impactante cuando pasa el paso del Cristo. La imagen de El Cachorro, por su dramatismo y majestuosidad, provoca una profunda emoción entre los asistentes. La Virgen del Patrocinio, con su paso elegante y melodioso, cierra la procesión envuelta en una atmósfera de recogimiento y fervor."
+      ]
+    },
+    {
+      "titulo": "Devoción y Vida Hermandad",
+      "texto": [
+        "Más allá de la Semana Santa, la Hermandad del Cachorro tiene una intensa vida parroquial y social durante todo el año. Realiza labores de caridad, organiza cultos, y mantiene vivo el espíritu cofrade entre los vecinos de Triana y devotos de toda Sevilla.", 
+        "Su basílica es un punto de referencia y peregrinación continua, y la devoción al Cristo de la Expiración es especialmente fuerte entre los trianeros, quienes lo consideran una figura casi viva de Cristo en el momento supremo de su entrega."
+      ]
     }
   ]
 },
@@ -2701,15 +3749,65 @@
       "imagen": "https://www.hermandaddelao.es/wp-content/uploads/2017/11/coronacion_1.jpg"
     }
   ],
-  "descripcionCorta": "",
+  "descripcionCorta": "Hermandad sevillana con sede en el barrio de Triana, caracterizada por su arraigo popular y su profunda devoción a Jesús Nazareno y la Virgen de la O, titulares de una cofradía que destaca por su elegancia, solemnidad y fuerte conexión con la historia y el arte religioso de Sevilla.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Ubicación y Contexto",
+      "texto": [
+        "La Hermandad de La O tiene su sede en la parroquia que lleva el mismo nombre, situada en la calle Castilla, en el corazón del barrio de Triana, una de las zonas más emblemáticas y con mayor tradición cofrade de Sevilla. Su privilegiada situación junto al río Guadalquivir le otorga un carácter especial, siendo una de las primeras cofradías en cruzar el Puente de Triana durante la Madrugá del Viernes Santo."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Historia y Orígenes",
+      "texto": [
+        "Los orígenes de la Hermandad de La O se remontan al siglo XVI. Aunque su fundación como tal está documentada a mediados del siglo XVII, se asienta definitivamente en Triana en el siglo XVIII, integrando una fuerte devoción popular en torno a sus imágenes titulares: Nuestro Padre Jesús Nazareno y Nuestra Señora de la O.", 
+        "La hermandad ha atravesado etapas de esplendor y dificultades, como la pérdida de sus imágenes durante la Guerra Civil, lo que obligó a encargar nuevas tallas, manteniéndose siempre fiel a sus principios fundacionales de penitencia, caridad y culto."
+      ]
+    },
+    {
+      "titulo": "Titulares",
+      "texto": [
+        "", 
+        ""
+      ]
+    },
+    {
+      "titulo": "Nuestro Padre Jesús Nazareno",
+      "texto": [
+        "Obra del escultor Luis Ortega Bru, esta imagen impacta por su fuerza expresiva y su profunda espiritualidad. Representa a Jesús con la cruz al hombro, en actitud de avanzar hacia el Calvario. Es una de las imágenes más veneradas de Triana y todo Sevilla, destacando por la intensa devoción que despierta durante todo el año y especialmente en la madrugada del Viernes Santo."
+      ]
+    },
+    {
+      "titulo": "Nuestra Señora de la O",
+      "texto": [
+        "Talla de Antonio Castillo Lastrucci, es una dolorosa de gran belleza y delicadeza, que representa a la Virgen en actitud de profunda pena y recogimiento. Su rostro sereno y expresivo transmite la angustia contenida de una madre ante el sufrimiento de su Hijo. Su paso de palio es uno de los más completos y armónicos de la Semana Santa sevillana."
+      ]
+    },
+    {
+      "titulo": "Estación de Penitencia",
+      "texto": [
+        "La Hermandad realiza su estación de penitencia en la madrugada del Viernes Santo, siendo una de las cofradías que participa en la conocida como “Madrugá”. El cortejo se compone de más de mil nazarenos con túnicas moradas y capa blanca. La salida desde su capilla, el paso por el Puente de Triana al amanecer y su llegada a la Carrera Oficial constituyen momentos de enorme carga simbólica y emocional.", 
+        "Ambos pasos, el del Nazareno y el de la Virgen, son acompañados por música, destacando la Banda de Cornetas y Tambores en el primer caso, y una banda de música clásica para el paso de palio."
+      ]
+    },
+    {
+      "titulo": "Patrimonio Artístico",
+      "texto": [
+        "El patrimonio de la Hermandad de La O es de gran valor, tanto por la calidad artística de sus imágenes como por la riqueza de sus pasos y enseres. El paso del Señor se caracteriza por su sobriedad y potencia visual, con una gran cruz arbórea. El paso de palio de la Virgen destaca por la finura de su orfebrería, el bordado de sus bambalinas y el armonioso conjunto de candelería, respiraderos y peana.", 
+        "Además, cuenta con una rica colección de bordados, insignias y objetos de culto, fruto de siglos de devoción y mecenazgo por parte de sus hermanos."
+      ]
+    },
+    {
+      "titulo": "Labor Social y Espiritual",
+      "texto": [
+        "Más allá de su faceta procesional, la Hermandad de La O desarrolla una intensa labor asistencial y caritativa, canalizada a través de su bolsa de caridad. Atiende a personas necesitadas del barrio y colabora con múltiples instituciones sociales. Asimismo, fomenta la formación cristiana de sus miembros y el culto a sus titulares mediante misas, cultos solemnes y actividades durante todo el año."
+      ]
+    },
+    {
+      "titulo": "Identidad Trianera",
+      "texto": [
+        "La Hermandad de La O representa la esencia de Triana: una mezcla de fervor popular, elegancia sobria y pasión religiosa. Su paso por el Puente de Triana durante la madrugada, mientras se reflejan las luces en el río, es una de las estampas más conmovedoras de la Semana Santa sevillana."
+      ]
     }
   ]
 },
@@ -2736,15 +3834,61 @@
       "imagen": "https://pbs.twimg.com/media/CHAKIPOWcAAisNP.jpg"
     }
   ],
-  "descripcionCorta": "",
+  "descripcionCorta": "Hermandad histórica sevillana con una profunda devoción al Santísimo Sacramento y a las imágenes de Nuestro Padre Jesús de las Tres Caídas y Nuestra Señora de Loreto, destacando por su rica historia, patrimonio artístico y estrechos vínculos con el Ejército del Aire.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Orígenes y Fundación",
+      "texto": [
+        "La actual Hermandad de San Isidoro es fruto de la unión, en 1975 y ratificada en 2009, de dos antiguas corporaciones de la Parroquia de San Isidoro:", 
+        "• La Hermandad Sacramental, originada en 1526 por Teresa Enríquez, apodada “La Loca del Sacramento” por su fervor eucarístico, y",
+        "• La Hermandad Penitencial de Nuestro Padre Jesús de las Tres Caídas, con antecedentes en el siglo XVII, específicamente en 1605 en el convento de San Benito de la Calzada."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "La Hermandad Sacramental",
+      "texto": [
+        "Con una historia que se remonta al siglo XVI, esta Hermandad agrupó a las cofradías del Santísimo Sacramento, de María Santísima de las Nieves y de las Ánimas Benditas del Purgatorio. Conserva un patrimonio litúrgico y artístico de gran valor, destacando su retablo barroco atribuido a Jerónimo Balbás y Duque Cornejo, considerado uno de los mejores de Sevilla."
+      ]
+    },
+    {
+      "titulo": "La Hermandad Penitencial",
+      "texto": [
+        "Originalmente vinculada al gremio de los cocheros, fue trasladándose por diversos templos sevillanos hasta establecerse en la Parroquia de San Isidoro en 1668. Su imagen titular, Nuestro Padre Jesús de las Tres Caídas, ha tenido varias versiones: la inicial de Pedro Nieto Montañés, una posterior de Alonso Martínez (1668), y una significativa obra de Francisco Antonio Gijón en 1687. Aunque el paso original desapareció durante la invasión napoleónica, parte de sus componentes —como unos ángeles de gran calidad artística— se han recuperado.", 
+        "La Virgen titular, originalmente llamada Madre de Dios del Arco, fue renombrada en el siglo XVIII como Nuestra Señora de Loreto, advocación de origen italiano relacionada con el traslado milagroso de la casa de la Virgen a Loreto (Italia)."
+      ]
+    },
+    {
+      "titulo": "Siglos de Devoción y Arte",
+      "texto": [
+        "", 
+        ""
+      ]
+    },
+    {
+      "titulo": "Siglo XVIII: Esplendor y Crecimiento",
+      "texto": [
+        "Durante este siglo, la Hermandad vivió una época dorada, destacando por la continuidad en sus estaciones de penitencia, la consolidación de su sede y el aumento de su patrimonio. Se realizó una nueva talla de la Virgen (1717) y se perdió el carácter gremial."
+      ]
+    },
+    {
+      "titulo": "Siglo XIX: Tiempos Difíciles",
+      "texto": [
+        "La invasión francesa supuso la pérdida del paso tallado por Gijón. Sin embargo, la Hermandad sobrevivió gracias a la entrega de hermanos como Diego Tixe. En esta época ingresaron como hermanas la Reina María Cristina y su hija Isabel II, además de los Duques de Montpensier. El hábito nazareno sufrió varias transformaciones, consolidándose en 1902 como el actual: túnica y antifaz negros con cinturón ancho de esparto."
+      ]
+    },
+    {
+      "titulo": "Siglo XX: Patronazgo Aéreo y Renovación",
+      "texto": [
+        "Uno de los hitos más destacados fue el nombramiento de Nuestra Señora de Loreto como Patrona de la Aviación Mundial por el Papa Benedicto XV en 1920 y de la Aviación Española en 1926. Ese mismo año, tras el vuelo del “Plus Ultra”, se donó a la Virgen una silueta de oro del hidroavión.", 
+        "Entre las décadas de 1920 y 1950, la Hermandad renovó por completo sus pasos procesionales. El paso del Señor fue tallado y dorado entre 1940 y 1941 por Francisco Ruiz Rodríguez, cofrade de la Hermandad, quien también diseñó el paso de la Virgen de Loreto, de estilo oriental y sin figuras humanas."
+      ]
+    },
+    {
+      "titulo": "Restauraciones y Retorno a San Isidoro",
+      "texto": [
+        "En los años 80, debido a la restauración de la Parroquia de San Isidoro, la Hermandad tuvo que trasladarse temporalmente. Celebró su Función Principal en San Alberto de Sicilia e hizo estación desde la iglesia de la Anunciación. En 1990 regresó a su sede original gracias al impulso del párroco D. José Luis Peinado Merchante.", 
+        "Desde entonces, se ha revitalizado la vida cultual de la Hermandad, con la recuperación de tradiciones como los Besamanos, Traslados y la Procesión Eucarística del Jueves Santo. Se ha puesto especial énfasis en el culto al Santísimo Sacramento y en el montaje de altares efímeros, especialmente para la Novena del Señor."
+      ]
     }
   ]
 },
@@ -2774,12 +3918,51 @@
   "descripcionCorta": "",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Origen y Fundación",
+      "texto": [
+        "La Hermandad de Montserrat fue fundada en 1601 por mercaderes catalanes establecidos en Sevilla, con fuerte devoción a la Virgen de Montserrat. Desde su creación, ha estado impregnada de una fuerte identidad castellana y un espíritu profundamente penitencial, alejándose de lo meramente estético y apostando por una devoción sobria y reflexiva.", 
+        "Inicialmente, residió en la iglesia de San Ildefonso y más tarde en otros templos, como San Pablo y San Gregorio. Desde 1942, su sede es la iglesia de San Pedro, donde mantiene una intensa vida de hermandad."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "El Cristo de la Conversión del Buen Ladrón",
+      "texto": [
+        "Obra maestra del escultor Juan de Mesa en 1619, el Cristo de Montserrat representa un momento único en la iconografía pasionista: el instante en que Dimas, el Buen Ladrón, se convierte al ver a Cristo crucificado. La obra es una lección teológica y estética, con un tratamiento anatómico y expresivo que lo convierten en una de las tallas más impactantes de la Semana Santa sevillana.", 
+        "Lo acompaña un grupo escultórico formado por los dos ladrones (Dimas y Gestas), un centurión romano a caballo, y otros soldados, en una composición compleja y de gran dinamismo, muy representativa del barroco sevillano."
+      ]
+    },
+    {
+      "titulo": "La Virgen de Montserrat",
+      "texto": [
+        "La dolorosa de Montserrat es una imagen de escuela castellana que sigue la estética de las vírgenes de Gregorio Fernández. La Virgen aparece con facciones serenas, dolor contenido y una belleza sobria, sin caer en sentimentalismos. Se desconoce su autor, aunque ha sido atribuida por algunos estudiosos a Cristóbal Pérez o incluso al propio Juan de Mesa.", 
+        "Va vestida con saya y manto negros, y luce una corona de plata sobredorada. Acompañada de un San Juan Evangelista de pequeño formato, destaca por su elegante porte y la austeridad de su paso de palio."
+      ]
+    },
+    {
+      "titulo": "Estilo, estética y simbología",
+      "texto": [
+        "La Hermandad de Montserrat se caracteriza por un estilo sobrio, castellano y profundamente teológico. La cofradía transmite un mensaje de redención, conversión y penitencia. La música, los bordados, el exorno floral y la iluminación del paso están cuidadosamente pensados para subrayar estos conceptos.", 
+        "El paso de misterio, diseñado por Juan Pérez Calvo y ejecutado en madera de caoba por el tallista Manuel Guzmán Bejarano, es una auténtica joya del arte cofrade. El paso de palio, igualmente sobrio y elegante, fue bordado por los talleres de Carrasquilla."
+      ]
+    },
+    {
+      "titulo": "Estación de Penitencia",
+      "texto": [
+        "La Hermandad realiza su estación de penitencia el Viernes Santo por la tarde, participando en la Carrera Oficial y culminando en la Santa Iglesia Catedral. Es una de las procesiones más esperadas del día por la calidad artística de sus imágenes y el recogimiento que transmite su discurrir.", 
+        "Los nazarenos visten túnica negra de cola con cinturón de esparto, antifaz negro y escapulario con la imagen de la Virgen de Montserrat. Esta indumentaria, junto al silencio riguroso de los tramos, refuerza el carácter penitencial de la cofradía."
+      ]
+    },
+    {
+      "titulo": "Patrimonio musical",
+      "texto": [
+        "A lo largo de su historia, la Hermandad ha inspirado composiciones musicales de gran calidad. Entre las marchas más conocidas destacan 'La Conversión del Buen Ladrón' de Pedro Braña y otras piezas contemporáneas que combinan solemnidad con profundidad espiritual."
+      ]
+    },
+    {
+      "titulo": "Vida de Hermandad",
+      "texto": [
+        "La Hermandad de Montserrat no se limita a la Semana Santa. Mantiene una intensa vida de hermandad durante todo el año, con cultos, formación religiosa y obras sociales. Destaca el Septenario a la Virgen de Montserrat y el Vía Crucis con el Cristo en Cuaresma."
+      ]
     }
   ]
 },
@@ -2806,13 +3989,33 @@
     {
       "titulo": "",
       "texto": [
-        "", 
-        ""
+        "La Hermandad de la Sagrada Mortaja tiene unos orígenes envueltos en la tradición y la leyenda. Algunos estudios la vinculan a un hospital llamado de la Piedad, gestionado por el gremio de corredores de bestias, en la collación de San Lorenzo hacia comienzos del siglo XVI. Paralelamente, se conserva la leyenda de una imagen milagrosa hallada en la torre de la Iglesia de Santa Marina, que despertó la devoción entre los vecinos y dio origen a la Hermandad como agrupación de luz, ya mencionada en 1518.", 
+        "En el siglo XVI ya formaban parte de la Hermandad escribanos y oficiales de tribunales. En 1592 se aprueban sus primeras Reglas como hermandad de penitencia, y se tiene constancia de su primera estación de penitencia en 1621, durante la tarde del Viernes Santo.",
+        "En 1676 la Hermandad adquiere la capilla que ocupaba en la Iglesia de Santa Marina, su sede hasta que un incendio destruyó el templo en 1936. Durante el siglo XVII y XVIII vivió varios altibajos, con momentos de esplendor gracias al apoyo de los gremios de escribanos y sederos, y la redacción de nuevas reglas en 1792 para asegurar su continuidad ante las restricciones impuestas por el Estado.", 
+        "En 1936, tras el incendio, se traslada de forma provisional a la Iglesia del extinto Convento de Nuestra Señora de la Paz, que estaba cerrada al culto. Con el tiempo se adapta el templo y, finalmente, en 1967 se otorga a la Hermandad la propiedad de esta iglesia como sede definitiva."
       ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "El Misterio: Jesús Descendido de la Cruz",
+      "texto": [
+        "La escena que representa esta Hermandad es única en la Semana Santa sevillana: Jesús ya ha sido descendido de la cruz y es amortajado por las Tres Marías con el sudario, mientras su Madre lo sostiene en el regazo. Están también presentes San Juan y los Santos Varones, José de Arimatea y Nicodemo.", 
+        "La imagen de Cristo fue tallada por Cristóbal Pérez en 1677 y restaurada en 1999 por Juan Manuel Miñarro. La Virgen de la Piedad se atribuye a La Roldana, una de las pocas escultoras reconocidas de la época barroca. La diadema que porta fue realizada por Emilio Landa en 1939.",
+        "El paso es barroco, dorado e iluminado por candelabros de guardabrisas. Data de 1710 y fue restaurado en 1981 por Manuel Calvo. Incluye ángeles atribuidos también a La Roldana y cartelas con ilustraciones. El conjunto es de un dramatismo sereno, elegante y profundamente devocional."
+      ]
+    },
+    {
+      "titulo": "Acompañamiento y singularidades",
+      "texto": [
+        "La Hermandad solo realiza su estación de penitencia con un único paso, lo que le da una sobriedad muy especial. Es la única que conserva la figura del muñidor, que camina delante de la cruz de enagüillas y anuncia el cortejo con un toque de campana, en un ambiente de recogimiento absoluto.", 
+        "Una de sus particularidades más llamativas es que el cortejo lleva 18 ciriales, en referencia al antiguo número de miembros del Colegio de Notarios de Sevilla, con el que la Hermandad ha mantenido siempre un vínculo estrecho. Es un detalle que honra su historia, ya que en sus orígenes fue hermandad de escribanos.",
+        "El paso no lleva manigueteros, sino que es escoltado por dos hermanos vestidos con librea, otro elemento distintivo que refuerza la solemnidad y sobriedad de esta cofradía."
+      ]
+    },
+    {
+      "titulo": "Significado y espiritualidad",
+      "texto": [
+        "La Hermandad de la Sagrada Mortaja ofrece una escena de gran profundidad teológica y emocional: el momento en que el cuerpo sin vida de Cristo es preparado para su sepultura, en el regazo de su Madre, en compañía de quienes lo amaron fielmente hasta el final. Es una hermandad marcada por el silencio, la introspección y el recogimiento, que ofrece cada Viernes Santo una de las estampas más sobrecogedoras de la Semana Santa de Sevilla."
+      ]
     }
   ]
 },
@@ -2839,15 +4042,69 @@
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2025/04/19/hermandad-sol-sabado-santo-sevilla(5)_xoptimizadax.jpg"
     }
   ],
-  "descripcionCorta": "",
+  "descripcionCorta": "Hermandad de tradición franciscana fundada en Sevilla con raíces en los años 30, que rinde culto al Santo Cristo Varón de Dolores de la Divina Misericordia y a la Virgen del Sol. Desde 2010 realiza su estación de penitencia a la Catedral hispalense cada Sábado Santo.",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Origen y Espíritu de la Hermandad",
+      "texto": [
+        "La Hermandad de Nuestra Señora del Sol nace del fervor mariano de un grupo de fieles movidos por la devoción a la Virgen María bajo la advocación del Sol. Su inspiración franciscana impregna la corporación de un marcado espíritu de fraternidad universal y amor por la creación, siendo uno de sus pilares la construcción de una paz sólida y duradera.", 
+        "El lema que guía a la hermandad es: «Proclamar la misericordia de generación en generación», tomado de la encíclica Dives in Misericordia de San Juan Pablo II. Como asociación pública de fieles, su principal objetivo es el culto solemne y público a Nuestro Señor Jesucristo y a la Virgen María, a través de una fe que se vive en comunidad, caridad y ejemplo cristiano.",
+        "Para alcanzar sus fines, la hermandad se entrega a obras asistenciales, actividades piadosas, formación espiritual y teológica, todo ello con el propósito de evangelizar, fomentar la caridad, fortalecer los lazos fraternos y ser reflejo vivo de una auténtica vida cristiana."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Primeros Años y Fundación (1932–1987)",
+      "texto": [
+        "Los primeros indicios de esta corporación datan de 1932, cuando un grupo de alumnos del colegio jesuita de la calle Pajaritos, liderados por Pedro Álvarez-Ossorio Fernández-Palacios, decidió rendir culto a una imagen de Cristo Crucificado, bajo la advocación de Cristo de la Sangre. Aquel mismo año, estos jóvenes organizaron su primera procesión el Lunes Santo.", 
+        "Sin embargo, el estallido de la Guerra Civil y la difícil posguerra interrumpieron esta temprana actividad. Años más tarde, la devoción fue recuperada en el barrio de Los Remedios, donde la familia Álvarez-Ossorio, junto con los niños del barrio, sacaban una Cruz de Mayo desde un antiguo garaje de la calle Virgen de Loreto. La procesión incluía un paso con figuras del nazareno, romanos, y otro paso de palio con la Virgen del Sol.",
+        "En 1987, esta devoción quedó formalizada con la constitución de la Agrupación Parroquial Mariana Nuestra Señora del Sol, gracias al impulso de Pedro Álvarez-Ossorio, su esposa Mercedes Rojas-Marcos, su familia y amigos."
+      ]
+    },
+    {
+      "titulo": "Consolidación y Evolución (1989–2006)",
+      "texto": [
+        "Dos años más tarde, en 1989, la agrupación se trasladó al barrio de El Plantinar, donde se ubica actualmente. En 1995, fue erigida como Hermandad de Gloria, participando en procesiones fuera del ciclo de Semana Santa durante una década. Esta etapa fue clave en la maduración espiritual y organizativa de la corporación."
+      ]
+    },
+    {
+      "titulo": "Incorporación a la Semana Santa (2006–2010)",
+      "texto": [
+        "El gran hito de su historia moderna se produce en 2006, cuando la hermandad fue erigida como Hermandad de Penitencia, con sede en la Parroquia de San Diego de Alcalá. En el Sábado de Pasión de 2007, realiza su primera estación de penitencia hacia la Parroquia de Nuestra Señora del Juncal. Sin embargo, no sería hasta 2010 cuando la hermandad se integraría oficialmente en la Semana Santa de Sevilla, realizando su primera estación de penitencia a la Catedral de Sevilla en la tarde del Sábado Santo.", 
+        "Ese mismo año, el 12 de octubre, el arzobispo Juan José Asenjo Pelegrina bendijo la nueva capilla sacramental dentro de su parroquia, donde se veneran las imágenes titulares y se rinde culto al Santísimo Sacramento. El 13 de noviembre, festividad de San Diego de Alcalá, la hermandad fue formalmente admitida en la familia franciscana, recibiendo el pergamino acreditativo de manos de fray Joaquín Domínguez Serna, Ministro Provincial de la Provincia Bética Franciscana."
+      ]
+    },
+    {
+      "titulo": "Imágenes Titulares",
+      "texto": [
+        "", 
+        ""
+      ]
+    },
+    {
+      "titulo": "Santo Cristo Varón de Dolores de la Divina Misericordia",
+      "texto": [
+        "El Santo Cristo Varón de Dolores de la Divina Misericordia es una imagen alegórica de Jesús tras la Pasión. Fue tallada por José Manuel Bonilla Cornejo en 2003. El Señor aparece con las heridas de la crucifixión, la corona de espinas y abrazando la cruz con su mano izquierda. A sus pies se encuentran elementos simbólicos como el cráneo de Adán, la corona de espinas, los clavos y la serpiente del pecado. La imagen está inspirada en el Cristo del Pozo Santo, atribuido al taller de Pedro Roldán.", 
+        "Esta representación conecta con una teología del dolor redentor, donde Cristo no solo sufre, sino que abraza la cruz como signo de misericordia divina."
+      ]
+    },
+    {
+      "titulo": "Virgen del Sol y la Sacra Conversación",
+      "texto": [
+        "La Virgen del Sol preside un paso de palio en el que se representa la escena de la Sacra Conversación. María aparece flanqueada por San Juan Evangelista y María Magdalena, formando una escena de recogimiento y dolor ante la muerte de Cristo. Esta iconografía, poco común en la actualidad, estaba presente siglos atrás en hermandades como la Esperanza de Triana o el Valle.", 
+        "Las tres imágenes son también obra de José Manuel Bonilla Cornejo: la Virgen fue tallada en 1989, mientras que San Juan y María Magdalena fueron incorporadas en 2009. Esta composición subraya la centralidad de la figura mariana y la comunión en el sufrimiento compartido entre los discípulos más cercanos al Señor."
+      ]
+    },
+    {
+      "titulo": "Espiritualidad y Acción Social",
+      "texto": [
+        "Además de su participación en la Semana Santa, la Hermandad del Sol se distingue por su compromiso con la formación teológica, la acción caritativa y el apostolado comunitario. Sus actividades no se limitan a lo cultual, sino que integran una propuesta viva de cristianismo encarnado en la ayuda al prójimo y en la construcción de comunidad, reflejando su ideario franciscano."
+      ]
+    },
+    {
+      "titulo": "La Hermandad del Sol en el Sábado Santo",
+      "texto": [
+        "Desde su incorporación a la Semana Santa sevillana en 2010, la Hermandad del Sol participa en la jornada del Sábado Santo, ofreciendo a los fieles una estampa llena de serenidad, recogimiento y profundo simbolismo teológico. Su presencia en la Catedral es una manifestación pública de fe que combina tradición, arte y compromiso cristiano."
+      ]
     }
   ]
 },
@@ -2877,12 +4134,52 @@
   "descripcionCorta": "",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Orígenes y primeras noticias documentadas",
+      "texto": [
+        "La Hermandad de los Servitas tiene sus raíces en la Sevilla del siglo XVII, aunque el documento más antiguo que se conserva son las Reglas de fecha 1 de agosto de 1696, aprobadas por el Provisor del Arzobispo Don Jaime de Palafox y Cardona. Sin embargo, otros indicios, como un grabado de Francisco Gordillo fechado en 1773, nos permiten suponer que la corporación ya existía durante el arzobispado del Cardenal Borja y Velasco (1632-1645), lo que apunta a una existencia previa aún más temprana.", 
+        "Esta primitiva devoción se centraba en una imagen pequeña de la Piedad, una escultura de escuela alemana del siglo XVI. Esta imagen fue el núcleo devocional en torno al cual se forjó la hermandad. Su primera sede fue la parroquia de San Marcos y, más adelante, se adquirieron terrenos cercanos a la actual Plaza de Santa Isabel. En el primer cuarto del siglo XVIII, se construyen la actual Capilla de Nuestra Señora de los Dolores y la Casa de Hermandad."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Incorporación a la Orden Servita",
+      "texto": [
+        "Una de las fechas más significativas de su historia es el 21 de julio de 1720. Ese día, el Padre Don Juan de Lara Villafranca consigue una autorización desde Roma por parte del Prior de la Orden de los Siervos de María, Fray Sosteneo María Cavalli. Este documento permitía establecer en la Capilla de la Hermandad una Venerable Orden Tercera Servita. Este hecho fue determinante para el crecimiento espiritual y social de la Hermandad, que llegó a contar con más de mil miembros, una cifra inusualmente elevada para la época."
+      ]
+    },
+    {
+      "titulo": "Enriquecimiento artístico y devocional en el siglo XVIII",
+      "texto": [
+        "Durante el siglo XVIII, la Hermandad emprende importantes mejoras patrimoniales y artísticas. En 1730 se encarga al prestigioso escultor José Montes de Oca la realización de nuevas imágenes titulares: Nuestra Señora de los Dolores y el Santísimo Cristo de la Providencia. Ambas imágenes elevaron el nivel artístico y devocional de la corporación.", 
+        "También durante este siglo se lleva a cabo la construcción del retablo mayor de la capilla, además de una serie de cuadros que narran episodios de la vida de la Virgen María y la Pasión de Jesucristo. Estos elementos son testimonio del intenso fervor mariano que siempre ha caracterizado a esta hermandad. Se celebraban numerosos cultos, especialmente en torno a la festividad de la Virgen de los Dolores y en conmemoración de la Orden Servita.",
+        "En 1772, la Hermandad somete sus Reglas al Real Consejo de Castilla, consiguiendo la aprobación oficial. Este hecho la convierte en una de las primeras corporaciones sevillanas en obtener dicha distinción. En esta época, sus filas incluyen a numerosos miembros de la nobleza sevillana, como la Casa Ducal de Medinaceli, los Marqueses de Valencina y la Condesa de Lebrija."
+      ]
+    },
+    {
+      "titulo": "Siglo XIX: dificultades y resistencia",
+      "texto": [
+        "El siglo XIX supuso una época de dificultades, comenzando con la invasión napoleónica, durante la cual la Hermandad pierde parte de su valioso patrimonio. A pesar de ello, los cultos y la procesión en el mes de septiembre se mantuvieron. Las imágenes titulares llegaron a procesionar hasta el año 1926, evidenciando la capacidad de resistencia de la corporación incluso en tiempos difíciles."
+      ]
+    },
+    {
+      "titulo": "Guerra Civil y posguerra: declive y conservación",
+      "texto": [
+        "La Guerra Civil Española fue un periodo especialmente duro. La Hermandad quedó prácticamente inactiva, con muy pocos hermanos y severos daños a su patrimonio. Incluso se intentó enajenar sus imágenes titulares, que finalmente fueron salvadas gracias a la intervención del Capiller de la Capilla, el hermano Manuel Crespo. Esta acción fue crucial para la preservación de su legado artístico y devocional."
+      ]
+    },
+    {
+      "titulo": "Segunda mitad del siglo XX: renacimiento y nueva etapa penitencial",
+      "texto": [
+        "Durante los años posteriores a la guerra, un grupo de jóvenes se unió a la Hermandad con el propósito de revitalizarla. Su objetivo principal era convertirla en una Hermandad de Penitencia. Este proceso de regeneración se fue consolidando poco a poco, y las imágenes comenzaron a procesionar en la Dominica de Pasión, una semana antes del Domingo de Ramos.", 
+        "Uno de los hitos más relevantes fue la bendición de la imagen de María Santísima de la Soledad el 26 de noviembre de 1967 en el Convento de Santa Isabel. Esta imagen fue realizada en el taller de Castillo Lastrucci y remodelada por el artista Antonio Joaquín Dubé de Luque. Fue donada por los hermanos Esteban y Juan de Dios Pechero Guinea.",
+        "Finalmente, el 30 de diciembre de 1971, el Cardenal José María Bueno Monreal decreta oficialmente la conversión de la Hermandad Servita en Cofradía de Penitencia. Este cambio se materializa el 1 de abril de 1972, con la realización de la primera Estación de Penitencia a la Santa Iglesia Catedral.", 
+        "En 1981, María Santísima de la Soledad procesiona por primera vez bajo palio, marcando otro momento clave en la consolidación de la Hermandad como cofradía plenamente penitencial dentro del marco de la Semana Santa de Sevilla."
+      ]
+    },
+    {
+      "titulo": "Fieles a su sede original",
+      "texto": [
+        "Un aspecto muy destacable de esta Hermandad es su permanencia ininterrumpida en su sede canónica, la Capilla de Nuestra Señora de los Dolores, desde sus orígenes hasta la actualidad. Este hecho subraya su profunda vinculación histórica y espiritual con su entorno original, junto a la iglesia de San Marcos, en pleno corazón de Sevilla."
+      ]
     }
   ]
 },
@@ -2917,12 +4214,57 @@
   "descripcionCorta": "",
   "descripcion": [
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "Orígenes y evolución histórica",
+      "texto": [
+        "La Hermandad de la Trinidad tiene sus raíces en el siglo XVI, con la fusión de distintas hermandades que dieron origen a la actual corporación. Se considera que ya existía en 1555 la Hermandad de la Santa Veracruz y Sangre de Cristo en la Iglesia del Convento de la Trinidad. Posteriormente, en 1593, se unió con la Hermandad de Nuestra Señora de la Esperanza. Esta fusión originó una hermandad que compaginaba la devoción penitencial con obras de caridad, dando origen a una entidad comprometida con los valores asistenciales y religiosos.", 
+        "A lo largo de los siglos, la Hermandad fue estableciéndose en distintos templos de la ciudad. En 1895, se asentó definitivamente en la Basílica de María Auxiliadora, donde permanece en la actualidad. Durante el siglo XX, experimentó un notable auge gracias a su implicación en el barrio y a su fuerte vinculación con la comunidad salesiana."
+      ]
     },
     {
-      "titulo": "",
-      "texto": ["", ""]
+      "titulo": "La Estación de Penitencia y el Sábado Santo",
+      "texto": [
+        "La Hermandad realiza su Estación de Penitencia en la tarde del Sábado Santo, una jornada de recogimiento que precede al Domingo de Resurrección. La cofradía recorre las calles de Sevilla con tres pasos: el del Cristo de las Cinco Llagas, el del Sagrado Decreto y el de María Santísima de la Esperanza.", 
+        "Su discurrir por las calles es sobrio, solemne y profundamente devocional, siendo uno de los cortejos más esperados de la jornada. Destaca por su puesta en escena, por el acompañamiento musical, y por la intensa participación de sus hermanos, que visten túnicas negras con antifaz de igual color, y portan cirios morados o blancos según el tramo."
+      ]
+    },
+    {
+      "titulo": "El Cristo de las Cinco Llagas",
+      "texto": [
+        "El Cristo de las Cinco Llagas, titular de la Hermandad, es una imponente imagen barroca atribuida a José de Arce (siglo XVII). Representa a Cristo crucificado y es considerado uno de los crucificados más impactantes de la Semana Santa sevillana. La imagen preside el primer paso de la cofradía y genera una profunda emoción a su paso, especialmente en enclaves como la Campana o la calle Orfila."
+      ]
+    },
+    {
+      "titulo": "El Misterio del Sagrado Decreto",
+      "texto": [
+        "El segundo paso representa el misterio del Sagrado Decreto, una compleja composición escultórica que narra la promulgación del decreto trinitario por parte del Altísimo. Es una escena de gran carga simbólica y teológica, compuesta por numerosas figuras que rodean la imagen de Dios Padre. Esta escena procesiona con gran solemnidad y es considerada una catequesis visual sobre el dogma trinitario."
+      ]
+    },
+    {
+      "titulo": "María Santísima de la Esperanza",
+      "texto": [
+        "Cierra la procesión la Virgen de la Esperanza, una dolorosa de finales del siglo XVIII atribuida a Juan de Astorga. La imagen, de semblante sereno y dulce, es una de las advocaciones marianas más queridas del Sábado Santo. Acompañada por una banda de música, su paso es uno de los momentos más esperados del cortejo, por la belleza de la imagen y la delicadeza con la que es llevada por sus costaleros."
+      ]
+    },
+    {
+      "titulo": "La labor social y pastoral",
+      "texto": [
+        "Más allá de su dimensión procesional, la Hermandad de la Trinidad se distingue por su intensa labor caritativa y social. Mantiene una estrecha colaboración con la comunidad salesiana y con distintas instituciones benéficas. Desarrolla programas de asistencia a personas necesitadas, apoyo a familias vulnerables y proyectos formativos para jóvenes.", 
+        "Asimismo, es una hermandad fuertemente integrada en la vida parroquial, participando activamente en celebraciones litúrgicas, formación religiosa y actividades comunitarias. Su compromiso con la caridad forma parte esencial de su identidad y es reflejo de su carisma fundacional."
+      ]
+    },
+    {
+      "titulo": "Patrimonio artístico y musical",
+      "texto": [
+        "El patrimonio de la Hermandad es uno de los más ricos del Sábado Santo. Cuenta con pasos de gran valor artístico, bordados de primera calidad, orfebrería destacada y un ajuar litúrgico cuidadosamente conservado. Los bordados del palio, los respiraderos en plata del paso del Cristo y el conjunto de insignias dan cuenta de una cofradía que cuida con esmero su estética y tradición.", 
+        "Musicalmente, la Hermandad cuenta con un acompañamiento de altura. La Banda de Cornetas y Tambores del Santísimo Cristo de las Tres Caídas acompaña el misterio del Sagrado Decreto; el Cristo de las Cinco Llagas va en silencio o acompañado de capilla musical; y la Virgen es seguida por una banda de música que interpreta marchas de corte clásico y fúnebre."
+      ]
+    },
+    {
+      "titulo": "La Trinidad en la Semana Santa de Sevilla",
+      "texto": [
+        "La Hermandad de la Trinidad ocupa un lugar privilegiado en la Semana Santa sevillana. Su presencia en el Sábado Santo dota a esta jornada de una personalidad propia, donde se combinan el recogimiento, la devoción y la belleza de unas imágenes que transmiten fe y esperanza.", 
+        "A lo largo de los años, ha sabido mantener su esencia tradicional al tiempo que ha reforzado su compromiso social y pastoral. Es una hermandad profundamente respetada en el panorama cofrade sevillano, querida por su barrio y valorada por su implicación con los valores cristianos."
+      ]
     }
   ]
 },
@@ -2957,75 +4299,46 @@
   "descripcionCorta": "La Hermandad del Santo Entierro, con orígenes reales y sede en San Gregorio Magno, representa la culminación solemne de la Pasión de Cristo en la Semana Santa sevillana. Se distingue por su carácter oficial y profundo simbolismo.",
   "descripcion": [
     {
-      "titulo": "Orígenes y Fundación (Siglo XV - XVI)",
+      "titulo": "Orígenes Reales y Devoción Milenaria",
       "texto": [
-        "La Hermandad de la Esperanza de Triana es una de las corporaciones más antiguas de Sevilla, con raíces documentadas desde el siglo XV. Su origen se remonta a 1418, cuando se establece como hermandad de luz bajo la advocación de Nuestra Señora de la Esperanza en la parroquia de Santa Ana, vinculada al gremio de los ceramistas, actividad tradicional del barrio de Triana. A lo largo del siglo XVI, la hermandad fue consolidándose tanto en lo devocional como en lo institucional. En 1542 se fusionó con la cofradía de San Juan Evangelista, ligada al gremio de los pescadores, ampliando así su base social y espiritual."
+        "La Hermandad del Santo Entierro cuenta con una fundación profundamente ligada a la historia de Sevilla y al Rey San Fernando, quien, según la tradición, instituyó la cofradía tras hallar una imagen del Cristo Yacente en el barrio de los Humeros. En el lugar del hallazgo se edificó una capilla en el Monte Calvario, junto a la Puerta Real. Posteriormente, esta zona se transformó en el Colegio de San Laureano, bajo la tutela de la Orden de Nuestra Señora de la Merced, con la cual la hermandad estableció un vínculo que se mantiene vigente.",
+        "Desde el siglo XVII, los monarcas españoles han ostentado el título de Hermano Mayor Honorario de esta cofradía, comenzando con Carlos II y renovado por Juan Carlos I en 1976, quien juró sus ordenanzas en el Palacio Real de Madrid."
       ]
     },
     {
-      "titulo": "Primeros Testimonios y Consolidación (Finales del Siglo XVI)",
+      "titulo": "Fusión de Cofradías y Evolución Litúrgica",
       "texto": [
-        "La existencia continuada de la hermandad se constata en fuentes como testamentos del siglo XVI, que ya la mencionan como entidad establecida con arraigo popular. En los últimos años del siglo XVI se produjeron otros hitos relevantes, como la participación en grandes eventos religiosos de la ciudad, entre ellos la procesión de traslado del cuerpo incorrupto de San Fernando en 1579. También destacan en esta etapa las gestiones para obtener bulas e indulgencias en Roma, lo que pone de relieve tanto su capacidad económica como su preocupación por el enriquecimiento espiritual."
+        "Durante el siglo XVI, genoveses afincados en Sevilla fundaron una cofradía en honor a la Virgen de Villaviciosa, en el Hospital del Espíritu Santo. En 1573, esta se fusionó con la Hermandad del Santo Entierro, consolidándose como Hermandad de Penitencia. Desde entonces, instauraron una representación dramática y profundamente emotiva de la Pasión y Muerte de Cristo durante los días santos, que incluía el Descendimiento y el entierro simbólico del Señor, actos que culminaban con la celebración de la Resurrección el Domingo de Pascua."
       ]
     },
     {
-      "titulo": "Fusión con la Hermandad de las Tres Caídas (Siglo XVII)",
+      "titulo": "Momentos Históricos y Devocionales",
       "texto": [
-        "En 1608 surge una nueva hermandad, dedicada a las Tres Caídas de Cristo, con sede en el convento de las Monjas Mínimas. Ambas corporaciones fueron obligadas a fusionarse en 1616, estableciéndose juntas en el hospital del Espíritu Santo, sede que marcaría una etapa de gran prosperidad a lo largo del siglo XVII. Durante este tiempo, la hermandad experimenta un notable crecimiento y obtiene una nueva capilla con mejores condiciones."
+        "La cofradía sufrió altibajos a lo largo de los siglos. En 1610 cedieron su capilla a la Orden Mercedaria a cambio de patronato en la nueva iglesia. Tras un periodo de decadencia, fue restaurada en 1693. Desde entonces, ganó esplendor, especialmente en 1729 durante la estancia de Felipe V, y en 1759 se constituyó también como Hermandad Sacramental. Los 'armados' romanos fueron introducidos en 1797.",
+        "La destrucción del templo de San Laureano en 1811 por las tropas francesas fue un duro golpe, pero en 1830 volvió a reorganizarse. En 1881 se estableció en su actual sede canónica: la Capilla del Santo Sepulcro y San Gregorio Magno."
       ]
     },
     {
-      "titulo": "Traslados y Crisis (Siglo XVIII - XIX)",
+      "titulo": "Acontecimientos Relevantes del Siglo XX",
       "texto": [
-        "En 1736, tras varios litigios, la hermandad abandona el hospital y se traslada a la parroquia de Santa Ana. A raíz del terremoto de Lisboa en 1755, se ve forzada a abandonar su sede y emprende una prolongada búsqueda de templo, culminando en 1815 con la adquisición de una capilla en la calle Larga (actual calle Pureza). Las imágenes titulares recibieron culto en distintas ubicaciones provisionales."
+        "En 1887, por primera vez un Rey, Alfonso XII, presidió la procesión del Santo Entierro, algo que se repitió con Alfonso XIII en 1930. En 1940 fue presidida por el Jefe del Estado Francisco Franco. Para el VII centenario de la Reconquista de Sevilla en 1948, la cofradía estrenó nuevos y lujosos vestuarios, aunque la lluvia deslució la salida.",
+        "En 1992, con motivo del V Centenario de la Evangelización de América, la Hermandad organizó un 'Santo Entierro Grande', reuniendo pasos de otras hermandades en una representación conjunta y cronológica de la Pasión."
       ]
     },
     {
-      "titulo": "",
+      "titulo": "Pasos Procesionales y Patrimonio Artístico",
       "texto": [
-        ""
+        "La Hermandad realiza su estación de penitencia en tres pasos de excepcional valor artístico:",
+        "1. Triunfo de la Santa Cruz o 'La Canina': Paso alegórico que representa la victoria sobre la muerte. Se compone de una cruz vacía, un esqueleto sentado sobre el mundo y una serpiente con una manzana, símbolo del pecado original. Data de 1693.",
+        "2. Paso del Cristo Yacente: Contiene una urna gótica con la imagen del Redentor muerto, obra de Juan de Mesa. La urna, completamente tallada y dorada, fue finalizada en el año 2000. El conjunto imita una catedral gótica en miniatura e incorpora cartelas con escenas de la Pasión.",
+        "3. Paso del Duelo: Estrenado en 1965, representa a la Virgen de Villaviciosa flanqueada por San Juan, las Tres Marías y los Santos Varones. La imagen de la Virgen es de 1691, obra de Antonio Cardoso de Quirós; las demás figuras son de Astorga.",
+        "Acompañando el cortejo figuran la Centuria Romana, cuerpos de nazarenos, representaciones militares y civiles (Universidad, Reales Academias, Ejército, Ayuntamiento…), lo que confiere al desfile una solemnidad única en la Semana Santa sevillana."
       ]
     },
     {
-      "titulo": "",
+      "titulo": "Presencia Institucional y Dignidad Real",
       "texto": [
-        ""
-      ]
-    },
-    {
-      "titulo": "",
-      "texto": [
-        ""
-      ]
-    },
-    {
-      "titulo": "",
-      "texto": [
-        ""
-      ]
-    },
-    {
-      "titulo": "",
-      "texto": [
-        ""
-      ]
-    },
-    {
-      "titulo": "",
-      "texto": [
-        ""
-      ]
-    },
-    {
-      "titulo": "",
-      "texto": [
-        ""
-      ]
-    },
-    {
-      "titulo": "",
-      "texto": [
-        ""
+        "El carácter oficial de esta Hermandad queda refrendado por la presencia de altos dignatarios, entre ellos, representantes de la Corona Española, el Arzobispo de Sevilla, y autoridades locales y nacionales. Su cortejo se distingue por una profunda solemnidad y una puesta en escena que combina arte, historia, liturgia y tradición."
       ]
     }
   ]
@@ -3048,18 +4361,66 @@
       "imagen": "https://elegirhoy.com/uploads/fichas-eventos-imagenes/Soledad%20de%20San%20Lorenzo..jpg"
     }
   ],
-  "descripcionCorta": "",
+  "descripcionCorta": "La Hermandad de la Soledad de San Lorenzo, fundada en el siglo XVI, es una histórica corporación sevillana que destaca por su devoción mariana y su papel como cierre tradicional de la Semana Santa de Sevilla. Su Imagen titular, probablemente la Dolorosa más antigua en procesionar, ha sido el eje espiritual de siglos de historia y fe.",
   "descripcion": [
-        {
-      "titulo": "",
+    {
+      "titulo": "Orígenes y Fundación",
       "texto": [
-        ""
+        "La Hermandad de la Soledad de San Lorenzo nace a mediados del siglo XVI, en un momento de esplendor para Sevilla como puerto exclusivo del comercio americano. Su primera referencia documental es de 1549, y en 1557 se aprueban sus primeras reglas. Inicialmente establecida en el Monasterio de Santo Domingo de Silos, la Cofradía marcó una pauta organizativa y estética que sirvió de modelo a muchas otras hermandades de la misma advocación, tanto en Andalucía como en América.",
+        "Desde su origen, su puesta en escena procesional fue distintiva: túnicas blancas con escapulario y antifaz negro, el Descendimiento, los pasos del Cristo Yacente escoltado por 'armaos' y, finalmente, la Virgen de la Soledad. Cerraban el Viernes Santo y celebraban el Domingo de Pascua el encuentro del Resucitado con la Virgen de la Alegría. Sin embargo, estas prácticas externas desaparecieron en el siglo XVII por diversas circunstancias, incluida la fundación de la Hermandad del Santo Entierro y las reformas impulsadas por el Cardenal Niño de Guevara en 1604. Desde entonces, la Imagen de Nuestra Señora de la Soledad quedó como única Titular."
       ]
     },
     {
-      "titulo": "",
+      "titulo": "Traslados y Enriquecimiento Patrimonial",
       "texto": [
-        ""
+        "La Hermandad cambió varias veces de sede en sus primeros años: del Monasterio de Silos pasó a Santiago de la Espada (1561), al Hospital del Amor de Dios (1569) y finalmente, en 1575, a la Casa del Carmen Calzado, donde construyó una capilla que fue su hogar durante más de dos siglos. Durante el siglo XVII, renovó sus reglas, consolidó la figura del hermano mayor y enriqueció notablemente su patrimonio. En 1606, la Virgen estrenó un paso de palio de terciopelo negro bordado en oro, siendo la primera obra documentada de este tipo entre las cofradías sevillanas.",
+        "La capilla de la Soledad fue decorada con obras de artistas como Jerónimo Ramírez y Manuel Díaz, y contó con un retablo barroco de Bernardo Simón de Pineda en 1682. Estos elementos artísticos dieron esplendor al culto y fortalecieron la presencia de la Hermandad en el ámbito religioso y cultural de la ciudad."
+      ]
+    },
+    {
+      "titulo": "Siglo XVIII: Influencia Nobiliaria",
+      "texto": [
+        "El siglo XVIII fue testigo de la entrada de la nobleza sevillana en la Hermandad, especialmente gracias a la Real Maestranza de Caballería, cuyos miembros fundadores también pertenecían a la Soledad. La Cofradía se vio beneficiada por este apoyo, lo que permitió seguir enriqueciendo su patrimonio. En 1692, se estrenó un nuevo paso de palio completamente ejecutado en plata. Esta nueva puesta en escena reafirmó su papel como broche final de la Semana Santa sevillana."
+      ]
+    },
+    {
+      "titulo": "La Invasión Francesa y su Repercusión",
+      "texto": [
+        "En 1810, la invasión napoleónica causó la destrucción de su capilla en la Casa del Carmen, su sede durante 235 años. Solo se salvaron algunos enseres de plata y joyas, además de la Imagen de la Virgen, resguardada por la familia Bucarelli en su oratorio. Tras otros traslados, se instaló en la parroquia de San Miguel. Sin embargo, los bienes rescatados fueron mal utilizados por el párroco de esa iglesia, lo que impidió la reconstrucción del templo original. Esta etapa marcó la mayor crisis de la historia de la Hermandad, que quedó prácticamente inactiva durante décadas."
+      ]
+    },
+    {
+      "titulo": "Reorganización y Revitalización en el Siglo XIX",
+      "texto": [
+        "En 1860, gracias al impulso de Rafael Manso Domonte y José Bermejo Carballo, se reorganizó la Hermandad. Aunque la nobleza no se implicó en esta nueva etapa, se contó con el pueblo llano para su rehabilitación. Se elaboraron nuevos estatutos y se reanudaron las procesiones, siempre cerrando la Semana Santa como era tradición. En 1868, por efecto de la Revolución de La Gloriosa, la Hermandad se trasladó definitivamente a la iglesia de San Lorenzo, donde renovó su ajuar y su sede.",
+        "Bajo el hermano mayor José Lamarque de Nova se estrenaron numerosas piezas de gran valor, como el manto (1867–1875) y la saya (1885) que aún se conservan. Durante esta época también se reforzó la vida interna de la Cofradía gracias a la guía espiritual de Marcelo Spínola, luego arzobispo de Sevilla."
+      ]
+    },
+    {
+      "titulo": "Siglo XX: Modernización y Consolidación",
+      "texto": [
+        "A comienzos del siglo XX, bajo Antonio Petit García, la Hermandad se consolidó como una Cofradía de Barrio, centrada en los cultos y el enriquecimiento patrimonial. Durante la Segunda República se suspendieron las procesiones, pero tras la Guerra Civil se retomaron y se reformaron las reglas en 1946, permitiendo que un seglar ocupara el cargo de hermano mayor, cargo que asumió Pedro Izquierdo Dumoulín.",
+        "En 1951 se estrenó un nuevo paso procesional y bajo el liderazgo de José de Rueda Carrión, la Hermandad vivió una etapa de oro. En 1957, con motivo del IV Centenario, se organizaron misiones, restauraciones y una salida extraordinaria de la Virgen. En 1956, tras la reforma litúrgica que instauró el Sábado Santo, la Soledad pasó a cerrar oficialmente ese día la Semana Santa sevillana.",
+        "En las décadas posteriores se consolidó un nuevo modelo de hermandad activa y moderna. Bajo José de Rueda Carrión, se creó el Sobre de la Caridad (1963), se fundó la cuadrilla de hermanos costaleros (1975), se adquirió la Casa Hermandad (1970), y se instituyó el boletín Soledad (1972). Este periodo estuvo marcado por la continuidad de proyectos de mejora, tanto materiales como espirituales."
+      ]
+    },
+    {
+      "titulo": "Fusión y Etapa Contemporánea",
+      "texto": [
+        "En 1977, tras diez años de tramitaciones, la Hermandad de la Soledad se fusionó con la Hermandad Sacramental de San Lorenzo, fundada en 1511 por doña Teresa Enríquez y con reglas de 1558. Esta integración también incorporó a otras cofradías históricas, como la de las Ánimas Benditas del Purgatorio, la de Santa María de Roca-Amador y la Sacramental de San Juan de Acre, consolidando su carácter actual como Hermandad Sacramental y Penitencial.",
+        "Durante los últimos años, bajo Ramón Pineda Carmona y sus sucesores, la Hermandad ha fortalecido su vida interna y su proyección pública. Hechos significativos de esta etapa incluyen:",
+        "• Restauración de la Imagen (1985)",
+        "• Participación en el Vía Crucis de las Hermandades (1988)",
+        "• Incorporación de hermanas nazarenas (2000)",
+        "• Salida extraordinaria al cementerio (2003)",
+        "• Celebración del 450 aniversario (2007)",
+        "• Concesión de medallas de oro a personalidades y entidades como la Real Maestranza de Caballería (2010)"
+      ]
+    },
+    {
+      "titulo": "La Imagen de la Virgen de la Soledad",
+      "texto": [
+        "La Imagen de Nuestra Señora de la Soledad es el centro espiritual de la Hermandad desde su fundación. Considerada como la dolorosa más antigua que procesiona en Sevilla (posiblemente anterior a 1568), es el símbolo que ha unido a generaciones de fieles. Su presencia imponente y su advocación mariana han sido constantes a lo largo de los siglos, incluso en los momentos más difíciles de la historia de la Hermandad."
       ]
     }
   ]
