@@ -63,11 +63,23 @@ const Multimedia = () => {
             <div key={index} className="col-md-6">
               <div className="card h-100 shadow-sm">
                 <div className="ratio ratio-16x9">
-                  <iframe
-                    src={video.url}
-                    title={video.titulo}
-                    allowFullScreen
-                  ></iframe>
+                  {video.tipo === "youtube" ? (
+                    <iframe
+                      src={video.url}
+                      title={video.titulo}
+                      allowFullScreen
+                    ></iframe>
+                  ) : (
+                    <video
+                      controls
+                      preload="metadata"
+                      className="w-100"
+                      poster={video.poster || ""}
+                    >
+                      <source src={video.url} type="video/mp4" />
+                      Tu navegador no soporta el vídeo.
+                    </video>
+                  )}
                 </div>
                 <div className="card-body">
                   <h5 className="card-title">{video.titulo}</h5>
