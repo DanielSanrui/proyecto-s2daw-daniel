@@ -48,13 +48,15 @@
     "pregunta": "¿Qué 4 Vírgenes han procesionado en el Vía Crucis del Consejo de Hermandades y Cofradías?",
     "opciones": [
       "Piedad del Baratillo, Soledad de San Lorenzo, Servitas y Mortaja",
-      "María Santísima de la O, Nuestra Señora de los Dolores y Misericordia, María Santísima de la Concepción, la salud San Gonzalo"
+      "María Santísima de la O, Nuestra Señora de los Dolores y Misericordia, María Santísima de la Concepción, la salud San Gonzalo",
+      "Esperanza de Triana, Esperanza Macarena, La Estrella, Piedad del Baratillo",
+      "Soledad de San Lorenzo, María Santísima del Dulce Nombre, María Santísima de la Concepción de la Hermandad del Silencio y María Santísima del Patrocinio"
     ],
     "respuestaCorrecta": "Piedad del Baratillo, Soledad de San Lorenzo, Servitas y Mortaja"
   },
   {
     "pregunta": "¿Qué animales aparecen en la corona de espinas de Nuestro Padre Jesús de la Humildad de la Hermandad del Cerro del Águila?",
-    "opciones": ["Perro y gato", "Serpiente y caracol"],
+    "opciones": ["Perro y gato", "Serpiente y caracol", "León y caracol", "Rana y Águila"],
     "respuestaCorrecta": "Serpiente y caracol"
   },
   {

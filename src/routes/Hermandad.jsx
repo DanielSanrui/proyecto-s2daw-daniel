@@ -19,7 +19,7 @@ const Hermandad = () => {
   }
 
   return (
-    <div className="container py-5 text-dark">
+    <div className="container py-5" style={{ color: "#3c1a3d" }}>
       <h1 className="display-5 fw-bold mb-4">{hermandad.nombre}</h1>
 
       <div className="row mb-5">

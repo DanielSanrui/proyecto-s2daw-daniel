@@ -1,94 +1,94 @@
 {
   "fotos": [
     {
-      "titulo": "Esperanza de Triana",
+      "titulo": "Nuestro Padre Jesús de la Humildad",
       "imagen": "../src/img/img1.jpg",
-      "descripcion": "Paso de palio de la Esperanza de Triana durante la Madrugá sevillana."
+      "descripcion": "El nazareno de la Hermandad del Cerro del Águila recorre las calles de Sevilla."
     },
     {
-      "titulo": "Paso por calle estrecha",
+      "titulo": "Santísimo Cristo de la Sangre",
       "imagen": "../src/img/img2.jpg",
-      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+      "descripcion": "El crucificado de la Hermandad de San Benito revira hacia la Cuesta del Bacalao de vuelta a su templo en el barrio de la calzada."
     },
     {
-      "titulo": "Paso por calle estrecha",
+      "titulo": "Santísimo Cristo de las Almas",
       "imagen": "../src/img/img3.jpg",
-      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+      "descripcion": "El crucificado de la hermandad de Los Javieres revira hacia la calle Alemanes recién salido de la Catedral por la Puerta de Palos."
     },
     {
-      "titulo": "Paso por calle estrecha",
+      "titulo": "Nuestro Padre Jesús en su Soberano Poder ante Caifás",
       "imagen": "../src/img/img4.jpg",
-      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+      "descripcion": "El cristo de la Hermandad de San Gonzalo a la vuelta a su templo en la mañana del Jueves Santo debido a que se tuvo que refugiar en la Catedral a causa de la lluvia del Lunes Santo."
     },
     {
-      "titulo": "Paso por calle estrecha",
+      "titulo": "La Quinta Angustia",
       "imagen": "../src/img/img5.jpg",
-      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+      "descripcion": "El misterio de La Quinta Angustia por la Calle Velázquez justo antes de entrar a carrera oficial."
     },
     {
-      "titulo": "Paso por calle estrecha",
+      "titulo": "Nuestro Padre Jesús Nazareno",
       "imagen": "../src/img/img6.jpg",
-      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+      "descripcion": "El nazareno de la Hermandad del Silencio por los Palcos de la Plaza de San Francisco."
     },
     {
-      "titulo": "Paso por calle estrecha",
+      "titulo": "Esperanza de Triana",
       "imagen": "../src/img/img7.jpg",
-      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+      "descripcion": "El paso de palio de la Hermandad de la Esperanza de Triana de vuelta a su casa en la mañana de Viernes Santo."
     },
     {
-      "titulo": "Paso por calle estrecha",
+      "titulo": "Nuestro Padre Jesús en su Soberano Poder ante Caifás",
       "imagen": "../src/img/img8.jpg",
-      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+      "descripcion": "El cristo de la Hermandad de San Gonzalo en su paso por la Plaza de la Magdalena en la tarde del Lunes Santo."
     },
     {
-      "titulo": "Paso por calle estrecha",
+      "titulo": "Nuestro Padre Jesús Cautivo y Rescatado",
       "imagen": "../src/img/img9.jpg",
-      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+      "descripcion": "El cautivo de la Hermandad del Polígono de San Pablo bajando por la Cuesta del Rosario."
     },
     {
-      "titulo": "Paso por calle estrecha",
+      "titulo": "Santísimo Cristo de la Expiración",
       "imagen": "../src/img/img10.jpg",
-      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+      "descripcion": "El crucificado de la Hermandad del Cachorro transcurre por la Calle Adriano de vuelta a su templo en la calle Castilla."
     },
     {
-      "titulo": "Paso por calle estrecha",
+      "titulo": "Misterio de la Exaltación",
       "imagen": "../src/img/img11.jpg",
-      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+      "descripcion": "El misterio popularmente conocido como de “los caballos” por la Plaza Duque de la Victoria para entrar en la Plaza de la Campana y comenzar su recorrido oficial."
     },
     {
-      "titulo": "Paso por calle estrecha",
+      "titulo": "Santísimo Cristo de las Tres Caídas de Triana",
       "imagen": "../src/img/img12.jpg",
-      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+      "descripcion": "El misterio perteneciente a la Hermandad de la Esperanza de Triana revirando hacia la calle Pagés del Corro de vuelta a la calle Pureza. Santísimo Cristo de la Salud: el misterio de la Hermandad de la Carretería en su salida de la Catedral."
     },
     {
-      "titulo": "Paso por calle estrecha",
+      "titulo": "Santísimo Cristo de la Salud",
       "imagen": "../src/img/img13.jpg",
-      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+      "descripcion": "el misterio de la Hermandad de la Carretería en su salida de la Catedral."
     },
     {
-      "titulo": "Paso por calle estrecha",
+      "titulo": "Santísimo Cristo del Buen Fin",
       "imagen": "../src/img/img14.jpg",
-      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+      "descripcion": "El misterio de la Hermandad del Buen Fin a su paso por el Arco del Postigo del Aceite entrando al barrio del Arenal sevillano."
     },
     {
-      "titulo": "Paso por calle estrecha",
+      "titulo": "Piedad del Baratillo",
       "imagen": "../src/img/img15.jpg",
-      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+      "descripcion": "El paso de la piedad de la Hermandad del Baratillo recorriendo la calle San Pablo."
     },
     {
-      "titulo": "Paso por calle estrecha",
+      "titulo": "Nuestro Padre Jesús de la Victoria",
       "imagen": "../src/img/img16.jpg",
-      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+      "descripcion": "El misterio de la Hermandad de la Paz recorriendo las calles del centro de Sevilla hacia la carrera oficial."
     },
     {
-      "titulo": "Paso por calle estrecha",
+      "titulo": "Nuestra Señora de los Dolores",
       "imagen": "../src/img/img17.jpg",
-      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+      "descripcion": "La dolorosa de la Hermandad del Cerro del Águila por el centro de la ciudad sevillana."
     },
     {
-      "titulo": "Paso por calle estrecha",
+      "titulo": "Santísimo Cristo de la Sed",
       "imagen": "../src/img/img18.jpg",
-      "descripcion": "Una cofradía avanza entre callejones, creando una atmósfera de recogimiento."
+      "descripcion": "El crucificado de la Hermandad de La Sed recorriendo la Avenida Eduardo Dato de su propio barrio, Nervión"
     }
   ],
   "videos": [
@@ -105,14 +105,54 @@
   ],
   "audios": [
     {
-      "titulo": "Marcha: Amarguras",
-      "audio": "https://www.marchasprocesionales.com/mp3/amarguras.mp3",
-      "descripcion": "Una de las marchas más clásicas y emotivas de la Semana Santa."
+      "titulo": "Reina de Reyes",
+      "audio": "../src/img/aud1.m4a",
+      "descripcion": "Virgen de los Reyes."
     },
     {
-      "titulo": "Marcha: Esperanza de Triana Coronada",
-      "audio": "https://www.marchasprocesionales.com/mp3/esperanza_de_triana_coronada.mp3",
-      "descripcion": "Marcha triunfal dedicada a la Esperanza de Triana, interpretada por banda de música."
+      "titulo": "¡Victoria!",
+      "audio": "../src/img/aud2.m4a",
+      "descripcion": "BCCTT Las Cigarreras"
+    },
+    {
+      "titulo": "Virgen de la Paz",
+      "audio": "../src/img/aud3.m4a",
+      "descripcion": "Ntra. Sra. de la Encarnación"
+    },
+    {
+      "titulo": "Al Cielo la Reina de Triana",
+      "audio": "../src/img/aud4.m4a",
+      "descripcion": "BM Las Cigarreras"
+    },
+    {
+      "titulo": "Caminando va por Tientos",
+      "audio": "../src/img/aud5.m4a",
+      "descripcion": "Virgen de los Reyes."
+    },
+    {
+      "titulo": "Esperanza de Triana Coronada",
+      "audio": "../src/img/aud6.m4a",
+      "descripcion": "BM Las Cigarreras"
+    },
+    {
+      "titulo": "Gath Shemânîm",
+      "audio": "../src/img/aud7.m4a",
+      "descripcion": "BCCTT Las Cigarreras"
+    },
+    {
+      "titulo": "Se arrodilla Triana",
+      "audio": "../src/img/aud8.m4a",
+      "descripcion": "BCCTT Tres Caídas de Triana"
+    },
+    {
+      "titulo": "Siempre la Esperanza",
+      "audio": "../src/img/aud9.m4a",
+      "descripcion": "BM Las Cigarreras"
+    },
+    {
+      "titulo": "Silencio Blanco",
+      "audio": "../src/img/aud10.m4a",
+      "descripcion": "BCCTT Tres Caídas de Triana"
     }
   ]
 }
