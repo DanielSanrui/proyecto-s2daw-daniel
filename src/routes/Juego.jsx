@@ -6,6 +6,7 @@ function Juego() {
   const [preguntaActual, setPreguntaActual] = useState(0);
   const [puntuacion, setPuntuacion] = useState(0);
   const [terminado, setTerminado] = useState(false);
+  const [empezado, setEmpezado] = useState(false);
 
   useEffect(() => {
     const aleatorias = [...preguntas]
@@ -53,12 +54,24 @@ function Juego() {
   };
 
   return (
-    <div className="container py-5">
-      <h1 className="text-center mb-4 fw-bold" style={{ color: "#3c1a3d" }}>
-        ¿Cuánto sabes de la Semana Santa?
-      </h1>
-
-      {!terminado ? (
+    <div className="container py-5 text-center">
+      {!empezado ? (
+        <div className="card p-5 shadow mx-auto" style={{ maxWidth: "600px" }}>
+          <h2 className="mb-4 fw-bold" style={{ color: "#3c1a3d" }}>
+            ¿Cuánto sabes de la Semana Santa de Sevilla?
+          </h2>
+          <p className="mb-4">
+            Responde a 10 preguntas y demuestra tus conocimientos cofrades.
+          </p>
+          <button
+            className="btn btn-lg"
+            style={{ backgroundColor: "#3c1a3d", color: "white" }}
+            onClick={() => setEmpezado(true)}
+          >
+            Comenzar el juego
+          </button>
+        </div>
+      ) : !terminado ? (
         <div className="card shadow p-4">
           <h4 className="mb-3">
             Pregunta {preguntaActual + 1} de {preguntasAleatorias.length}
@@ -87,8 +100,14 @@ function Juego() {
         >
           <h2>Has obtenido {puntuacion}/10</h2>
           <p className="mt-3">{obtenerMensaje().texto}</p>
-          <button className="btn btn-outline-dark mt-4" onClick={volverAJugar}>
-            Volver a jugar
+          <button
+            className="btn btn-outline-dark mt-4"
+            onClick={() => {
+              volverAJugar();
+              setEmpezado(false);
+            }}
+          >
+            Volver al inicio
           </button>
         </div>
       )}
