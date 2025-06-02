@@ -78,5 +78,195 @@
     "pregunta": "¿Cuál de estas hermandades realiza la estación de penitencia más larga de toda la semana con un recorrido superando las 13 horas de duración?",
     "opciones": ["La Exaltación", "La Sed", "El Cerro del Águila", "La Macarena"],
     "respuestaCorrecta": "El Cerro del Águila"
+  },
+  {
+    "pregunta": "¿Qué es un “capataz” en una hermandad?",
+    "opciones": [
+      "La persona que lleva la cruz de guía",
+      "El líder que dirige a los costaleros para llevar el paso ",
+      "El encargado de vestir a la Virgen",
+      "El sacerdote que bendice la procesión "
+    ],
+    "respuestaCorrecta": "El líder que dirige a los costaleros para llevar el paso "
+  },
+  {
+    "pregunta": "¿En qué barrio de Sevilla tiene su sede la Hermandad de La Macarena?",
+    "opciones": [
+      "Triana",
+      "San Gil",
+      "San Lorenzo",
+      "Nervión"
+    ],
+    "respuestaCorrecta": "San Gil"
+  },
+  {
+    "pregunta": "¿Qué imagen es uno de los titulares de la Hermandad de La Esperanza de Triana?",
+    "opciones": [
+      "Jesús del Gran Poder",
+      "Cristo de las Tres Caídas",
+      "Jesús de la Pasión",
+      "Cristo de la Expiración"
+    ],
+    "respuestaCorrecta": "Cristo de las Tres Caídas"
+  },
+  {
+    "pregunta": "¿Qué hermandad es conocida popularmente como “Los Estudiantes”?",
+    "opciones": [
+      "La Macarena",
+      "La Buena Muerte",
+      "Los Javieres",
+      "El Cachorro"
+    ],
+    "respuestaCorrecta": "La Buena Muerte"
+  },
+  {
+    "pregunta": "¿Cuál de estas hermandades sale el Domingo de Ramos?",
+    "opciones": [
+      "La Esperanza de Triana",
+      "La Cena",
+      "Los Servitas",
+      "La Candelaria"
+    ],
+    "respuestaCorrecta": "La Cena"
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del barrio tradicional de la Hermandad de San Gonzalo?",
+    "opciones": [
+      "Triana",
+      "Macarena",
+      "Nervión",
+      "San Pablo"
+    ],
+    "respuestaCorrecta": "Triana"
+  },
+  {
+    "pregunta": "¿Qué significa la palabra “nazareno” en el contexto de la Semana Santa?",
+    "opciones": [
+      "Un músico",
+      "Un penitente con capirote",
+      "Un tipo de paso",
+      "El capataz del paso"
+    ],
+    "respuestaCorrecta": "Un penitente con capirote"
+  },
+  {
+    "pregunta": "¿Cuál es el único paso de la Semana Santa de Sevilla que realiza una \"revirá\" completa dentro de la Catedral durante su estación de penitencia?",
+    "opciones": [
+      "El Gran Poder",
+      "La Esperanza de Triana",
+      "La Macarena",
+      "El Cristo de la Buena Muerte de la Hermandad de los Estudiantes"
+    ],
+    "respuestaCorrecta": "El Cristo de la Buena Muerte de la Hermandad de los Estudiantes"
+  },
+  {
+    "pregunta": "¿Qué Cristo fue esculpido usando como modelo un Gitano que cantaba en la calle?",
+    "opciones": [
+      "Cristo de la Buena Muerte",
+      "Cristo del Amor",
+      "Cristo del Buen Fin",
+      "Cristo de la Expiración (El Cachorro)"
+    ],
+    "respuestaCorrecta": "Cristo de la Expiración (El Cachorro)"
+  },
+  {
+    "pregunta": "¿Qué paso procesiona sobre un monte de claveles morados, algo inusual?",
+    "opciones": [
+      "Cristo de la Buena Muerte",
+      "Cristo de la Conversión del Buen Ladrón",
+      "El Señor del Silencio",
+      "El Señor de la Salud (Los Gitanos)"
+    ],
+    "respuestaCorrecta": "Cristo de la Conversión del Buen Ladrón"
+  },
+  {
+    "pregunta": "¿Qué imagen titular fue tallada originalmente para vestir armadura romana?",
+    "opciones": [
+      "Cristo de la Buena Muerte",
+      "Jesús de la Redención",
+      "Jesús de la Victoria (La Paz)",
+      "Jesús de la Sentencia"
+    ],
+    "respuestaCorrecta": "Jesús de la Victoria (La Paz)"
+  },
+  {
+    "pregunta": "¿Qué Hermandad lleva el apodo de \"los caballos\"?",
+    "opciones": [
+      "La Exaltación",
+      "San Benito",
+      "San Esteban",
+      "La Sed"
+    ],
+    "respuestaCorrecta": "La Exaltación"
+  },
+  {
+    "pregunta": "¿Qué Virgen de Sevilla lleva una estrella de ocho puntas sobre su frente?",
+    "opciones": [
+      "La Macarena",
+      "La Estrella",
+      "La Amargura",
+      "La Esperanza de Triana"
+    ],
+    "respuestaCorrecta": "La Estrella"
+  },
+  {
+    "pregunta": "¿Qué peculiaridad tiene la cruz de guía de la Hermandad de La Carretería?",
+    "opciones": [
+      "Está hecha con marfil",
+      "Es de carey y plata",
+      "Es la más antigua de Sevilla",
+      "La portan tres nazarenos"
+    ],
+    "respuestaCorrecta": "Es de carey y plata"
+  },
+  {
+    "pregunta": "¿Cuál es el único paso que procesiona con candelabros de guardabrisas tanto delante como detrás del Cristo?",
+    "opciones": [
+      "Misterio de la Sentencia",
+      "Misterio de Las Aguas",
+      "Misterio de la Lanzada",
+      "Misterio de San Gonzalo"
+    ],
+    "respuestaCorrecta": "Misterio de la Lanzada"
+  },
+  {
+    "pregunta": "¿Qué Hermandad conserva la única dolorosa realizada por Juan de Astorga que procesiona en Sevilla?",
+    "opciones": [
+      "Virgen del Valle",
+      "Virgen de la O",
+      "Virgen del Mayor Dolor (El Gran Poder)",
+      "Virgen de Montserrat"
+    ],
+    "respuestaCorrecta": "Virgen del Valle"
+  },
+  {
+    "pregunta": "¿Cuál es la única hermandad que entra en la Catedral desde la puerta de Campanillas?",
+    "opciones": [
+      "La Borriquita",
+      "La Resurrección",
+      "La Hiniesta",
+      "La Sagrada Cena"
+    ],
+    "respuestaCorrecta": "La Resurrección"
+  },
+  {
+    "pregunta": "¿Cuál es el único paso de palio que lleva bordado su manto con sedas de colores en lugar de hilo de oro?",
+    "opciones": [
+      "Virgen del Rosario (Monte-Sión)",
+      "Virgen del Subterráneo",
+      "Virgen de la Paz",
+      "Virgen del Socorro (San Nicolás)"
+    ],
+    "respuestaCorrecta": "Virgen del Rosario (Monte-Sión)"
+  },
+  {
+    "pregunta": "¿Qué hermandad es conocida por llevar el único paso de misterio tallado por Antonio Castillo Lastrucci que no esculpió para Sevilla capital?",
+    "opciones": [
+      "San Benito",
+      "La Redención",
+      "La Sed",
+      "El Cachorro"
+    ],
+    "respuestaCorrecta": "La Redención"
   }
 ]
