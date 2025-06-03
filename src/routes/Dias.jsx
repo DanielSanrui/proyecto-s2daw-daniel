@@ -1,6 +1,6 @@
 import React from "react";
 import diasData from "../data/Dias.json";
-import CardDia from "../components/cardDia";
+import CardDia from "../components/CardDia.jsx";
 
 const Dias = () => {
   return (
