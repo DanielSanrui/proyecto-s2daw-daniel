@@ -1,12 +1,28 @@
-# React + Vite
+# Sevilla en Pasos: Descubre la Semana Santa
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Sevilla en Pasos** es una aplicación web interactiva desarrollada con React que permite explorar a fondo la Semana Santa de Sevilla. A través de una interfaz intuitiva, moderna y adaptable a dispositivos móviles, el usuario puede conocer el recorrido, historia y detalles de cada hermandad, consultar noticias, ver contenido multimedia, y mucho más.
 
-Currently, two official plugins are available:
+## Tecnologías utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React + Vite
+- Bootstrap 5
+- JSON para datos estructurados
+- API de Open Meteo
+- Google Maps JavaScript API
 
-## Expanding the ESLint configuration
+## Estructura del proyecto
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- `components/`: Componentes reutilizables como tarjetas, contadores, etc.
+- `routes/`: Páginas principales del proyecto.
+- `data/`: Archivos `.json` con información de hermandades, días, noticias, etc.
+- `img/`: Recursos estáticos como imágenes, audios y vídeos locales.
+
+## Funcionalidades destacadas
+
+- Vista detallada de cada hermandad con su recorrido oficial.
+- Filtrado por días y otros criterios.
+- Noticias dinámicas con páginas individuales.
+- Galería multimedia con fotos, vídeos y marchas procesionales.
+- Mapa con templos y cálculo de sitios cercanos.
+- Sección del tiempo con datos diarios en tabla.
+- Juego interactivo tipo quiz con puntuación final.
