@@ -1,7 +1,7 @@
 import React from "react";
 import { useParams, Link } from "react-router-dom";
 import hermandades from "../data/Hermandades.json";
-import TablaRecorrido from "../components/TablaRecorrido";
+import TablaRecorrido from "../components/TablaRecorrido.jsx";
 
 const Hermandad = () => {
   const { slug } = useParams();

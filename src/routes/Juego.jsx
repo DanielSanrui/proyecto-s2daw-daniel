@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import preguntas from "../data/Preguntas.json";
+import preguntas from "../data/preguntas.json";
 
 function Juego() {
   const [preguntasAleatorias, setPreguntasAleatorias] = useState([]);

@@ -2,7 +2,7 @@ import React from "react";
 import { useParams } from "react-router-dom";
 import hermandades from "../data/Hermandades.json";
 import dias from "../data/Dias.json";
-import CardHermandad from "../components/CardHermandad";
+import CardHermandad from "../components/CardHermandad.jsx";
 
 const diasMap = {
   "domingo-de-ramos": "Domingo de Ramos",
