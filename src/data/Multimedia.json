@@ -2,7 +2,7 @@
   "fotos": [
     {
       "titulo": "Nuestro Padre Jesús de la Humildad",
-      "imagen": "../src/img/img1.jpg",
+      "imagen": "/img/img1.jpg",
       "descripcion": "El nazareno de la Hermandad del Cerro del Águila recorre las calles de Sevilla."
     },
     {
@@ -132,7 +132,7 @@
   "audios": [
     {
       "titulo": "Reina de Reyes",
-      "audio": "../src/img/aud1.m4a",
+      "audio": "/img/aud1.m4a",
       "descripcion": "Virgen de los Reyes."
     },
     {
