@@ -88,25 +88,25 @@ function Mapa() {
           <div className="row g-4">
             {cercanos.map((t, i) => (
               <div className="col-12" key={i}>
-                <div className="card border shadow-sm h-100 flex-row">
+                <div className="card border shadow-sm h-100 d-flex flex-column flex-md-row align-items-center align-items-md-stretch">
                   <img
                     src={t.imagen}
                     alt={t.nombre}
-                    className="img-fluid object-fit-cover"
+                    className="img-fluid d-block mx-auto my-2"
                     style={{
-                      width: "250px",
-                      height: "100%",
-                      objectFit: "cover",
+                      height: "160px",
+                      width: "auto",
+                      objectFit: "contain",
                     }}
                   />
                   <div className="card-body">
                     <h5
-                      className="card-title y fw-bold"
+                      className="card-title fw-bold mb-2"
                       style={{ color: "#3c1a3d" }}
                     >
                       {t.nombre}
                     </h5>
-                    <p className="card-text">{t.descripcion}</p>
+                    <p className="card-text small mb-0">{t.descripcion}</p>
                   </div>
                 </div>
               </div>
