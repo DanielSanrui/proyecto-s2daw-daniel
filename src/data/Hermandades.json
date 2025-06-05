@@ -1058,7 +1058,7 @@
     {
       "titulo": "Nuestra Señora de la Salud",
       "escultor": "Luis Ortega Bru, 1977",
-      "imagen": "../src/img/la-salud.jpg"
+      "imagen": "/img/la-salud.jpg"
     }
   ],
   "descripcionCorta": "La Hermandad de San Gonzalo, fundada en 1942 en el barrio de Triana, es una joven pero fervorosa cofradía que destaca por su fuerte arraigo popular, su gran labor caritativa y su vibrante devoción a Nuestro Padre Jesús en su Soberano Poder y a Nuestra Señora de la Salud Coronada.",
