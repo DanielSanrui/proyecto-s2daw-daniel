@@ -1,5 +1,6 @@
 import logo from "../img/logo.png";
 import { Link } from "react-router-dom";
+
 function Footer() {
   return (
     <footer
@@ -23,50 +24,53 @@ function Footer() {
             <h6 className="fw-bold">Navegación</h6>
             <ul className="list-unstyled small">
               <li>
-                <a href="/" className="text-white text-decoration-none">
+                <Link to="/" className="text-white text-decoration-none">
                   Inicio
-                </a>
+                </Link>
               </li>
               <li>
-                <a
-                  href="/hermandades"
+                <Link
+                  to="/hermandades"
                   className="text-white text-decoration-none"
                 >
                   Hermandades
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="/dias" className="text-white text-decoration-none">
+                <Link to="/dias" className="text-white text-decoration-none">
                   Días
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="/noticias" className="text-white text-decoration-none">
+                <Link
+                  to="/noticias"
+                  className="text-white text-decoration-none"
+                >
                   Noticias
-                </a>
+                </Link>
               </li>
               <li>
-                <a
-                  href="/multimedia"
+                <Link
+                  to="/multimedia"
                   className="text-white text-decoration-none"
                 >
                   Multimedia
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="/mapa" className="text-white text-decoration-none">
+                <Link to="/mapa" className="text-white text-decoration-none">
                   Mapa
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="/tiempo" className="text-white text-decoration-none">
+                <Link to="/tiempo" className="text-white text-decoration-none">
                   Tiempo
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="/juego" className="text-white text-decoration-none">
+                <Link to="/juego" className="text-white text-decoration-none">
                   Jugar
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
@@ -89,13 +93,13 @@ function Footer() {
             <h6 className="fw-bold">Síguenos</h6>
             <div className="d-flex gap-3 mt-2">
               <a href="#" className="text-white">
-                <i className="bi bi-instagram fs-5 " fill="white"></i>
+                <i className="bi bi-instagram fs-5"></i>
               </a>
               <a href="#" className="text-white">
                 <i className="bi bi-facebook fs-5"></i>
               </a>
               <a href="#" className="text-white">
-                <i className="bi bi-youtube fs-5 white"></i>
+                <i className="bi bi-youtube fs-5"></i>
               </a>
             </div>
           </div>
