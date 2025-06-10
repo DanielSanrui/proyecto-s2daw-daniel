@@ -8,7 +8,7 @@ const Contador = () => {
 
   const diasSemanaSanta = {
     "2026-03-29": {
-      nombre: "¡Ya estamos en Semana Santa! Hoy es Domingo de Ramos 🌿",
+      nombre: "¡Ya estamos en Semana Santa! Hoy es Domingo de Ramos",
       ruta: "/dias/domingo-de-ramos",
     },
     "2026-03-30": { nombre: "Hoy es Lunes Santo", ruta: "/dias/lunes-santo" },
@@ -24,7 +24,7 @@ const Contador = () => {
     },
     "2026-04-04": { nombre: "Hoy es Sábado Santo", ruta: "/dias/sabado-santo" },
     "2026-04-05": {
-      nombre: "¡Hoy es Domingo de Resurrección! 🎉",
+      nombre: "¡Hoy es Domingo de Resurrección!",
       ruta: "/dias/domingo-de-resurreccion",
     },
   };

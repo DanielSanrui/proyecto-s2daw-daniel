@@ -37,18 +37,17 @@ function Juego() {
 
   const obtenerMensaje = () => {
     if (puntuacion <= 4)
-      return { texto: "Suspenso 😓 ¡Toca repasar!", color: "danger" };
+      return { texto: "Suspenso ¡Toca repasar!", color: "danger" };
     if (puntuacion <= 6)
-      return { texto: "Aprobado 😌 ¡Puedes mejorar!", color: "warning" };
-    if (puntuacion <= 8)
-      return { texto: "Notable 👏 ¡Muy bien!", color: "info" };
+      return { texto: "Aprobado ¡Puedes mejorar!", color: "warning" };
+    if (puntuacion <= 8) return { texto: "Notable ¡Muy bien!", color: "info" };
     if (puntuacion === 9)
       return {
-        texto: "Sobresaliente 🏅 ¡Excelente resultado!",
+        texto: "Sobresaliente ¡Excelente resultado!",
         color: "success",
       };
     return {
-      texto: "¡Excelente!!! 🎉 Eres un genio de la Semana Santa de Sevilla.",
+      texto: "¡Excelente!!! Eres un genio de la Semana Santa de Sevilla.",
       color: "primary",
     };
   };
