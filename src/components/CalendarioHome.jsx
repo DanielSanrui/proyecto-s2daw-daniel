@@ -28,7 +28,7 @@ const dias = [
     fecha: "1 de abril",
     ruta: "miercoles-santo",
     imagen:
-      "https://101tvsevilla.es/wp-content/uploads/2023/10/52110526836_be16626e5a_o-1-1920x1231.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/SemanaSantaSevillaLaLanzada.jpeg/500px-SemanaSantaSevillaLaLanzada.jpeg",
   },
   {
     nombre: "Jueves Santo",
