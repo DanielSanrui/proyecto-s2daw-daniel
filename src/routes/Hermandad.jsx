@@ -2,10 +2,13 @@ import React from "react";
 import { useParams, Link } from "react-router-dom";
 import hermandades from "../data/Hermandades.json";
 import TablaRecorrido from "../components/TablaRecorrido.jsx";
+import MapaComponente from "../components/MapaComponente";
+import recorridosMapa from "../data/RecorridosMapa.json";
 
 const Hermandad = () => {
   const { slug } = useParams();
   const hermandad = hermandades.find((h) => h.slug === slug);
+  const recorrido = recorridosMapa[slug];
 
   if (!hermandad) {
     return (
@@ -80,6 +83,7 @@ const Hermandad = () => {
         </div>
       ))}
       <TablaRecorrido slug={hermandad.slug} />
+      {recorrido && <MapaComponente recorrido={recorrido} />}
 
       <div className="mt-4">
         <Link to="/hermandades" className="btn btn-outline-dark">
