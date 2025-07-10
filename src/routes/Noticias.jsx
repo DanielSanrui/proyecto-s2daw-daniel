@@ -3,17 +3,21 @@ import noticias from "../data/Noticias.json";
 import CardNoticia from "../components/CardNoticia";
 
 const Noticias = () => {
+  const noticiasOrdenadas = [...noticias].sort(
+    (a, b) => new Date(b.fecha) - new Date(a.fecha)
+  );
+
   return (
     <main className="container py-5">
       <h1
         className="text-center mb-4 display-5 fw-bold"
-        style={{ color: " #3c1a3d" }}
+        style={{ color: "#3c1a3d" }}
       >
         Noticias
       </h1>
 
       <div className="row gy-4">
-        {noticias.map((noticia) => (
+        {noticiasOrdenadas.map((noticia) => (
           <div className="col-12 col-md-6 col-lg-4" key={noticia.id}>
             <CardNoticia noticia={noticia} />
           </div>
