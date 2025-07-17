@@ -7,35 +7,56 @@ import {
 } from "@react-google-maps/api";
 import templos from "../data/Templos.json";
 
-const center = { lat: 37.389, lng: -5.994 };
-const userPosition = { lat: 37.3841, lng: -6.0008 };
-
 const containerStyle = {
   width: "100%",
   height: "75vh",
 };
 
 function Mapa() {
+  const [userPosition, setUserPosition] = useState(null);
   const [selected, setSelected] = useState(null);
   const [cercanos, setCercanos] = useState([]);
 
-  useEffect(() => {
-    const rad = (x) => (x * Math.PI) / 180;
-    const distance = (p1, p2) => {
-      const R = 6371e3;
-      const dLat = rad(p2.lat - p1.lat);
-      const dLng = rad(p2.lng - p1.lng);
-      const a =
-        Math.sin(dLat / 2) ** 2 +
-        Math.cos(rad(p1.lat)) * Math.cos(rad(p2.lat)) * Math.sin(dLng / 2) ** 2;
-      const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
-      return R * c;
-    };
+  // Calcular distancia entre dos puntos (Haversine)
+  const rad = (x) => (x * Math.PI) / 180;
+  const distance = (p1, p2) => {
+    const R = 6371e3;
+    const dLat = rad(p2.lat - p1.lat);
+    const dLng = rad(p2.lng - p1.lng);
+    const a =
+      Math.sin(dLat / 2) ** 2 +
+      Math.cos(rad(p1.lat)) * Math.cos(rad(p2.lat)) * Math.sin(dLng / 2) ** 2;
+    const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+    return R * c;
+  };
 
-    const filtrados = templos.filter(
-      (t) => distance(userPosition, { lat: t.lat, lng: t.lng }) <= 1000
+  // Obtener ubicación del usuario
+  useEffect(() => {
+    navigator.geolocation.getCurrentPosition(
+      (position) => {
+        const coords = {
+          lat: position.coords.latitude,
+          lng: position.coords.longitude,
+        };
+        setUserPosition(coords);
+
+        // Filtrar templos cercanos
+        const cercanosFiltrados = templos.filter(
+          (t) => distance(coords, { lat: t.lat, lng: t.lng }) <= 1000
+        );
+        setCercanos(cercanosFiltrados);
+      },
+      (error) => {
+        console.error("Error al obtener la ubicación", error);
+        // Ubicación por defecto si no acepta permisos
+        const fallback = { lat: 37.3841, lng: -6.0008 };
+        setUserPosition(fallback);
+        const cercanosFiltrados = templos.filter(
+          (t) => distance(fallback, { lat: t.lat, lng: t.lng }) <= 1000
+        );
+        setCercanos(cercanosFiltrados);
+      }
     );
-    setCercanos(filtrados);
   }, []);
 
   return (
@@ -54,32 +75,43 @@ function Mapa() {
         googleMapsApiKey="AIzaSyDxvJlpFgpczM8e0YPiV7c_qJjKU51f32I"
         libraries={["geometry"]}
       >
-        <GoogleMap mapContainerStyle={containerStyle} center={center} zoom={14}>
-          {templos.map((templo, index) => (
+        {userPosition && (
+          <GoogleMap
+            mapContainerStyle={containerStyle}
+            center={userPosition}
+            zoom={15}
+          >
+            {/* Marcadores templos */}
+            {templos.map((templo, index) => (
+              <Marker
+                key={index}
+                position={{ lat: templo.lat, lng: templo.lng }}
+                onClick={() => setSelected(templo)}
+                title={templo.nombre}
+              />
+            ))}
+
+            {/* Marcador usuario */}
             <Marker
-              key={index}
-              position={{ lat: templo.lat, lng: templo.lng }}
-              onClick={() => setSelected(templo)}
-              title={templo.nombre}
+              position={userPosition}
+              icon="http://maps.google.com/mapfiles/ms/icons/blue-dot.png"
+              title="Tu ubicación"
             />
-          ))}
-          <Marker
-            position={userPosition}
-            icon="http://maps.google.com/mapfiles/ms/icons/blue-dot.png"
-            title="Tu ubicación"
-          />
-          {selected && (
-            <InfoWindow
-              position={{ lat: selected.lat, lng: selected.lng }}
-              onCloseClick={() => setSelected(null)}
-            >
-              <div style={{ maxWidth: "200px" }}>
-                <h5 className="fw-bold mb-1">{selected.nombre}</h5>
-                <p className="small mb-0">{selected.descripcion}</p>
-              </div>
-            </InfoWindow>
-          )}
-        </GoogleMap>
+
+            {/* InfoWindow */}
+            {selected && (
+              <InfoWindow
+                position={{ lat: selected.lat, lng: selected.lng }}
+                onCloseClick={() => setSelected(null)}
+              >
+                <div style={{ maxWidth: "200px" }}>
+                  <h5 className="fw-bold mb-1">{selected.nombre}</h5>
+                  <p className="small mb-0">{selected.descripcion}</p>
+                </div>
+              </InfoWindow>
+            )}
+          </GoogleMap>
+        )}
       </LoadScript>
 
       {cercanos.length > 0 && (
