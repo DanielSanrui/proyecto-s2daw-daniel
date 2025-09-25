@@ -1,5 +1,15 @@
 [
   {
+    "nombre": "Viernes de Dolores",
+    "descripcion": "Día que anticipa la Semana Santa sevillana con procesiones en barrios como Pino Montano o el Dulce Nombre de Bellavista. Aunque no son oficiales, estas cofradías muestran una profunda devoción popular y marcan el inicio sentimental de la semana grande.",
+    "imagen": "https://sevilla.abc.es/pasionensevilla/wp-content/uploads/sites/2/eventos/2023/03/mision-cristo-bandera.jpg"
+  },
+  {
+    "nombre": "Sábado de Pasión",
+    "descripcion": "Última jornada previa al Domingo de Ramos, con hermandades jóvenes y de barrio que siguen creciendo en devoción. Procesionan cofradías como Torreblanca o San José Obrero, acercando la Semana Santa a zonas menos céntricas.",
+    "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20250408171343_690.jpg"
+  },
+  {
     "nombre": "Domingo de Ramos",
     "descripcion": "Arranca la Semana Santa con una explosión de alegría y palmas; procesionan hermandades como La Borriquita y La Estrella, marcando un día muy esperado por los sevillanos.",
     "imagen": "https://sevilla.abc.es/pasionensevilla/wp-content/uploads/sites/2/eventos/2023/03/amor-burra-bandera.jpg"

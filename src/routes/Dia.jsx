@@ -5,12 +5,14 @@ import dias from "../data/Dias.json";
 import CardHermandad from "../components/CardHermandad.jsx";
 
 const diasMap = {
+  "viernes-de-dolores": "Viernes de Dolores",
+  "sábado-de-pasión": "Sábado de Pasión",
   "domingo-de-ramos": "Domingo de Ramos",
   "lunes-santo": "Lunes Santo",
   "martes-santo": "Martes Santo",
-  "miercoles-santo": "Miércoles Santo",
+  "miércoles-santo": "Miércoles Santo",
   "jueves-santo": "Jueves Santo",
-  madruga: "La Madrugá",
+  "la-madrugá": "La Madrugá",
   "viernes-santo": "Viernes Santo",
   "sabado-santo": "Sábado Santo",
   "domingo-resurreccion": "Domingo de Resurrección",
