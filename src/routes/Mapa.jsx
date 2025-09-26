@@ -57,7 +57,7 @@ function Mapa() {
         setCercanos(cercanosFiltrados);
       }
     );
-  }, []);
+  });
 
   return (
     <div className="container py-5">
