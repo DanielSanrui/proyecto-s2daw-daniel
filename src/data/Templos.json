@@ -430,74 +430,74 @@
     "nombre": "Parroquia de San Luis y San Fernando",
     "lat": 37.3747826242265, 
     "lng":-5.955000957743272,
-    "descripcion": "",
-    "imagen": ""
+    "descripcion": "Parroquia perteneciente a la Agrupación Parroquia del SantísiCristo de la Paz y Nestra Señora de la Misericordia la cual procesiona el Viernes de Dolores.",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Iglesia_de_San_Luis_y_San_Fernando.jpg"
   },
   {
     "nombre": "Parroquia de Jesús Obrero",
     "lat":37.35915756700037,  
     "lng":-5.970676170595324,
-    "descripcion": "",
-    "imagen": ""
+    "descripcion": "Parroquia que acoge a la Hermandad Salesia de Bendición y Esperanza la cual procesiona el Viernes de Dolores en la ciudad de Sevilla.",
+    "imagen": "https://www.salesianos.edu/wp-content/uploads//Archivos/Galerias/Mis_Galerias/2-Andalucia/jesus_obrerob.jpg"
   },
   {
     "nombre": "Parroquia de La Milagrosa",
     "lat":37.37699708276475,  
     "lng":-5.966883744802643,
-    "descripcion": "",
-    "imagen": ""
+    "descripcion": "Parroquia que acoge a la Hermandad Sacramental de Nuestra Señora de La Milagrosa la cual procesiona el Viernes de Dolores en la ciudad de Sevilla.",
+    "imagen": "https://semanasantasevilla.com/wp-content/uploads/2025/03/parroquia-de-la-milagrosa-sevilla.jpg"
   },
   {
     "nombre": "Parroquia de San Antonio de Padua",
     "lat":37.38344102918778,  
     "lng":-5.899286129843196,
-    "descripcion": "",
-    "imagen": ""
+    "descripcion": "Parroquia situada en el barrio de Torreblanca de la Hermandad de los Dolores de Torreblanca la cual procesiona el Viernes de Dolores en la ciudad de Sevilla.",
+    "imagen": "https://hermandaddelosdolores.org/wp-content/uploads/2018/12/Sede_canonica.jpg"
   },
   {
     "nombre": "Iglesia de la Beata Ana María",
     "lat":37.410368812241906,  
     "lng":-5.9189722493826755,
-    "descripcion": "",
-    "imagen": ""
+    "descripcion": "Iglesia en el barrio del Parque Alcosa que acoge a la Hermandad Franciscana del Divino Perdón de Alcosa la cual procesiona el Viernes de Dolores en la ciudad de Sevilla.",
+    "imagen": "https://semanasantasevilla.com/wp-content/uploads/2025/03/Iglesia-de-la-Beata-Ana-Maria-Javouhey-y-San-Jose-de-Cluny.jpg"
   },
   {
-    "nombre": "Parroquia de San José Obrero",
+    "nombre": "Parroquia de San José Obrero y San Francisco de Paula",
     "lat":37.39766255620332,  
     "lng":-5.975622287331502,
-    "descripcion": "",
-    "imagen": ""
+    "descripcion": "Parroquia perteneciente a la Hermandad de San José Obrero la cual procesiona el Sábado de Pasión en la ciudad de Sevilla.",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglVIWg4DByqdd-Y1RYd8qo_olBP9LJMOyWDnSiz1aRHhEOONBubVYYGhZL8udO9dJRvqvNKSql79KKkIBzEdksSZ1Z6BwwlJoQ3EbM_ja52fvmYD4DhVy8ny5K2n0NAqbTdUMaQ9lJsoY/s200/parroquia_sjo.jpg"
   },
   {
     "nombre": "Parroquia de Nuestra Señora del Rosario",
     "lat":37.42774462016193,  
     "lng":-5.983096048557617,
-    "descripcion": "",
-    "imagen": ""
+    "descripcion": "Parroquia que acoge a la Agrupación Parroquial de Nuestra Señora del Rosario la cual procesiona el Sábado de Pasión en la ciudad de Sevilla.",
+    "imagen": "https://pbs.twimg.com/profile_images/1154683351544057857/ANW5EoXm_400x400.jpg"
   },
   {
-    "nombre": "Parroquia de San Juan de la Cruz",
+    "nombre": "Parroquia del Buen Pastor y San Juan de la Cruz",
     "lat":37.3718953254851,  
     "lng":-5.940791634400063,
     "descripcion": "Parroquia que acoge a la Hermandad de Padre Pío Palmete, la cual procesiona el Sábado de Pasión en la ciudad de Sevilla.",
-    "imagen": ""
+    "imagen": "https://semanasantasevilla.com/wp-content/uploads/2025/03/parroquia-del-buen-pastor-sevilla-1.jpg"
   },
   {
-    "nombre": "Iglesia del Santo Ángel",
+    "nombre": "Iglesia Conventual del Santo Ángel",
     "lat":37.39082936209771,  
     "lng":-5.996011911667929,
     "descricion": "Iglesia situada en el Centro de Sevilla la cual acoge a la Agrupación del Sántísimo Cristo de los Desamparados que procesiona el Sábado de Pasión en Sevilla.",
-    "imagen": ""
+    "imagen": "https://carmensantoangel.com/wp-content/uploads/2019/01/Exterior_Convento.jpg"
   },
   {
     "nombre": "Parroquia de Santa Mª de la Cabeza (Sale de la Casa Hermandad)",
     "lat":37.413205969582236,  
     "lng":-5.967178900090497,
-    "descricion": "",
-    "imagen": ""
+    "descricion": "Parroquia perteneciente a la Agrupación Parroquial de Las Maravillas la cual procesiona el Sábado de Pasión en la ciudad de Sevilla.",
+    "imagen": "https://misas.org/images/photo-1951-normal.jpg"
   },
   {
-    "nombre": "Parroquia de Nuestra Señora de los Ángeles",
+    "nombre": "Parroquia de Nuestra Señora de los Ángeles y Santa Ángela de la Cruz",
     "lat":37.40088601302868,  
     "lng":-5.940042096741349,
     "descricion": "Iglesia perteneciente a la Agrupación Parroquial Nuestro Padre Jesús de la Humildad la cual procesiona el Sábado de Pasión.",
