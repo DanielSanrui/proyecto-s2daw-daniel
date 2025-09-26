@@ -6,7 +6,7 @@ import CardHermandad from "../components/CardHermandad.jsx";
 
 const diasMap = {
   "viernes-de-dolores": "Viernes de Dolores",
-  "sábado-de-pasión": "Sábado de Pasión",
+  "sabado-de-pasión": "Sábado de Pasión",
   "domingo-de-ramos": "Domingo de Ramos",
   "lunes-santo": "Lunes Santo",
   "martes-santo": "Martes Santo",

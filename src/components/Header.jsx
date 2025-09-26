@@ -61,6 +61,12 @@ function Header() {
               style={{ backgroundColor: "antiquewhite" }}
             >
               <li>
+                <Link className="dropdown-item" to="/dias/viernes-de-dolores">
+                  Viernes de Dolores
+                </Link>
+                <Link className="dropdown-item" to="/dias/sabado-de-pasion">
+                  Sábado de Pasión
+                </Link>
                 <Link className="dropdown-item" to="/dias/domingo-de-ramos">
                   Domingo de Ramos
                 </Link>
