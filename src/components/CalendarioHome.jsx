@@ -55,7 +55,7 @@ const dias = [
     fecha: "4 de abril",
     ruta: "sabado-santo",
     imagen:
-      "https://d17umfmk0e27oh.cloudfront.net/articulos/articulos-1121598.jpg",
+      "https://s3.abcstatics.com/abc/www/multimedia/sevilla/2025/04/19/procesion-santo-entierro-RjkkOgTiyTSaKsOHyd5JNdP-1200x840@diario_abc.jpg",
   },
   {
     nombre: "Domingo de Resurrección",
