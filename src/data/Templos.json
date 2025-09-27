@@ -486,21 +486,21 @@
     "nombre": "Iglesia Conventual del Santo Ángel",
     "lat":37.39082936209771,  
     "lng":-5.996011911667929,
-    "descricion": "Iglesia situada en el Centro de Sevilla que acoge a la Agrupación del Sántísimo Cristo de los Desamparados que procesiona el Sábado de Pasión en Sevilla.",
+    "descripcion": "Iglesia situada en el Centro de Sevilla que acoge a la Agrupación del Sántísimo Cristo de los Desamparados que procesiona el Sábado de Pasión en Sevilla.",
     "imagen": "https://carmensantoangel.com/wp-content/uploads/2019/01/Exterior_Convento.jpg"
   },
   {
     "nombre": "Parroquia de Santa Mª de la Cabeza (Sale de la Casa Hermandad)",
     "lat":37.413205969582236,  
     "lng":-5.967178900090497,
-    "descricion": "Parroquia perteneciente a la Agrupación Parroquial de Las Maravillas la cual procesiona el Sábado de Pasión en la ciudad de Sevilla.",
+    "descripcion": "Parroquia perteneciente a la Agrupación Parroquial de Las Maravillas la cual procesiona el Sábado de Pasión en la ciudad de Sevilla.",
     "imagen": "https://misas.org/images/photo-1951-normal.jpg"
   },
   {
     "nombre": "Parroquia de Nuestra Señora de los Ángeles y Santa Ángela de la Cruz",
     "lat":37.40088601302868,  
     "lng":-5.940042096741349,
-    "descricion": "Iglesia perteneciente a la Agrupación Parroquial Nuestro Padre Jesús de la Humildad la cual procesiona el Sábado de Pasión.",
+    "descripcion": "Iglesia perteneciente a la Agrupación Parroquial Nuestro Padre Jesús de la Humildad la cual procesiona el Sábado de Pasión.",
     "imagen": "https://www.archisevillasiempreadelante.org/wp-content/uploads/2018/10/IMG_20180923_105643_opt.jpg"
   }
 ]
