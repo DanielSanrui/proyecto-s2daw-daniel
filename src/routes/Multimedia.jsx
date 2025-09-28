@@ -16,22 +16,69 @@ const Multimedia = () => {
       <div className="d-flex justify-content-center gap-3 mb-4 flex-wrap">
         <button
           onClick={() => setSeccion("fotos")}
-          className="btn"
-          style={{ backgroundColor: "#3c1a3d", color: "#fff" }}
+          className="btn px-4 py-2 fw-semibold"
+          style={{
+            backgroundColor: "#3c1a3d",
+            color: "white",
+            border: "2px solid #3c1a3d",
+            transition: "all 0.3s ease",
+          }}
+          onMouseOver={(e) => {
+            e.target.style.backgroundColor = "white";
+            e.target.style.color = "#3c1a3d";
+            e.target.style.border = "2px solid #3c1a3d";
+          }}
+          onMouseOut={(e) => {
+            e.target.style.backgroundColor = "#3c1a3d";
+            e.target.style.color = "white";
+            e.target.style.border = "2px solid #3c1a3d";
+          }}
         >
           Fotos
         </button>
+
         <button
           onClick={() => setSeccion("videos")}
-          className="btn"
-          style={{ backgroundColor: "#3c1a3d", color: "#fff" }}
+          className="btn px-4 py-2 fw-semibold"
+          style={{
+            backgroundColor: "#3c1a3d",
+            color: "white",
+            border: "2px solid #3c1a3d",
+            transition: "all 0.3s ease",
+          }}
+          onMouseOver={(e) => {
+            e.target.style.backgroundColor = "white";
+            e.target.style.color = "#3c1a3d";
+            e.target.style.border = "2px solid #3c1a3d";
+          }}
+          onMouseOut={(e) => {
+            e.target.style.backgroundColor = "#3c1a3d";
+            e.target.style.color = "white";
+            e.target.style.border = "2px solid #3c1a3d";
+          }}
         >
           Vídeos
         </button>
+
         <button
           onClick={() => setSeccion("audios")}
-          className="btn"
-          style={{ backgroundColor: "#3c1a3d", color: "#fff" }}
+          className="btn px-4 py-2 fw-semibold"
+          style={{
+            backgroundColor: "#3c1a3d",
+            color: "white",
+            border: "2px solid #3c1a3d",
+            transition: "all 0.3s ease",
+          }}
+          onMouseOver={(e) => {
+            e.target.style.backgroundColor = "white";
+            e.target.style.color = "#3c1a3d";
+            e.target.style.border = "2px solid #3c1a3d";
+          }}
+          onMouseOut={(e) => {
+            e.target.style.backgroundColor = "#3c1a3d";
+            e.target.style.color = "white";
+            e.target.style.border = "2px solid #3c1a3d";
+          }}
         >
           Marchas
         </button>
