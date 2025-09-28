@@ -92,7 +92,7 @@ function Header() {
                 </Link>
               </li>
               <li>
-                <Link className="dropdown-item" to="/dias/madruga">
+                <Link className="dropdown-item" to="/dias/la-madruga">
                   La Madrugá
                 </Link>
               </li>
@@ -107,7 +107,10 @@ function Header() {
                 </Link>
               </li>
               <li>
-                <Link className="dropdown-item" to="/dias/domingo-resurreccion">
+                <Link
+                  className="dropdown-item"
+                  to="/dias/domingo-de-resurreccion"
+                >
                   Domingo de Resurrección
                 </Link>
               </li>

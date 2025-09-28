@@ -14,6 +14,7 @@ const Dias = () => {
           nombre={dia.nombre}
           descripcion={dia.descripcion}
           imagen={dia.imagen}
+          ruta={dia.ruta}
         />
       ))}
     </div>
