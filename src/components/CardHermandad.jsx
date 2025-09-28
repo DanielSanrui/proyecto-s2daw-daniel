@@ -30,7 +30,23 @@ const CardHermandad = ({ hermandad }) => {
         <div className="mt-3">
           <Link
             to={`/hermandades/${slug}`}
-            className="btn btn-light text-dark px-4 py-2 rounded shadow-sm"
+            className="btn px-4 py-2 rounded shadow-sm"
+            style={{
+              backgroundColor: "white",
+              color: "#3c1a3d",
+              border: "2px solid #3c1a3d",
+              transition: "all 0.3s ease",
+            }}
+            onMouseOver={(e) => {
+              e.target.style.backgroundColor = "#3c1a3d";
+              e.target.style.color = "white";
+              e.target.style.border = "2px solid white";
+            }}
+            onMouseOut={(e) => {
+              e.target.style.backgroundColor = "white";
+              e.target.style.color = "#3c1a3d";
+              e.target.style.border = "2px solid #3c1a3d";
+            }}
           >
             Ver más
           </Link>

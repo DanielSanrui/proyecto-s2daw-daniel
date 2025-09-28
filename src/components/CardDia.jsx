@@ -19,7 +19,26 @@ const CardDia = ({ nombre, descripcion, imagen, ruta }) => {
             <h2 className="h4 fw-bold mb-2">{nombre}</h2>
             <p className="text-muted mb-3">{descripcion}</p>
           </div>
-          <Link to={`/dias/${diaSlug}`} className="btn btn-outline-dark">
+          <Link
+            to={`/dias/${diaSlug}`}
+            className="btn"
+            style={{
+              backgroundColor: "#3c1a3d",
+              color: "white",
+              border: "2px solid #3c1a3d",
+              transition: "all 0.3s ease",
+            }}
+            onMouseOver={(e) => {
+              e.target.style.backgroundColor = "white";
+              e.target.style.color = "#3c1a3d";
+              e.target.style.border = "2px solid #3c1a3d";
+            }}
+            onMouseOut={(e) => {
+              e.target.style.backgroundColor = "#3c1a3d";
+              e.target.style.color = "white";
+              e.target.style.border = "2px solid #3c1a3d";
+            }}
+          >
             Ver Hermandades
           </Link>
         </div>

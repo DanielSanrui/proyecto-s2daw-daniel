@@ -15,8 +15,23 @@ const CardNoticia = ({ noticia }) => {
         <p className="card-text">{noticia.descripcionCorta}</p>
         <Link
           to={`/noticias/${noticia.id}`}
-          className="btn "
-          style={{ backgroundColor: "#3c1a3d", color: "white" }}
+          className="btn"
+          style={{
+            backgroundColor: "#3c1a3d",
+            color: "white",
+            border: "2px solid #3c1a3d",
+            transition: "all 0.3s ease",
+          }}
+          onMouseOver={(e) => {
+            e.target.style.backgroundColor = "white";
+            e.target.style.color = "#3c1a3d";
+            e.target.style.border = "2px solid #3c1a3d";
+          }}
+          onMouseOut={(e) => {
+            e.target.style.backgroundColor = "#3c1a3d";
+            e.target.style.color = "white";
+            e.target.style.border = "2px solid #3c1a3d";
+          }}
         >
           Leer más
         </Link>
