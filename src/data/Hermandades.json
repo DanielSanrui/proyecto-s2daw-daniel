@@ -4603,11 +4603,6 @@
   "imagenPrincipal": "https://www.lavozdelsur.es/uploads/s1/11/59/68/6/copia-de-diseno-sin-titulo-2.jpeg",
   "imagenes": [
     {
-      "titulo": "La canina ",
-      "escultor": "Antonio Cardoso de Quirós, 1693",
-      "imagen": "https://santapaula.es/wp-content/uploads/2022/04/Paso-de-la-Canina.-Francisco-Lui%CC%81s-Morillo-Bordallo-min.jpg"
-    },
-    {
       "titulo": "Santo Entierro de Nuestro Señor Jesucristo ",
       "escultor": "Juan de Mesa, 1619",
       "imagen": "https://www.archisevilla.org/wp-content/uploads/2023/04/Yacente-ok.jpg"
@@ -4616,6 +4611,11 @@
       "titulo": "Nuestra Señora de Villaviciosa",
       "escultor": "Cardoso Quirós, 1691",
       "imagen": "https://sevilla.abc.es/pasionensevilla/wp-content/uploads/sites/2/eventos/2024/01/santo-entierro-duelo.jpg"
+    },
+    {
+      "titulo": "La canina ",
+      "escultor": "Antonio Cardoso de Quirós, 1693",
+      "imagen": "https://santapaula.es/wp-content/uploads/2022/04/Paso-de-la-Canina.-Francisco-Lui%CC%81s-Morillo-Bordallo-min.jpg"
     }
   ],
   "descripcionCorta": "La Hermandad del Santo Entierro, con orígenes reales y sede en San Gregorio Magno, representa la culminación solemne de la Pasión de Cristo en la Semana Santa sevillana. Se distingue por su carácter oficial y profundo simbolismo.",
@@ -4680,7 +4680,7 @@
     {
       "titulo": "Nuestra Señora de la Soledad",
       "escultor": "Anónimo, siglo XVI",
-      "imagen": "https://elegirhoy.com/uploads/fichas-eventos-imagenes/Soledad%20de%20San%20Lorenzo..jpg"
+      "imagen": "https://www.hermandaddelasoledad.org/wp-content/uploads/2025/09/JLB_8386-1024x819.jpg"
     }
   ],
   "descripcionCorta": "La Hermandad de la Soledad de San Lorenzo, fundada en el siglo XVI, es una histórica corporación sevillana que destaca por su devoción mariana y su papel como cierre tradicional de la Semana Santa de Sevilla. Su Imagen titular, probablemente la Dolorosa más antigua en procesionar, ha sido el eje espiritual de siglos de historia y fe.",
