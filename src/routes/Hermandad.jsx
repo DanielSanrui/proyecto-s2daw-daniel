@@ -86,7 +86,29 @@ const Hermandad = () => {
       {recorrido && <MapaComponente recorrido={recorrido} />}
 
       <div className="mt-4">
-        <Link to="/hermandades" className="btn btn-outline-dark">
+        <Link
+          to="/hermandades"
+          className="btn"
+          style={{
+            backgroundColor: "#3c1a3d",
+            color: "white",
+            border: "2px solid #3c1a3d",
+            padding: "0.5rem 1.25rem",
+            borderRadius: "0.5rem",
+            textDecoration: "none",
+            transition: "all 0.3s ease",
+          }}
+          onMouseEnter={(e) => {
+            e.target.style.backgroundColor = "white";
+            e.target.style.color = "#3c1a3d";
+            e.target.style.border = "2px solid #3c1a3d";
+          }}
+          onMouseLeave={(e) => {
+            e.target.style.backgroundColor = "#3c1a3d";
+            e.target.style.color = "white";
+            e.target.style.border = "2px solid #3c1a3d";
+          }}
+        >
           ← Volver a Hermandades
         </Link>
       </div>
