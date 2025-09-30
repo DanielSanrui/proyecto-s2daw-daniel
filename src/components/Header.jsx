@@ -4,14 +4,18 @@ import logo from "../img/logo.png";
 
 function Header() {
   useEffect(() => {
-    const toggle = document.getElementById("menu-toggle");
-    const mobileMenu = document.getElementById("mobile-menu");
+    // 🔹 Cerrar menú cuando hago clic en un enlace
+    const mobileMenu = document.getElementById("mobileMenu");
 
-    if (toggle && mobileMenu) {
-      toggle.addEventListener("click", () => {
-        mobileMenu.classList.toggle("d-none");
+    const enlaces = mobileMenu?.querySelectorAll("a");
+    enlaces?.forEach((enlace) => {
+      enlace.addEventListener("click", () => {
+        const bsCollapse = window.bootstrap.Collapse.getInstance(mobileMenu);
+        if (bsCollapse) {
+          bsCollapse.hide();
+        }
       });
-    }
+    });
   }, []);
 
   return (
