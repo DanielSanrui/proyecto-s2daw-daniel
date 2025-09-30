@@ -13,6 +13,7 @@ import Tiempo from "./routes/Tiempo";
 import Hermandades from "./routes/Hermandades";
 import Hermandad from "./routes/Hermandad";
 import Dia from "./routes/Dia";
+import ScrollToTop from "./components/ScrollToTop";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
         style={({ minHeight: "100vh" }, { color: "#3c1a3d" })}
       >
         <div className="container">
+          <ScrollToTop />
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/mapa" element={<Mapa />} />
