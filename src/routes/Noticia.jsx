@@ -72,10 +72,21 @@ const Noticia = () => {
               style={{
                 backgroundColor: "#3c1a3d",
                 color: "white",
-                border: "none",
+                border: "2px solid #3c1a3d",
                 padding: "0.5rem 1.25rem",
                 borderRadius: "0.5rem",
                 textDecoration: "none",
+                transition: "all 0.3s ease",
+              }}
+              onMouseEnter={(e) => {
+                e.target.style.backgroundColor = "white";
+                e.target.style.color = "#3c1a3d";
+                e.target.style.border = "2px solid #3c1a3d";
+              }}
+              onMouseLeave={(e) => {
+                e.target.style.backgroundColor = "#3c1a3d";
+                e.target.style.color = "white";
+                e.target.style.border = "2px solid #3c1a3d";
               }}
             >
               ← Volver a Noticias
