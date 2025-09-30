@@ -8,11 +8,14 @@ import CalendarioHome from "../components/CalendarioHome";
 export default function Home() {
   return (
     <div className="p-5">
-      <section className="bg-white p-6 rounded shadow mb-8 text-center max-w-4xl mx-auto">
-        <h2 className="text-3xl fw-bold mb-2" style={{ color: "#3c1a3d" }}>
+      <section
+        className="bg-white shadow mb-5 text-center p-4"
+        style={{ width: "100%", padding: "2rem" }}
+      >
+        <h2 className="text-3xl fw-bold mb-3" style={{ color: "#3c1a3d" }}>
           Bienvenido a Sevilla en Pasos
         </h2>
-        <p className="text-muted fs-5">
+        <p className="text-muted fs-5 mb-0">
           Una guía interactiva para descubrir, sentir y entender la Semana Santa
           de Sevilla. <br />
           Aquí encontrarás toda la información sobre las hermandades, sus
@@ -20,6 +23,7 @@ export default function Home() {
           un solo lugar, accesible desde tu móvil y adaptado a ti.
         </p>
       </section>
+
       <UltimasNoticias />
       <CalendarioHome />
       <Contador />
