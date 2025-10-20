@@ -40,7 +40,7 @@ const dias = [
   {
     nombre: "La Madrugá",
     fecha: "3 de abril",
-    ruta: "madruga",
+    ruta: "la-madruga",
     imagen: "https://live.staticflickr.com/4173/33858384954_753d7b93c4_b.jpg",
   },
   {
@@ -60,7 +60,7 @@ const dias = [
   {
     nombre: "Domingo de Resurrección",
     fecha: "5 de abril",
-    ruta: "domingo-resurreccion",
+    ruta: "domingo-de-resurreccion",
     imagen:
       "https://www.sevillaactualidad.com/wp-content/uploads/2023/04/resucitado-13.jpg",
   },

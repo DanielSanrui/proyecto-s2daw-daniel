@@ -78,7 +78,7 @@ function Footer() {
           <div className="col-md-3 mb-4">
             <h6 className="fw-bold">Contacto</h6>
             <p className="small mb-1">
-              <strong>Email:</strong> info@sevillaenpasos.es
+              <strong>Email:</strong> sevillaenpasos@gmail.com
             </p>
             <p className="small mb-1">
               <strong>Teléfono:</strong> +34 600 123 456
