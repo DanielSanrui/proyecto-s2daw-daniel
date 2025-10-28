@@ -117,17 +117,18 @@
       "tipo": "youtube"
     },
     {
-      "titulo": "El misterio del Santísimo Cristo de la Columna y Azotes por la calle Odreros",
-      "url": "https://www.youtube.com/embed/xTpRxruwa4U?si=cQoJ3FE49HVA-uZC",
-      "descripcion": "El Santísimo Cristo de la Columna y Azotes de la Hermandad de las Cigarreras por la calle Odreros.",
-      "tipo": "youtube"
-    },
-    {
       "titulo": "La Esperanza de Triana por la Plaza de la Campana",
       "url": "https://www.youtube.com/embed/tBL6973Zkoc?si=xrq1-AY_CFPtAEIP",
       "descripcion": "El Palio de la Esperanza de Triana a su paso por la Plaza de la Campana.",
       "tipo": "youtube"
+    },
+    {
+      "titulo": "El misterio del Santísimo Cristo de la Columna y Azotes por la calle Odreros",
+      "url": "https://www.youtube.com/embed/xTpRxruwa4U?si=cQoJ3FE49HVA-uZC",
+      "descripcion": "El Santísimo Cristo de la Columna y Azotes de la Hermandad de las Cigarreras por la calle Odreros.",
+      "tipo": "youtube"
     }
+
   ],
   "audios": [
     {
