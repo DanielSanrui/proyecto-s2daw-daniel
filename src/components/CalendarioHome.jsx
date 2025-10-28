@@ -3,6 +3,20 @@ import { useNavigate } from "react-router-dom";
 
 const dias = [
   {
+    nombre: "Viernes de Dolores",
+    fecha: "27 de marzo",
+    ruta: "viernes-de-dolores",
+    imagen:
+      "https://sevilla.abc.es/pasionensevilla/wp-content/uploads/sites/2/eventos/2023/03/mision-cristo-bandera.jpg",
+  },
+  {
+    nombre: "Sábado de Pasión",
+    fecha: "28 de marzo",
+    ruta: "sabado-de-pasion",
+    imagen:
+      "https://img.europapress.es/fotoweb/fotonoticia_20250408171343_690.jpg",
+  },
+  {
     nombre: "Domingo de Ramos",
     fecha: "29 de marzo",
     ruta: "domingo-de-ramos",

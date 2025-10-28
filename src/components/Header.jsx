@@ -4,7 +4,7 @@ import logo from "../img/logo.png";
 
 function Header() {
   useEffect(() => {
-    // 🔹 Cerrar menú cuando hago clic en un enlace
+    //Cerrar menú cuando hago clic en un enlace
     const mobileMenu = document.getElementById("mobileMenu");
 
     const enlaces = mobileMenu?.querySelectorAll("a");
