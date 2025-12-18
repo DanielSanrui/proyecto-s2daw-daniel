@@ -34,7 +34,6 @@ const Contador = () => {
 
     const intervalo = setInterval(() => {
       const ahora = new Date();
-      const ahoraMs = ahora.getTime();
       const hoyISO = ahora.toISOString().split("T")[0];
 
       if (diasSemanaSanta[hoyISO]) {
@@ -44,19 +43,15 @@ const Contador = () => {
         return;
       }
 
-      const diferencia = fechaDomingoRamos - ahoraMs;
+      const diferencia = fechaDomingoRamos - ahora.getTime();
 
       if (diferencia > 0) {
         const dias = Math.floor(diferencia / (1000 * 60 * 60 * 24));
-        const horas = Math.floor(
-          (diferencia % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)
-        );
-        const minutos = Math.floor(
-          (diferencia % (1000 * 60 * 60)) / (1000 * 60)
-        );
-        const segundos = Math.floor((diferencia % (1000 * 60)) / 1000);
+        const horas = Math.floor((diferencia / (1000 * 60 * 60)) % 24);
+        const minutos = Math.floor((diferencia / (1000 * 60)) % 60);
+        const segundos = Math.floor((diferencia / 1000) % 60);
 
-        setTiempoRestante(`${dias} días, ${horas}h ${minutos}m ${segundos}s`);
+        setTiempoRestante(`${dias} días · ${horas}h ${minutos}m ${segundos}s`);
         setMensajeDia("");
         setEnlace("");
       } else {
@@ -68,27 +63,64 @@ const Contador = () => {
     }, 1000);
 
     return () => clearInterval(intervalo);
-  });
+  }, []);
 
   return (
-    <section
-      className="text-center py-5 text-white"
-      style={{ backgroundColor: "#3c1a3d" }}
-    >
-      <h2 className="h4 fw-bold mb-3">Cuenta atrás para la Semana Santa</h2>
-      <div
-        className="bg-white text-dark rounded shadow-sm d-inline-block px-4 py-3 mb-2 fw-monospace"
-        style={{ color: "#3c1a3d" }}
-      >
-        {mensajeDia || tiempoRestante}
-      </div>
-      {enlace && (
-        <div className="mt-3">
-          <Link to={enlace} className="btn btn-outline-light fw-semibold">
-            Ver procesiones de hoy
-          </Link>
+    <section className="py-5 text-center" style={{ backgroundColor: "#3c1a3d" }}>
+      <div className="container">
+        <h2
+          className="mb-4 text-uppercase fw-semibold"
+          style={{
+            color: "#f5e6c8",
+            letterSpacing: "2px",
+            fontFamily: "'Cinzel', serif",
+          }}
+        >
+          Cuenta atrás para la Semana Santa
+        </h2>
+
+        <div
+          className="fw-bold text-uppercase"
+          style={{
+            color: "#ffffff",
+            fontSize: "2.4rem",        // ⬅️ más grande
+            letterSpacing: "2px",      // ⬅️ más empaque visual
+            fontFamily: "'Cinzel', serif",
+            fontWeight: 800,           // ⬅️ más gordo
+            WebkitTextStroke: "1.2px #c9a24d",
+            textShadow: "0px 4px 8px rgba(0,0,0,0.6)",
+            lineHeight: "1.4",
+          }}
+        >
+          {mensajeDia || tiempoRestante}
         </div>
-      )}
+
+
+
+        {enlace && (
+          <div className="mt-4">
+            <Link
+              to={enlace}
+              className="btn rounded-pill px-4"
+              style={{
+                border: "2px solid #c9a24d",
+                color: "#f5e6c8",
+                letterSpacing: "1px",
+                backgroundColor: "transparent",
+              }}
+              onMouseEnter={(e) => {
+                e.target.style.backgroundColor = "#712b7bff";
+              }}
+              onMouseLeave={(e) => {
+                e.target.style.backgroundColor = "transparent";
+              }}
+            >
+              Ver procesiones de hoy
+            </Link>
+
+          </div>
+        )}
+      </div>
     </section>
   );
 };

@@ -101,6 +101,12 @@ function Footer() {
               <a href="#" className="text-white">
                 <i className="bi bi-youtube fs-5"></i>
               </a>
+              <a href="https://www.tiktok.com/@sevillaenpasos" className="text-white">
+                <i className="bi bi-tiktok fs-5"></i>
+              </a>
+              <a href="#" className="text-white">
+                <i className="bi bi-twitter fs-5"></i>
+              </a>
             </div>
           </div>
         </div>
