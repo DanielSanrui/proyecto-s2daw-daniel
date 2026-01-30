@@ -190,6 +190,18 @@ function Header() {
             to="/dias/domingo-de-ramos"
             className="d-block py-1 text-white text-decoration-none"
           >
+            Viernes de Dolores
+          </Link>
+          <Link
+            to="/dias/domingo-de-ramos"
+            className="d-block py-1 text-white text-decoration-none"
+          >
+            Sábado de Pasión
+          </Link>
+          <Link
+            to="/dias/domingo-de-ramos"
+            className="d-block py-1 text-white text-decoration-none"
+          >
             Domingo de Ramos
           </Link>
           <Link

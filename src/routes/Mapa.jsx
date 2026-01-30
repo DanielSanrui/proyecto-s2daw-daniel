@@ -72,7 +72,7 @@ function Mapa() {
       </p>
 
       <LoadScript
-        googleMapsApiKey="AIzaSyDxvJlpFgpczM8e0YPiV7c_qJjKU51f32I"
+        googleMapsApiKey={import.meta.env.VITE_GOOGLE_MAPS_API_KEY}
         libraries={["geometry"]}
       >
         {userPosition && (
