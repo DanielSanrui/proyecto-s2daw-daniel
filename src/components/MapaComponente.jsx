@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import { GoogleMap, LoadScript, Polyline } from "@react-google-maps/api";
 
-// 🎨 Estilo del contenedor del mapa
+// Estilo del contenedor del mapa
 const containerStyle = {
   width: "400px", // ⬅️ mismo valor que height
   height: "400px",
