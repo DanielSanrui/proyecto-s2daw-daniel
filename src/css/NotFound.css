@@ -1,0 +1,139 @@
+.nf-hero {
+  background: #3c1a3d;
+  padding: 60px 20px 50px;
+  text-align: center;
+  position: relative;
+}
+
+.nf-hero::after {
+  content: '';
+  position: absolute;
+  bottom: -20px;
+  left: 0;
+  width: 100%;
+  height: 40px;
+  background: #3c1a3d;
+  clip-path: ellipse(55% 100% at 50% 0%);
+}
+
+.nf-badge {
+  display: inline-block;
+  background: rgba(201, 168, 76, 0.15);
+  color: #c9a84c;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  padding: 6px 18px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+.nf-number {
+  font-family: 'Cinzel', serif;
+  font-size: 7rem;
+  font-weight: 700;
+  color: #c9a84c;
+  line-height: 1;
+  margin-bottom: 10px;
+  text-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
+}
+
+.nf-hero-text {
+  color: rgba(255, 255, 255, 0.65);
+  font-size: 1.05rem;
+}
+
+.nf-content {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 50px 20px 40px;
+  text-align: center;
+}
+
+.nf-content h2 {
+  color: #3c1a3d;
+  font-weight: 700;
+  font-size: 1.4rem;
+  margin-bottom: 10px;
+}
+
+.nf-content p {
+  color: #6c757d;
+  line-height: 1.7;
+  margin-bottom: 30px;
+}
+
+.nf-actions {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 36px;
+}
+
+.nf-btn-home {
+  background: #3c1a3d;
+  color: #fff;
+  border: 2px solid #3c1a3d;
+  padding: 10px 26px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.nf-btn-home:hover {
+  background: transparent;
+  color: #3c1a3d;
+}
+
+.nf-btn-map {
+  background: transparent;
+  color: #3c1a3d;
+  border: 2px solid #3c1a3d;
+  padding: 10px 26px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.nf-btn-map:hover {
+  background: #3c1a3d;
+  color: #fff;
+}
+
+.nf-divider {
+  width: 50px;
+  height: 2px;
+  background: #c9a84c;
+  border: none;
+  margin: 0 auto 24px;
+}
+
+.nf-explore {
+  display: flex;
+  justify-content: center;
+  gap: 28px;
+  flex-wrap: wrap;
+}
+
+.nf-explore a {
+  text-decoration: none;
+  color: #3c1a3d;
+  font-size: 0.9rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transition: color 0.3s ease;
+}
+
+.nf-explore a:hover {
+  color: #c9a84c;
+}
+
+.nf-explore i {
+  font-size: 1rem;
+}

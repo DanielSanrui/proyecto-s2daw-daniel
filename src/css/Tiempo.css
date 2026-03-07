@@ -1,0 +1,217 @@
+.tiempo-header {
+  color: #3c1a3d;
+  font-weight: 700;
+  position: relative;
+  display: block;
+  text-align: center;
+}
+
+.tiempo-header::after {
+  content: '';
+  display: block;
+  width: 50px;
+  height: 3px;
+  background: #c9a84c;
+  margin: 10px auto 0;
+  border-radius: 2px;
+}
+
+/* Clima actual */
+.tiempo-actual {
+  background: #fff;
+  border-radius: 14px;
+  border: 1px solid #e8dcc8;
+  box-shadow: 0 4px 16px rgba(60, 26, 61, 0.06);
+  overflow: hidden;
+}
+
+.tiempo-actual-top {
+  background: #3c1a3d;
+  padding: 10px;
+  text-align: center;
+}
+
+.tiempo-actual-top span {
+  color: #c9a84c;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.tiempo-actual-body {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 28px 32px;
+}
+
+.tiempo-actual-col {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.tiempo-actual-emoji {
+  font-size: 4rem;
+  line-height: 1;
+}
+
+.tiempo-actual-temp {
+  font-family: 'Cinzel', serif;
+  font-size: 3rem;
+  font-weight: 700;
+  color: #3c1a3d;
+  line-height: 1;
+  margin-bottom: 4px;
+}
+
+.tiempo-actual-desc {
+  color: #6c757d;
+  font-size: 1rem;
+}
+
+.tiempo-actual-datos {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.tiempo-actual-dato {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.9rem;
+  color: #6c757d;
+  background: #faf3e6;
+  padding: 8px 14px;
+  border-radius: 8px;
+}
+
+.tiempo-actual-dato i {
+  color: #c9a84c;
+  font-size: 1rem;
+}
+
+@media (max-width: 640px) {
+  .tiempo-actual-body {
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+    gap: 16px;
+  }
+
+  .tiempo-actual-col {
+    width: 100%;
+  }
+
+  .tiempo-actual-datos {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+
+/* Tabla pronóstico estilizada */
+.tiempo-table-wrapper {
+  border-radius: 12px;
+  overflow-x: auto;
+  border: 1px solid #e8dcc8;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
+}
+
+.tiempo-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+.tiempo-table thead th {
+  background: #3c1a3d;
+  color: #fff;
+  padding: 14px 16px;
+  font-weight: 600;
+  font-size: 0.85rem;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  border: none;
+}
+
+.tiempo-table tbody tr {
+  transition: background 0.2s ease;
+}
+
+.tiempo-table tbody tr:nth-child(even) {
+  background: #faf3e6;
+}
+
+.tiempo-table tbody tr:nth-child(odd) {
+  background: #fff;
+}
+
+.tiempo-table tbody tr:hover {
+  background: #f0e8d6;
+}
+
+.tiempo-table tbody td {
+  padding: 14px 16px;
+  border: none;
+  border-bottom: 1px solid #f0ebe0;
+  vertical-align: middle;
+}
+
+.tiempo-table .td-dia {
+  font-weight: 600;
+  color: #3c1a3d;
+  text-transform: capitalize;
+}
+
+.tiempo-table .td-dia small {
+  display: block;
+  font-weight: 400;
+  color: #999;
+  font-size: 0.8rem;
+  text-transform: none;
+}
+
+.tiempo-table .td-tiempo {
+  white-space: nowrap;
+}
+
+.tiempo-table .td-tiempo .emoji {
+  margin-right: 8px;
+  font-size: 1.2rem;
+}
+
+.tiempo-table .td-min {
+  color: #6c9bd1;
+  font-weight: 600;
+}
+
+.tiempo-table .td-max {
+  color: #d16c6c;
+  font-weight: 600;
+}
+
+.tiempo-table .td-lluvia {
+  color: #5b9fd6;
+  font-weight: 500;
+}
+
+.tiempo-nota {
+  color: #6c757d;
+  font-size: 0.85rem;
+}
+
+@media (max-width: 576px) {
+  .tiempo-table {
+    font-size: 0.85rem;
+  }
+
+  .tiempo-table thead th,
+  .tiempo-table tbody td {
+    padding: 10px 8px;
+  }
+}
