@@ -7,7 +7,7 @@
     "hermanos": 5600,
     "barrio": "Centro",
     "diaSalida": "Domingo de Ramos",
-    "escudo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Escudo_Hermandad_Amor.svg/800px-Escudo_Hermandad_Amor.svg.png",
+    "escudo": "https://res.cloudinary.com/dn76ni2ay/image/upload/v1772972094/Escudo_Hermandad_Amor.svg_wbnom8.png",
     "imagenPrincipal": "https://sevilla.abc.es/pasionensevilla/wp-content/uploads/sites/2/eventos/2023/03/amor-burra-bandera.jpg",
     "slug": "la-borriquita",
     "imagenes": [
@@ -74,7 +74,7 @@
     "fundacion": 1936,
     "nazarenos": 1000,
     "hermanos": 1675,
-    "escudo": "https://pbs.twimg.com/profile_images/1503863120829292546/77dSDCTD_400x400.jpg",
+    "escudo": "https://res.cloudinary.com/dn76ni2ay/image/upload/v1772972927/escudo-Jesus-despojado_yc8sfp.png",
     "barrio": "Centro",
     "slug": "jesus-despojado",
     "diaSalida": "Domingo de Ramos",
@@ -642,7 +642,7 @@
     "hermanos": 5600,
     "barrio": "Centro",
     "diaSalida": "Domingo de Ramos",
-    "escudo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Escudo_Hermandad_Amor.svg/800px-Escudo_Hermandad_Amor.svg.png",
+    "escudo": "https://res.cloudinary.com/dn76ni2ay/image/upload/v1772972094/Escudo_Hermandad_Amor.svg_wbnom8.png",
     "slug": "el-amor",
     "imagenPrincipal": "https://www.hermandades-de-sevilla.org/semanasanta/dramos_el_amor2.JPG",
     "imagenes": [
