@@ -1520,7 +1520,7 @@
     "barrio": "La Calzada",
     "diaSalida": "Martes Santo",
     "slug": "san-benito",
-    "imagenPrincipal": "https://www.diariodesevilla.es/contenidos/programa-semana-santa-sevilla/img/img_ficha/san-benito.jpg",
+    "imagenPrincipal": "https://res.cloudinary.com/dn76ni2ay/image/upload/v1773011256/san-benito-foto-general_ocyrt5.jpg",
     "imagenes": [
       {
         "titulo": "Nuestro Padre Jesús en su Presentación al Pueblo",

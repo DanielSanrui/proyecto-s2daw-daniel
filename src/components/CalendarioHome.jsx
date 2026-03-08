@@ -1,5 +1,6 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
+import "../css/CalendarioHome.css";
 
 const dias = [
   {
@@ -35,7 +36,7 @@ const dias = [
     fecha: "31 de marzo",
     ruta: "martes-santo",
     imagen:
-      "https://www.diariodesevilla.es/contenidos/programa-semana-santa-sevilla/img/img_ficha/san-benito.jpg",
+      "https://res.cloudinary.com/dn76ni2ay/image/upload/v1773011256/san-benito-foto-general_ocyrt5.jpg",
   },
   {
     nombre: "Miércoles Santo",
@@ -85,7 +86,7 @@ const CalendarioHome = () => {
 
   return (
     <section className="py-5 text-white" style={{ backgroundColor: "#3c1a3d" }}>
-      <h2 className="text-center mb-4 fw-bold fs-2">
+      <h2 className="text-center mb-4 fs-2 calendario-titulo">
         Calendario Semana Santa 2026
       </h2>
       <div className="container">
@@ -95,16 +96,14 @@ const CalendarioHome = () => {
               key={index}
               className="col-12 col-sm-6 col-md-4 col-lg-3"
               onClick={() => navigate(`/dias/${dia.ruta}`)}
-              style={{ cursor: "pointer" }}
             >
-              <div className="card h-100 p-2 shadow-sm border-0 text-center transition hover:scale-105">
+              <div className="card h-100 p-2 shadow-sm text-center calendario-card">
                 <img
                   src={dia.imagen}
                   alt={dia.nombre}
                   className="card-img-top"
-                  style={{ objectFit: "cover", height: "160px" }}
                 />
-                <div className="card-body" style={{ color: "#3c1a3d" }}>
+                <div className="card-body">
                   <h5 className="card-title fw-bold">{dia.nombre}</h5>
                   <p className="card-text">{dia.fecha}</p>
                 </div>
