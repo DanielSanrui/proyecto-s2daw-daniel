@@ -1,6 +1,7 @@
 import React from "react";
 import { useParams, Link } from "react-router-dom";
 import noticias from "../data/Noticias.json";
+import "../css/Botones.css";
 
 const Noticia = () => {
   const { id } = useParams();
@@ -68,26 +69,7 @@ const Noticia = () => {
 
             <Link
               to="/noticias"
-              className="btn mt-4"
-              style={{
-                backgroundColor: "#3c1a3d",
-                color: "white",
-                border: "2px solid #3c1a3d",
-                padding: "0.5rem 1.25rem",
-                borderRadius: "0.5rem",
-                textDecoration: "none",
-                transition: "all 0.3s ease",
-              }}
-              onMouseEnter={(e) => {
-                e.target.style.backgroundColor = "white";
-                e.target.style.color = "#3c1a3d";
-                e.target.style.border = "2px solid #3c1a3d";
-              }}
-              onMouseLeave={(e) => {
-                e.target.style.backgroundColor = "#3c1a3d";
-                e.target.style.color = "white";
-                e.target.style.border = "2px solid #3c1a3d";
-              }}
+              className="btn btn-morado mt-4"
             >
               ← Volver a Noticias
             </Link>

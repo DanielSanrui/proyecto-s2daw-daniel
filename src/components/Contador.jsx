@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
+import "../css/Botones.css";
 
 const Contador = () => {
   const [tiempoRestante, setTiempoRestante] = useState("");
@@ -8,7 +9,7 @@ const Contador = () => {
 
   const diasSemanaSanta = {
     "2026-03-29": {
-      nombre: "¡Ya estamos en Semana Santa! Hoy es Domingo de Ramos",
+      nombre: <>¡Ya estamos en Semana Santa!<br />Hoy es Domingo de Ramos</>,
       ruta: "/dias/domingo-de-ramos",
     },
     "2026-03-30": { nombre: "Hoy es Lunes Santo", ruta: "/dias/lunes-santo" },
@@ -101,19 +102,7 @@ const Contador = () => {
           <div className="mt-4">
             <Link
               to={enlace}
-              className="btn rounded-pill px-4"
-              style={{
-                border: "2px solid #c9a24d",
-                color: "#f5e6c8",
-                letterSpacing: "1px",
-                backgroundColor: "transparent",
-              }}
-              onMouseEnter={(e) => {
-                e.target.style.backgroundColor = "#712b7bff";
-              }}
-              onMouseLeave={(e) => {
-                e.target.style.backgroundColor = "transparent";
-              }}
+              className="btn btn-dorado-outline rounded-pill px-4"
             >
               Ver procesiones de hoy
             </Link>

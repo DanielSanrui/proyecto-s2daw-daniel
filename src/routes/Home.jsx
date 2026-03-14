@@ -1,32 +1,48 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import "../index.css";
+import "../css/Home.css";
+import heroBg from "../img/hero.jpg";
 import Contador from "../components/Contador";
 import FAQ from "../components/FAQ";
 import UltimasNoticias from "../components/UltimasNoticias";
 import CalendarioHome from "../components/CalendarioHome";
+
 export default function Home() {
+  const [visible, setVisible] = useState(false);
+
+  useEffect(() => {
+    const timer = setTimeout(() => setVisible(true), 100);
+    return () => clearTimeout(timer);
+  }, []);
+
   return (
-    <div className="p-5">
+    <div>
+      {/* ── HERO ── */}
       <section
-        className="bg-white shadow mb-5 text-center p-4"
-        style={{ width: "100%", padding: "2rem" }}
+        className="hero"
+        style={{ backgroundImage: `url(${heroBg})` }}
       >
-        <h2 className="text-3xl fw-bold mb-3" style={{ color: "#3c1a3d" }}>
-          Bienvenido a Sevilla en Pasos
-        </h2>
-        <p className="text-muted fs-5 mb-0">
-          Una guía interactiva para descubrir, sentir y entender la Semana Santa
-          de Sevilla. <br />
-          Aquí encontrarás toda la información sobre las hermandades, sus
-          recorridos, días de salida, imágenes, historia, y mucho más. Todo en
-          un solo lugar, accesible desde tu móvil y adaptado a ti.
-        </p>
+        <div className="hero__overlay" />
+
+        <div className={`hero__contenido ${visible ? "hero__contenido--visible" : ""}`}>
+          <p className="hero__subtag">Sevilla · Semana Santa 2026</p>
+          <h1 className="hero__titulo">Sevilla en Pasos</h1>
+          <div className="hero__linea" />
+          <p className="hero__descripcion">
+            Descubre, siente y entiende la Semana Santa de Sevilla.
+            Hermandades, recorridos, historia y mucho más, todo en un solo lugar.
+          </p>
+          <Link to="/hermandades" className="hero__boton">
+            Explorar hermandades
+          </Link>
+        </div>
       </section>
 
+      {/* ── RESTO DE SECCIONES ── */}
       <UltimasNoticias />
       <CalendarioHome />
       <Contador />
+      <div className="home__spacer" />
       <FAQ />
     </div>
   );

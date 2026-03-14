@@ -4,6 +4,7 @@ import hermandades from "../data/Hermandades.json";
 import TablaRecorrido from "../components/TablaRecorrido.jsx";
 import MapaComponente from "../components/MapaComponente";
 import recorridosMapa from "../data/RecorridosMapa.json";
+import "../css/Botones.css";
 
 const Hermandad = () => {
   const { slug } = useParams();
@@ -88,26 +89,7 @@ const Hermandad = () => {
       <div className="mt-4">
         <Link
           to="/hermandades"
-          className="btn"
-          style={{
-            backgroundColor: "#3c1a3d",
-            color: "white",
-            border: "2px solid #3c1a3d",
-            padding: "0.5rem 1.25rem",
-            borderRadius: "0.5rem",
-            textDecoration: "none",
-            transition: "all 0.3s ease",
-          }}
-          onMouseEnter={(e) => {
-            e.target.style.backgroundColor = "white";
-            e.target.style.color = "#3c1a3d";
-            e.target.style.border = "2px solid #3c1a3d";
-          }}
-          onMouseLeave={(e) => {
-            e.target.style.backgroundColor = "#3c1a3d";
-            e.target.style.color = "white";
-            e.target.style.border = "2px solid #3c1a3d";
-          }}
+          className="btn btn-morado"
         >
           ← Volver a Hermandades
         </Link>

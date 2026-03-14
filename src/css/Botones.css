@@ -1,0 +1,71 @@
+/* ========================================
+   Botones reutilizables
+   ======================================== */
+
+/* Botón morado sólido (Hermandad, Noticia, etc.) */
+.btn-morado {
+    background-color: #3c1a3d;
+    color: #fff;
+    border: 2px solid #3c1a3d;
+    padding: 0.5rem 1.25rem;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.btn-morado:hover {
+    background-color: #fff;
+    color: #3c1a3d;
+    border-color: #3c1a3d;
+}
+
+/* Botón outline dorado (Contador) */
+.btn-dorado-outline {
+    background-color: transparent;
+    color: #f5e6c8;
+    border: 2px solid #c9a24d;
+    letter-spacing: 1px;
+    transition: all 0.3s ease;
+}
+
+.btn-dorado-outline:hover {
+    background-color: #712b7b;
+    border: 2px solid #ebbb54;
+    color: #f5e6c8;
+}
+
+/* Botón juego sólido */
+.btn-juego {
+    background-color: #3c1a3d;
+    color: #fff;
+    border: 1px solid #3c1a3d;
+    padding: 14px 18px;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: 500;
+    text-align: left;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
+
+.btn-juego:hover {
+    background-color: #fff;
+    color: #3c1a3d;
+}
+
+/* Botón juego outline */
+.btn-juego-outline {
+    background-color: transparent;
+    color: #3c1a3d;
+    border: 1px solid #3c1a3d;
+    padding: 8px 18px;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
+
+.btn-juego-outline:hover {
+    background-color: #3c1a3d;
+    color: #fff;
+}

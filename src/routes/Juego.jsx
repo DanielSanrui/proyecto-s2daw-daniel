@@ -1,5 +1,6 @@
 import { useState } from "react";
 import preguntas from "../data/preguntas.json";
+import "../css/Botones.css";
 
 const theme = {
   bg: "#f4f1ea",
@@ -19,7 +20,6 @@ function Juego() {
   const [terminado, setTerminado] = useState(false);
   const [empezado, setEmpezado] = useState(false);
   const [dificultad, setDificultad] = useState(null);
-  const [hovered, setHovered] = useState(null);
 
   const seleccionarPreguntas = (nivel) => {
     const filtradas =
@@ -84,20 +84,6 @@ function Juego() {
       color: theme.accent,
     };
   };
-
-  const botonStyle = (id) => ({
-    backgroundColor: hovered === id ? "#ffffff" : theme.primary,
-    color: hovered === id ? theme.primary : "#ffffff",
-    border: `1px solid ${theme.primary}`,
-    padding: "14px 18px",
-    borderRadius: "8px",
-    fontSize: "1rem",
-    fontWeight: 500,
-    textAlign: "left",
-    cursor: "pointer",
-    transition: "all 0.25s ease",
-    fontFamily: theme.fontSans,
-  });
 
   return (
     <div
@@ -164,9 +150,7 @@ function Juego() {
               ].map(([id, label]) => (
                 <button
                   key={id}
-                  style={botonStyle(id)}
-                  onMouseEnter={() => setHovered(id)}
-                  onMouseLeave={() => setHovered(null)}
+                  className="btn-juego"
                   onClick={() => {
                     setDificultad(id);
                     seleccionarPreguntas(id);
@@ -242,9 +226,7 @@ function Juego() {
                   (opcion, idx) => (
                     <button
                       key={idx}
-                      style={botonStyle(idx)}
-                      onMouseEnter={() => setHovered(idx)}
-                      onMouseLeave={() => setHovered(null)}
+                      className="btn-juego"
                       onClick={() => handleRespuesta(opcion)}
                     >
                       {opcion}
@@ -256,24 +238,7 @@ function Juego() {
               <div style={{ textAlign: "right" }}>
                 <button
                   onClick={volverInicio}
-                  onMouseEnter={() => setHovered("volverNivel")}
-                  onMouseLeave={() => setHovered(null)}
-                  style={{
-                    backgroundColor:
-                      hovered === "volverNivel"
-                        ? theme.primary
-                        : "transparent",
-                    color:
-                      hovered === "volverNivel"
-                        ? "#ffffff"
-                        : theme.primary,
-                    border: `1px solid ${theme.primary}`,
-                    padding: "8px 18px",
-                    borderRadius: "20px",
-                    fontSize: "0.85rem",
-                    cursor: "pointer",
-                    transition: "all 0.25s ease",
-                  }}
+                  className="btn-juego-outline"
                 >
                   Volver al cuestionario
                 </button>
@@ -325,9 +290,7 @@ function Juego() {
             </p>
 
             <button
-              style={botonStyle("volver")}
-              onMouseEnter={() => setHovered("volver")}
-              onMouseLeave={() => setHovered(null)}
+              className="btn-juego"
               onClick={volverInicio}
             >
               Volver al inicio

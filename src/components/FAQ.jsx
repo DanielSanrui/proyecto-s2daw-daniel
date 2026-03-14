@@ -3,7 +3,7 @@ import preguntas from "../data/FAQ.json";
 
 const Faq = () => {
   return (
-    <section className="bg-white pt-5 pb-3 px-3 px-md-5" id="faq">
+    <section className="pt-5 pb-3 px-3 px-md-5" id="faq" style={{ backgroundColor: "#faf3e6" }}>
       <style>{`
         .faq-details {
           transition: all 0.3s ease;

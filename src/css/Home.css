@@ -1,0 +1,159 @@
+/* ─────────────────────────────────────────
+   HERO — Opción 2: gradiente morado
+───────────────────────────────────────── */
+.hero {
+    position: relative;
+    height: 70vh;
+    min-height: 480px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    background-size: cover;
+    background-position: center top;
+}
+
+/* Gradiente: transparente arriba → morado oscuro abajo */
+.hero__overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg,
+            rgba(60, 26, 61, 0.0) 0%,
+            rgba(60, 26, 61, 0.2) 40%,
+            rgba(60, 26, 61, 0.75) 70%,
+            rgba(60, 26, 61, 0.96) 100%);
+}
+
+/* Contenido alineado abajo a la izquierda */
+.hero__contenido {
+    position: relative;
+    z-index: 2;
+    padding: 0 3.5rem 3.5rem;
+    max-width: 600px;
+    opacity: 0;
+    transform: translateY(16px);
+    transition: opacity 0.9s ease, transform 0.9s ease;
+}
+
+.hero__contenido--visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.hero__subtag {
+    color: #c9a24d;
+    font-family: 'Cinzel', serif;
+    letter-spacing: 4px;
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+}
+
+.hero__titulo {
+    font-family: 'Cinzel', serif;
+    color: #ffffff;
+    font-size: clamp(2.6rem, 6vw, 4.4rem);
+    font-weight: 700;
+    line-height: 1.08;
+    margin-bottom: 0.6rem;
+    text-shadow: 0 2px 16px rgba(0, 0, 0, 0.3);
+}
+
+.hero__linea {
+    width: 55px;
+    height: 2px;
+    background: #c9a24d;
+    margin-bottom: 1rem;
+}
+
+.hero__descripcion {
+    color: #faf3e6;
+    font-size: clamp(0.88rem, 1.6vw, 1rem);
+    line-height: 1.7;
+    margin-bottom: 1.75rem;
+    max-width: 460px;
+}
+
+.hero__boton {
+    display: inline-block;
+    border: 1.5px solid #c9a24d;
+    color: #c9a24d;
+    font-family: 'Cinzel', serif;
+    font-size: 0.78rem;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    padding: 0.7rem 2rem;
+    border-radius: 50px;
+    text-decoration: none;
+    transition: background 0.3s ease, color 0.3s ease;
+}
+
+.hero__boton:hover {
+    background: #c9a24d;
+    color: #3c1a3d;
+}
+
+@keyframes scrollPulse {
+
+    0%,
+    100% {
+        opacity: 0.25;
+        transform: scaleY(0.75);
+    }
+
+    50% {
+        opacity: 1;
+        transform: scaleY(1);
+    }
+}
+
+/* Responsive móvil */
+@media (max-width: 576px) {
+    .hero__contenido {
+        padding: 0 1.5rem 2.5rem;
+        max-width: 100%;
+    }
+
+    .hero__scroll {
+        display: none;
+    }
+}
+
+/* ─────────────────────────────────────────
+   ACCESO RÁPIDO (existente)
+───────────────────────────────────────── */
+.acceso-rapido-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding: 24px 16px;
+    background: #fff;
+    border-radius: 12px;
+    border: 1px solid #e8dcc8;
+    text-decoration: none;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.acceso-rapido-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 20px rgba(60, 26, 61, 0.12);
+}
+
+.acceso-rapido-icon {
+    font-size: 2rem;
+    color: #3c1a3d;
+}
+
+.acceso-rapido-label {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #3c1a3d;
+}
+
+/* ─────────────────────────────────────────
+   SPACER
+───────────────────────────────────────── */
+.home__spacer {
+    height: 3rem;
+    background-color: #f8f9fa;
+}
