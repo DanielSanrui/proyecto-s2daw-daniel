@@ -8,7 +8,6 @@ import CalendarioHome from "../components/CalendarioHome";
 
 const imagenesHero = [
   "https://res.cloudinary.com/dn76ni2ay/image/upload/v1773537613/TresCaidas-Hero_randbh.jpg",
-  "https://res.cloudinary.com/dn76ni2ay/image/upload/v1773537613/SanGonzalo2-Hero_ufawno.jpg",
   "https://res.cloudinary.com/dn76ni2ay/image/upload/v1773537613/LasPenas-Hero_ouanxc.jpg",
   "https://res.cloudinary.com/dn76ni2ay/image/upload/v1773537613/EsperanzaTriana-Hero_rht5wm.jpg",
   "https://res.cloudinary.com/dn76ni2ay/image/upload/v1773537613/SanGonzalo1-Hero_cqaihf.jpg",
@@ -28,10 +27,12 @@ export default function Home() {
   return (
     <div>
       {/* ── HERO ── */}
-      <section
-        className="hero"
-        style={{ backgroundImage: `url(${heroBg})` }}
-      >
+      <section className="hero">
+        <img
+          src={heroBg}
+          alt="Semana Santa de Sevilla"
+          className="hero__foto"
+        />
         <div className="hero__overlay" />
 
         <div className={`hero__contenido ${visible ? "hero__contenido--visible" : ""}`}>

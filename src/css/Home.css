@@ -8,8 +8,17 @@
     display: flex;
     align-items: flex-end;
     justify-content: flex-start;
-    background-size: cover;
-    background-position: center top;
+    overflow: hidden;
+}
+
+/* Imagen de fondo con object-fit para responsive perfecto */
+.hero__foto {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
 }
 
 /* Gradiente: transparente arriba → morado oscuro abajo */
@@ -92,6 +101,34 @@
     color: #3c1a3d;
 }
 
+/* Scroll indicator */
+.hero__scroll {
+    position: absolute;
+    bottom: 1.75rem;
+    right: 2.5rem;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    opacity: 0.55;
+}
+
+.hero__scroll-texto {
+    color: #faf3e6;
+    font-size: 0.62rem;
+    letter-spacing: 2.5px;
+    font-family: 'Cinzel', serif;
+    text-transform: uppercase;
+}
+
+.hero__scroll-linea {
+    width: 1px;
+    height: 38px;
+    background: linear-gradient(#c9a24d, transparent);
+    animation: scrollPulse 1.8s ease-in-out infinite;
+}
+
 @keyframes scrollPulse {
 
     0%,
@@ -108,6 +145,10 @@
 
 /* Responsive móvil */
 @media (max-width: 576px) {
+    .hero__foto {
+        object-position: center center;
+    }
+
     .hero__contenido {
         padding: 0 1.5rem 2.5rem;
         max-width: 100%;
