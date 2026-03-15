@@ -47,11 +47,6 @@ export default function Home() {
             Explorar hermandades
           </Link>
         </div>
-
-        <div className="hero__scroll">
-          <span className="hero__scroll-texto">Descubre</span>
-          <div className="hero__scroll-linea" />
-        </div>
       </section>
 
       {/* ── RESTO DE SECCIONES ── */}

@@ -1,0 +1,118 @@
+/* ─────────────────────────────────────────
+   CARD NOTICIA
+───────────────────────────────────────── */
+.card-noticia {
+    background: #faf3e6;
+    border-radius: 10px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    border: none;
+}
+
+/* Imagen */
+.card-noticia__img-wrap {
+    position: relative;
+    height: 200px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.card-noticia__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.4s ease;
+}
+
+.card-noticia:hover .card-noticia__img {
+    transform: scale(1.04);
+}
+
+.card-noticia__img-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg,
+            transparent 50%,
+            rgba(60, 26, 61, 0.5) 100%);
+}
+
+/* Badge fecha */
+.card-noticia__fecha {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: #c9a24d;
+    color: #3c1a3d;
+    font-size: 0.72rem;
+    font-weight: 600;
+    padding: 3px 10px;
+    border-radius: 20px;
+    letter-spacing: 0.3px;
+    text-transform: capitalize;
+}
+
+/* Cuerpo */
+.card-noticia__body {
+    padding: 1rem 1.1rem 1.2rem;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.card-noticia__titulo {
+    color: #3c1a3d;
+
+    font-size: 1.15rem;
+    font-weight: 600;
+    line-height: 1.45;
+    margin-bottom: 0.5rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.card-noticia__desc {
+    color: #5a3a3b;
+    font-size: 0.85rem;
+    line-height: 1.6;
+    flex-grow: 1;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin-bottom: 1rem;
+}
+
+.card-noticia__btn {
+    display: inline-block;
+    background: #3c1a3d;
+    color: #f5e6c8;
+    font-size: 0.78rem;
+    letter-spacing: 1px;
+    padding: 0.5rem 1.25rem;
+    border-radius: 20px;
+    text-decoration: none;
+    align-self: flex-start;
+    border: 1.5px solid #3c1a3d;
+    transition: background 0.3s ease, color 0.3s ease;
+}
+
+.card-noticia__btn:hover {
+    background: #fff;
+    color: #3c1a3d;
+}
+
+/* Responsive móvil */
+@media (max-width: 576px) {
+    .card-noticia__img-wrap {
+        height: 180px;
+    }
+
+    .card-noticia__titulo {
+        font-size: 1.15rem;
+    }
+}
