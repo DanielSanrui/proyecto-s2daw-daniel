@@ -1,0 +1,129 @@
+/* ─────────────────────────────────────────
+   PÁGINA NOTICIA — Boceto 2
+───────────────────────────────────────── */
+.noticia-page {
+    background: #faf3e6;
+    min-height: 100vh;
+    color: #1a0a1b;
+}
+
+/* ── HERO ── */
+.noticia-hero {
+    position: relative;
+    overflow: hidden;
+    background: #0a040a;
+    /* fondo negro para los laterales */
+}
+
+.noticia-hero__img {
+    width: 100%;
+    height: auto;
+    /* ← quita el height fijo */
+    object-fit: contain;
+    /* ← se ve entera */
+    display: block;
+}
+
+.noticia-hero__overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg,
+            rgba(10, 4, 10, 0.05) 20%,
+            rgba(10, 4, 10, 0.55) 65%,
+            rgba(10, 4, 10, 0.82) 100%);
+}
+
+.noticia-hero__texto {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 2rem 2.5rem;
+    max-width: 100%;
+}
+
+.noticia-hero__fecha {
+    display: block;
+    font-size: 0.78rem;
+    color: #c9a24d;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 0.6rem;
+    font-family: 'Cinzel', serif;
+}
+
+.noticia-hero__titulo {
+    font-family: 'Cinzel', serif;
+    color: #fff;
+    font-size: clamp(1.8rem, 3.8vw, 2.6rem);
+    font-weight: 700;
+    line-height: 1.3;
+    margin: 0;
+    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.4);
+}
+
+/* ── CONTENEDOR CENTRAL ── */
+.noticia-wrap {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 2.5rem 2rem 4rem;
+}
+
+/* ── ENTRADILLA con borde dorado solo aquí ── */
+.noticia-entradilla {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: #3c1a3d;
+    line-height: 1.75;
+    border-left: 4px solid #c9a24d;
+    padding-left: 1.1rem;
+    margin-bottom: 2rem;
+}
+
+/* ── PÁRRAFOS sin borde ── */
+.noticia-cuerpo {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+}
+
+.noticia-parrafo {
+    font-size: 1.02rem;
+    line-height: 1.9;
+    color: #2e1a2f;
+    text-align: justify;
+    margin: 0;
+}
+
+/* ── VOLVER ── */
+.noticia-volver {
+    margin-top: 2.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #e8dcc8;
+}
+
+/* ── RESPONSIVE ── */
+@media (max-width: 768px) {
+    .noticia-hero__texto {
+        padding: 1.5rem;
+    }
+}
+
+@media (max-width: 576px) {
+    .noticia-hero {
+        height: 55vw;
+        min-height: 260px;
+    }
+
+    .noticia-wrap {
+        padding: 1.5rem 0.75rem 3rem;
+    }
+
+    .noticia-entradilla {
+        font-size: 0.97rem;
+    }
+
+    .noticia-parrafo {
+        font-size: 0.95rem;
+    }
+}
