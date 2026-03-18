@@ -1,53 +1,32 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import "../css/CardHermandad.css";
 
 const CardHermandad = ({ hermandad }) => {
   const { nombre, sede, barrio, escudo, descripcionCorta, slug } = hermandad;
+
   return (
-    <div
-      className="d-flex flex-column flex-md-row text-white shadow rounded border border-light overflow-hidden p-2"
-      style={{ backgroundColor: "#3c1a3d" }}
-    >
+    <div className="card-hermandad">
       <img
         src={escudo}
-        alt={`${nombre}`}
-        className="w-100 w-md-25 h-100 object-fit-cover m-2"
-        style={{ maxWidth: "240px", height: "190px", objectFit: "cover" }}
+        alt={nombre}
+        className="card-hermandad__img"
       />
-      <div className="p-3 d-flex flex-column justify-content-between flex-grow-1">
+      <div className="card-hermandad__body">
         <div>
-          <h4 className="h5 fw-bold mb-2">{nombre}</h4>
+          <h4 className="card-hermandad__titulo">{nombre}</h4>
           {barrio && (
-            <p className="mb-1">
-              <strong>Barrio:</strong> {barrio}
+            <p className="card-hermandad__meta">
+              <span className="card-hermandad__meta-label">Barrio:</span> {barrio}
             </p>
           )}
-          <p className="mb-1">
-            <strong>Sede:</strong> {sede}
+          <p className="card-hermandad__meta">
+            <span className="card-hermandad__meta-label">Sede:</span> {sede}
           </p>
-          <p className="mt-2">{descripcionCorta}</p>
+          <p className="card-hermandad__desc">{descripcionCorta}</p>
         </div>
-        <div className="mt-3">
-          <Link
-            to={`/hermandades/${slug}`}
-            className="btn px-4 py-2 rounded shadow-sm"
-            style={{
-              backgroundColor: "white",
-              color: "#3c1a3d",
-              border: "2px solid #3c1a3d",
-              transition: "all 0.3s ease",
-            }}
-            onMouseOver={(e) => {
-              e.target.style.backgroundColor = "#3c1a3d";
-              e.target.style.color = "white";
-              e.target.style.border = "2px solid white";
-            }}
-            onMouseOut={(e) => {
-              e.target.style.backgroundColor = "white";
-              e.target.style.color = "#3c1a3d";
-              e.target.style.border = "2px solid #3c1a3d";
-            }}
-          >
+        <div className="card-hermandad__footer">
+          <Link to={`/hermandades/${slug}`} className="btn btn-dorado-outline">
             Ver más
           </Link>
         </div>
