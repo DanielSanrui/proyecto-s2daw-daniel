@@ -3,6 +3,7 @@ import { useParams } from "react-router-dom";
 import hermandades from "../data/Hermandades.json";
 import dias from "../data/Dias.json";
 import CardHermandad from "../components/CardHermandad.jsx";
+import "../css/Dias.css";
 
 const diasMap = {
   "viernes-de-dolores": "Viernes de Dolores",
@@ -21,41 +22,58 @@ const diasMap = {
 const Dia = () => {
   const { nombreDia } = useParams();
   const nombreLegible = diasMap[nombreDia];
-
   const infoDia = dias.find((d) => d.nombre === nombreLegible);
-
   const hermandadesDelDia = hermandades.filter(
     (h) => h.diaSalida === nombreLegible
   );
 
   return (
-    <div className="container py-5">
-      <h1
-        className="text-center text-4xl fw-bold mb-4"
-        style={{ color: "#3c1a3d" }}
-      >
-        {nombreLegible || "Día no encontrado"}
-      </h1>
+    <div>
+      {/* ── BANNER ── */}
+      <section className="dia-banner">
+        <div className="dia-banner__pattern" />
+        <div className="dia-banner__circulo1" />
+        <div className="dia-banner__circulo2" />
 
-      {infoDia && (
-        <>
-          <div className="mb-4 text-center">
-            <p className="fs-5 text-muted">{infoDia.descripcion}</p>
-          </div>
-        </>
-      )}
-
-      {hermandadesDelDia.length === 0 ? (
-        <p className="text-center text-muted">
-          No hay hermandades registradas para este día.
-        </p>
-      ) : (
-        <div className="d-flex flex-column gap-4">
-          {hermandadesDelDia.map((hermandad, idx) => (
-            <CardHermandad key={idx} hermandad={hermandad} />
-          ))}
+        {/* Texto izquierda */}
+        <div className="dia-banner__texto">
+          <span className="dia-banner__tag">Semana Santa · Sevilla 2026</span>
+          <h1 className="dia-banner__titulo">
+            {nombreLegible || "Día no encontrado"}
+          </h1>
+          <div className="dia-banner__linea" />
+          {infoDia && (
+            <p className="dia-banner__desc">{infoDia.descripcion}</p>
+          )}
         </div>
-      )}
+
+        {/* Imagen derecha */}
+        {infoDia?.imagen && (
+          <div className="dia-banner__img-wrap">
+            <img
+              src={infoDia.imagen}
+              alt={nombreLegible}
+              className="dia-banner__img"
+            />
+            <div className="dia-banner__img-overlay" />
+          </div>
+        )}
+      </section>
+
+      {/* ── HERMANDADES DEL DÍA ── */}
+      <div className="container py-5">
+        {hermandadesDelDia.length === 0 ? (
+          <p className="text-center text-muted">
+            No hay hermandades registradas para este día.
+          </p>
+        ) : (
+          <div className="d-flex flex-column gap-4">
+            {hermandadesDelDia.map((hermandad, idx) => (
+              <CardHermandad key={idx} hermandad={hermandad} />
+            ))}
+          </div>
+        )}
+      </div>
     </div>
   );
 };
