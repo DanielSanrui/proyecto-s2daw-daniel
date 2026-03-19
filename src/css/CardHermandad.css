@@ -21,7 +21,7 @@
 .card-hermandad__img {
     width: 220px;
     min-width: 220px;
-    height: 190px;
+    height: 220px;
     object-fit: contain;
     background: transparent;
     padding: 1rem;
@@ -84,10 +84,10 @@
     .card-hermandad__img {
         width: 100%;
         min-width: unset;
-        height: 180px;
+        height: 260px;
         object-fit: contain;
         background: transparent;
-        padding: 1rem;
+        padding: 1.5rem;
         align-self: center;
     }
 }
@@ -98,6 +98,6 @@
     }
 
     .card-hermandad__img {
-        height: 150px;
+        height: 220px;
     }
 }
