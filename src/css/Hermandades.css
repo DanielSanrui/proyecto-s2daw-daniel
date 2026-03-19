@@ -1,0 +1,168 @@
+/* ─────────────────────────────────────────
+   CABECERA
+───────────────────────────────────────── */
+.hermandades-header {
+    position: relative;
+    background: #3c1a3d;
+    padding: 4rem 1.5rem 3rem;
+    text-align: center;
+    overflow: hidden;
+}
+
+.hermandades-header__overlay {
+    position: absolute;
+    inset: 0;
+    background: repeating-linear-gradient(45deg,
+            rgba(201, 162, 77, 0.03) 0px,
+            rgba(201, 162, 77, 0.03) 1px,
+            transparent 1px,
+            transparent 12px);
+}
+
+.hermandades-header__contenido {
+    position: relative;
+    z-index: 1;
+}
+
+.hermandades-header__titulo {
+    font-family: 'Cinzel', serif;
+    color: #f5e6c8;
+    font-size: clamp(2rem, 5vw, 3.2rem);
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.hermandades-header__linea {
+    width: 60px;
+    height: 2px;
+    background: #c9a24d;
+    margin: 0 auto 1rem;
+}
+
+.hermandades-header__subtitulo {
+    color: rgba(245, 230, 200, 0.75);
+    font-size: 1rem;
+    letter-spacing: 1px;
+}
+
+/* ─────────────────────────────────────────
+   FILTROS
+───────────────────────────────────────── */
+.hermandades-filtros {
+    background: #faf3e6;
+    border-radius: 12px;
+    border: 1px solid #e8dcc8;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    margin-top: 1.5rem;
+}
+
+.hermandades-filtros__titulo {
+    font-family: 'Cinzel', serif;
+    color: #3c1a3d;
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.hermandades-label {
+    display: block;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #3c1a3d;
+    margin-bottom: 0.4rem;
+}
+
+.hermandades-select {
+    width: 100%;
+    padding: 0.55rem 2.5rem 0.55rem 0.85rem;
+    border: 2px solid #3c1a3d;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    color: #3c1a3d;
+    background: #fff;
+    appearance: none;
+    cursor: pointer;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%233c1a3d' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.85rem center;
+}
+
+.hermandades-select:focus {
+    outline: none;
+    border-color: #c9a24d;
+    box-shadow: 0 0 0 3px rgba(201, 162, 77, 0.25);
+}
+
+.hermandades-select:hover {
+    border-color: #c9a24d;
+}
+
+/* Footer filtros */
+.hermandades-filtros__footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 1.25rem;
+    padding-top: 1rem;
+    border-top: 1px solid #e8dcc8;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+}
+
+.hermandades-filtros__resultado {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.88rem;
+    color: #3c1a3d;
+    font-weight: 600;
+}
+
+.hermandades-filtros__resultado::before {
+    content: '';
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    background: #c9a24d;
+    border-radius: 50%;
+}
+
+/* Botón resetear */
+.hermandades-btn-reset {
+    background: transparent;
+    border: 2px solid #3c1a3d;
+    color: #3c1a3d;
+    font-size: 0.82rem;
+    font-weight: 600;
+    padding: 0.45rem 1.25rem;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background 0.25s ease, color 0.25s ease;
+}
+
+.hermandades-btn-reset:hover {
+    background: #3c1a3d;
+    color: #f5e6c8;
+}
+
+/* Sin resultados */
+.hermandades-vacio {
+    color: #5a3a3b;
+    font-size: 1rem;
+}
+
+/* ─────────────────────────────────────────
+   RESPONSIVE
+───────────────────────────────────────── */
+@media (max-width: 576px) {
+    .hermandades-filtros {
+        padding: 1.25rem 1rem;
+    }
+
+    .hermandades-filtros__footer {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}
