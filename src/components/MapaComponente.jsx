@@ -1,56 +1,58 @@
 import React, { useEffect, useRef } from "react";
-import { GoogleMap, LoadScript, Polyline } from "@react-google-maps/api";
+import { useJsApiLoader, GoogleMap, Polyline } from "@react-google-maps/api";
+import "../css/Hermandad.css";
 
-// Estilo del contenedor del mapa
 const containerStyle = {
-  width: "400px", // ⬅️ mismo valor que height
-  height: "400px",
-  border: "3px solid #6a1b9a",
+  width: "100%",
+  height: "450px",
   borderRadius: "12px",
-  boxShadow: "0 4px 12px rgba(106, 27, 154, 0.3)",
-  margin: "0 auto", // centra el cuadrado horizontalmente
+  overflow: "hidden",
 };
 
-// Colores de cada tramo
 const estilos = {
-  ida: "#6a1b9a", // Morado
-  carrera: "#fbc02d", // Dorado
-  vuelta: "#2e7d32", // Verde
+  ida: "#6a1b9a",
+  carrera: "#fbc02d",
+  vuelta: "#2e7d32",
 };
+
+const leyenda = [
+  { color: "#6a1b9a", label: "Ida" },
+  { color: "#fbc02d", label: "Carrera oficial" },
+  { color: "#2e7d32", label: "Vuelta" },
+];
 
 const MapaComponente = ({ recorrido }) => {
   const mapRef = useRef(null);
 
-  // Centrado automático del mapa según puntos
+  const { isLoaded } = useJsApiLoader({
+    googleMapsApiKey: import.meta.env.VITE_GOOGLE_MAPS_API_KEY,
+  });
+
   useEffect(() => {
     if (!mapRef.current || !recorrido) return;
 
     const bounds = new window.google.maps.LatLngBounds();
-
     ["ida", "carrera", "vuelta"].forEach((tipo) => {
       if (Array.isArray(recorrido[tipo])) {
         recorrido[tipo].forEach((p) => bounds.extend(p));
       }
     });
-
     mapRef.current.fitBounds(bounds);
   }, [recorrido]);
 
-  if (!recorrido) return null;
+  if (!recorrido || !isLoaded) return null;
 
   return (
-    <div className="my-5">
-      <h3 className="h5 fw-bold mb-3" style={{ color: "#3c1a3d" }}>
-        Recorrido sobre el mapa
-      </h3>
-      <LoadScript googleMapsApiKey="AIzaSyDxvJlpFgpczM8e0YPiV7c_qJjKU51f32I">
+    <div className="mapa-componente mb-5">
+      <h2 className="hermandad-section-titulo">Recorrido sobre el mapa</h2>
+
+      <div className="mapa-componente__wrap">
         <GoogleMap
           mapContainerStyle={containerStyle}
           center={{ lat: 37.389, lng: -5.994 }}
           zoom={14}
           onLoad={(map) => (mapRef.current = map)}
         >
-          {/* Dibujar líneas para ida, carrera oficial y vuelta */}
           {["ida", "carrera", "vuelta"].map((tramo) =>
             recorrido[tramo] && recorrido[tramo].length > 1 ? (
               <Polyline
@@ -65,7 +67,20 @@ const MapaComponente = ({ recorrido }) => {
             ) : null
           )}
         </GoogleMap>
-      </LoadScript>
+      </div>
+
+      {/* Leyenda */}
+      <div className="mapa-componente__leyenda">
+        {leyenda.map((item) => (
+          <div key={item.label} className="mapa-componente__leyenda-item">
+            <span
+              className="mapa-componente__leyenda-color"
+              style={{ background: item.color }}
+            />
+            <span className="mapa-componente__leyenda-texto">{item.label}</span>
+          </div>
+        ))}
+      </div>
     </div>
   );
 };

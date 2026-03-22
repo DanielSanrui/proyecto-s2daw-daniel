@@ -1,19 +1,60 @@
-.tiempo-header {
-  color: #3c1a3d;
-  font-weight: 700;
+/* ─────────────────────────────────────────
+   CABECERA TIEMPO
+───────────────────────────────────────── */
+.tiempo-header-banner {
   position: relative;
-  display: block;
+  background: #3c1a3d;
+  padding: 4rem 1.5rem 3rem;
   text-align: center;
+  overflow: hidden;
 }
 
-.tiempo-header::after {
-  content: '';
-  display: block;
-  width: 50px;
-  height: 3px;
-  background: #c9a84c;
-  margin: 10px auto 0;
-  border-radius: 2px;
+.tiempo-header-banner__overlay {
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(45deg,
+      rgba(201, 162, 77, 0.03) 0px,
+      rgba(201, 162, 77, 0.03) 1px,
+      transparent 1px,
+      transparent 12px);
+}
+
+.tiempo-header-banner__contenido {
+  position: relative;
+  z-index: 1;
+}
+
+.tiempo-header-banner__titulo {
+  font-family: 'Cinzel', serif;
+  color: #f5e6c8;
+  font-size: clamp(2rem, 5vw, 3.2rem);
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.tiempo-header-banner__linea {
+  width: 60px;
+  height: 2px;
+  background: #c9a24d;
+  margin: 0 auto 1rem;
+}
+
+.tiempo-header-banner__subtitulo {
+  color: rgba(245, 230, 200, 0.75);
+  font-size: 1rem;
+  letter-spacing: 1px;
+}
+
+/* Título sección pronóstico */
+.tiempo-seccion-titulo {
+  font-family: 'Cinzel', serif;
+  color: #3c1a3d;
+  font-size: 1.3rem;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #e8dcc8;
 }
 
 /* Clima actual */

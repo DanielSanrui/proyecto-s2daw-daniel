@@ -1,0 +1,46 @@
+/* ─────────────────────────────────────────
+   CABECERA NOTICIAS
+───────────────────────────────────────── */
+.noticias-header {
+    position: relative;
+    background: #3c1a3d;
+    padding: 4rem 1.5rem 3rem;
+    text-align: center;
+    overflow: hidden;
+}
+
+.noticias-header__overlay {
+    position: absolute;
+    inset: 0;
+    background: repeating-linear-gradient(45deg,
+            rgba(201, 162, 77, 0.03) 0px,
+            rgba(201, 162, 77, 0.03) 1px,
+            transparent 1px,
+            transparent 12px);
+}
+
+.noticias-header__contenido {
+    position: relative;
+    z-index: 1;
+}
+
+.noticias-header__titulo {
+    font-family: 'Cinzel', serif;
+    color: #f5e6c8;
+    font-size: clamp(2rem, 5vw, 3.2rem);
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.noticias-header__linea {
+    width: 60px;
+    height: 2px;
+    background: #c9a24d;
+    margin: 0 auto 1rem;
+}
+
+.noticias-header__subtitulo {
+    color: rgba(245, 230, 200, 0.75);
+    font-size: 1rem;
+    letter-spacing: 1px;
+}

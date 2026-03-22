@@ -1,0 +1,318 @@
+/* ─────────────────────────────────────────
+   HERO
+───────────────────────────────────────── */
+.hermandad-hero {
+    position: relative;
+    overflow: hidden;
+}
+
+.hermandad-hero__foto {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.hermandad-hero__overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg,
+            rgba(60, 26, 61, 0.0) 0%,
+            rgba(60, 26, 61, 0.25) 40%,
+            rgba(60, 26, 61, 0.88) 100%);
+}
+
+.hermandad-hero__contenido {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+    padding: 0 3rem 3rem;
+    max-width: 780px;
+}
+
+.hermandad-hero__titulo {
+    font-family: 'Cinzel', serif;
+    color: #fff;
+    font-size: clamp(1.8rem, 4vw, 3rem);
+    font-weight: 700;
+    line-height: 1.15;
+    margin-bottom: 0.5rem;
+    text-shadow: 0 2px 16px rgba(0, 0, 0, 0.4);
+}
+
+.hermandad-hero__linea {
+    width: 55px;
+    height: 2px;
+    background: #c9a24d;
+    margin-bottom: 0.75rem;
+}
+
+.hermandad-hero__subtag {
+    color: #faf3e6;
+    font-size: 0.92rem;
+    letter-spacing: 1px;
+    margin: 0;
+    opacity: 0.85;
+}
+
+/* ─────────────────────────────────────────
+   PÁGINA
+───────────────────────────────────────── */
+.hermandad-page {
+    color: #3c1a3d;
+}
+
+.hermandad-section-titulo {
+    font-family: 'Cinzel', serif;
+    color: #3c1a3d;
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-bottom: 1.25rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #e8dcc8;
+}
+
+/* ─────────────────────────────────────────
+   FICHA
+───────────────────────────────────────── */
+.hermandad-ficha {
+    background: #faf3e6;
+    border-radius: 12px;
+    border: 1px solid #e8dcc8;
+    padding: 1.5rem;
+    margin-bottom: 2.5rem;
+}
+
+.hermandad-ficha__grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.hermandad-ficha__item {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    min-width: 140px;
+    flex: 1;
+}
+
+.hermandad-ficha__label {
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: #c9a24d;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.hermandad-ficha__valor {
+    font-size: 0.95rem;
+    color: #3c1a3d;
+    font-weight: 500;
+}
+
+/* ─────────────────────────────────────────
+   IMÁGENES TITULARES
+───────────────────────────────────────── */
+.hermandad-imagen-card {
+    border-radius: 12px;
+    overflow: hidden;
+    background: #faf3e6;
+    border: 1px solid #e8dcc8;
+    height: 100%;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.hermandad-imagen-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 32px rgba(60, 26, 61, 0.15);
+}
+
+.hermandad-imagen-card__wrap {
+    position: relative;
+    overflow: hidden;
+    background: #faf3e6;
+}
+
+.hermandad-imagen-card__img {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: transform 0.4s ease;
+}
+
+.hermandad-imagen-card:hover .hermandad-imagen-card__img {
+    transform: scale(1.05);
+}
+
+.hermandad-imagen-card__overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(60, 26, 61, 0.35);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.hermandad-imagen-card:hover .hermandad-imagen-card__overlay {
+    opacity: 1;
+}
+
+.hermandad-imagen-card__body {
+    padding: 1rem 1.1rem;
+}
+
+.hermandad-imagen-card__titulo {
+    font-family: 'Cinzel', serif;
+    color: #3c1a3d;
+    font-size: 0.95rem;
+    font-weight: 700;
+    margin-bottom: 0.3rem;
+}
+
+.hermandad-imagen-card__escultor {
+    font-size: 0.85rem;
+    color: #5a3a3b;
+    margin: 0;
+}
+
+.hermandad-imagen-card__label {
+    font-weight: 700;
+    color: #c9a24d;
+}
+
+/* ─────────────────────────────────────────
+   HISTORIA
+───────────────────────────────────────── */
+.hermandad-historia {
+    border-left: 4px solid #c9a24d;
+    padding-left: 1.5rem;
+}
+
+.hermandad-historia__apartado {
+    margin-bottom: 2rem;
+}
+
+.hermandad-historia__subtitulo {
+    font-family: 'Cinzel', serif;
+    color: #3c1a3d;
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 0.75rem;
+}
+
+.hermandad-historia__parrafo {
+    font-size: 1rem;
+    line-height: 1.85;
+    color: #2e1a2f;
+    text-align: justify;
+    margin-bottom: 0.75rem;
+}
+
+/* ─────────────────────────────────────────
+   TABLA RECORRIDO
+───────────────────────────────────────── */
+.recorrido-tabla {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.88rem;
+}
+
+.recorrido-th {
+    background: #3c1a3d;
+    color: #f5e6c8;
+    font-family: 'Cinzel', serif;
+    font-size: 0.85rem;
+    padding: 0.75rem 1rem;
+    text-align: center;
+    border: 1px solid rgba(201, 162, 77, 0.3);
+}
+
+.recorrido-td {
+    padding: 0.5rem 1rem;
+    text-align: center;
+    border: 1px solid #e8dcc8;
+    color: #3c1a3d;
+}
+
+.recorrido-fila-par .recorrido-td {
+    background: #fff;
+}
+
+.recorrido-fila-impar .recorrido-td {
+    background: #faf3e6;
+}
+
+.recorrido-td--destacada {
+    background: #3c1a3d !important;
+    color: #f5e6c8 !important;
+    font-weight: 700;
+    border-color: rgba(201, 162, 77, 0.4) !important;
+}
+
+.recorrido-td--negrita {
+    font-weight: 700;
+}
+
+/* ─────────────────────────────────────────
+   RESPONSIVE
+───────────────────────────────────────── */
+@media (max-width: 768px) {
+    .hermandad-hero__contenido {
+        padding: 0 1.5rem 2rem;
+    }
+
+    .hermandad-ficha__grid {
+        gap: 0.75rem;
+    }
+
+    .hermandad-historia {
+        padding-left: 1rem;
+    }
+}
+
+@media (max-width: 576px) {
+    .hermandad-hero__contenido {
+        padding: 0 1rem 1.5rem;
+    }
+
+    .hermandad-historia__parrafo {
+        font-size: 0.95rem;
+    }
+}
+
+/* ─────────────────────────────────────────
+   MAPA COMPONENTE
+───────────────────────────────────────── */
+.mapa-componente__wrap {
+    border-radius: 12px;
+    overflow: hidden;
+    border: 2px solid rgba(201, 162, 77, 0.3);
+    box-shadow: 0 4px 24px rgba(60, 26, 61, 0.15);
+}
+
+.mapa-componente__leyenda {
+    display: flex;
+    gap: 1.5rem;
+    margin-top: 0.85rem;
+    flex-wrap: wrap;
+}
+
+.mapa-componente__leyenda-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.mapa-componente__leyenda-color {
+    width: 28px;
+    height: 5px;
+    border-radius: 3px;
+    display: inline-block;
+    flex-shrink: 0;
+}
+
+.mapa-componente__leyenda-texto {
+    font-size: 0.85rem;
+    color: #3c1a3d;
+    font-weight: 500;
+}

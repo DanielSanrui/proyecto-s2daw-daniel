@@ -55,94 +55,102 @@ const Tiempo = () => {
   const getWeather = (code) => weatherData[code] || { emoji: "❓", desc: "Desconocido" };
 
   return (
-    <div className="container py-5">
-      <h1 className="text-center mb-4 tiempo-header">
-        El Tiempo en Sevilla
-      </h1>
-
-      {/* Clima actual */}
-      <div className="tiempo-actual mb-5">
-        <div className="tiempo-actual-top">
-          <span>Clima actual</span>
+    <div>
+      {/* ── CABECERA ── */}
+      <section className="tiempo-header-banner">
+        <div className="tiempo-header-banner__overlay" />
+        <div className="tiempo-header-banner__contenido">
+          <h1 className="tiempo-header-banner__titulo">El Tiempo en Sevilla</h1>
+          <div className="tiempo-header-banner__linea" />
+          <p className="tiempo-header-banner__subtitulo">
+            Previsión meteorológica para la Semana Santa
+          </p>
         </div>
-        {error ? (
-          <div className="tiempo-actual-body" style={{ justifyContent: 'center' }}>
-            <p className="mb-0 text-danger">No se pudo cargar el clima. Inténtalo de nuevo más tarde.</p>
+      </section>
+
+      <div className="container py-5">
+        {/* ── CLIMA ACTUAL ── */}
+        <div className="tiempo-actual mb-5">
+          <div className="tiempo-actual-top">
+            <span>Clima actual</span>
           </div>
-        ) : climaActual ? (
-          <div className="tiempo-actual-body">
-            <div className="tiempo-actual-col">
-              <span className="tiempo-actual-emoji">{getWeather(climaActual.codigo).emoji}</span>
+          {error ? (
+            <div className="tiempo-actual-body" style={{ justifyContent: "center" }}>
+              <p className="mb-0 text-danger">No se pudo cargar el clima. Inténtalo de nuevo más tarde.</p>
             </div>
-            <div className="tiempo-actual-col">
-              <div className="tiempo-actual-temp">{climaActual.temperatura}°C</div>
-              <div className="tiempo-actual-desc">{getWeather(climaActual.codigo).desc}</div>
-            </div>
-            <div className="tiempo-actual-col">
-              <div className="tiempo-actual-datos">
-                <div className="tiempo-actual-dato">
-                  <i className="bi bi-wind"></i> {climaActual.viento} km/h
-                </div>
-                <div className="tiempo-actual-dato">
-                  <i className="bi bi-geo-alt-fill"></i> Sevilla
+          ) : climaActual ? (
+            <div className="tiempo-actual-body">
+              <div className="tiempo-actual-col">
+                <span className="tiempo-actual-emoji">{getWeather(climaActual.codigo).emoji}</span>
+              </div>
+              <div className="tiempo-actual-col">
+                <div className="tiempo-actual-temp">{climaActual.temperatura}°C</div>
+                <div className="tiempo-actual-desc">{getWeather(climaActual.codigo).desc}</div>
+              </div>
+              <div className="tiempo-actual-col">
+                <div className="tiempo-actual-datos">
+                  <div className="tiempo-actual-dato">
+                    <i className="bi bi-wind"></i> {climaActual.viento} km/h
+                  </div>
+                  <div className="tiempo-actual-dato">
+                    <i className="bi bi-geo-alt-fill"></i> Sevilla
+                  </div>
                 </div>
               </div>
             </div>
-          </div>
-        ) : (
-          <div className="tiempo-actual-body">
-            <p className="mb-0">Cargando clima actual...</p>
-          </div>
-        )}
+          ) : (
+            <div className="tiempo-actual-body">
+              <p className="mb-0">Cargando clima actual...</p>
+            </div>
+          )}
+        </div>
+
+        {/* ── PRONÓSTICO SEMANAL ── */}
+        <h2 className="tiempo-seccion-titulo">Pronóstico semanal</h2>
+
+        <div className="tiempo-table-wrapper mb-4">
+          <table className="tiempo-table">
+            <thead>
+              <tr>
+                <th>Día</th>
+                <th>Tiempo</th>
+                <th>Mín</th>
+                <th>Máx</th>
+                <th>Lluvia</th>
+              </tr>
+            </thead>
+            <tbody>
+              {pronostico.map((dia, idx) => {
+                const weather = getWeather(dia.codigo);
+                const fechaObj = new Date(dia.fecha);
+                const diaSemana = fechaObj.toLocaleDateString("es-ES", { weekday: "long" });
+                const fechaCorta = fechaObj.toLocaleDateString("es-ES", { day: "numeric", month: "short" });
+
+                return (
+                  <tr key={idx}>
+                    <td className="td-dia">
+                      {diaSemana}
+                      <small>{fechaCorta}</small>
+                    </td>
+                    <td className="td-tiempo">
+                      <span className="emoji">{weather.emoji}</span>
+                      {weather.desc}
+                    </td>
+                    <td className="td-min">{dia.min}°C</td>
+                    <td className="td-max">{dia.max}°C</td>
+                    <td className="td-lluvia">{dia.lluvia} mm</td>
+                  </tr>
+                );
+              })}
+            </tbody>
+          </table>
+        </div>
+
+        <p className="mt-4 text-center tiempo-nota">
+          Cuando se acerque la Semana Santa, esta sección mostrará el clima
+          previsto para cada día litúrgico.
+        </p>
       </div>
-
-      {/* Pronóstico semanal - tabla estilizada */}
-      <h2 className="text-center mb-4 tiempo-header">
-        Pronóstico semanal
-      </h2>
-
-      <div className="tiempo-table-wrapper mb-4">
-        <table className="tiempo-table">
-          <thead>
-            <tr>
-              <th>Día</th>
-              <th>Tiempo</th>
-              <th>Mín</th>
-              <th>Máx</th>
-              <th>Lluvia</th>
-            </tr>
-          </thead>
-          <tbody>
-            {pronostico.map((dia, idx) => {
-              const weather = getWeather(dia.codigo);
-              const fechaObj = new Date(dia.fecha);
-              const diaSemana = fechaObj.toLocaleDateString("es-ES", { weekday: "long" });
-              const fechaCorta = fechaObj.toLocaleDateString("es-ES", { day: "numeric", month: "short" });
-
-              return (
-                <tr key={idx}>
-                  <td className="td-dia">
-                    {diaSemana}
-                    <small>{fechaCorta}</small>
-                  </td>
-                  <td className="td-tiempo">
-                    <span className="emoji">{weather.emoji}</span>
-                    {weather.desc}
-                  </td>
-                  <td className="td-min">{dia.min}°C</td>
-                  <td className="td-max">{dia.max}°C</td>
-                  <td className="td-lluvia">{dia.lluvia} mm</td>
-                </tr>
-              );
-            })}
-          </tbody>
-        </table>
-      </div>
-
-      <p className="mt-4 text-center tiempo-nota">
-        Cuando se acerque la Semana Santa, esta sección mostrará el clima
-        previsto para cada día litúrgico.
-      </p>
     </div>
   );
 };
