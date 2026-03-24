@@ -1,5 +1,67 @@
 [
   {
+    "nombre": "Bendición y Esperanza",
+    "sede": "Parroquia de Jesús Obrero",
+    "fundacion": 2006,
+    "nazarenos": 400,
+    "hermanos": 600,
+    "barrio": "Polígono Sur",
+    "diaSalida": "Viernes de Dolores",
+    "escudo": "https://res.cloudinary.com/dn76ni2ay/image/upload/v1774290361/Escudo-Bendici%C3%B3n-y-Esperanza_i8z9wm.jpg",
+    "imagenPrincipal": "https://res.cloudinary.com/dn76ni2ay/image/upload/v1774290529/bendicion-y-esperanza-imagen-principal_cjw5f1.jpg",
+    "slug": "bendicion-y-esperanza",
+    "imagenes": [
+      {
+        "titulo": "Nuestro Padre Jesús de la Bendición en el Santo Encuentro",
+        "escultor": "Juan Antonio Blanco Ramos",
+        "imagen": "https://res.cloudinary.com/dn76ni2ay/image/upload/v1774291587/bendicion-y-esperanza_sdleea.jpg"
+      }
+    ],
+    "descripcionCorta": "Bendición y Esperanza es el reflejo de la fe viva del Polígono Sur, una hermandad nacida del pueblo que cada Viernes de Dolores anuncia, con humildad y emoción, el amor de Cristo en su encuentro con la Virgen y la esperanza de todo un barrio.",
+    "descripcion": [
+      {
+        "titulo": "“Donde Cristo se encuentra con su Madre… y con un pueblo entero”",
+        "texto": [
+          "En el corazón del Polígono Sur, donde la vida late con fuerza entre dificultades y esperanza, nace una de las realidades más vivas y comprometidas de la Sevilla cofrade: la Hermandad de Bendición y Esperanza. No es solo una corporación joven; es el reflejo de un barrio que busca a Dios en medio de su día a día, que encuentra consuelo en la mirada de una Madre y sentido en el encuentro con Cristo.",
+          "Cada Viernes de Dolores, cuando la ciudad comienza a vestirse de Pasión, esta hermandad pone en la calle mucho más que un paso: pone fe, dignidad, superación y evangelio vivo. Porque Bendición y Esperanza no se entiende sin su gente, sin su barrio, sin su misión."
+        ]
+      },
+      {
+        "titulo": "Un origen nacido del pueblo",
+        "texto": [
+          "La historia de esta corporación no comienza en despachos ni en grandes templos, sino en la calle, en la sencillez de una Cruz de Mayo organizada en 1992 por jóvenes del barrio. Aquella semilla, plantada con ilusión, fue creciendo poco a poco hasta convertirse en una realidad sólida, sostenida por la fe y el compromiso.",
+          "Ya en el año 2000, un grupo de feligreses de la parroquia de Jesús Obrero siente la llamada de ir más allá: crear una hermandad de penitencia que sirva como instrumento de evangelización en el Polígono Sur. No se trataba solo de procesionar, sino de construir comunidad, de fortalecer la fe, de acompañar a quienes más lo necesitan. Así, desde el primer momento, la corporación se cimenta sobre tres pilares esenciales: caridad, culto y formación.",
+          "El camino no fue inmediato. Paso a paso, con humildad y constancia, el grupo fue creciendo: en 2005 se constituye como Asociación de Fieles, en 2006 inicia los trámites para ser Agrupación Parroquial, y finalmente, en 2012, recibe oficialmente este reconocimiento por parte de la Archidiócesis de Sevilla. Cada avance no fue solo administrativo, sino espiritual: un paso más en la madurez de una hermandad nacida del corazón del pueblo."
+        ]
+      },
+      {
+        "titulo": "El Santo Encuentro: un mensaje de amor en medio del dolor",
+        "texto": [
+          "El momento que da sentido a esta hermandad queda representado en su paso de misterio: la Cuarta Estación del Vía Crucis, cuando Jesús, camino del Calvario, se encuentra con su Madre. Un instante de profundo dolor, pero también de amor infinito, de miradas que hablan sin palabras, de consuelo en medio del sufrimiento.",
+          "Las imágenes titulares, bendecidas el 21 de febrero de 2010 en la parroquia de Jesús Obrero, son obra del imaginero Juan Antonio Ramos Blanco. En ellas, Nuestro Padre Jesús de la Bendición en el Santo Encuentro avanza con la cruz a cuestas, mientras Santa María de la Esperanza en su Soledad lo contempla con una mezcla de dolor, fortaleza y entrega.",
+          "El conjunto se completa con figuras secundarias que enriquecen la escena: soldados romanos, personajes del pueblo y discípulos que aportan dramatismo y profundidad a este momento evangélico. Pero más allá del valor artístico, lo que verdaderamente conmueve es el mensaje: Dios sale al encuentro del hombre incluso en el dolor, y nunca deja sola a su Madre… ni a su pueblo."
+        ]
+      },
+      {
+        "titulo": "Una hermandad que evangeliza desde la realidad",
+        "texto": [
+          "Bendición y Esperanza no es una hermandad al uso. Es una misión. Desde sus inicios ha tenido claro que su razón de ser va más allá de la estética o la tradición: su objetivo es transformar, acompañar y sembrar esperanza donde más se necesita.",
+          "En un entorno marcado por dificultades sociales, la hermandad se convierte en refugio espiritual y humano. Sus cultos, su vida parroquial, su acción caritativa y su cercanía con los vecinos hacen de ella una auténtica comunidad de fe. Aquí, cada hermano cuenta, cada historia importa, cada gesto suma.",
+          "La primera salida procesional, en marzo de 2010, fue ya un símbolo de todo ello: un barrio entero volcado con sus titulares, caminando juntos, mostrando a Sevilla que en el Polígono Sur también hay fe, también hay devoción, también hay Semana Santa.",
+          "Con el paso de los años, la hermandad ha ido creciendo: incorporación de nuevas figuras al misterio, mejora de enseres, aniversarios celebrados con emoción, y pasos firmes hacia su consolidación como hermandad de penitencia. En 2023 se aprueban sus reglas, quedando a la espera de su confirmación definitiva, signo claro de que el sueño sigue avanzando."
+        ]
+      },
+      {
+        "titulo": "El Viernes de Dolores: la esperanza hecha procesión",
+        "texto": [
+          "Cuando llega el Viernes de Dolores, el Polígono Sur se transforma. Las calles se llenan de emoción contenida, de miradas expectantes, de promesas y oraciones. Y entonces, la cruz se alza, y tras ella, Jesús de la Bendición.",
+          "No es una procesión más. Es el testimonio de un barrio que camina con Cristo, que encuentra en su sufrimiento un espejo y en su mirada una respuesta. Y detrás, la Esperanza. Siempre la Esperanza. La Virgen que, aun en su soledad, sostiene a todos los que acuden a Ella buscando consuelo.",
+          "Cada paso, cada chicotá, cada marcha, es un acto de fe. Es la certeza de que incluso en los lugares más olvidados, Dios se hace presente. Que donde hay dolor, puede nacer la esperanza. Y que el encuentro entre una Madre y su Hijo sigue ocurriendo hoy… en cada rincón del Polígono Sur."
+        ]
+      }
+    ]
+  },
+  {
     "nombre": "La Borriquita",
     "sede": "Iglesia Colegial del Divino Salvador",
     "fundacion": 1575,
@@ -1043,7 +1105,7 @@
     "nombre": "San Gonzalo",
     "sede": "Iglesia de San Gonzalo",
     "fundacion": 1942,
-    "nazarenos": 3600,
+    "nazarenos": 3368,
     "hermanos": 7700,
     "escudo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcK3KNCCKu8m9lCiY5nd3SJmvVlHhmPjrsMA&s",
     "barrio": "Triana",
