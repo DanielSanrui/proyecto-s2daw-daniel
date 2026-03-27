@@ -70,13 +70,13 @@
     "barrio": "Centro",
     "diaSalida": "Domingo de Ramos",
     "escudo": "https://res.cloudinary.com/dn76ni2ay/image/upload/v1772972094/Escudo_Hermandad_Amor.svg_wbnom8.png",
-    "imagenPrincipal": "https://sevilla.abc.es/pasionensevilla/wp-content/uploads/sites/2/eventos/2023/03/amor-burra-bandera.jpg",
+    "imagenPrincipal": "https://res.cloudinary.com/dn76ni2ay/image/upload/v1774610760/la-borriquita-imagen-principal_jrivos.jpg",
     "slug": "la-borriquita",
     "imagenes": [
       {
         "titulo": "Sagrada Entrada en Jerusalén ",
         "escultor": "Anónimo, siglo XVI",
-        "imagen": "https://www.semana-santa.org/wp-content/uploads/2011/05/laborriquita-1.jpg"
+        "imagen": "https://res.cloudinary.com/dn76ni2ay/image/upload/v1774610676/la-borriquita_jbaftx.jpg"
       }
     ],
     "descripcionCorta": "La Hermandad del Amor, fundada en el siglo XVI y fusionada en 1618 con la de la Sagrada Entrada, es una de las más históricas y solemnes de Sevilla. Inicia la Semana Santa con la Borriquita y emociona con el Cristo del Amor, obra cumbre de Juan de Mesa.",
@@ -204,7 +204,7 @@
     "barrio": "San Julián",
     "diaSalida": "Domingo de Ramos",
     "slug": "la-hiniesta",
-    "imagenPrincipal": "https://www.diariodesevilla.es/contenidos/programa-semana-santa-sevilla/img/img_ficha/la-hiniesta.jpg",
+    "imagenPrincipal": "https://res.cloudinary.com/dn76ni2ay/image/upload/v1774611278/la-hiniesta-imagen-principal_mvnroi.jpg",
     "imagenes": [
       {
         "titulo": "Santísimo Cristo de la Buena Muerte",
@@ -380,7 +380,7 @@
     "barrio": "Santa Catalina",
     "diaSalida": "Domingo de Ramos",
     "slug": "la-cena",
-    "imagenPrincipal": "https://www.diariodesevilla.es/contenidos/programa-semana-santa-sevilla/img/img_ficha/la-cena.jpg",
+    "imagenPrincipal": "https://res.cloudinary.com/dn76ni2ay/image/upload/v1774611507/la-cena-imagen-principal_dat8fs.jpg",
     "imagenes": [
       {
         "titulo": "Señor de la Sagrada Cena",
@@ -534,7 +534,7 @@
     "fundacion": 1969,
     "nazarenos": 1100,
     "hermanos": 3926,
-    "escudo": "https://www.amargura.org/wp-content/uploads/2021/03/ESCUDO-COLOR-2021.png",
+    "escudo": "https://res.cloudinary.com/dn76ni2ay/image/upload/v1774611741/la-amargura-escudo_xamb86.jpg",
     "barrio": "Feria",
     "diaSalida": "Domingo de Ramos",
     "slug": "la-amargura",
@@ -548,7 +548,7 @@
       {
         "titulo": "María Santísima de la Amargura",
         "escultor": "Anónimo, 1700",
-        "imagen": "https://www.amargura.org/wp-content/uploads/2024/12/Amargura-19-scaled.jpg"
+        "imagen": "https://res.cloudinary.com/dn76ni2ay/image/upload/v1774611740/la-amargura-palio_pbrkmp.jpg"
       }
     ],
     "descripcionCorta": "La Hermandad de la Amargura es una cofradía sevillana del Domingo de Ramos con sede en San Juan de la Palma. Se distingue por su carácter serio, su sobriedad clásica y su devoción mariana profundamente arraigada.",
@@ -628,7 +628,7 @@
     "barrio": "Triana",
     "diaSalida": "Domingo de Ramos",
     "slug": "la-estrella",
-    "imagenPrincipal": "https://s1.abcstatics.com/abc/sevilla/media/MM/2019/04/14/s/Estrella-domingo-Ramos%20(44)_xoptimizadax-kdLH--1350x900@abc.jpg",
+    "imagenPrincipal": "https://res.cloudinary.com/dn76ni2ay/image/upload/v1774612059/la-estrella-imagen-principal_yv3imr.jpg",
     "imagenes": [
       {
         "titulo": "Nuestro Padre Jesús de las Penas",
@@ -638,7 +638,7 @@
       {
         "titulo": "María Santísima de la Estrella",
         "escultor": "Taller de Arcos-Roldán, siglo XVII",
-        "imagen": "https://www.diariodesevilla.es/contenidos/programa-semana-santa-sevilla/img/img_ficha/la-estrella.jpg"
+        "imagen": "https://res.cloudinary.com/dn76ni2ay/image/upload/v1774611822/la-estrella-virgenjpg_iv5cvc.jpg"
       }
     ],
     "descripcionCorta": "La Hermandad de la Estrella, fundada en 1560 en Triana, es una de las cofradías más emblemáticas de Sevilla, destacando por la devoción a su Virgen coronada y al Cristo de las Penas. Cada Domingo de Ramos llena de emoción las calles sevillanas.",
@@ -1111,7 +1111,7 @@
     "barrio": "Triana",
     "diaSalida": "Lunes Santo",
     "slug": "san-gonzalo",
-    "imagenPrincipal": "https://static.grupojoly.com/clip/a5f6df35-7051-49d4-8b05-c4ede842b571_source-aspect-ratio_1600w_0_x1083y911.jpg",
+    "imagenPrincipal": "https://res.cloudinary.com/dn76ni2ay/image/upload/v1773537613/SanGonzalo2-Hero_ufawno.jpg",
     "imagenes": [
       {
         "titulo": "Nuestro Padre Jesús del Soberano Poder ante Caifás",
