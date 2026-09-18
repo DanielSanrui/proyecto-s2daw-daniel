@@ -137,7 +137,9 @@ function Footer() {
               >
                 <i className="bi bi-tiktok fs-5"></i>
               </a>
-              <a href="#" className="text-white footer-social-icon">
+              <a href="https://x.com/sevillaenpasos" target="_blank"
+                rel="noopener noreferrer"
+                className="text-white footer-social-icon">
                 <i className="bi bi-twitter fs-5"></i>
               </a>
             </div>
