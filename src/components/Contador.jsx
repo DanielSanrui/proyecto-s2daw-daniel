@@ -8,30 +8,30 @@ const Contador = () => {
   const [enlace, setEnlace] = useState("");
 
   const diasSemanaSanta = {
-    "2026-03-29": {
+    "2027-03-21": {
       nombre: <>¡Ya estamos en Semana Santa!<br />Hoy es Domingo de Ramos</>,
       ruta: "/dias/domingo-de-ramos",
     },
-    "2026-03-30": { nombre: "Hoy es Lunes Santo", ruta: "/dias/lunes-santo" },
-    "2026-03-31": { nombre: "Hoy es Martes Santo", ruta: "/dias/martes-santo" },
-    "2026-04-01": {
+    "2027-03-22": { nombre: "Hoy es Lunes Santo", ruta: "/dias/lunes-santo" },
+    "2027-03-23": { nombre: "Hoy es Martes Santo", ruta: "/dias/martes-santo" },
+    "2027-03-24": {
       nombre: "Hoy es Miércoles Santo",
       ruta: "/dias/miercoles-santo",
     },
-    "2026-04-02": { nombre: "Hoy es Jueves Santo", ruta: "/dias/jueves-santo" },
-    "2026-04-03": {
+    "2027-03-25": { nombre: "Hoy es Jueves Santo", ruta: "/dias/jueves-santo" },
+    "2027-03-26": {
       nombre: "Hoy es Viernes Santo",
       ruta: "/dias/viernes-santo",
     },
-    "2026-04-04": { nombre: "Hoy es Sábado Santo", ruta: "/dias/sabado-santo" },
-    "2026-04-05": {
+    "2027-03-27": { nombre: "Hoy es Sábado Santo", ruta: "/dias/sabado-santo" },
+    "2027-03-28": {
       nombre: "¡Hoy es Domingo de Resurrección!",
       ruta: "/dias/domingo-de-resurreccion",
     },
   };
 
   useEffect(() => {
-    const fechaDomingoRamos = new Date("2026-03-29T00:00:00").getTime();
+    const fechaDomingoRamos = new Date("2027-03-21T00:00:00").getTime();
 
     const intervalo = setInterval(() => {
       const ahora = new Date();
